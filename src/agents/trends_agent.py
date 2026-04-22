@@ -7,6 +7,7 @@ from src.analyzers.ai_analyzer import AIAnalyzer
 from src.collectors.google_trends_collector import GoogleTrendsCollector
 from src.collectors.rss_collector import RSSCollector
 from src.collectors.youtube_collector import YouTubeCollector
+from src.exporters.email_notifier import EmailNotifier
 from src.exporters.json_exporter import JSONExporter
 from src.exporters.markdown_exporter import MarkdownExporter
 from src.models.trend import RawTrend, TrendIdea
@@ -24,6 +25,7 @@ class TrendsAgent:
         self.db = Database()
         self.json_exp = JSONExporter()
         self.md_exp = MarkdownExporter()
+        self.email = EmailNotifier()
 
     def _collect_all(self) -> list[RawTrend]:
         raw: list[RawTrend] = []
@@ -78,6 +80,7 @@ class TrendsAgent:
             json_path = self.json_exp.export(ideas, run_id=self.run_id)
             md_path = self.md_exp.export(ideas, run_id=self.run_id)
             logger.info(f"Exported: {json_path}, {md_path}")
+            self.email.send(ideas, run_id=self.run_id)
 
         elapsed = (datetime.utcnow() - start).total_seconds()
         logger.info(f"=== Done in {elapsed:.1f}s | {len(ideas)} ideas generated ===")

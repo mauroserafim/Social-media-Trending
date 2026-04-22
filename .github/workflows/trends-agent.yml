@@ -41,6 +41,12 @@ jobs:
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
           MAX_IDEAS: ${{ github.event.inputs.max_ideas || '10' }}
           GITHUB_RUN_ID: ${{ github.run_id }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST || 'smtp.gmail.com' }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT || '587' }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_FROM: ${{ secrets.SMTP_USER }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: python main.py --run --max-ideas ${{ github.event.inputs.max_ideas || '10' }}
 
       - name: Upload JSON results
