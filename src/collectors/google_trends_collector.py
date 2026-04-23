@@ -11,18 +11,32 @@ REGIONS = {
     "US": "united_states",
 }
 
-NICHES = [
-    "inteligência artificial",
-    "artificial intelligence",
-    "finanças pessoais",
-    "personal finance",
-    "saúde",
-    "health",
-    "tecnologia",
-    "technology",
-    "entretenimento",
-    "entertainment",
-]
+NICHE_KEYWORDS = {
+    "BR": [
+        "morar nos EUA",
+        "custo de vida EUA",
+        "visto americano",
+        "green card",
+        "trabalho nos Estados Unidos",
+        "aluguel nos EUA",
+        "salário nos EUA",
+        "imigração EUA",
+        "dólar hoje",
+        "vida nos Estados Unidos",
+    ],
+    "US": [
+        "cost of living",
+        "rent prices",
+        "immigration USA",
+        "minimum wage",
+        "housing market",
+        "grocery prices",
+        "gas prices",
+        "inflation 2025",
+        "moving to USA",
+        "visa application",
+    ],
+}
 
 
 class GoogleTrendsCollector:
@@ -63,14 +77,30 @@ class GoogleTrendsCollector:
     def collect(self) -> list[RawTrend]:
         trends: list[RawTrend] = []
 
-        for region_code, geo_name in REGIONS.items():
-            logger.info(f"Collecting Google Trends for: {region_code}")
-            keywords = self._fetch_trending(geo_name)
-            time.sleep(1)
-
-            for kw in keywords[:15]:
+        # Niche-specific keyword interest
+        for region_code, keywords in NICHE_KEYWORDS.items():
+            logger.info(f"Collecting Google Trends (niche) for: {region_code}")
+            for kw in keywords:
                 score = self._fetch_interest(kw, region_code)
                 time.sleep(0.5)
+                if score > 0:
+                    trends.append(
+                        RawTrend(
+                            title=kw,
+                            source="google_trends",
+                            url=f"https://trends.google.com/trends/explore?q={kw}&geo={region_code}",
+                            region=region_code,
+                            keywords=[kw],
+                            raw_score=score,
+                        )
+                    )
+
+        # General trending searches filtered by region
+        for region_code, geo_name in REGIONS.items():
+            logger.info(f"Collecting Google Trends (general) for: {region_code}")
+            keywords = self._fetch_trending(geo_name)
+            time.sleep(1)
+            for kw in keywords[:10]:
                 trends.append(
                     RawTrend(
                         title=kw,
@@ -78,7 +108,7 @@ class GoogleTrendsCollector:
                         url=f"https://trends.google.com/trends/explore?q={kw}&geo={region_code}",
                         region=region_code,
                         keywords=[kw],
-                        raw_score=score,
+                        raw_score=20.0,
                     )
                 )
 

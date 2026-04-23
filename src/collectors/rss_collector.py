@@ -12,18 +12,21 @@ logger = logging.getLogger(__name__)
 
 RSS_FEEDS = {
     "BR": [
-        ("G1 Tecnologia", "https://g1.globo.com/rss/g1/tecnologia/"),
         ("G1 Economia", "https://g1.globo.com/rss/g1/economia/"),
-        ("Tecmundo", "https://rss.tecmundo.com.br/feed"),
-        ("CNN Brasil", "https://www.cnnbrasil.com.br/feed/"),
+        ("G1 Mundo", "https://g1.globo.com/rss/g1/mundo/"),
+        ("CNN Brasil Economia", "https://www.cnnbrasil.com.br/economia/feed/"),
+        ("CNN Brasil Internacional", "https://www.cnnbrasil.com.br/internacional/feed/"),
         ("Exame", "https://exame.com/feed/"),
+        ("InfoMoney", "https://www.infomoney.com.br/feed/"),
     ],
     "US": [
-        ("Reuters Top News", "https://feeds.reuters.com/reuters/topNews"),
-        ("CNN Top Stories", "http://rss.cnn.com/rss/edition.rss"),
-        ("TechCrunch", "https://techcrunch.com/feed/"),
-        ("The Verge", "https://www.theverge.com/rss/index.xml"),
-        ("Hacker News", "https://hnrss.org/frontpage"),
+        ("Reuters Business", "https://feeds.reuters.com/reuters/businessNews"),
+        ("Reuters US News", "https://feeds.reuters.com/Reuters/domesticNews"),
+        ("NPR News", "https://feeds.npr.org/1001/rss.xml"),
+        ("NPR Economy", "https://feeds.npr.org/1006/rss.xml"),
+        ("Axios", "https://api.axios.com/feed/"),
+        ("Bloomberg Economy", "https://feeds.bloomberg.com/economics/news.rss"),
+        ("Pew Research", "https://www.pewresearch.org/feed/"),
     ],
 }
 

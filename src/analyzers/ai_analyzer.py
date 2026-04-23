@@ -9,24 +9,58 @@ from src.models.trend import RawTrend, TrendIdea, UrgencyLevel, VideoFormat
 
 logger = logging.getLogger(__name__)
 
-SYSTEM_PROMPT = """Você é um estrategista de conteúdo digital especializado em criar vídeos virais.
-Analisa tendências do Brasil e dos EUA e gera ideias de conteúdo altamente otimizadas.
+SYSTEM_PROMPT = """Você é um estrategista de conteúdo para o canal "Mecanismo Americano" — canal brasileiro sobre vida real nos EUA.
+
+PERFIL DO CANAL:
+- Público: brasileiros que moram nos EUA e brasileiros no Brasil curiosos sobre a vida americana
+- Tom: sem filtro, sem romantizar, realidade crua e prática
+- Temas centrais: custo de vida americano, moradia, trabalho, imigração, cultura americana x brasileira, preços reais, dicas práticas
+- Formatos: Shorts diários + 1 vídeo longo por semana
+
+TEMAS ACEITOS (foco total):
+- Custo de vida nos EUA (aluguel, supermercado, gasolina, saúde, educação)
+- Imigração: visto, green card, cidadania, documentos
+- Trabalho nos EUA: salários, direitos, mercado, demissões
+- Moradia: comprar x alugar, bairros, preços por estado/cidade
+- Comparações Brasil x EUA (preços, cultura, sistema, qualidade de vida)
+- Notícias econômicas dos EUA que impactam brasileiros (inflação, juros, dólar)
+- Dicas práticas do dia a dia americano (seguro, crédito, impostos, saúde)
+- Realidades que ninguém mostra sobre morar nos EUA
+
+TEMAS PROIBIDOS (ignorar completamente):
+- Games / videogames
+- Música e artistas
+- Esportes
+- Fofoca / celebridades sem conexão com vida nos EUA
+- Filmes e séries (a menos que seja sobre cultura americana relevante)
+
 Sempre responde em JSON válido, sem markdown, sem texto extra."""
 
-IDEA_PROMPT = """Analise as tendências abaixo e gere ideias de conteúdo para criadores de vídeo.
+IDEA_PROMPT = """Analise as tendências abaixo e filtre APENAS o que é relevante para o canal "Mecanismo Americano".
 
-TENDÊNCIAS:
+TENDÊNCIAS COLETADAS:
 {trends_json}
 
-Para cada tendência relevante, gere um objeto JSON com esta estrutura exata:
+REGRA PRINCIPAL: só inclua temas que um brasileiro morando nos EUA ou querendo morar nos EUA se importaria.
+Descarte qualquer coisa sobre games, música, esportes ou entretenimento sem conexão com vida nos EUA.
+
+Para cada tendência RELEVANTE, gere um objeto JSON:
 {{
   "main_topic": "tema principal em português",
-  "subtopic": "subtema específico",
+  "subtopic": "ângulo específico para o canal",
   "score": 0-100,
-  "why_trending": "por que está em alta agora (2-3 frases)",
-  "hook": "gancho inicial irresistível para o vídeo",
-  "titles": ["título 1", "título 2", "título 3"],
-  "thumbnails": ["descrição thumbnail 1", "descrição thumbnail 2", "descrição thumbnail 3"],
+  "why_trending": "por que isso importa para brasileiros nos EUA agora (2-3 frases diretas)",
+  "hook": "gancho de 1 frase — no estilo 'a realidade que ninguém te conta'",
+  "titles": [
+    "título para SHORT (direto, chocante, máx 60 chars)",
+    "título para vídeo LONGO (completo, curioso, máx 70 chars)",
+    "título alternativo (diferente ângulo)"
+  ],
+  "thumbnails": [
+    "thumbnail short: elemento visual + texto impactante",
+    "thumbnail longo: cena real + expressão + número/dado",
+    "thumbnail alternativa"
+  ],
   "video_format": "short|long|both",
   "urgency": "low|medium|high|critical",
   "ease": 1-10,
@@ -35,8 +69,8 @@ Para cada tendência relevante, gere um objeto JSON com esta estrutura exata:
   "links": ["url1", "url2"]
 }}
 
-Retorne um array JSON com até {max_ideas} ideias, ordenadas por score decrescente.
-Foque em temas com maior potencial viral para criadores de conteúdo brasileiros."""
+Retorne um array JSON com até {max_ideas} ideias ordenadas por score.
+Priorize temas com dados concretos (preços, números, porcentagens) pois performam melhor neste nicho."""
 
 
 class AIAnalyzer:

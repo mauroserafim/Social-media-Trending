@@ -11,14 +11,29 @@ logger = logging.getLogger(__name__)
 
 YOUTUBE_API_BASE = "https://www.googleapis.com/youtube/v3"
 REGIONS = ["BR", "US"]
-CATEGORIES = {
-    "1": "Film & Animation",
-    "10": "Music",
-    "22": "People & Blogs",
-    "23": "Comedy",
-    "24": "Entertainment",
-    "25": "News & Politics",
-    "28": "Science & Technology",
+
+# Categories to collect (focused on niche: life in USA, economy, news, vlogs)
+ALLOWED_CATEGORY_IDS = {
+    "22",  # People & Blogs
+    "25",  # News & Politics
+    "26",  # How-to & Style
+    "27",  # Education
+    "28",  # Science & Technology
+    "23",  # Comedy (cultural commentary)
+}
+
+# Categories to skip entirely
+BLOCKED_CATEGORY_IDS = {
+    "10",  # Music
+    "20",  # Gaming
+}
+
+# Keywords that disqualify a video (title contains any of these → skip)
+BLOCKED_KEYWORDS = {
+    "gameplay", "playthrough", "minecraft", "fortnite", "roblox",
+    "gta", "valorant", "league of legends", "free fire", "fifa",
+    "música", "music video", "clipe oficial", "official video",
+    "ft.", "feat.", "lyrics", "letra oficial",
 }
 
 
@@ -65,13 +80,24 @@ class YouTubeCollector:
         velocity = min((views_per_hour or 0) / 10_000, 50)
         return round(base + velocity, 2)
 
+    def _is_blocked(self, snippet: dict) -> bool:
+        category_id = snippet.get("categoryId", "")
+        if category_id in BLOCKED_CATEGORY_IDS:
+            return True
+        title_lower = snippet.get("title", "").lower()
+        return any(kw in title_lower for kw in BLOCKED_KEYWORDS)
+
     def collect(self, regions: list[str] = REGIONS) -> list[RawTrend]:
         trends: list[RawTrend] = []
         for region in regions:
             logger.info(f"Collecting YouTube trends for region: {region}")
-            videos = self._get_trending_videos(region)
+            videos = self._get_trending_videos(region, max_results=50)
+            skipped = 0
             for item in videos:
                 snippet = item.get("snippet", {})
+                if self._is_blocked(snippet):
+                    skipped += 1
+                    continue
                 stats = item.get("statistics", {})
                 views = int(stats.get("viewCount", 0))
                 pub_at = self._parse_published_at(snippet.get("publishedAt", ""))
@@ -90,6 +116,7 @@ class YouTubeCollector:
                         raw_score=self._score(views, vph),
                     )
                 )
+            logger.info(f"YouTube {region}: {len(videos)-skipped} kept, {skipped} filtered out")
         logger.info(f"YouTube: collected {len(trends)} trends")
         return trends
 
