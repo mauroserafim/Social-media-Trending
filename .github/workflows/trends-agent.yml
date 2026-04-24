@@ -2,7 +2,7 @@ name: AI Trends Research Agent
 
 on:
   schedule:
-    - cron: "0 */4 * * *"   # Every 4 hours
+    - cron: "0 0,12 * * *"  # 08:00 BRT (12 UTC) e 20:00 BRT (00 UTC)
   workflow_dispatch:
     inputs:
       max_ideas:
