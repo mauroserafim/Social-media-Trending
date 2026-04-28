@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 logger = logging.getLogger(__name__)
-app = FastAPI(title="AI Trends Research Agent", version="1.0.0")
+app = FastAPI(title="AI Trends Research Agent", version="2.0.0")
 
 _running = False
 
@@ -30,7 +30,7 @@ def _run_agent_task(max_ideas: int):
 
 @app.get("/")
 def root():
-    return {"status": "ok", "service": "AI Trends Research Agent"}
+    return {"status": "ok", "service": "AI Trends Research Agent", "version": "2.0.0"}
 
 
 @app.get("/health")
@@ -51,7 +51,7 @@ def trigger_run(background_tasks: BackgroundTasks, max_ideas: int = 10):
 def get_latest():
     latest = Path("outputs/json/latest.json")
     if not latest.exists():
-        raise HTTPException(status_code=404, detail="No results yet")
+        raise HTTPException(status_code=404, detail="No results yet. Run POST /run first.")
     return JSONResponse(content=json.loads(latest.read_text()))
 
 
@@ -59,7 +59,7 @@ def get_latest():
 def list_results():
     output_dir = Path("outputs/json")
     if not output_dir.exists():
-        return {"files": []}
+        return {"files": [], "total": 0}
     files = sorted(
         [f.name for f in output_dir.glob("trends_*.json")],
         reverse=True,

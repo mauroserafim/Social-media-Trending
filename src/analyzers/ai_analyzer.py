@@ -5,72 +5,45 @@ from typing import Optional
 
 from openai import OpenAI
 
-from src.models.trend import RawTrend, TrendIdea, UrgencyLevel, VideoFormat
+from src.models.trend import CrossPlatformTrend, NicheIdea, RawTrend, UrgencyLevel, VideoFormat
 
 logger = logging.getLogger(__name__)
 
-SYSTEM_PROMPT = """Você é um estrategista de conteúdo para o canal "Mecanismo Americano" — canal brasileiro sobre vida real nos EUA.
+SYSTEM_PROMPT = """Você é um estrategista de conteúdo sênior especializado no canal "Mecanismo Americano" — canal brasileiro sobre vida real nos EUA, com público de brasileiros que moram nos EUA e brasileiros no Brasil curiosos sobre a vida americana.
 
-PERFIL DO CANAL:
-- Público: brasileiros que moram nos EUA e brasileiros no Brasil curiosos sobre a vida americana
-- Tom: sem filtro, sem romantizar, realidade crua e prática
-- Temas centrais: custo de vida americano, moradia, trabalho, imigração, cultura americana x brasileira, preços reais, dicas práticas
-- Formatos: Shorts diários + 1 vídeo longo por semana
+Tom do canal: sem filtro, sem romantizar, realidade crua e prática.
+Temas centrais: custo de vida americano, moradia, trabalho, imigração, cultura americana x brasileira, preços reais, dicas práticas.
 
-TEMAS ACEITOS (foco total):
-- Custo de vida nos EUA (aluguel, supermercado, gasolina, saúde, educação)
-- Imigração: visto, green card, cidadania, documentos
-- Trabalho nos EUA: salários, direitos, mercado, demissões
-- Moradia: comprar x alugar, bairros, preços por estado/cidade
-- Comparações Brasil x EUA (preços, cultura, sistema, qualidade de vida)
-- Notícias econômicas dos EUA que impactam brasileiros (inflação, juros, dólar)
-- Dicas práticas do dia a dia americano (seguro, crédito, impostos, saúde)
-- Realidades que ninguém mostra sobre morar nos EUA
+IMPORTANTE: Pense além do óbvio. Qualquer trending topic pode ter um ângulo para o canal. Copa do Mundo nos EUA → "Quanto custa assistir ao vivo?". Eleição americana → "Como isso afeta imigrantes?". Furacão → "Seguro residencial nos EUA: o que cobre?".
 
-TEMAS PROIBIDOS (ignorar completamente):
-- Games / videogames
-- Música e artistas
-- Esportes
-- Fofoca / celebridades sem conexão com vida nos EUA
-- Filmes e séries (a menos que seja sobre cultura americana relevante)
+Responda sempre em JSON válido, sem markdown, sem texto extra."""
 
-Sempre responde em JSON válido, sem markdown, sem texto extra."""
+NICHE_PROMPT = """Analise as tendências abaixo coletadas de múltiplas plataformas (YouTube, jornais, Reddit, Google Trends, TikTok) do Brasil e dos EUA.
 
-IDEA_PROMPT = """Analise as tendências abaixo e filtre APENAS o que é relevante para o canal "Mecanismo Americano".
+Seu trabalho: identificar quais dessas tendências têm potencial para o canal "Mecanismo Americano" e criar o ângulo certo para o nicho.
 
-TENDÊNCIAS COLETADAS:
+REGRA DE OURO: Não descarte nenhum tema sem pensar na conexão com a vida nos EUA. Qualquer evento grande nos EUA ou no Brasil que afeta brasileiros imigrantes merece aparecer.
+
+TENDÊNCIAS COLETADAS (ordenadas por força do sinal):
 {trends_json}
 
-REGRA PRINCIPAL: só inclua temas que um brasileiro morando nos EUA ou querendo morar nos EUA se importaria.
-Descarte qualquer coisa sobre games, música, esportes ou entretenimento sem conexão com vida nos EUA.
-
-Para cada tendência RELEVANTE, gere um objeto JSON:
+Para cada tendência relevante, gere um objeto JSON:
 {{
   "main_topic": "tema principal em português",
-  "subtopic": "ângulo específico para o canal",
-  "score": 0-100,
-  "why_trending": "por que isso importa para brasileiros nos EUA agora (2-3 frases diretas)",
-  "hook": "gancho de 1 frase — no estilo 'a realidade que ninguém te conta'",
-  "titles": [
-    "título para SHORT (direto, chocante, máx 60 chars)",
-    "título para vídeo LONGO (completo, curioso, máx 70 chars)",
-    "título alternativo (diferente ângulo)"
-  ],
-  "thumbnails": [
-    "thumbnail short: elemento visual + texto impactante",
-    "thumbnail longo: cena real + expressão + número/dado",
-    "thumbnail alternativa"
-  ],
+  "subtopic": "ângulo específico do tema",
+  "why_trending": "por que está em alta agora — 1-2 frases diretas com dados se possível",
+  "niche_angle": "como transformar isso em conteúdo para o canal — o ângulo único para brasileiros nos EUA (1-2 frases)",
   "video_format": "short|long|both",
   "urgency": "low|medium|high|critical",
   "ease": 1-10,
   "source": "fonte principal",
   "region": "BR|US|GLOBAL",
-  "links": ["url1", "url2"]
+  "links": ["url1"],
+  "platforms": ["youtube", "reddit", "rss", "google_trends", "tiktok"]
 }}
 
-Retorne um array JSON com até {max_ideas} ideias ordenadas por score.
-Priorize temas com dados concretos (preços, números, porcentagens) pois performam melhor neste nicho."""
+Retorne array JSON com até {max_ideas} ideias, ordenadas por urgência e potencial de visualizações.
+Priorize: temas em 2+ plataformas, temas com dados concretos (preços, números, %), eventos que impactam diretamente a vida do imigrante."""
 
 
 class AIAnalyzer:
@@ -87,34 +60,48 @@ class AIAnalyzer:
             self._client = OpenAI(api_key=self.api_key)
         return self._client
 
-    def _build_prompt(self, trends: list[RawTrend], max_ideas: int) -> str:
-        trends_data = [
-            {
+    def _build_input(
+        self, trends: list[RawTrend], cross: list[CrossPlatformTrend]
+    ) -> str:
+        items = []
+
+        # Cross-platform trends first — strongest signal
+        for cp in cross[:12]:
+            items.append({
+                "signal_strength": f"{cp.count} plataformas",
+                "topic": cp.topic,
+                "platforms": cp.platforms,
+                "score": cp.score,
+                "examples": cp.sample_titles[:3],
+            })
+
+        # Top individual trends by score
+        top = sorted(trends, key=lambda t: t.raw_score, reverse=True)[:40]
+        for t in top:
+            items.append({
                 "title": t.title,
                 "source": t.source,
                 "region": t.region,
                 "score": t.raw_score,
                 "url": t.url,
-                "views": t.views,
-                "views_per_hour": t.views_per_hour,
-                "keywords": t.keywords[:5],
-            }
-            for t in trends
-        ]
-        return IDEA_PROMPT.format(
-            trends_json=json.dumps(trends_data, ensure_ascii=False, indent=2),
-            max_ideas=max_ideas,
-        )
+            })
 
-    def analyze(self, trends: list[RawTrend], max_ideas: int = 10) -> list[TrendIdea]:
-        if not trends:
+        return json.dumps(items, ensure_ascii=False, indent=2)
+
+    def analyze_niche(
+        self,
+        all_trends: list[RawTrend],
+        cross_platform: list[CrossPlatformTrend],
+        max_ideas: int = 10,
+    ) -> list[NicheIdea]:
+        if not all_trends and not cross_platform:
             logger.warning("No trends to analyze")
             return []
 
-        top_trends = sorted(trends, key=lambda t: t.raw_score, reverse=True)[:30]
-        prompt = self._build_prompt(top_trends, max_ideas)
+        trends_json = self._build_input(all_trends, cross_platform)
+        prompt = NICHE_PROMPT.format(trends_json=trends_json, max_ideas=max_ideas)
 
-        logger.info(f"Sending {len(top_trends)} trends to AI for analysis...")
+        logger.info("Sending trends to AI for niche analysis...")
         try:
             response = self.client.chat.completions.create(
                 model=self.model,
@@ -129,7 +116,6 @@ class AIAnalyzer:
             raw = response.choices[0].message.content
             data = json.loads(raw)
 
-            # Handle both {"ideas": [...]} and [...] responses
             if isinstance(data, dict):
                 items = data.get("ideas", data.get("trends", list(data.values())[0] if data else []))
             else:
@@ -138,27 +124,24 @@ class AIAnalyzer:
             ideas = []
             for item in items:
                 try:
-                    idea = TrendIdea(
+                    idea = NicheIdea(
                         main_topic=item["main_topic"],
                         subtopic=item.get("subtopic", ""),
-                        score=float(item.get("score", 50)),
                         why_trending=item.get("why_trending", ""),
-                        hook=item.get("hook", ""),
-                        titles=item.get("titles", ["", "", ""])[:3],
-                        thumbnails=item.get("thumbnails", ["", "", ""])[:3],
+                        niche_angle=item.get("niche_angle", ""),
                         video_format=VideoFormat(item.get("video_format", "both")),
                         urgency=UrgencyLevel(item.get("urgency", "medium")),
                         ease=int(item.get("ease", 5)),
                         source=item.get("source", "mixed"),
                         region=item.get("region", "GLOBAL"),
                         links=item.get("links", [])[:5],
+                        platforms=item.get("platforms", []),
                     )
                     ideas.append(idea)
                 except Exception as e:
                     logger.warning(f"Skipping malformed idea: {e}")
 
-            ideas.sort(key=lambda x: x.score, reverse=True)
-            logger.info(f"AI generated {len(ideas)} trend ideas")
+            logger.info(f"AI generated {len(ideas)} niche ideas")
             return ideas
 
         except Exception as e:
