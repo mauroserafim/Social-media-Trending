@@ -14,7 +14,6 @@ URGENCY_EMOJI = {
 }
 
 FORMAT_EMOJI = {"short": "⚡", "long": "🎬", "both": "🎯"}
-
 DIVIDER = "\n---\n"
 
 
@@ -38,49 +37,36 @@ class MarkdownExporter:
             parts.append(self._render_section(section))
         return "\n".join(parts)
 
-    def _render_cross_platform(self, cross: list[CrossPlatformTrend]) -> str:
-        if not cross:
-            return "\n### 🔥 CROSS-PLATFORM\n\n*Nenhum tema cruzado encontrado.*\n"
-
+    def _render_connections(self, label: str, icon: str, connections: list[CrossPlatformTrend], desc: str) -> str:
+        if not connections:
+            return f"\n### {icon} {label}\n\n*Nenhum tema encontrado.*\n"
         lines = [
-            "\n### 🔥 CROSS-PLATFORM — Trending em múltiplas fontes\n",
-            "*(temas que aparecem simultaneamente em 2+ plataformas — sinal mais forte)*\n",
+            f"\n### {icon} {label}\n",
+            f"_{desc}_\n",
         ]
-        for i, cp in enumerate(cross, 1):
+        for i, cp in enumerate(connections, 1):
             platforms_str = " + ".join(cp.platforms)
-            badge = f"`{cp.count}x`"
-            lines.append(f"{i:>2}. {badge} **{cp.topic}** — _{platforms_str}_")
+            lines.append(f"{i:>2}. **{cp.topic}** `[{cp.count}x]` — _{platforms_str}_")
             if cp.sample_titles:
                 lines.append(f"     > ex: _{cp.sample_titles[0]}_")
         return "\n".join(lines)
 
-    def _render_niche(self, ideas: list[NicheIdea]) -> str:
+    def _render_niche_table(self, ideas: list[NicheIdea]) -> str:
         if not ideas:
-            return "\n### 🎯 MEU NICHO\n\n*Nenhuma ideia gerada. Verifique a OPENAI_API_KEY e os logs.*\n"
+            return "\n### 🎯 MEU NICHO\n\n*Nenhuma ideia gerada. Verifique OPENAI_API_KEY e os logs.*\n"
 
-        lines = [f"\n### 🎯 MEU NICHO — Mecanismo Americano — Top {len(ideas)}\n"]
-
+        lines = [
+            f"\n### 🎯 MEU NICHO — Mecanismo Americano — Top {len(ideas)}\n",
+            "| # | Título | Subtema | Por que está em alta |",
+            "|---|--------|---------|----------------------|",
+        ]
         for i, idea in enumerate(ideas, 1):
-            urgency_icon = URGENCY_EMOJI.get(idea.urgency, "⚪")
-            fmt_icon = FORMAT_EMOJI.get(idea.video_format.value, "🎬")
-            platforms_str = " · ".join(idea.platforms) if idea.platforms else idea.source
-
-            lines.append(f"#### {i}. {idea.main_topic}")
+            urgency = URGENCY_EMOJI.get(idea.urgency, "⚪")
+            fmt = FORMAT_EMOJI.get(idea.video_format.value, "🎬")
+            why = idea.why_trending.replace("|", "·")[:120]
             lines.append(
-                f"**Subtema:** {idea.subtopic}  \n"
-                f"**Região:** `{idea.region}` | "
-                f"**Formato:** {fmt_icon} `{idea.video_format.value}` | "
-                f"**Urgência:** {urgency_icon} `{idea.urgency.value}` | "
-                f"**Facilidade:** `{idea.ease}/10`  \n"
-                f"**Fontes:** _{platforms_str}_\n"
+                f"| {i} {urgency} {fmt} | **{idea.main_topic}** | {idea.subtopic} | {why} |"
             )
-            lines.append(f"**Por que está em alta:** {idea.why_trending}\n")
-            lines.append(f"**Ângulo para o canal:** {idea.niche_angle}\n")
-            if idea.links:
-                link_parts = " · ".join(f"[link]({lk})" for lk in idea.links[:3])
-                lines.append(f"**Referências:** {link_parts}\n")
-            lines.append("---")
-
         return "\n".join(lines)
 
     def export(self, report: TrendReport) -> str:
@@ -95,7 +81,8 @@ class MarkdownExporter:
             f"**Run:** `{run}` | "
             f"**BR:** {total_br} trends | "
             f"**US:** {total_us} trends | "
-            f"**Cross-platform:** {len(report.cross_platform)} tópicos | "
+            f"**Cross-platform:** {len(report.cross_platform)} | "
+            f"**BR+US:** {len(report.br_us_connections)} | "
             f"**Nicho:** {len(report.niche_ideas)} ideias\n"
         )
 
@@ -106,9 +93,21 @@ class MarkdownExporter:
             DIVIDER,
             self._render_region_block("🇺🇸 EUA — Tendências Gerais", report.sections_us),
             DIVIDER,
-            self._render_cross_platform(report.cross_platform),
+            self._render_connections(
+                "BR + EUA — Temas Conectados",
+                "🔗",
+                report.br_us_connections,
+                "temas que aparecem tanto em fontes brasileiras quanto americanas (ex: caso Ramagem, política BR com repercussão nos EUA)"
+            ),
             DIVIDER,
-            self._render_niche(report.niche_ideas),
+            self._render_connections(
+                "CROSS-PLATFORM — Trending em múltiplas fontes",
+                "🔥",
+                report.cross_platform,
+                "temas em 2+ plataformas simultaneamente — sinal mais forte"
+            ),
+            DIVIDER,
+            self._render_niche_table(report.niche_ideas),
         ])
 
         timestamp = report.generated_at.strftime("%Y%m%d_%H%M%S")

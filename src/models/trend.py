@@ -74,6 +74,7 @@ class TrendReport(BaseModel):
     sections_br: list[TrendSection] = Field(default_factory=list)
     sections_us: list[TrendSection] = Field(default_factory=list)
     cross_platform: list[CrossPlatformTrend] = Field(default_factory=list)
+    br_us_connections: list[CrossPlatformTrend] = Field(default_factory=list)
     niche_ideas: list[NicheIdea] = Field(default_factory=list)
 
 
