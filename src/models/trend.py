@@ -30,18 +30,66 @@ class RawTrend(BaseModel):
     raw_score: float = 0.0
 
 
+class TrendSection(BaseModel):
+    platform: str
+    region: str
+    label: str
+    emoji: str = ""
+    trends: list[RawTrend] = Field(default_factory=list)
+
+
+class CrossPlatformTrend(BaseModel):
+    topic: str
+    platforms: list[str]
+    count: int
+    score: float = 0.0
+    sample_titles: list[str] = Field(default_factory=list)
+
+
+class NicheIdea(BaseModel):
+    main_topic: str
+    subtopic: str
+    why_trending: str
+    niche_angle: str
+    video_format: VideoFormat
+    urgency: UrgencyLevel
+    ease: int = Field(ge=1, le=10)
+    source: str
+    region: str
+    links: list[str] = Field(default_factory=list)
+    platforms: list[str] = Field(default_factory=list)
+    collected_at: datetime = Field(default_factory=datetime.utcnow)
+
+    def to_dict(self) -> dict:
+        data = self.model_dump()
+        data["collected_at"] = self.collected_at.isoformat()
+        data["video_format"] = self.video_format.value
+        data["urgency"] = self.urgency.value
+        return data
+
+
+class TrendReport(BaseModel):
+    generated_at: datetime = Field(default_factory=datetime.utcnow)
+    run_id: str = ""
+    sections_br: list[TrendSection] = Field(default_factory=list)
+    sections_us: list[TrendSection] = Field(default_factory=list)
+    cross_platform: list[CrossPlatformTrend] = Field(default_factory=list)
+    niche_ideas: list[NicheIdea] = Field(default_factory=list)
+
+
+# Kept for backward compatibility with database schema
 class TrendIdea(BaseModel):
     main_topic: str
     subtopic: str
     score: float = Field(ge=0, le=100)
     why_trending: str
     links: list[str] = Field(default_factory=list)
-    hook: str
-    titles: list[str] = Field(min_length=3, max_length=3)
-    thumbnails: list[str] = Field(min_length=3, max_length=3)
+    hook: str = ""
+    titles: list[str] = Field(default_factory=list)
+    thumbnails: list[str] = Field(default_factory=list)
     video_format: VideoFormat
     urgency: UrgencyLevel
-    ease: int = Field(ge=1, le=10, description="1=hard 10=easy")
+    ease: int = Field(ge=1, le=10)
     source: str
     region: str
     collected_at: datetime = Field(default_factory=datetime.utcnow)

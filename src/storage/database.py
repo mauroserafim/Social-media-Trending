@@ -6,7 +6,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Optional
 
-from src.models.trend import RawTrend, TrendIdea
+from src.models.trend import NicheIdea, RawTrend, TrendIdea
 
 logger = logging.getLogger(__name__)
 
@@ -44,28 +44,26 @@ class Database:
                 collected_at TEXT DEFAULT (datetime('now'))
             );
 
-            CREATE TABLE IF NOT EXISTS trend_ideas (
+            CREATE TABLE IF NOT EXISTS niche_ideas (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
                 main_topic TEXT NOT NULL,
                 subtopic TEXT,
-                score REAL NOT NULL,
                 why_trending TEXT,
-                links TEXT,
-                hook TEXT,
-                titles TEXT,
-                thumbnails TEXT,
+                niche_angle TEXT,
                 video_format TEXT,
                 urgency TEXT,
                 ease INTEGER,
                 source TEXT,
                 region TEXT,
+                links TEXT,
+                platforms TEXT,
                 collected_at TEXT,
                 run_id TEXT
             );
 
-            CREATE INDEX IF NOT EXISTS idx_trend_ideas_score ON trend_ideas(score DESC);
-            CREATE INDEX IF NOT EXISTS idx_trend_ideas_collected ON trend_ideas(collected_at DESC);
+            CREATE INDEX IF NOT EXISTS idx_niche_ideas_collected ON niche_ideas(collected_at DESC);
             CREATE INDEX IF NOT EXISTS idx_raw_trends_collected ON raw_trends(collected_at DESC);
+            CREATE INDEX IF NOT EXISTS idx_raw_trends_source ON raw_trends(source);
         """)
         self.conn.commit()
 
@@ -95,40 +93,38 @@ class Database:
         self.conn.commit()
         return len(rows)
 
-    def save_trend_ideas(self, ideas: list[TrendIdea], run_id: str = "") -> int:
+    def save_niche_ideas(self, ideas: list[NicheIdea], run_id: str = "") -> int:
         rows = [
             (
                 idea.main_topic,
                 idea.subtopic,
-                idea.score,
                 idea.why_trending,
-                json.dumps(idea.links, ensure_ascii=False),
-                idea.hook,
-                json.dumps(idea.titles, ensure_ascii=False),
-                json.dumps(idea.thumbnails, ensure_ascii=False),
+                idea.niche_angle,
                 idea.video_format.value,
                 idea.urgency.value,
                 idea.ease,
                 idea.source,
                 idea.region,
+                json.dumps(idea.links, ensure_ascii=False),
+                json.dumps(idea.platforms, ensure_ascii=False),
                 idea.collected_at.isoformat(),
                 run_id,
             )
             for idea in ideas
         ]
         self.conn.executemany(
-            """INSERT INTO trend_ideas
-               (main_topic, subtopic, score, why_trending, links, hook, titles,
-                thumbnails, video_format, urgency, ease, source, region, collected_at, run_id)
-               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+            """INSERT INTO niche_ideas
+               (main_topic, subtopic, why_trending, niche_angle, video_format, urgency,
+                ease, source, region, links, platforms, collected_at, run_id)
+               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
             rows,
         )
         self.conn.commit()
         return len(rows)
 
-    def get_latest_ideas(self, limit: int = 20) -> list[dict]:
+    def get_latest_niche_ideas(self, limit: int = 20) -> list[dict]:
         cursor = self.conn.execute(
-            "SELECT * FROM trend_ideas ORDER BY collected_at DESC, score DESC LIMIT ?",
+            "SELECT * FROM niche_ideas ORDER BY collected_at DESC LIMIT ?",
             (limit,),
         )
         return [dict(row) for row in cursor.fetchall()]
