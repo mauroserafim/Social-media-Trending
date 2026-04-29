@@ -38,11 +38,21 @@ class JSONExporter:
             "summary": {
                 "total_br": sum(len(s.trends) for s in report.sections_br),
                 "total_us": sum(len(s.trends) for s in report.sections_us),
+                "br_us_connections": len(report.br_us_connections),
                 "cross_platform_topics": len(report.cross_platform),
                 "niche_ideas": len(report.niche_ideas),
             },
             "sections_br": [_section_to_dict(s) for s in report.sections_br],
             "sections_us": [_section_to_dict(s) for s in report.sections_us],
+            "br_us_connections": [
+                {
+                    "topic": cp.topic,
+                    "count": cp.count,
+                    "score": cp.score,
+                    "sample_titles": cp.sample_titles,
+                }
+                for cp in report.br_us_connections
+            ],
             "cross_platform": [
                 {
                     "topic": cp.topic,

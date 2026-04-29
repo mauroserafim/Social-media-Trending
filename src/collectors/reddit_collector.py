@@ -18,6 +18,7 @@ SUBREDDITS: dict[str, list[str]] = {
         "empreendedorismo",
         "economia",
         "direito",
+        "geopolitica",
     ],
     "US": [
         "news",
@@ -29,6 +30,8 @@ SUBREDDITS: dict[str, list[str]] = {
         "antiwork",
         "AskAmerican",
         "unitedstates",
+        "TrueOffMyChest",
+        "conspiracy",
     ],
 }
 
@@ -44,7 +47,7 @@ class RedditCollector:
             follow_redirects=True,
         )
 
-    def _fetch_hot(self, subreddit: str, limit: int = 15) -> list[dict]:
+    def _fetch_hot(self, subreddit: str, limit: int = 20) -> list[dict]:
         try:
             url = f"https://www.reddit.com/r/{subreddit}/hot.json?limit={limit}"
             resp = self.client.get(url)

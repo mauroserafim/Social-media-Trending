@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 
 PLATFORM_META: dict[str, tuple[str, str]] = {
     "youtube":       ("📺", "YouTube"),
-    "rss":           ("📰", "Jornais"),
+    "rss":           ("📰", "Notícias"),
     "google_trends": ("📊", "Google Trends"),
     "reddit":        ("💬", "Fóruns (Reddit)"),
     "tiktok":        ("🎵", "TikTok"),
@@ -130,6 +130,43 @@ class TrendsAgent:
 
         return single | bigrams
 
+    def _find_br_us_connections(self, trends: list[RawTrend]) -> list[CrossPlatformTrend]:
+        """Find topics that appear in BOTH BR and US sources — like a Brazilian case covered in US news."""
+        br_trends = [t for t in trends if t.region == "BR"]
+        us_trends = [t for t in trends if t.region == "US"]
+
+        br_kw: dict[str, list[RawTrend]] = defaultdict(list)
+        us_kw: dict[str, list[RawTrend]] = defaultdict(list)
+
+        for t in br_trends:
+            for kw in self._extract_keywords(t.title):
+                br_kw[kw].append(t)
+        for t in us_trends:
+            for kw in self._extract_keywords(t.title):
+                us_kw[kw].append(t)
+
+        common = set(br_kw.keys()) & set(us_kw.keys())
+        connections: list[CrossPlatformTrend] = []
+        seen: set[str] = set()
+
+        for kw in sorted(common, key=lambda k: len(br_kw[k]) + len(us_kw[k]), reverse=True):
+            if kw in seen:
+                continue
+            seen.add(kw)
+            related = br_kw[kw][:3] + us_kw[kw][:3]
+            avg_score = sum(t.raw_score for t in related) / len(related)
+            sample_titles = list(dict.fromkeys(t.title for t in related))[:5]
+            connections.append(CrossPlatformTrend(
+                topic=kw,
+                platforms=["BR", "US"],
+                count=len(br_kw[kw]) + len(us_kw[kw]),
+                score=round(avg_score, 2),
+                sample_titles=sample_titles,
+            ))
+
+        connections.sort(key=lambda x: (x.count, x.score), reverse=True)
+        return connections[:10]
+
     def _find_cross_platform(self, trends: list[RawTrend]) -> list[CrossPlatformTrend]:
         keyword_map: dict[str, dict[str, list[RawTrend]]] = defaultdict(
             lambda: defaultdict(list)
@@ -175,10 +212,11 @@ class TrendsAgent:
 
         sections_br, sections_us = self._build_sections(raw)
         cross_platform = self._find_cross_platform(raw)
+        br_us_connections = self._find_br_us_connections(raw)
 
         logger.info(
-            f"Cross-platform topics found: {len(cross_platform)} "
-            f"(top: {cross_platform[0].topic if cross_platform else 'none'})"
+            f"Cross-platform: {len(cross_platform)} topics | "
+            f"BR+US connections: {len(br_us_connections)}"
         )
 
         logger.info("--- Phase 2: AI Niche Analysis ---")
@@ -192,6 +230,7 @@ class TrendsAgent:
             sections_br=sections_br,
             sections_us=sections_us,
             cross_platform=cross_platform,
+            br_us_connections=br_us_connections,
             niche_ideas=niche_ideas,
         )
 
