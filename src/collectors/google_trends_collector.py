@@ -13,38 +13,65 @@ REGIONS = {
 
 NICHE_KEYWORDS = {
     "BR": [
+        # Educação & Carreira
+        "como aprender inglês",
+        "curso online grátis",
+        "trabalho home office",
+        "como usar inteligência artificial",
+        # Negócios & Dinheiro
+        "como ganhar dinheiro online",
+        "renda extra 2025",
+        "dropshipping brasil",
+        "abrir empresa nos EUA",
+        "afiliados hotmart",
+        # Lifestyle & Viagem
         "morar nos EUA",
         "custo de vida EUA",
         "visto americano",
-        "green card",
-        "trabalho nos Estados Unidos",
-        "aluguel nos EUA",
-        "salário nos EUA",
-        "imigração EUA",
-        "dólar hoje",
+        "quanto custa viajar para os EUA",
         "vida nos Estados Unidos",
-        "cidadania americana",
+        # Tecnologia
+        "melhor celular custo benefício",
+        "inteligência artificial 2025",
+        # Economia & Direito
+        "dólar hoje",
+        "green card",
+        "imigração EUA",
         "imposto nos EUA",
         "saúde nos EUA",
-        "escola nos EUA",
+        # Viral & Comunidade
+        "memes semana",
         "brasileiro nos EUA",
     ],
     "US": [
+        # Education & Career
+        "how to learn online",
+        "best side hustle 2025",
+        "AI tools for work",
+        "passive income ideas",
+        # Business & Money
+        "start a business USA",
+        "dropshipping 2025",
+        "digital marketing tips",
+        # Lifestyle & Travel
         "cost of living",
         "rent prices",
-        "immigration USA",
-        "minimum wage",
-        "housing market",
-        "grocery prices",
-        "gas prices",
-        "inflation 2025",
         "moving to USA",
+        "travel budget tips",
+        # Technology
+        "best smartphone 2025",
+        "AI automation",
+        # Legal & Economy
+        "immigration USA",
         "visa application",
         "healthcare cost",
-        "job market",
+        "inflation 2025",
+        "minimum wage",
         "deportation",
         "green card",
-        "social security",
+        # Viral
+        "viral trends",
+        "cost of living comparison",
     ],
 }
 

@@ -2,7 +2,7 @@ import logging
 from datetime import datetime
 from pathlib import Path
 
-from src.models.trend import CrossPlatformTrend, NicheIdea, TrendReport, TrendSection, UrgencyLevel
+from src.models.trend import NicheIdea, TrendReport, TrendSection, UrgencyLevel
 
 logger = logging.getLogger(__name__)
 
@@ -37,26 +37,12 @@ class MarkdownExporter:
             parts.append(self._render_section(section))
         return "\n".join(parts)
 
-    def _render_connections(self, label: str, icon: str, connections: list[CrossPlatformTrend], desc: str) -> str:
-        if not connections:
-            return f"\n### {icon} {label}\n\n*Nenhum tema encontrado.*\n"
-        lines = [
-            f"\n### {icon} {label}\n",
-            f"_{desc}_\n",
-        ]
-        for i, cp in enumerate(connections, 1):
-            platforms_str = " + ".join(cp.platforms)
-            lines.append(f"{i:>2}. **{cp.topic}** `[{cp.count}x]` — _{platforms_str}_")
-            if cp.sample_titles:
-                lines.append(f"     > ex: _{cp.sample_titles[0]}_")
-        return "\n".join(lines)
-
     def _render_niche_table(self, ideas: list[NicheIdea]) -> str:
         if not ideas:
             return "\n### 🎯 MEU NICHO\n\n*Nenhuma ideia gerada. Verifique OPENAI_API_KEY e os logs.*\n"
 
         lines = [
-            f"\n### 🎯 MEU NICHO — Mecanismo Americano — Top {len(ideas)}\n",
+            f"\n### 🎯 Meu Nicho — Mecanismo Americano\n",
             "| # | Título | Subtema | Por que está em alta |",
             "|---|--------|---------|----------------------|",
         ]
@@ -81,8 +67,6 @@ class MarkdownExporter:
             f"**Run:** `{run}` | "
             f"**BR:** {total_br} trends | "
             f"**US:** {total_us} trends | "
-            f"**Cross-platform:** {len(report.cross_platform)} | "
-            f"**BR+US:** {len(report.br_us_connections)} | "
             f"**Nicho:** {len(report.niche_ideas)} ideias\n"
         )
 
@@ -92,20 +76,6 @@ class MarkdownExporter:
             self._render_region_block("🌍 BRASIL — Tendências Gerais", report.sections_br),
             DIVIDER,
             self._render_region_block("🇺🇸 EUA — Tendências Gerais", report.sections_us),
-            DIVIDER,
-            self._render_connections(
-                "BR + EUA — Temas Conectados",
-                "🔗",
-                report.br_us_connections,
-                "temas que aparecem tanto em fontes brasileiras quanto americanas (ex: caso Ramagem, política BR com repercussão nos EUA)"
-            ),
-            DIVIDER,
-            self._render_connections(
-                "CROSS-PLATFORM — Trending em múltiplas fontes",
-                "🔥",
-                report.cross_platform,
-                "temas em 2+ plataformas simultaneamente — sinal mais forte"
-            ),
             DIVIDER,
             self._render_niche_table(report.niche_ideas),
         ])
