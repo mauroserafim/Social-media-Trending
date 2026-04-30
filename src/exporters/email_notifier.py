@@ -1,11 +1,10 @@
 import logging
 import os
 import smtplib
-from datetime import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-from src.models.trend import TrendReport, UrgencyLevel
+from src.models.trend import TrendReport, TrendSection, UrgencyLevel
 
 logger = logging.getLogger(__name__)
 
@@ -25,24 +24,53 @@ URGENCY_EMOJI = {
 
 FORMAT_LABEL = {"short": "⚡ Short", "long": "🎬 Long", "both": "🎯 Short+Long"}
 
+PLATFORM_CONFIG = [
+    ("youtube",       "📺", "YouTube"),
+    ("rss",           "📰", "Notícias"),
+    ("google_trends", "📊", "Google Trends"),
+    ("reddit",        "💬", "Reddit"),
+    ("tiktok",        "🎵", "TikTok"),
+]
 
-def _section_html(sections, region_label: str) -> str:
-    if not sections:
-        return ""
-    html = f"<h3 style='color:#333;margin:20px 0 8px;font-size:16px;'>{region_label}</h3>"
-    for section in sections:
-        html += (
-            f"<p style='margin:10px 0 4px;font-weight:bold;color:#555;font-size:13px;'>"
-            f"{section.emoji} {section.label}</p>"
-            f"<ol style='margin:0;padding-left:20px;'>"
-        )
-        for t in section.trends[:10]:
-            url_part = f" <a href='{t.url}' style='color:#aaa;font-size:11px;'>[→]</a>" if t.url else ""
-            html += f"<li style='font-size:13px;margin-bottom:3px;color:#222;'>{t.title}{url_part}</li>"
-        html += "</ol>"
+
+def _col_html(section: TrendSection | None) -> str:
+    if not section:
+        return "<p style='color:#aaa;font-size:12px;font-style:italic;'>Sem dados</p>"
+    html = "<ol style='margin:0;padding-left:18px;'>"
+    for t in section.trends[:10]:
+        url_part = f" <a href='{t.url}' style='color:#888;font-size:10px;'>[→]</a>" if t.url else ""
+        html += f"<li style='font-size:12px;margin-bottom:4px;color:#222;line-height:1.4;'>{t.title}{url_part}</li>"
+    html += "</ol>"
     return html
 
 
+def _platform_block(emoji: str, label: str, br_section: TrendSection | None, us_section: TrendSection | None) -> str:
+    if not br_section and not us_section:
+        return ""
+    return f"""
+<div style="margin-bottom:24px;">
+  <h3 style="margin:0 0 10px;font-size:15px;color:#1a1a2e;border-bottom:2px solid #1a1a2e;padding-bottom:6px;">
+    {emoji} {label}
+  </h3>
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <th style="width:50%;padding:6px 10px;background:#f0f4ff;font-size:12px;color:#333;text-align:left;border-radius:4px 0 0 0;">
+        🌍 Brasil
+      </th>
+      <th style="width:50%;padding:6px 10px;background:#fff4f0;font-size:12px;color:#333;text-align:left;border-radius:0 4px 0 0;border-left:3px solid white;">
+        🇺🇸 EUA
+      </th>
+    </tr>
+    <tr>
+      <td style="padding:10px;vertical-align:top;background:#f8faff;border:1px solid #e8eaf0;">
+        {_col_html(br_section)}
+      </td>
+      <td style="padding:10px;vertical-align:top;background:#fffaf8;border:1px solid #f0e8e0;border-left:3px solid white;">
+        {_col_html(us_section)}
+      </td>
+    </tr>
+  </table>
+</div>"""
 
 
 def _niche_table_html(ideas) -> str:
@@ -50,7 +78,6 @@ def _niche_table_html(ideas) -> str:
         return "<p style='color:#999;'>Nenhuma ideia gerada.</p>"
     rows = ""
     for i, idea in enumerate(ideas, 1):
-        color = URGENCY_COLOR.get(idea.urgency, "#95a5a6")
         urgency_icon = URGENCY_EMOJI.get(idea.urgency, "⚪")
         fmt = FORMAT_LABEL.get(idea.video_format.value, idea.video_format.value)
         why = idea.why_trending[:150] + ("…" if len(idea.why_trending) > 150 else "")
@@ -67,7 +94,7 @@ def _niche_table_html(ideas) -> str:
         )
     return (
         f"<table style='width:100%;border-collapse:collapse;'>"
-        f"<thead><tr style='background:#2c2c2c;color:white;'>"
+        f"<thead><tr style='background:#1a1a2e;color:white;'>"
         f"<th style='padding:8px;text-align:left;font-size:12px;'>#</th>"
         f"<th style='padding:8px;text-align:left;font-size:12px;'>Título</th>"
         f"<th style='padding:8px;text-align:left;font-size:12px;'>Subtema</th>"
@@ -82,28 +109,35 @@ def _build_html(report: TrendReport) -> str:
     total_br = sum(len(s.trends) for s in report.sections_br)
     total_us = sum(len(s.trends) for s in report.sections_us)
 
+    # Index sections by platform for quick lookup
+    br_by_platform = {s.platform: s for s in report.sections_br}
+    us_by_platform = {s.platform: s for s in report.sections_us}
+
+    platform_blocks = ""
+    for platform, emoji, label in PLATFORM_CONFIG:
+        platform_blocks += _platform_block(
+            emoji, label,
+            br_by_platform.get(platform),
+            us_by_platform.get(platform),
+        )
+
     return f"""<!DOCTYPE html>
 <html>
-<body style="font-family:Arial,sans-serif;max-width:780px;margin:0 auto;padding:20px;color:#222;">
+<body style="font-family:Arial,sans-serif;max-width:820px;margin:0 auto;padding:20px;color:#222;">
 
-  <div style="background:linear-gradient(135deg,#1a1a2e,#16213e);color:white;padding:24px;border-radius:10px;margin-bottom:24px;">
+  <div style="background:linear-gradient(135deg,#1a1a2e,#16213e);color:white;padding:24px;border-radius:10px;margin-bottom:28px;">
     <h1 style="margin:0;font-size:22px;">📊 Tendências em Alta</h1>
     <p style="margin:6px 0 0;opacity:.8;font-size:14px;">{now} · Run {run}</p>
     <p style="margin:4px 0 0;opacity:.7;font-size:12px;">
-      BR: {total_br} trends &nbsp;·&nbsp; US: {total_us} trends &nbsp;·&nbsp;
-      Nicho: {len(report.niche_ideas)} ideias
+      BR: {total_br} trends &nbsp;·&nbsp; US: {total_us} trends &nbsp;·&nbsp; Nicho: {len(report.niche_ideas)} ideias
     </p>
   </div>
 
-  {_section_html(report.sections_br, "🌍 Brasil — Tendências Gerais")}
+  {platform_blocks}
 
-  <hr style="border:none;border-top:1px solid #eee;margin:20px 0;">
+  <hr style="border:none;border-top:2px solid #1a1a2e;margin:28px 0;">
 
-  {_section_html(report.sections_us, "🇺🇸 EUA — Tendências Gerais")}
-
-  <hr style="border:none;border-top:1px solid #eee;margin:20px 0;">
-
-  <h3 style="color:#333;margin:20px 0 12px;font-size:16px;">🎯 Meu Nicho — Mecanismo Americano</h3>
+  <h3 style="color:#1a1a2e;margin:0 0 12px;font-size:16px;">🎯 Meu Nicho — Mecanismo Americano</h3>
   {_niche_table_html(report.niche_ideas)}
 
   <p style="color:#bbb;font-size:11px;text-align:center;margin-top:24px;">
@@ -118,20 +152,31 @@ def _build_plain(report: TrendReport) -> str:
     run = report.run_id or "manual"
     lines = [f"TENDÊNCIAS EM ALTA — {now}", f"Run: {run}", "=" * 60, ""]
 
-    for label, sections in [("BRASIL", report.sections_br), ("EUA", report.sections_us)]:
-        lines.append(f"--- {label} ---")
-        for section in sections:
-            lines.append(f"\n{section.emoji} {section.label}")
-            for i, t in enumerate(section.trends[:10], 1):
-                lines.append(f"  {i:>2}. {t.title}")
+    br_by_platform = {s.platform: s for s in report.sections_br}
+    us_by_platform = {s.platform: s for s in report.sections_us}
+
+    for platform, emoji, label in PLATFORM_CONFIG:
+        br = br_by_platform.get(platform)
+        us = us_by_platform.get(platform)
+        if not br and not us:
+            continue
+        lines.append(f"\n{emoji} {label.upper()}")
+        lines.append(f"{'BRASIL':<40} {'EUA'}")
+        lines.append("-" * 80)
+        br_items = [t.title[:38] for t in br.trends[:10]] if br else []
+        us_items = [t.title[:38] for t in us.trends[:10]] if us else []
+        for i in range(max(len(br_items), len(us_items))):
+            b = br_items[i] if i < len(br_items) else ""
+            u = us_items[i] if i < len(us_items) else ""
+            lines.append(f"{i+1:>2}. {b:<38} {u}")
         lines.append("")
 
-    lines.append("--- MEU NICHO ---")
-    lines.append(f"{'#':<3} {'TÍTULO':<35} {'SUBTEMA':<25} POR QUE ESTÁ EM ALTA")
+    lines.append("\n--- MEU NICHO ---")
+    lines.append(f"{'#':<3} {'TÍTULO':<30} {'SUBTEMA':<25} POR QUE ESTÁ EM ALTA")
     lines.append("-" * 100)
     for i, idea in enumerate(report.niche_ideas, 1):
-        why = idea.why_trending[:60] + "…" if len(idea.why_trending) > 60 else idea.why_trending
-        lines.append(f"{i:<3} {idea.main_topic:<35} {idea.subtopic:<25} {why}")
+        why = idea.why_trending[:55] + "…" if len(idea.why_trending) > 55 else idea.why_trending
+        lines.append(f"{i:<3} {idea.main_topic:<30} {idea.subtopic:<25} {why}")
 
     return "\n".join(lines)
 
@@ -154,10 +199,7 @@ class EmailNotifier:
             return False
 
         now = report.generated_at.strftime("%d/%m %H:%M")
-        subject = (
-            f"📊 Tendências {now} UTC — "
-            f"{len(report.niche_ideas)} ideias de nicho"
-        )
+        subject = f"📊 Tendências {now} UTC — {len(report.niche_ideas)} ideias de nicho"
 
         msg = MIMEMultipart("alternative")
         msg["Subject"] = subject
