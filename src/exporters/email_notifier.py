@@ -26,7 +26,7 @@ FORMAT_LABEL = {"short": "⚡ Short", "long": "🎬 Long", "both": "🎯 Short+L
 
 PLATFORM_CONFIG = [
     ("youtube",       "📺", "YouTube"),
-    ("rss",           "📰", "Notícias"),
+    ("news",          "📰", "Notícias"),
     ("google_trends", "📊", "Google Trends"),
     ("reddit",        "💬", "Reddit"),
     ("tiktok",        "🎵", "TikTok"),

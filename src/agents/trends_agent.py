@@ -7,6 +7,7 @@ from datetime import datetime
 
 from src.analyzers.ai_analyzer import AIAnalyzer
 from src.collectors.google_trends_collector import GoogleTrendsCollector
+from src.collectors.newsapi_collector import NewsAPICollector
 from src.collectors.reddit_collector import RedditCollector
 from src.collectors.rss_collector import RSSCollector
 from src.collectors.tiktok_collector import TikTokCollector
@@ -21,7 +22,7 @@ logger = logging.getLogger(__name__)
 
 PLATFORM_META: dict[str, tuple[str, str]] = {
     "youtube":       ("📺", "YouTube"),
-    "rss":           ("📰", "Notícias"),
+    "news":          ("📰", "Notícias"),
     "google_trends": ("📊", "Google Trends"),
     "reddit":        ("💬", "Fóruns (Reddit)"),
     "tiktok":        ("🎵", "TikTok"),
@@ -45,6 +46,7 @@ class TrendsAgent:
     def __init__(self):
         self.run_id = os.getenv("GITHUB_RUN_ID", str(uuid.uuid4())[:8])
         self.youtube = YouTubeCollector()
+        self.newsapi = NewsAPICollector()
         self.rss = RSSCollector()
         self.reddit = RedditCollector()
         self.tiktok = TikTokCollector()
@@ -60,6 +62,7 @@ class TrendsAgent:
 
         collectors = [
             ("YouTube",       lambda: self.youtube.collect()),
+            ("NewsAPI",       lambda: self.newsapi.collect()),
             ("RSS/Jornais",   lambda: self.rss.collect()),
             ("Reddit",        lambda: self.reddit.collect()),
             ("TikTok",        lambda: self.tiktok.collect()),
@@ -248,6 +251,7 @@ class TrendsAgent:
 
     def close(self):
         self.youtube.close()
+        self.newsapi.close()
         self.rss.close()
         self.reddit.close()
         self.tiktok.close()
