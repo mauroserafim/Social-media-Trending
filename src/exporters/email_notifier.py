@@ -43,31 +43,6 @@ def _section_html(sections, region_label: str) -> str:
     return html
 
 
-def _connections_html(connections, label: str, desc: str) -> str:
-    if not connections:
-        return ""
-    rows = ""
-    for i, cp in enumerate(connections[:10], 1):
-        platforms = " + ".join(cp.platforms)
-        rows += (
-            f"<tr style='border-bottom:1px solid #f0f0f0;'>"
-            f"<td style='padding:5px 8px;color:#888;font-size:12px;'>{i}.</td>"
-            f"<td style='padding:5px 8px;font-weight:bold;font-size:13px;'>{cp.topic}</td>"
-            f"<td style='padding:5px 8px;'><span style='background:#eef;border-radius:10px;padding:2px 7px;font-size:11px;'>{cp.count}x</span></td>"
-            f"<td style='padding:5px 8px;color:#777;font-size:12px;'>{platforms}</td>"
-            f"</tr>"
-        )
-    return (
-        f"<h3 style='color:#333;margin:20px 0 4px;font-size:16px;'>{label}</h3>"
-        f"<p style='color:#999;font-size:12px;margin:0 0 8px;'>{desc}</p>"
-        f"<table style='width:100%;border-collapse:collapse;margin-bottom:8px;'>"
-        f"<thead><tr style='background:#f5f5f5;'>"
-        f"<th style='padding:5px 8px;text-align:left;font-size:12px;'>#</th>"
-        f"<th style='padding:5px 8px;text-align:left;font-size:12px;'>Tema</th>"
-        f"<th style='padding:5px 8px;text-align:left;font-size:12px;'>Força</th>"
-        f"<th style='padding:5px 8px;text-align:left;font-size:12px;'>Onde</th>"
-        f"</tr></thead><tbody>{rows}</tbody></table>"
-    )
 
 
 def _niche_table_html(ideas) -> str:
@@ -116,8 +91,6 @@ def _build_html(report: TrendReport) -> str:
     <p style="margin:6px 0 0;opacity:.8;font-size:14px;">{now} · Run {run}</p>
     <p style="margin:4px 0 0;opacity:.7;font-size:12px;">
       BR: {total_br} trends &nbsp;·&nbsp; US: {total_us} trends &nbsp;·&nbsp;
-      BR+US: {len(report.br_us_connections)} &nbsp;·&nbsp;
-      Cross-platform: {len(report.cross_platform)} &nbsp;·&nbsp;
       Nicho: {len(report.niche_ideas)} ideias
     </p>
   </div>
@@ -127,14 +100,6 @@ def _build_html(report: TrendReport) -> str:
   <hr style="border:none;border-top:1px solid #eee;margin:20px 0;">
 
   {_section_html(report.sections_us, "🇺🇸 EUA — Tendências Gerais")}
-
-  <hr style="border:none;border-top:1px solid #eee;margin:20px 0;">
-
-  {_connections_html(report.br_us_connections, "🔗 BR + EUA — Temas Conectados",
-    "temas que aparecem tanto em fontes brasileiras quanto americanas")}
-
-  {_connections_html(report.cross_platform, "🔥 Cross-Platform — Trending em múltiplas fontes",
-    "temas em 2+ plataformas simultaneamente — sinal mais forte")}
 
   <hr style="border:none;border-top:1px solid #eee;margin:20px 0;">
 
@@ -160,16 +125,6 @@ def _build_plain(report: TrendReport) -> str:
             for i, t in enumerate(section.trends[:10], 1):
                 lines.append(f"  {i:>2}. {t.title}")
         lines.append("")
-
-    lines.append("--- BR + EUA CONECTADOS ---")
-    for i, cp in enumerate(report.br_us_connections[:10], 1):
-        lines.append(f"  {i}. [{cp.count}x] {cp.topic}")
-    lines.append("")
-
-    lines.append("--- CROSS-PLATFORM ---")
-    for i, cp in enumerate(report.cross_platform[:10], 1):
-        lines.append(f"  {i}. [{cp.count}x] {cp.topic} — {' + '.join(cp.platforms)}")
-    lines.append("")
 
     lines.append("--- MEU NICHO ---")
     lines.append(f"{'#':<3} {'TÍTULO':<35} {'SUBTEMA':<25} POR QUE ESTÁ EM ALTA")
@@ -201,9 +156,7 @@ class EmailNotifier:
         now = report.generated_at.strftime("%d/%m %H:%M")
         subject = (
             f"📊 Tendências {now} UTC — "
-            f"{len(report.niche_ideas)} nicho · "
-            f"{len(report.br_us_connections)} BR+US · "
-            f"{len(report.cross_platform)} cross"
+            f"{len(report.niche_ideas)} ideias de nicho"
         )
 
         msg = MIMEMultipart("alternative")
