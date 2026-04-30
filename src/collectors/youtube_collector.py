@@ -12,6 +12,9 @@ logger = logging.getLogger(__name__)
 YOUTUBE_API_BASE = "https://www.googleapis.com/youtube/v3"
 REGIONS = ["BR", "US"]
 
+# YouTube category IDs to exclude (Music=10, Gaming=20, Film & Animation=1)
+EXCLUDED_CATEGORY_IDS = {"1", "10", "20"}
+
 
 class YouTubeCollector:
     def __init__(self, api_key: Optional[str] = None):
@@ -61,14 +64,18 @@ class YouTubeCollector:
         for region in regions:
             logger.info(f"Collecting YouTube trending for region: {region}")
             videos = self._get_trending_videos(region, max_results=50)
+            skipped = 0
             for item in videos:
                 snippet = item.get("snippet", {})
                 stats = item.get("statistics", {})
+                category = snippet.get("categoryId", "")
+                if category in EXCLUDED_CATEGORY_IDS:
+                    skipped += 1
+                    continue
                 views = int(stats.get("viewCount", 0))
                 pub_at = self._parse_published_at(snippet.get("publishedAt", ""))
                 vph = self._calc_views_per_hour(views, pub_at)
                 video_id = item.get("id", "")
-                category = snippet.get("categoryId", "")
                 trends.append(
                     RawTrend(
                         title=snippet.get("title", ""),
@@ -82,7 +89,7 @@ class YouTubeCollector:
                         raw_score=self._score(views, vph),
                     )
                 )
-            logger.info(f"YouTube {region}: {len(videos)} videos collected")
+            logger.info(f"YouTube {region}: {len(videos) - skipped} kept, {skipped} filtered (music/gaming/film)")
         logger.info(f"YouTube: collected {len(trends)} trends total")
         return trends
 
