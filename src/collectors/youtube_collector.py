@@ -12,24 +12,35 @@ logger = logging.getLogger(__name__)
 YOUTUBE_API_BASE = "https://www.googleapis.com/youtube/v3"
 REGIONS = ["BR", "US"]
 
-# YouTube category IDs to exclude (Music=10, Gaming=20, Film & Animation=1)
-EXCLUDED_CATEGORY_IDS = {"1", "10", "20"}
+# YouTube category IDs to exclude (Music=10, Gaming=20, Film & Animation=1, Sports=17)
+EXCLUDED_CATEGORY_IDS = {"1", "10", "17", "20"}
 
 # Keywords in title that indicate irrelevant content (case-insensitive)
 EXCLUDED_TITLE_KEYWORDS = {
-    # Games
-    "minecraft", "roblox", "fortnite", "valorant", "apex legends", "gameplay",
-    "let's play", "lets play", "gaming", "gamer", "streamer", "twitch",
+    # Games (PT+EN)
+    "jogo completo", "jogo", "gameplay", "gaming", "gamer", "streamer",
+    "minecraft", "roblox", "fortnite", "valorant", "apex legends",
     "free fire", "league of legends", "counter strike", "grand theft",
-    # Music / Clipes
+    "impostor", "resident evil", "spider-man", "spiderman",
+    "among us", "call of duty", "gta", "zelda", "pokemon",
+    # Music / Clipes (PT+EN)
     "official mv", "music video", "clipe oficial", "official audio",
-    "lyric video", "lyrics", "official lyric",
-    # Filmes / Séries / Trailers
+    "lyric video", "lyrics", "official lyric", "web clipe", "clipe",
+    "funk", "pagode", "sertanejo", "axé", "forró", "arrocha",
+    " mc ", "feat.", "(feat", "part.", "(part",
+    # Trailers / Filmes / Séries (PT+EN)
     "official trailer", "trailer oficial", "teaser trailer", "teaser oficial",
+    "trailer completo", "trailer breakdown", "análise do trailer",
+    "trailer", "teaser", "react trailer",
     "netflix", "disney+", "hbo max", "prime video", "apple tv+",
-    "temporada", "season", "episode", "episódio",
+    "temporada", "season", "episode", "episódio", "part 2", "part 3",
+    # Sports (EN) — times e eventos
+    "knicks", "lakers", "celtics", "warriors", "heat", "bulls", "nets",
+    "hawks", "cavaliers", "pistons", "pacers", "bucks", "raptors",
+    "nba", "nfl", "nhl", "mlb", "wnba", "mls",
+    "first round", "championship", "playoffs", "semifinal",
     # Religiosos (fora do nicho)
-    "gospel", "adoração", "louvor", "pregação",
+    "gospel", "adoração", "louvor", "pregação", "culto",
 }
 
 
