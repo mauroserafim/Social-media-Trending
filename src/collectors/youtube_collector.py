@@ -15,6 +15,23 @@ REGIONS = ["BR", "US"]
 # YouTube category IDs to exclude (Music=10, Gaming=20, Film & Animation=1)
 EXCLUDED_CATEGORY_IDS = {"1", "10", "20"}
 
+# Keywords in title that indicate irrelevant content (case-insensitive)
+EXCLUDED_TITLE_KEYWORDS = {
+    # Games
+    "minecraft", "roblox", "fortnite", "valorant", "apex legends", "gameplay",
+    "let's play", "lets play", "gaming", "gamer", "streamer", "twitch",
+    "free fire", "league of legends", "counter strike", "grand theft",
+    # Music / Clipes
+    "official mv", "music video", "clipe oficial", "official audio",
+    "lyric video", "lyrics", "official lyric",
+    # Filmes / Séries / Trailers
+    "official trailer", "trailer oficial", "teaser trailer", "teaser oficial",
+    "netflix", "disney+", "hbo max", "prime video", "apple tv+",
+    "temporada", "season", "episode", "episódio",
+    # Religiosos (fora do nicho)
+    "gospel", "adoração", "louvor", "pregação",
+}
+
 
 class YouTubeCollector:
     def __init__(self, api_key: Optional[str] = None):
@@ -69,7 +86,11 @@ class YouTubeCollector:
                 snippet = item.get("snippet", {})
                 stats = item.get("statistics", {})
                 category = snippet.get("categoryId", "")
+                title_lower = snippet.get("title", "").lower()
                 if category in EXCLUDED_CATEGORY_IDS:
+                    skipped += 1
+                    continue
+                if any(kw in title_lower for kw in EXCLUDED_TITLE_KEYWORDS):
                     skipped += 1
                     continue
                 views = int(stats.get("viewCount", 0))
