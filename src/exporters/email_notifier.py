@@ -33,10 +33,11 @@ PLATFORM_CONFIG = [
 ]
 
 
-def _col_html(section: TrendSection | None) -> str:
+def _col_html(section: TrendSection | None, flag: str, label: str) -> str:
     if not section:
-        return "<p style='color:#aaa;font-size:12px;font-style:italic;'>Sem dados</p>"
-    html = "<ol style='margin:0;padding-left:18px;'>"
+        return ""
+    html = f"<p style='margin:10px 0 6px;font-weight:bold;font-size:13px;color:#444;'>{flag} {label}</p>"
+    html += "<ol style='margin:0;padding-left:18px;'>"
     for t in section.trends[:10]:
         url_part = f" <a href='{t.url}' style='color:#888;font-size:10px;'>[→]</a>" if t.url else ""
         html += f"<li style='font-size:12px;margin-bottom:4px;color:#222;line-height:1.4;'>{t.title}{url_part}</li>"
@@ -47,29 +48,13 @@ def _col_html(section: TrendSection | None) -> str:
 def _platform_block(emoji: str, label: str, br_section: TrendSection | None, us_section: TrendSection | None) -> str:
     if not br_section and not us_section:
         return ""
+    content = _col_html(br_section, "🌍", "Brasil") + _col_html(us_section, "🇺🇸", "EUA")
     return f"""
 <div style="margin-bottom:24px;">
   <h3 style="margin:0 0 10px;font-size:15px;color:#1a1a2e;border-bottom:2px solid #1a1a2e;padding-bottom:6px;">
     {emoji} {label}
   </h3>
-  <table style="width:100%;border-collapse:collapse;">
-    <tr>
-      <th style="width:50%;padding:6px 10px;background:#f0f4ff;font-size:12px;color:#333;text-align:left;border-radius:4px 0 0 0;">
-        🌍 Brasil
-      </th>
-      <th style="width:50%;padding:6px 10px;background:#fff4f0;font-size:12px;color:#333;text-align:left;border-radius:0 4px 0 0;border-left:3px solid white;">
-        🇺🇸 EUA
-      </th>
-    </tr>
-    <tr>
-      <td style="padding:10px;vertical-align:top;background:#f8faff;border:1px solid #e8eaf0;">
-        {_col_html(br_section)}
-      </td>
-      <td style="padding:10px;vertical-align:top;background:#fffaf8;border:1px solid #f0e8e0;border-left:3px solid white;">
-        {_col_html(us_section)}
-      </td>
-    </tr>
-  </table>
+  {content}
 </div>"""
 
 
