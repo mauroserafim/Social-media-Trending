@@ -18,27 +18,35 @@ EXCLUDED_CATEGORY_IDS = {"1", "10", "17", "20"}
 # Keywords in title that indicate irrelevant content (case-insensitive)
 EXCLUDED_TITLE_KEYWORDS = {
     # Games (PT+EN)
-    "jogo completo", "jogo", "gameplay", "gaming", "gamer", "streamer",
+    "jogo completo", "jogo ", "jogamos", "jogando", "jogar",
+    "gameplay", "gaming", "gamer", "streamer",
     "minecraft", "roblox", "fortnite", "valorant", "apex legends",
     "free fire", "league of legends", "counter strike", "grand theft",
     "impostor", "resident evil", "spider-man", "spiderman",
     "among us", "call of duty", "gta", "zelda", "pokemon",
+    "troll de", "torre troll",
     # Music / Clipes (PT+EN)
     "official mv", "music video", "clipe oficial", "official audio",
     "lyric video", "lyrics", "official lyric", "web clipe", "clipe",
     "funk", "pagode", "sertanejo", "axé", "forró", "arrocha",
-    " mc ", "feat.", "(feat", "part.", "(part",
+    " mc ", "feat.", "(feat", "part.", "(part", "sabor hs",
     # Trailers / Filmes / Séries (PT+EN)
     "official trailer", "trailer oficial", "teaser trailer", "teaser oficial",
     "trailer completo", "trailer breakdown", "análise do trailer",
     "trailer", "teaser", "react trailer",
     "netflix", "disney+", "hbo max", "prime video", "apple tv+",
-    "temporada", "season", "episode", "episódio", "part 2", "part 3",
-    # Sports (EN) — times e eventos
+    "temporada", "season", "episode", "episódio",
+    "john wick", "chapter 2", "chapter 3", "chapter 4",
+    # Sports (EN) — times, ligas e eventos
+    "sabres", "bruins", "lightning", "canadiens", "maple leafs", "rangers",
+    "penguins", "flyers", "capitals", "islanders", "blackhawks", "red wings",
     "knicks", "lakers", "celtics", "warriors", "heat", "bulls", "nets",
     "hawks", "cavaliers", "pistons", "pacers", "bucks", "raptors",
-    "nba", "nfl", "nhl", "mlb", "wnba", "mls",
-    "first round", "championship", "playoffs", "semifinal",
+    "phillies", "marlins", "yankees", "red sox", "dodgers", "mets",
+    "eagles", "cowboys", "patriots", "49ers", "chiefs",
+    "nba", "nfl", "nhl", "mlb", "wnba", "mls", "nascar", "wwe", "ufc",
+    "first round", "playoffs", "semifinal", "shoot-out", "smackdown",
+    "speedycash", "klondike",
     # Religiosos (fora do nicho)
     "gospel", "adoração", "louvor", "pregação", "culto",
 }
