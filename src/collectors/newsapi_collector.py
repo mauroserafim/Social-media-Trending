@@ -1,5 +1,6 @@
 import logging
 import os
+import time
 from datetime import datetime, timezone
 
 import httpx
@@ -33,27 +34,35 @@ LANGUAGE = {"BR": "pt", "US": "en"}
 class NewsAPICollector:
     def __init__(self, api_key: str | None = None):
         self.api_key = api_key or os.getenv("NEWSAPI_KEY", "")
-        self.client = httpx.Client(timeout=20)
+        self.client = httpx.Client(timeout=30)
 
-    def _fetch(self, query: str, language: str) -> list[dict]:
+    def _fetch(self, query: str, language: str, retries: int = 3) -> list[dict]:
         if not self.api_key:
             return []
-        try:
-            r = self.client.get(
-                f"{NEWSAPI_BASE}/everything",
-                params={
-                    "q": query,
-                    "language": language,
-                    "sortBy": "publishedAt",
-                    "pageSize": 5,
-                    "apiKey": self.api_key,
-                },
-            )
-            r.raise_for_status()
-            return r.json().get("articles", [])
-        except Exception as e:
-            logger.warning(f"NewsAPI fetch failed [{query}]: {e}")
-            return []
+        for attempt in range(retries):
+            try:
+                r = self.client.get(
+                    f"{NEWSAPI_BASE}/everything",
+                    params={
+                        "q": query,
+                        "language": language,
+                        "sortBy": "publishedAt",
+                        "pageSize": 5,
+                        "apiKey": self.api_key,
+                    },
+                )
+                r.raise_for_status()
+                data = r.json()
+                if data.get("status") == "error":
+                    logger.warning(f"NewsAPI error for '{query}': {data.get('message')}")
+                    return []
+                return data.get("articles", [])
+            except Exception as e:
+                wait = 2 ** attempt
+                logger.warning(f"NewsAPI fetch failed [{query}] attempt {attempt+1}: {e} — retrying in {wait}s")
+                if attempt < retries - 1:
+                    time.sleep(wait)
+        return []
 
     def _parse_date(self, raw: str | None) -> datetime | None:
         if not raw:
