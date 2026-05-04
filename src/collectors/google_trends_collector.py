@@ -1,4 +1,5 @@
 import logging
+import random
 import time
 from typing import Optional
 
@@ -84,7 +85,13 @@ class GoogleTrendsCollector:
         if self._client is None:
             try:
                 from pytrends.request import TrendReq
-                self._client = TrendReq(hl="pt-BR", tz=360)
+                self._client = TrendReq(
+                    hl="pt-BR",
+                    tz=360,
+                    timeout=(10, 25),
+                    retries=2,
+                    backoff_factor=1.5,
+                )
             except ImportError:
                 logger.error("pytrends not installed. Run: pip install pytrends")
                 raise
@@ -99,42 +106,47 @@ class GoogleTrendsCollector:
             logger.error(f"Google Trends trending error for {geo}: {e}")
             return []
 
-    def _fetch_interest(self, keyword: str, geo: str) -> float:
+    def _fetch_interest_batch(self, keywords: list[str], geo: str) -> dict[str, float]:
+        """Fetch up to 5 keywords in one request — avoids Google rate limiting."""
         try:
             pt = self._get_client()
-            pt.build_payload([keyword], cat=0, timeframe="now 1-d", geo=geo)
+            kws = keywords[:5]
+            pt.build_payload(kws, cat=0, timeframe="now 1-d", geo=geo)
             data = pt.interest_over_time()
             if data.empty:
-                return 0.0
-            return float(data[keyword].mean())
+                return {}
+            return {kw: float(data[kw].mean()) for kw in kws if kw in data.columns}
         except Exception as e:
-            logger.warning(f"Interest fetch failed for '{keyword}': {e}")
-            return 0.0
+            logger.warning(f"Google Trends batch failed [{geo}]: {e}")
+            return {}
 
     def collect(self) -> list[RawTrend]:
         trends: list[RawTrend] = []
 
-        # Niche keyword interest scores
+        # Niche keywords — fetched in batches of 5 (1 request per batch)
         for region_code, keywords in NICHE_KEYWORDS.items():
-            logger.info(f"Google Trends (niche keywords) for {region_code}")
-            for kw in keywords:
-                score = self._fetch_interest(kw, region_code)
-                time.sleep(0.5)
-                if score > 0:
-                    trends.append(RawTrend(
-                        title=kw,
-                        source="google_trends",
-                        url=f"https://trends.google.com/trends/explore?q={kw}&geo={region_code}",
-                        region=region_code,
-                        keywords=[kw],
-                        raw_score=score,
-                    ))
+            batches = [keywords[i:i+5] for i in range(0, len(keywords), 5)]
+            logger.info(f"Google Trends (niche) for {region_code} — {len(batches)} batches of ≤5")
+            for batch in batches:
+                scores = self._fetch_interest_batch(batch, region_code)
+                for kw, score in scores.items():
+                    if score > 0:
+                        trends.append(RawTrend(
+                            title=kw,
+                            source="google_trends",
+                            url=f"https://trends.google.com/trends/explore?q={kw}&geo={region_code}",
+                            region=region_code,
+                            keywords=[kw],
+                            raw_score=score,
+                        ))
+                # Human-like delay between batches to avoid 429
+                time.sleep(random.uniform(2.5, 4.5))
 
-        # General trending searches (top 20 per region)
+        # General trending (single request per region)
         for region_code, geo_name in REGIONS.items():
-            logger.info(f"Google Trends (general trending) for {region_code}")
+            logger.info(f"Google Trends (general) for {region_code}")
             keywords = self._fetch_trending(geo_name)
-            time.sleep(1)
+            time.sleep(random.uniform(1.5, 3.0))
             for kw in keywords[:20]:
                 trends.append(RawTrend(
                     title=kw,
