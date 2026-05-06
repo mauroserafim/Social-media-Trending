@@ -1,16 +1,13 @@
 import logging
-import urllib.parse
 from datetime import datetime, timezone
 from typing import Optional
 
+import feedparser
 import httpx
 
 from src.models.trend import RawTrend
 
 logger = logging.getLogger(__name__)
-
-# Proxy gratuito que funciona de servidores — sem API key necessária
-RSS2JSON_BASE = "https://api.rss2json.com/v1/api.json"
 
 RSS_FEEDS = {
     "BR": [
@@ -35,27 +32,29 @@ RSS_FEEDS = {
     ],
 }
 
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+}
+
 
 class RSSCollector:
     def __init__(self):
-        self.client = httpx.Client(timeout=20, follow_redirects=True)
+        self.client = httpx.Client(timeout=20, follow_redirects=True, headers=HEADERS)
 
-    def _parse_date(self, raw: Optional[str]) -> Optional[datetime]:
-        if not raw:
-            return None
-        for fmt in ("%Y-%m-%d %H:%M:%S", "%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%dT%H:%M:%S%z"):
-            try:
-                dt = datetime.strptime(raw, fmt)
-                if dt.tzinfo is None:
-                    dt = dt.replace(tzinfo=timezone.utc)
-                return dt
-            except ValueError:
-                continue
+    def _parse_date(self, entry) -> Optional[datetime]:
+        # feedparser normalises dates into a time.struct_time in entry.published_parsed
         try:
-            from email.utils import parsedate_to_datetime
-            return parsedate_to_datetime(raw).astimezone(timezone.utc)
+            import calendar
+            t = entry.get("published_parsed") or entry.get("updated_parsed")
+            if t:
+                return datetime.fromtimestamp(calendar.timegm(t), tz=timezone.utc)
         except Exception:
-            return None
+            pass
+        return None
 
     def _recency_score(self, published_at: Optional[datetime]) -> float:
         if not published_at:
@@ -71,29 +70,24 @@ class RSSCollector:
             return 40.0
         return 20.0
 
-    def _fetch_via_proxy(self, name: str, url: str) -> list[dict]:
-        """Fetch RSS via rss2json.com proxy — bypasses 403 blocks."""
+    def _fetch(self, name: str, url: str) -> list[dict]:
         try:
-            r = self.client.get(
-                RSS2JSON_BASE,
-                params={"rss_url": url, "count": 10},
-                timeout=15,
-            )
+            r = self.client.get(url, timeout=15)
             r.raise_for_status()
-            data = r.json()
-            if data.get("status") != "ok":
-                logger.warning(f"rss2json error [{name}]: {data.get('message', 'unknown')}")
+            # Pass raw bytes so feedparser can detect encoding via XML declaration / BOM
+            feed = feedparser.parse(r.content)
+            if feed.bozo and not feed.entries:
+                logger.warning(f"RSS parse warning [{name}]: {feed.bozo_exception}")
                 return []
             items = []
-            for item in data.get("items", []):
-                title = (item.get("title") or "").strip()
-                link = item.get("link") or item.get("guid") or ""
-                pub_date = item.get("pubDate") or ""
+            for entry in feed.entries[:10]:
+                title = (entry.get("title") or "").strip()
+                link = entry.get("link") or entry.get("id") or ""
                 if title:
-                    items.append({"title": title, "link": link, "pub_date": pub_date})
+                    items.append({"title": title, "link": link, "entry": entry})
             return items
         except Exception as e:
-            logger.warning(f"RSS proxy fetch failed [{name}]: {e}")
+            logger.warning(f"RSS fetch failed [{name}]: {e}")
             return []
 
     def collect(self) -> list[RawTrend]:
@@ -101,10 +95,10 @@ class RSSCollector:
 
         for region, feeds in RSS_FEEDS.items():
             for name, url in feeds:
-                logger.info(f"RSS (proxy): collecting {name}")
-                items = self._fetch_via_proxy(name, url)
+                logger.info(f"RSS: collecting {name}")
+                items = self._fetch(name, url)
                 for item in items:
-                    pub_at = self._parse_date(item.get("pub_date"))
+                    pub_at = self._parse_date(item["entry"])
                     score = self._recency_score(pub_at)
                     trends.append(RawTrend(
                         title=item["title"],

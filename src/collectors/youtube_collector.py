@@ -12,37 +12,27 @@ logger = logging.getLogger(__name__)
 YOUTUBE_API_BASE = "https://www.googleapis.com/youtube/v3"
 REGIONS = ["BR", "US"]
 
-# YouTube category IDs to exclude (Music=10, Gaming=20, Film & Animation=1, Sports=17)
-EXCLUDED_CATEGORY_IDS = {"1", "10", "17", "20"}
+# US: exclude Music=10, Gaming=20, Film & Animation=1, Sports=17
+EXCLUDED_CATEGORY_IDS_US = {"1", "10", "17", "20"}
+# BR: only exclude Gaming — music/sports/entertainment are genuinely trending there
+EXCLUDED_CATEGORY_IDS_BR = {"20"}
 
-# Keywords in title that indicate irrelevant content (case-insensitive)
-EXCLUDED_TITLE_KEYWORDS = {
-    # Games (PT+EN)
-    "jogo completo", "jogo ", "jogamos", "jogando", "jogar",
+# US-only keyword filter (Brazilian trending content is different — don't over-filter)
+EXCLUDED_TITLE_KEYWORDS_US = {
+    # Games
     "gameplay", "gaming", "gamer", "streamer",
     "minecraft", "roblox", "fortnite", "valorant", "apex legends",
     "free fire", "league of legends", "counter strike", "grand theft",
-    "impostor", "resident evil", "spider-man", "spiderman",
     "among us", "call of duty", "gta", "zelda", "pokemon",
-    "troll de", "torre troll",
-    # Music / Clipes (PT+EN)
-    "official mv", "music video", "clipe oficial", "official audio",
-    "lyric video", "lyrics", "official lyric", "web clipe", "clipe",
-    "funk", "pagode", "sertanejo", "axé", "forró", "arrocha",
-    " mc ", "feat.", "(feat", "part.", "(part", "sabor hs",
-    "músicas", "musicas", "católicas", "how many drinks",
-    "miguel -", "- how many",
-    # Filmes / Séries / Trailers (PT+EN)
-    "official trailer", "trailer oficial", "teaser trailer", "teaser oficial",
-    "trailer completo", "trailer breakdown", "análise do trailer",
-    "trailer", "teaser", "react trailer",
+    # Music / Clips
+    "official mv", "music video", "official audio",
+    "lyric video", "lyrics", "official lyric",
+    # Trailers
+    "official trailer", "teaser trailer",
+    "trailer breakdown",
     "netflix", "disney+", "hbo max", "prime video", "apple tv+",
-    "temporada", "season", "episode", "episódio",
-    "john wick", "chapter 2", "chapter 3", "chapter 4",
-    "the boys", "invincible", "summer house", "rats to riches",
-    "teorias", "teoria", "lore", "explicando",
-    "série:", "series:", "nova temporada",
-    # Sports (EN+PT) — times, ligas e eventos
+    "season", "episode",
+    # Sports teams (US)
     "sabres", "bruins", "lightning", "canadiens", "maple leafs", "rangers",
     "penguins", "flyers", "capitals", "islanders", "blackhawks", "red wings",
     "wild at", "avalanche", "flames", "oilers", "jets", "predators",
@@ -51,11 +41,17 @@ EXCLUDED_TITLE_KEYWORDS = {
     "phillies", "marlins", "yankees", "red sox", "dodgers", "mets",
     "eagles", "cowboys", "patriots", "49ers", "chiefs",
     "nba", "nfl", "nhl", "mlb", "wnba", "mls", "nascar", "wwe", "ufc",
-    "first round", "playoffs", "semifinal", "shoot-out", "smackdown",
+    "first round", "playoffs", "shoot-out", "smackdown",
     "speedycash", "klondike",
-    # Religiosos (fora do nicho)
-    "gospel", "adoração", "louvor", "pregação", "culto", "católic",
-    "para agradecer", "vida ao senhor", "a deus",
+}
+
+# BR: only block pure gaming content with no content value
+EXCLUDED_TITLE_KEYWORDS_BR = {
+    "gameplay", "gaming", "gamer", "streamer",
+    "minecraft", "roblox", "fortnite", "valorant", "apex legends",
+    "free fire", "league of legends", "counter strike", "grand theft",
+    "among us", "call of duty", "gta", "zelda", "pokemon",
+    "troll de", "torre troll",
 }
 
 
@@ -107,16 +103,18 @@ class YouTubeCollector:
         for region in regions:
             logger.info(f"Collecting YouTube trending for region: {region}")
             videos = self._get_trending_videos(region, max_results=50)
+            excluded_cats = EXCLUDED_CATEGORY_IDS_US if region == "US" else EXCLUDED_CATEGORY_IDS_BR
+            excluded_kws = EXCLUDED_TITLE_KEYWORDS_US if region == "US" else EXCLUDED_TITLE_KEYWORDS_BR
             skipped = 0
             for item in videos:
                 snippet = item.get("snippet", {})
                 stats = item.get("statistics", {})
                 category = snippet.get("categoryId", "")
                 title_lower = snippet.get("title", "").lower()
-                if category in EXCLUDED_CATEGORY_IDS:
+                if category in excluded_cats:
                     skipped += 1
                     continue
-                if any(kw in title_lower for kw in EXCLUDED_TITLE_KEYWORDS):
+                if any(kw in title_lower for kw in excluded_kws):
                     skipped += 1
                     continue
                 views = int(stats.get("viewCount", 0))
