@@ -1,62 +1,80 @@
 import logging
 import time
+from datetime import datetime, timedelta, timezone
 
-import feedparser
 import httpx
 
 from src.models.trend import RawTrend
 
 logger = logging.getLogger(__name__)
 
-# Google Trends daily RSS — works on cloud servers without IP blocks
+# Wikipedia pageviews API — free, no key, no cloud IP block.
+# Shows top-viewed articles for the previous day (Google Trends blocked all cloud IPs).
 REGIONS = {
-    "BR": "BR",
-    "US": "US",
+    "BR": "pt.wikipedia.org",
+    "US": "en.wikipedia.org",
 }
 
-TRENDS_RSS_URL = "https://trends.google.com/trends/trendingsearches/daily/rss?geo={geo}"
+WIKI_API = (
+    "https://wikimedia.org/api/rest_v1/metrics/pageviews/top"
+    "/{project}/all-access/{year}/{month:02d}/{day:02d}"
+)
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-    )
+# Articles that are always in the top views but have no content value
+SKIP_TITLES = {
+    "Main_Page", "Wikipédia:Página_principal", "Special:Search",
+    "Wikpédia:Esplanada", "-", "Wikipedia:Featured_pictures",
 }
+
+HEADERS = {"User-Agent": "TrendsBot/2.0 (social-media-trending; research)"}
 
 
 class GoogleTrendsCollector:
-    def _fetch_trending(self, geo: str, limit: int = 20) -> list[str]:
-        url = TRENDS_RSS_URL.format(geo=geo)
+    def _fetch_trending(self, geo: str, project: str, limit: int = 20) -> list[tuple[str, int]]:
+        yesterday = datetime.now(timezone.utc) - timedelta(days=1)
+        url = WIKI_API.format(
+            project=project,
+            year=yesterday.year,
+            month=yesterday.month,
+            day=yesterday.day,
+        )
         try:
-            # feedparser accepts a URL directly but doesn't set a User-Agent header,
-            # so fetch raw bytes first and let feedparser parse the content.
-            r = httpx.get(url, headers=HEADERS, timeout=20, follow_redirects=True)
+            r = httpx.get(url, headers=HEADERS, timeout=15, follow_redirects=True)
             r.raise_for_status()
-            feed = feedparser.parse(r.content)
-            titles = [entry.title for entry in feed.entries if entry.get("title")]
-            logger.info(f"Google Trends RSS ({geo}): {len(titles)} raw entries")
-            return titles[:limit]
+            articles = r.json()["items"][0]["articles"]
+            results = []
+            for a in articles:
+                title = a["article"].replace("_", " ")
+                if title in SKIP_TITLES or title.startswith("Special:"):
+                    continue
+                results.append((title, a["views"]))
+                if len(results) >= limit:
+                    break
+            logger.info(f"Wikipedia trending ({geo}): {len(results)} articles")
+            return results
         except Exception as e:
-            logger.error(f"Google Trends RSS error for {geo}: {e}")
+            logger.error(f"Wikipedia trending error for {geo}: {e}")
             return []
 
     def collect(self) -> list[RawTrend]:
         trends: list[RawTrend] = []
 
-        for region_code, geo in REGIONS.items():
-            logger.info(f"Google Trends (RSS) for {region_code}")
-            keywords = self._fetch_trending(geo, limit=20)
-            for i, kw in enumerate(keywords):
+        for region_code, project in REGIONS.items():
+            logger.info(f"Wikipedia Trending for {region_code} ({project})")
+            articles = self._fetch_trending(region_code, project, limit=20)
+            for i, (title, views) in enumerate(articles):
                 score = max(20.0 - i, 5.0)
+                lang = "pt" if region_code == "BR" else "en"
+                slug = title.replace(" ", "_")
                 trends.append(RawTrend(
-                    title=kw,
+                    title=title,
                     source="google_trends",
-                    url=f"https://trends.google.com/trends/explore?q={kw}&geo={region_code}",
+                    url=f"https://{lang}.wikipedia.org/wiki/{slug}",
                     region=region_code,
-                    keywords=[kw],
+                    keywords=[title],
                     raw_score=score,
                 ))
-            time.sleep(1.0)
+            time.sleep(0.5)
 
-        logger.info(f"Google Trends: collected {len(trends)} trends")
+        logger.info(f"Wikipedia Trending: collected {len(trends)} trends")
         return trends

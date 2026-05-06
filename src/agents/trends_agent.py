@@ -23,7 +23,7 @@ logger = logging.getLogger(__name__)
 PLATFORM_META: dict[str, tuple[str, str]] = {
     "youtube":       ("📺", "YouTube"),
     "news":          ("📰", "Notícias"),
-    "google_trends": ("📊", "Google Trends"),
+    "google_trends": ("📊", "Wikipedia Trends"),
     "reddit":        ("💬", "Fóruns (Reddit)"),
     "tiktok":        ("🎵", "TikTok"),
 }
