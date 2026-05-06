@@ -30,16 +30,22 @@ EXCLUDED_TITLE_KEYWORDS = {
     "lyric video", "lyrics", "official lyric", "web clipe", "clipe",
     "funk", "pagode", "sertanejo", "axé", "forró", "arrocha",
     " mc ", "feat.", "(feat", "part.", "(part", "sabor hs",
-    # Trailers / Filmes / Séries (PT+EN)
+    "músicas", "musicas", "católicas", "how many drinks",
+    "miguel -", "- how many",
+    # Filmes / Séries / Trailers (PT+EN)
     "official trailer", "trailer oficial", "teaser trailer", "teaser oficial",
     "trailer completo", "trailer breakdown", "análise do trailer",
     "trailer", "teaser", "react trailer",
     "netflix", "disney+", "hbo max", "prime video", "apple tv+",
     "temporada", "season", "episode", "episódio",
     "john wick", "chapter 2", "chapter 3", "chapter 4",
-    # Sports (EN) — times, ligas e eventos
+    "the boys", "invincible", "summer house", "rats to riches",
+    "teorias", "teoria", "lore", "explicando",
+    "série:", "series:", "nova temporada",
+    # Sports (EN+PT) — times, ligas e eventos
     "sabres", "bruins", "lightning", "canadiens", "maple leafs", "rangers",
     "penguins", "flyers", "capitals", "islanders", "blackhawks", "red wings",
+    "wild at", "avalanche", "flames", "oilers", "jets", "predators",
     "knicks", "lakers", "celtics", "warriors", "heat", "bulls", "nets",
     "hawks", "cavaliers", "pistons", "pacers", "bucks", "raptors",
     "phillies", "marlins", "yankees", "red sox", "dodgers", "mets",
@@ -48,7 +54,8 @@ EXCLUDED_TITLE_KEYWORDS = {
     "first round", "playoffs", "semifinal", "shoot-out", "smackdown",
     "speedycash", "klondike",
     # Religiosos (fora do nicho)
-    "gospel", "adoração", "louvor", "pregação", "culto",
+    "gospel", "adoração", "louvor", "pregação", "culto", "católic",
+    "para agradecer", "vida ao senhor", "a deus",
 }
 
 
