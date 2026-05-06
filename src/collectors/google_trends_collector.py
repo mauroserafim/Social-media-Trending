@@ -1,80 +1,116 @@
 import logging
 import time
-from datetime import datetime, timedelta, timezone
-
-import httpx
 
 from src.models.trend import RawTrend
 
 logger = logging.getLogger(__name__)
 
-# Wikipedia pageviews API — free, no key, no cloud IP block.
-# Shows top-viewed articles for the previous day (Google Trends blocked all cloud IPs).
 REGIONS = {
-    "BR": "pt.wikipedia.org",
-    "US": "en.wikipedia.org",
+    "BR": "brazil",
+    "US": "united_states",
 }
 
-WIKI_API = (
-    "https://wikimedia.org/api/rest_v1/metrics/pageviews/top"
-    "/{project}/all-access/{year}/{month:02d}/{day:02d}"
-)
-
-# Articles that are always in the top views but have no content value
-SKIP_TITLES = {
-    "Main_Page", "Wikipédia:Página_principal", "Special:Search",
-    "Wikpédia:Esplanada", "-", "Wikipedia:Featured_pictures",
+# Niche keywords for the "Mecanismo Americano" audience (Brazilians in/going to the US).
+# Scored daily via Google Trends interest_over_time() — works on GitHub Actions runners.
+NICHE_KEYWORDS = {
+    "BR": [
+        # Educação & Carreira
+        "como aprender inglês",
+        "curso online grátis",
+        "trabalho home office",
+        "como usar inteligência artificial",
+        # Negócios & Dinheiro
+        "como ganhar dinheiro online",
+        "renda extra",
+        "abrir empresa nos EUA",
+        # Lifestyle & Viagem
+        "morar nos EUA",
+        "custo de vida EUA",
+        "visto americano",
+        "quanto custa viajar para os EUA",
+        "vida nos Estados Unidos",
+        # Tecnologia
+        "inteligência artificial 2025",
+        # Economia & Direito
+        "dólar hoje",
+        "green card",
+        "imigração EUA",
+        "imposto nos EUA",
+        "saúde nos EUA",
+        # Viral & Comunidade
+        "brasileiro nos EUA",
+    ],
+    "US": [
+        # Education & Career
+        "how to learn online",
+        "best side hustle",
+        "AI tools for work",
+        "passive income ideas",
+        # Business & Money
+        "start a business USA",
+        "digital marketing tips",
+        # Lifestyle & Travel
+        "cost of living",
+        "moving to USA",
+        # Legal & Economy
+        "immigration USA",
+        "visa application",
+        "healthcare cost",
+        "inflation",
+        "minimum wage",
+        "deportation",
+        "green card",
+        # Viral
+        "viral trends",
+        "AI automation",
+    ],
 }
-
-HEADERS = {"User-Agent": "TrendsBot/2.0 (social-media-trending; research)"}
 
 
 class GoogleTrendsCollector:
-    def _fetch_trending(self, geo: str, project: str, limit: int = 20) -> list[tuple[str, int]]:
-        yesterday = datetime.now(timezone.utc) - timedelta(days=1)
-        url = WIKI_API.format(
-            project=project,
-            year=yesterday.year,
-            month=yesterday.month,
-            day=yesterday.day,
-        )
+    def __init__(self):
+        self._client = None
+
+    def _get_client(self):
+        if self._client is None:
+            try:
+                from pytrends.request import TrendReq
+                self._client = TrendReq(hl="pt-BR", tz=360, timeout=(10, 25))
+            except ImportError:
+                logger.error("pytrends not installed. Run: pip install pytrends")
+                raise
+        return self._client
+
+    def _fetch_interest(self, keyword: str, geo: str) -> float:
         try:
-            r = httpx.get(url, headers=HEADERS, timeout=15, follow_redirects=True)
-            r.raise_for_status()
-            articles = r.json()["items"][0]["articles"]
-            results = []
-            for a in articles:
-                title = a["article"].replace("_", " ")
-                if title in SKIP_TITLES or title.startswith("Special:"):
-                    continue
-                results.append((title, a["views"]))
-                if len(results) >= limit:
-                    break
-            logger.info(f"Wikipedia trending ({geo}): {len(results)} articles")
-            return results
+            pt = self._get_client()
+            pt.build_payload([keyword], cat=0, timeframe="now 7-d", geo=geo)
+            data = pt.interest_over_time()
+            if data.empty:
+                return 0.0
+            return float(data[keyword].mean())
         except Exception as e:
-            logger.error(f"Wikipedia trending error for {geo}: {e}")
-            return []
+            logger.warning(f"Interest fetch failed for '{keyword}' ({geo}): {e}")
+            return 0.0
 
     def collect(self) -> list[RawTrend]:
         trends: list[RawTrend] = []
 
-        for region_code, project in REGIONS.items():
-            logger.info(f"Wikipedia Trending for {region_code} ({project})")
-            articles = self._fetch_trending(region_code, project, limit=20)
-            for i, (title, views) in enumerate(articles):
-                score = max(20.0 - i, 5.0)
-                lang = "pt" if region_code == "BR" else "en"
-                slug = title.replace(" ", "_")
-                trends.append(RawTrend(
-                    title=title,
-                    source="google_trends",
-                    url=f"https://{lang}.wikipedia.org/wiki/{slug}",
-                    region=region_code,
-                    keywords=[title],
-                    raw_score=score,
-                ))
-            time.sleep(0.5)
+        for region_code, keywords in NICHE_KEYWORDS.items():
+            geo = "BR" if region_code == "BR" else "US"
+            logger.info(f"Google Trends (niche keywords) for {region_code} — {len(keywords)} keywords")
+            for kw in keywords:
+                score = self._fetch_interest(kw, geo)
+                time.sleep(0.8)
+                if score > 0:
+                    trends.append(RawTrend(
+                        title=kw,
+                        source="google_trends",
+                        url=f"https://trends.google.com/trends/explore?q={kw}&geo={region_code}",
+                        region=region_code,
+                        keywords=[kw],
+                        raw_score=score,
+                    ))
 
-        logger.info(f"Wikipedia Trending: collected {len(trends)} trends")
+        logger.info(f"Google Trends: collected {len(trends)} trends")
         return trends
