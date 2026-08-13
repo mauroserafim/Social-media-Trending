@@ -174,11 +174,15 @@ class EmailNotifier:
         self.smtp_password = os.getenv("SMTP_PASSWORD", "")
         self.from_addr = os.getenv("EMAIL_FROM", self.smtp_user)
         self.to_addrs = [a.strip() for a in os.getenv("EMAIL_TO", "").split(",") if a.strip()]
+        self.enabled = os.getenv("EMAIL_ENABLED", "false").strip().lower() == "true"
 
     def is_configured(self) -> bool:
         return bool(self.smtp_user and self.smtp_password and self.to_addrs)
 
     def send(self, report: TrendReport) -> bool:
+        if not self.enabled:
+            logger.info("Email notifications disabled (EMAIL_ENABLED=false) — skipping")
+            return False
         if not self.is_configured():
             logger.warning("Email not configured — skipping notification")
             return False
