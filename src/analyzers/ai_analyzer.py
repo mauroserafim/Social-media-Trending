@@ -1,10 +1,11 @@
 import json
 import logging
 import os
+import time
 from typing import Optional
 
 from google import genai
-from google.genai import types
+from google.genai import errors, types
 from pydantic import BaseModel
 
 from src.models.trend import CrossPlatformTrend, NicheIdea, RawTrend, UrgencyLevel, VideoFormat
@@ -139,11 +140,13 @@ class AIAnalyzer:
         prompt = NICHE_PROMPT.format(trends_json=trends_json, max_ideas=max_ideas)
 
         logger.info("Sending trends to AI for niche analysis...")
-        # response_schema constrains Gemini toward valid JSON but doesn't
-        # guarantee it — a stray unescaped quote in a free-text field can
-        # still break the parser occasionally. Retry a few times before
-        # giving up, since a fresh generation usually succeeds.
-        max_attempts = 3
+        # Two things make a fresh attempt worth retrying instead of giving up:
+        # (1) response_schema constrains Gemini toward valid JSON but doesn't
+        #     guarantee it — a stray unescaped quote in a free-text field can
+        #     still break the parser occasionally.
+        # (2) Gemini's API returns transient 503/429s under load ("high
+        #     demand") that usually clear within a few seconds.
+        max_attempts = 4
         data = None
         for attempt in range(1, max_attempts + 1):
             try:
@@ -165,6 +168,12 @@ class AIAnalyzer:
                 if attempt == max_attempts:
                     logger.error("AI analysis failed: Gemini kept returning malformed JSON")
                     return []
+            except errors.APIError as e:
+                logger.warning(f"Gemini API error (attempt {attempt}/{max_attempts}): {e}")
+                if attempt == max_attempts:
+                    logger.error(f"AI analysis failed: Gemini API error: {e}")
+                    return []
+                time.sleep(3 * attempt)
             except Exception as e:
                 logger.error(f"AI analysis failed: {e}")
                 return []
