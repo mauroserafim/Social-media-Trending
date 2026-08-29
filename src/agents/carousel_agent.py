@@ -117,7 +117,8 @@ class CarouselAgent:
             logger.warning("PEXELS_API_KEY not set — skipping image download for slides")
             return
 
-        post_dir = IMAGES_DIR / f"{post.topic_slug}_{post.generated_at.strftime('%Y%m%d_%H%M%S')}"
+        post_subdir = f"{post.topic_slug}_{post.generated_at.strftime('%Y%m%d_%H%M%S')}"
+        post_dir = IMAGES_DIR / post_subdir
         post_dir.mkdir(parents=True, exist_ok=True)
 
         for slide in post.slides:
@@ -127,9 +128,14 @@ class CarouselAgent:
             photo = self.pexels.search_photo(query)
             if photo is None:
                 continue
-            dest = post_dir / f"slide_{slide.number}.jpg"
+            filename = f"slide_{slide.number}.jpg"
+            dest = post_dir / filename
             if self.pexels.download(photo, str(dest)):
-                slide.image_path = str(dest)
+                # Relative to outputs/carousel/ (where the .md lives) — not the
+                # full "outputs/carousel/images/..." path — so the image link
+                # resolves both when opening outputs/carousel/latest.md locally
+                # and inside the CI artifact zip (whose root IS outputs/carousel/).
+                slide.image_path = f"images/{post_subdir}/{filename}"
                 slide.image_credit = f"Foto: {photo.photographer} (Pexels)"
                 slide.image_source_url = photo.pexels_url
 
