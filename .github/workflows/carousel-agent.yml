@@ -31,9 +31,9 @@ jobs:
 
       - name: Generate today's carousel
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS }}
           GITHUB_RUN_ID: ${{ github.run_id }}
         run: python main.py --carousel
 
