@@ -9,6 +9,7 @@ from src.analyzers.carousel_generator import CarouselGenerator
 from src.collectors.pexels_client import PexelsClient
 from src.exporters.carousel_json_exporter import CarouselJSONExporter
 from src.exporters.carousel_markdown_exporter import CarouselMarkdownExporter
+from src.exporters.slide_renderer import render_slide
 from src.models.carousel import CarouselPost, slugify
 from src.storage.database import Database
 
@@ -108,11 +109,12 @@ class CarouselAgent:
         return FALLBACK_TOPICS[0]
 
     def _fetch_images(self, post: CarouselPost) -> None:
-        """Search a free stock-photo bank (Pexels) for each slide's image_query
-        and download a matching photo. Mutates post.slides in place. Skips
-        silently (leaving slides without images) if PEXELS_API_KEY isn't set
-        or a given query has no results — the text/design brief still works
-        without photos."""
+        """Search a free stock-photo bank (Pexels) for each slide's image_query,
+        download a matching photo, then composite the headline + brand chrome
+        onto it so each slide is a finished, ready-to-post image rather than a
+        bare stock photo. Mutates post.slides in place. Skips silently (leaving
+        slides without images) if PEXELS_API_KEY isn't set or a given query has
+        no results — the text/design brief still works without photos."""
         if not self.pexels.is_configured():
             logger.warning("PEXELS_API_KEY not set — skipping image download for slides")
             return
@@ -120,6 +122,7 @@ class CarouselAgent:
         post_subdir = f"{post.topic_slug}_{post.generated_at.strftime('%Y%m%d_%H%M%S')}"
         post_dir = IMAGES_DIR / post_subdir
         post_dir.mkdir(parents=True, exist_ok=True)
+        total_slides = len(post.slides)
 
         for slide in post.slides:
             query = slide.image_query or slide.headline
@@ -130,14 +133,26 @@ class CarouselAgent:
                 continue
             filename = f"slide_{slide.number}.jpg"
             dest = post_dir / filename
-            if self.pexels.download(photo, str(dest)):
-                # Relative to outputs/carousel/ (where the .md lives) — not the
-                # full "outputs/carousel/images/..." path — so the image link
-                # resolves both when opening outputs/carousel/latest.md locally
-                # and inside the CI artifact zip (whose root IS outputs/carousel/).
-                slide.image_path = f"images/{post_subdir}/{filename}"
-                slide.image_credit = f"Foto: {photo.photographer} (Pexels)"
-                slide.image_source_url = photo.pexels_url
+            if not self.pexels.download(photo, str(dest)):
+                continue
+
+            credit = f"Foto: {photo.photographer} (Pexels)"
+            render_slide(
+                photo_path=str(dest),
+                headline=slide.headline,
+                out_path=str(dest),
+                slide_num=slide.number,
+                total_slides=total_slides,
+                credit=credit,
+            )
+
+            # Relative to outputs/carousel/ (where the .md lives) — not the
+            # full "outputs/carousel/images/..." path — so the image link
+            # resolves both when opening outputs/carousel/latest.md locally
+            # and inside the CI artifact zip (whose root IS outputs/carousel/).
+            slide.image_path = f"images/{post_subdir}/{filename}"
+            slide.image_credit = credit
+            slide.image_source_url = photo.pexels_url
 
         found = sum(1 for s in post.slides if s.image_path)
         logger.info(f"Images: {found}/{len(post.slides)} slides matched with a Pexels photo")

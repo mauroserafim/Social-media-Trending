@@ -18,8 +18,8 @@ Agente automático que varre YouTube, Google Trends e RSS de notícias, identifi
 ### 1. Clone e configure o ambiente
 
 ```bash
-git clone https://github.com/seu-usuario/social-media-trending
-cd social-media-trending
+git clone https://github.com/mauroserafim/carrocel-social-media-
+cd carrocel-social-media-
 cp .env.example .env
 # Edite .env com suas chaves
 pip install -r requirements.txt
@@ -50,13 +50,13 @@ Gera o pacote de conteúdo de um carrossel por dia para o perfil "Mecanismo Amer
 python main.py --carousel
 ```
 
-O resultado fica em `outputs/carousel/latest.md` (pronto para copiar legendas, ver a foto de cada slide e a `visual_direction` para ajustar a arte no Canva/CapCut) e `outputs/carousel/latest.json`.
+O resultado fica em `outputs/carousel/latest.md` (com legendas, fontes e cada slide já embutido como imagem final) e `outputs/carousel/latest.json`.
 
-**Fotos de banco gratuito**: para cada slide, a IA gera um `image_query` (termo de busca em inglês) e o agente busca a imagem correspondente na [Pexels](https://www.pexels.com/api/) — banco de fotos livre de direitos autorais, uso comercial liberado, sem exigência legal de atribuição (o crédito do fotógrafo é incluído mesmo assim, por profissionalismo). As fotos baixadas ficam em `outputs/carousel/images/<tema>/slide_N.jpg`. Sem `PEXELS_API_KEY` configurada, o carrossel ainda é gerado normalmente, só sem as fotos.
+**Slides prontos para postar**: para cada slide, a IA gera um `image_query` (termo de busca em inglês) e o agente busca a foto correspondente na [Pexels](https://www.pexels.com/api/) — banco de fotos livre de direitos autorais, uso comercial liberado. Em cima dessa foto, o agente **compõe automaticamente** a headline do slide (com contraste/gradiente para legibilidade), numeração (`1/7`, `2/7`...), a marca "Mecanismo Americano" e o crédito do fotógrafo — gerando um `.jpg` 1080×1350 (formato 4:5 do Instagram) já pronto pra upload, sem precisar abrir Canva. As imagens finais ficam em `outputs/carousel/images/<tema>/slide_N.jpg`. Sem `PEXELS_API_KEY` configurada, o carrossel ainda é gerado normalmente, só sem as fotos/slides finais (fica só o roteiro de texto).
 
 **Não repete tema**: cada execução lê `outputs/carousel/history.json` (commitado no repositório, então sobrevive entre execuções do GitHub Actions) com os últimos tópicos já gerados e pede à IA um ângulo diferente — priorizando as ideias de nicho mais recentes salvas pelo Trends Agent e caindo em temas evergreen só se necessário.
 
-> **Importante:** as fotos vêm de um banco de imagens genérico (Pexels), não são fotos exclusivas/geradas por IA do tema exato — sempre confira se a imagem escolhida realmente combina com o slide antes de postar, e confira as fontes citadas dos dados.
+> **Importante:** a foto de fundo vem de um banco de imagens genérico (Pexels), não é gerada sob medida pra cada dado — sempre confira se a imagem escolhida realmente combina com o slide antes de postar, e confira as fontes citadas dos dados.
 
 Roda automaticamente 1x por dia via o workflow `carousel-agent.yml` (10h BRT), logo após o Trends Agent. As fotos baixadas não são commitadas no repositório (ficam fora do git via `.gitignore` para não inchar o histórico) — baixe-as pelo artifact `carousel-<run_id>` na aba **Actions** de cada execução.
 
