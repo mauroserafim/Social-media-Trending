@@ -36,10 +36,10 @@ jobs:
 
       - name: Run AI Trends Agent
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
-          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
           MAX_IDEAS: ${{ github.event.inputs.max_ideas || '10' }}
           GITHUB_RUN_ID: ${{ github.run_id }}
           EMAIL_ENABLED: ${{ vars.EMAIL_ENABLED || 'false' }}

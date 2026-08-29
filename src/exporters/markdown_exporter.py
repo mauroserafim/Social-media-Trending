@@ -39,7 +39,7 @@ class MarkdownExporter:
 
     def _render_niche_table(self, ideas: list[NicheIdea]) -> str:
         if not ideas:
-            return "\n### 🎯 MEU NICHO\n\n*Nenhuma ideia gerada. Verifique OPENAI_API_KEY e os logs.*\n"
+            return "\n### 🎯 MEU NICHO\n\n*Nenhuma ideia gerada. Verifique GEMINI_API_KEY e os logs.*\n"
 
         lines = [
             f"\n### 🎯 Meu Nicho — Mecanismo Americano\n",

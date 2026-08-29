@@ -3,7 +3,8 @@ import logging
 import os
 from typing import Optional
 
-from openai import OpenAI
+from google import genai
+from google.genai import types
 
 from src.models.carousel import CarouselPost, CarouselSlide, Source, slugify
 
@@ -56,17 +57,17 @@ Gere um objeto JSON com o schema exato:
 
 
 class CarouselGenerator:
-    def __init__(self, api_key: Optional[str] = None, model: str = "gpt-4o-mini"):
-        self.api_key = api_key or os.getenv("OPENAI_API_KEY", "")
-        self.model = model
-        self._client: Optional[OpenAI] = None
+    def __init__(self, api_key: Optional[str] = None, model: Optional[str] = None):
+        self.api_key = api_key or os.getenv("GEMINI_API_KEY", "")
+        self.model = model or os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+        self._client: Optional[genai.Client] = None
 
     @property
-    def client(self) -> OpenAI:
+    def client(self) -> genai.Client:
         if self._client is None:
             if not self.api_key:
-                raise ValueError("OPENAI_API_KEY not set")
-            self._client = OpenAI(api_key=self.api_key)
+                raise ValueError("GEMINI_API_KEY not set")
+            self._client = genai.Client(api_key=self.api_key)
         return self._client
 
     def generate(
@@ -93,18 +94,17 @@ class CarouselGenerator:
 
         logger.info(f"Generating carousel for topic: {main_topic}")
         try:
-            response = self.client.chat.completions.create(
+            response = self.client.models.generate_content(
                 model=self.model,
-                messages=[
-                    {"role": "system", "content": SYSTEM_PROMPT},
-                    {"role": "user", "content": prompt},
-                ],
-                temperature=0.8,
-                max_tokens=3000,
-                response_format={"type": "json_object"},
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    system_instruction=SYSTEM_PROMPT,
+                    temperature=0.8,
+                    max_output_tokens=3000,
+                    response_mime_type="application/json",
+                ),
             )
-            raw = response.choices[0].message.content
-            data = json.loads(raw)
+            data = json.loads(response.text)
 
             slides = [
                 CarouselSlide(

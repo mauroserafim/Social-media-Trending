@@ -75,7 +75,7 @@ def run_agent(max_ideas: int = 10):
             print(f"     Por que: {idea.why_trending[:100]}")
             print(f"     Ângulo:  {idea.niche_angle[:100]}")
     else:
-        print("\n⚠️  Nenhuma ideia de nicho gerada. Verifique OPENAI_API_KEY e os logs.")
+        print("\n⚠️  Nenhuma ideia de nicho gerada. Verifique GEMINI_API_KEY e os logs.")
 
     print(f"\n{'='*70}")
     print("  Outputs salvos em outputs/json/ e outputs/markdown/")
@@ -89,7 +89,7 @@ def run_carousel():
         post = agent.run()
 
     if post is None:
-        print("\n⚠️  Falha ao gerar o carrossel. Verifique OPENAI_API_KEY e os logs.\n")
+        print("\n⚠️  Falha ao gerar o carrossel. Verifique GEMINI_API_KEY e os logs.\n")
         sys.exit(1)
 
     print(f"\n{'='*70}")

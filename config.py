@@ -5,12 +5,12 @@ from dataclasses import dataclass, field
 @dataclass
 class Config:
     # API Keys
-    openai_api_key: str = field(default_factory=lambda: os.getenv("OPENAI_API_KEY", ""))
+    gemini_api_key: str = field(default_factory=lambda: os.getenv("GEMINI_API_KEY", ""))
     youtube_api_key: str = field(default_factory=lambda: os.getenv("YOUTUBE_API_KEY", ""))
     pexels_api_key: str = field(default_factory=lambda: os.getenv("PEXELS_API_KEY", ""))
 
-    # OpenAI
-    openai_model: str = field(default_factory=lambda: os.getenv("OPENAI_MODEL", "gpt-4o-mini"))
+    # Gemini
+    gemini_model: str = field(default_factory=lambda: os.getenv("GEMINI_MODEL", "gemini-2.5-flash"))
 
     # Agent
     max_ideas: int = field(default_factory=lambda: int(os.getenv("MAX_IDEAS", "10")))
@@ -25,8 +25,8 @@ class Config:
 
     def validate(self) -> list[str]:
         errors = []
-        if not self.openai_api_key:
-            errors.append("OPENAI_API_KEY is required")
+        if not self.gemini_api_key:
+            errors.append("GEMINI_API_KEY is required")
         return errors
 
 
