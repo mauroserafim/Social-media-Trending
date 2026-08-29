@@ -21,6 +21,10 @@ class CarouselSlide(BaseModel):
     headline: str
     body: str
     visual_direction: str = ""
+    image_query: str = ""  # short English keyword phrase for stock photo search
+    image_path: str = ""  # local path to the downloaded photo, if any
+    image_credit: str = ""  # e.g. "Foto: Jane Doe (Pexels)"
+    image_source_url: str = ""
 
 
 class CarouselPost(BaseModel):

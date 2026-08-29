@@ -27,12 +27,13 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Create required directories
-        run: mkdir -p logs data outputs/carousel
+        run: mkdir -p logs data outputs/carousel/images
 
       - name: Generate today's carousel
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           GITHUB_RUN_ID: ${{ github.run_id }}
         run: python main.py --carousel
 

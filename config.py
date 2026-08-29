@@ -7,6 +7,7 @@ class Config:
     # API Keys
     openai_api_key: str = field(default_factory=lambda: os.getenv("OPENAI_API_KEY", ""))
     youtube_api_key: str = field(default_factory=lambda: os.getenv("YOUTUBE_API_KEY", ""))
+    pexels_api_key: str = field(default_factory=lambda: os.getenv("PEXELS_API_KEY", ""))
 
     # OpenAI
     openai_model: str = field(default_factory=lambda: os.getenv("OPENAI_MODEL", "gpt-4o-mini"))

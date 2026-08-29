@@ -19,7 +19,7 @@ Sua missão: criar o roteiro de um CARROSSEL para Instagram/TikTok que:
 
 Regras de formato:
 - Carrossel: 6 a 8 slides. Slide 1 é o gancho (hook) chocante/curioso. Últimos 1-2 slides sempre trazem uma virada, uma lição prática ou uma pergunta para engajamento. Um dos slides do meio deve ser o "slide do dado" com o número/estatística em destaque e a fonte citada.
-- Cada slide tem: headline curta (até 8 palavras, linguagem de card, pode usar CAIXA ALTA em 1-2 palavras-chave) + body (1-3 frases, linguagem direta, sem enrolação) + visual_direction (direção de design para quem vai montar a arte: cores, ícone/imagem sugerida, onde colocar o número em destaque).
+- Cada slide tem: headline curta (até 8 palavras, linguagem de card, pode usar CAIXA ALTA em 1-2 palavras-chave) + body (1-3 frases, linguagem direta, sem enrolação) + visual_direction (direção de design para quem vai montar a arte: cores, ícone/imagem sugerida, onde colocar o número em destaque) + image_query (2-5 palavras EM INGLÊS, termo de busca objetivo e literal para banco de imagens gratuito, ex: "worried man reading bill", "new york apartment street", "immigration office queue" — nunca em português, nunca abstrato demais).
 - Legenda do Instagram: 4-8 linhas, gancho na primeira linha, storytelling breve, CTA (comentar, salvar, seguir), tom de autoridade + proximidade.
 - Legenda do TikTok: mais curta e direta, otimizada para o algoritmo, com gancho na primeira linha.
 - Hashtags: 8-12 para Instagram (mix de nicho + amplo), 4-6 para TikTok.
@@ -43,7 +43,7 @@ Gere um objeto JSON com o schema exato:
   "topic": "título curto do carrossel",
   "hook": "frase de impacto do slide 1",
   "slides": [
-    {{"number": 1, "headline": "...", "body": "...", "visual_direction": "..."}}
+    {{"number": 1, "headline": "...", "body": "...", "visual_direction": "...", "image_query": "..."}}
   ],
   "caption_instagram": "...",
   "caption_tiktok": "...",
@@ -112,6 +112,7 @@ class CarouselGenerator:
                     headline=s.get("headline", ""),
                     body=s.get("body", ""),
                     visual_direction=s.get("visual_direction", ""),
+                    image_query=s.get("image_query", ""),
                 )
                 for i, s in enumerate(data.get("slides", []))
             ]

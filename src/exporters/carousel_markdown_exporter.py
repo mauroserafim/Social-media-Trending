@@ -28,6 +28,10 @@ class CarouselMarkdownExporter:
 
         for slide in post.slides:
             lines.append(f"### Slide {slide.number} — {slide.headline}")
+            if slide.image_path:
+                lines.append(f"![{slide.headline}]({slide.image_path})")
+                if slide.image_credit:
+                    lines.append(f"*{slide.image_credit}*")
             lines.append(f"{slide.body}")
             if slide.visual_direction:
                 lines.append(f"- 🎨 *Direção visual:* {slide.visual_direction}")

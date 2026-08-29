@@ -50,13 +50,15 @@ Gera o pacote de conteúdo de um carrossel por dia para o perfil "Mecanismo Amer
 python main.py --carousel
 ```
 
-O resultado fica em `outputs/carousel/latest.md` (pronto para copiar legendas e montar a arte no Canva/CapCut a partir da `visual_direction` de cada slide) e `outputs/carousel/latest.json`.
+O resultado fica em `outputs/carousel/latest.md` (pronto para copiar legendas, ver a foto de cada slide e a `visual_direction` para ajustar a arte no Canva/CapCut) e `outputs/carousel/latest.json`.
+
+**Fotos de banco gratuito**: para cada slide, a IA gera um `image_query` (termo de busca em inglês) e o agente busca a imagem correspondente na [Pexels](https://www.pexels.com/api/) — banco de fotos livre de direitos autorais, uso comercial liberado, sem exigência legal de atribuição (o crédito do fotógrafo é incluído mesmo assim, por profissionalismo). As fotos baixadas ficam em `outputs/carousel/images/<tema>/slide_N.jpg`. Sem `PEXELS_API_KEY` configurada, o carrossel ainda é gerado normalmente, só sem as fotos.
 
 **Não repete tema**: cada execução lê `outputs/carousel/history.json` (commitado no repositório, então sobrevive entre execuções do GitHub Actions) com os últimos tópicos já gerados e pede à IA um ângulo diferente — priorizando as ideias de nicho mais recentes salvas pelo Trends Agent e caindo em temas evergreen só se necessário.
 
-> **Importante:** o agente não gera fotos/imagens finais (não há chave de geração de imagem configurada) — ele entrega o roteiro de texto e a direção visual de cada slide para você (ou um designer) montar a arte. Sempre confira as fontes citadas antes de publicar.
+> **Importante:** as fotos vêm de um banco de imagens genérico (Pexels), não são fotos exclusivas/geradas por IA do tema exato — sempre confira se a imagem escolhida realmente combina com o slide antes de postar, e confira as fontes citadas dos dados.
 
-Roda automaticamente 1x por dia via o workflow `carousel-agent.yml` (10h BRT), logo após o Trends Agent.
+Roda automaticamente 1x por dia via o workflow `carousel-agent.yml` (10h BRT), logo após o Trends Agent. As fotos baixadas não são commitadas no repositório (ficam fora do git via `.gitignore` para não inchar o histórico) — baixe-as pelo artifact `carousel-<run_id>` na aba **Actions** de cada execução.
 
 ## GitHub Actions (execução automática)
 
@@ -70,6 +72,7 @@ Settings → Secrets and variables → Actions → New repository secret
 |--------|-----------|
 | `OPENAI_API_KEY` | Chave da OpenAI (obrigatório) |
 | `YOUTUBE_API_KEY` | Chave do YouTube Data API v3 |
+| `PEXELS_API_KEY` | Chave grátis da Pexels, para baixar as fotos do carrossel diário |
 
 O workflow roda automaticamente a cada 4 horas e também pode ser disparado manualmente em **Actions → AI Trends Research Agent → Run workflow**.
 

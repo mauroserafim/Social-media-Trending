@@ -6,6 +6,7 @@ from datetime import datetime
 from pathlib import Path
 
 from src.analyzers.carousel_generator import CarouselGenerator
+from src.collectors.pexels_client import PexelsClient
 from src.exporters.carousel_json_exporter import CarouselJSONExporter
 from src.exporters.carousel_markdown_exporter import CarouselMarkdownExporter
 from src.models.carousel import CarouselPost, slugify
@@ -19,6 +20,7 @@ logger = logging.getLogger(__name__)
 # repeated topics day over day, both locally and in CI.
 HISTORY_PATH = Path("outputs/carousel/history.json")
 HISTORY_MAX_ENTRIES = 200
+IMAGES_DIR = Path("outputs/carousel/images")
 
 # Fallback topics used only when there are no fresh niche ideas in the database
 # (e.g. first run, or trends agent hasn't run yet today).
@@ -51,6 +53,7 @@ class CarouselAgent:
     def __init__(self):
         self.run_id = os.getenv("GITHUB_RUN_ID", str(uuid.uuid4())[:8])
         self.generator = CarouselGenerator()
+        self.pexels = PexelsClient()
         self.db = Database()
         self.md_exp = CarouselMarkdownExporter()
         self.json_exp = CarouselJSONExporter()
@@ -104,6 +107,35 @@ class CarouselAgent:
             }
         return FALLBACK_TOPICS[0]
 
+    def _fetch_images(self, post: CarouselPost) -> None:
+        """Search a free stock-photo bank (Pexels) for each slide's image_query
+        and download a matching photo. Mutates post.slides in place. Skips
+        silently (leaving slides without images) if PEXELS_API_KEY isn't set
+        or a given query has no results — the text/design brief still works
+        without photos."""
+        if not self.pexels.is_configured():
+            logger.warning("PEXELS_API_KEY not set — skipping image download for slides")
+            return
+
+        post_dir = IMAGES_DIR / f"{post.topic_slug}_{post.generated_at.strftime('%Y%m%d_%H%M%S')}"
+        post_dir.mkdir(parents=True, exist_ok=True)
+
+        for slide in post.slides:
+            query = slide.image_query or slide.headline
+            if not query:
+                continue
+            photo = self.pexels.search_photo(query)
+            if photo is None:
+                continue
+            dest = post_dir / f"slide_{slide.number}.jpg"
+            if self.pexels.download(photo, str(dest)):
+                slide.image_path = str(dest)
+                slide.image_credit = f"Foto: {photo.photographer} (Pexels)"
+                slide.image_source_url = photo.pexels_url
+
+        found = sum(1 for s in post.slides if s.image_path)
+        logger.info(f"Images: {found}/{len(post.slides)} slides matched with a Pexels photo")
+
     def run(self) -> CarouselPost | None:
         start = datetime.utcnow()
         logger.info(f"=== Carousel Agent started | run_id={self.run_id} ===")
@@ -133,6 +165,8 @@ class CarouselAgent:
             logger.error("Carousel generation failed — no post produced")
             return None
 
+        self._fetch_images(post)
+
         self.db.save_carousel_post(post)
         self._append_history(post, history)
         md_path = self.md_exp.export(post)
@@ -144,6 +178,7 @@ class CarouselAgent:
         return post
 
     def close(self):
+        self.pexels.close()
         self.db.close()
 
     def __enter__(self):

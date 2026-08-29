@@ -2,6 +2,8 @@
 *.db
 logs/
 data/
+# Downloaded stock photos — kept as CI artifacts, not committed (avoids repo bloat)
+outputs/carousel/images/
 __pycache__/
 *.pyc
 *.pyo
