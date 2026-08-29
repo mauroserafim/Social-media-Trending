@@ -139,20 +139,37 @@ class AIAnalyzer:
         prompt = NICHE_PROMPT.format(trends_json=trends_json, max_ideas=max_ideas)
 
         logger.info("Sending trends to AI for niche analysis...")
-        try:
-            response = self.client.models.generate_content(
-                model=self.model,
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    system_instruction=SYSTEM_PROMPT,
-                    temperature=0.7,
-                    max_output_tokens=8192,
-                    response_mime_type="application/json",
-                    response_schema=list[_NicheIdeaSchema],
-                ),
-            )
-            data = json.loads(response.text)
+        # response_schema constrains Gemini toward valid JSON but doesn't
+        # guarantee it — a stray unescaped quote in a free-text field can
+        # still break the parser occasionally. Retry a few times before
+        # giving up, since a fresh generation usually succeeds.
+        max_attempts = 3
+        data = None
+        for attempt in range(1, max_attempts + 1):
+            try:
+                response = self.client.models.generate_content(
+                    model=self.model,
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        system_instruction=SYSTEM_PROMPT,
+                        temperature=0.7,
+                        max_output_tokens=8192,
+                        response_mime_type="application/json",
+                        response_schema=list[_NicheIdeaSchema],
+                    ),
+                )
+                data = json.loads(response.text)
+                break
+            except json.JSONDecodeError as e:
+                logger.warning(f"Malformed JSON from Gemini (attempt {attempt}/{max_attempts}): {e}")
+                if attempt == max_attempts:
+                    logger.error("AI analysis failed: Gemini kept returning malformed JSON")
+                    return []
+            except Exception as e:
+                logger.error(f"AI analysis failed: {e}")
+                return []
 
+        try:
             if isinstance(data, dict):
                 items = data.get("ideas", data.get("trends", list(data.values())[0] if data else []))
             else:
