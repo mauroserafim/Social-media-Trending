@@ -39,7 +39,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE }}
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
-          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.6-flash' }}
           MAX_IDEAS: ${{ github.event.inputs.max_ideas || '10' }}
           GITHUB_RUN_ID: ${{ github.run_id }}
           EMAIL_ENABLED: ${{ vars.EMAIL_ENABLED || 'false' }}

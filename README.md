@@ -5,7 +5,7 @@ Agente automático que varre YouTube, Google Trends e RSS de notícias, identifi
 ## Funcionalidades
 
 - Coleta tendências do YouTube (API oficial), Google Trends e RSS (CNN, Reuters, G1, TechCrunch, etc.)
-- Análise com IA via Gemini (`gemini-2.5-flash` por padrão, free tier do Google AI Studio)
+- Análise com IA via Gemini (`gemini-3.6-flash` por padrão, free tier do Google AI Studio)
 - Gera até 10 ideias por execução com: score, gancho, 3 títulos, 3 thumbnails, formato e urgência
 - **Gera 1 carrossel completo por dia** para Instagram/TikTok (persona PhD, EUA x Brasil) — ver seção [Carrossel diário](#carrossel-diário-instagramtiktok)
 - Exporta em JSON e Markdown

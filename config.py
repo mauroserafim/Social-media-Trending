@@ -10,7 +10,7 @@ class Config:
     pexels_api_key: str = field(default_factory=lambda: os.getenv("PEXELS_API_KEY", ""))
 
     # Gemini
-    gemini_model: str = field(default_factory=lambda: os.getenv("GEMINI_MODEL", "gemini-2.5-flash"))
+    gemini_model: str = field(default_factory=lambda: os.getenv("GEMINI_MODEL", "gemini-3.6-flash"))
 
     # Agent
     max_ideas: int = field(default_factory=lambda: int(os.getenv("MAX_IDEAS", "10")))
