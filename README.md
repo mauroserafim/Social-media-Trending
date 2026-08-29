@@ -7,6 +7,7 @@ Agente automático que varre YouTube, Google Trends e RSS de notícias, identifi
 - Coleta tendências do YouTube (API oficial), Google Trends e RSS (CNN, Reuters, G1, TechCrunch, etc.)
 - Análise com OpenAI (GPT-4o-mini por padrão)
 - Gera até 10 ideias por execução com: score, gancho, 3 títulos, 3 thumbnails, formato e urgência
+- **Gera 1 carrossel completo por dia** para Instagram/TikTok (persona PhD, EUA x Brasil) — ver seção [Carrossel diário](#carrossel-diário-instagramtiktok)
 - Exporta em JSON e Markdown
 - Armazena histórico em SQLite
 - Roda automaticamente via GitHub Actions a cada 4 horas
@@ -40,6 +41,22 @@ python main.py --run          # Executa o agente
 python main.py --latest       # Vê os últimos resultados
 python main.py --api          # Sobe a API REST
 ```
+
+## Carrossel diário (Instagram/TikTok)
+
+Gera o pacote de conteúdo de um carrossel por dia para o perfil "Mecanismo Americano": gancho, 6-8 slides (headline + texto + direção visual), legenda para Instagram, legenda para TikTok, hashtags, CTA e **fontes reais citadas** (Census Bureau, BLS, Pew Research, IBGE, Numbeo etc.) para dar credibilidade aos dados usados.
+
+```bash
+python main.py --carousel
+```
+
+O resultado fica em `outputs/carousel/latest.md` (pronto para copiar legendas e montar a arte no Canva/CapCut a partir da `visual_direction` de cada slide) e `outputs/carousel/latest.json`.
+
+**Não repete tema**: cada execução lê `outputs/carousel/history.json` (commitado no repositório, então sobrevive entre execuções do GitHub Actions) com os últimos tópicos já gerados e pede à IA um ângulo diferente — priorizando as ideias de nicho mais recentes salvas pelo Trends Agent e caindo em temas evergreen só se necessário.
+
+> **Importante:** o agente não gera fotos/imagens finais (não há chave de geração de imagem configurada) — ele entrega o roteiro de texto e a direção visual de cada slide para você (ou um designer) montar a arte. Sempre confira as fontes citadas antes de publicar.
+
+Roda automaticamente 1x por dia via o workflow `carousel-agent.yml` (10h BRT), logo após o Trends Agent.
 
 ## GitHub Actions (execução automática)
 

@@ -6,6 +6,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Optional
 
+from src.models.carousel import CarouselPost
 from src.models.trend import NicheIdea, RawTrend, TrendIdea
 
 logger = logging.getLogger(__name__)
@@ -61,9 +62,22 @@ class Database:
                 run_id TEXT
             );
 
+            CREATE TABLE IF NOT EXISTS carousel_posts (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                topic TEXT NOT NULL,
+                topic_slug TEXT NOT NULL,
+                region TEXT,
+                hook TEXT,
+                payload TEXT NOT NULL,
+                generated_at TEXT,
+                run_id TEXT
+            );
+
             CREATE INDEX IF NOT EXISTS idx_niche_ideas_collected ON niche_ideas(collected_at DESC);
             CREATE INDEX IF NOT EXISTS idx_raw_trends_collected ON raw_trends(collected_at DESC);
             CREATE INDEX IF NOT EXISTS idx_raw_trends_source ON raw_trends(source);
+            CREATE INDEX IF NOT EXISTS idx_carousel_posts_slug ON carousel_posts(topic_slug);
+            CREATE INDEX IF NOT EXISTS idx_carousel_posts_generated ON carousel_posts(generated_at DESC);
         """)
         self.conn.commit()
 
@@ -125,6 +139,32 @@ class Database:
     def get_latest_niche_ideas(self, limit: int = 20) -> list[dict]:
         cursor = self.conn.execute(
             "SELECT * FROM niche_ideas ORDER BY collected_at DESC LIMIT ?",
+            (limit,),
+        )
+        return [dict(row) for row in cursor.fetchall()]
+
+    def save_carousel_post(self, post: CarouselPost) -> int:
+        self.conn.execute(
+            """INSERT INTO carousel_posts
+               (topic, topic_slug, region, hook, payload, generated_at, run_id)
+               VALUES (?, ?, ?, ?, ?, ?, ?)""",
+            (
+                post.topic,
+                post.topic_slug,
+                post.region,
+                post.hook,
+                json.dumps(post.to_dict(), ensure_ascii=False),
+                post.generated_at.isoformat(),
+                post.run_id,
+            ),
+        )
+        self.conn.commit()
+        return self.conn.execute("SELECT last_insert_rowid()").fetchone()[0]
+
+    def get_recent_carousel_topics(self, limit: int = 60) -> list[dict]:
+        cursor = self.conn.execute(
+            """SELECT topic, topic_slug, generated_at FROM carousel_posts
+               ORDER BY generated_at DESC LIMIT ?""",
             (limit,),
         )
         return [dict(row) for row in cursor.fetchall()]

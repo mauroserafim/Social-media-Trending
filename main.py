@@ -82,6 +82,28 @@ def run_agent(max_ideas: int = 10):
     print(f"{'='*70}\n")
 
 
+def run_carousel():
+    from src.agents.carousel_agent import CarouselAgent
+
+    with CarouselAgent() as agent:
+        post = agent.run()
+
+    if post is None:
+        print("\n⚠️  Falha ao gerar o carrossel. Verifique OPENAI_API_KEY e os logs.\n")
+        sys.exit(1)
+
+    print(f"\n{'='*70}")
+    print(f"  🎠 CARROSSEL DO DIA — {post.generated_at.strftime('%d/%m/%Y %H:%M')} UTC")
+    print(f"{'='*70}")
+    print(f"  Tema: {post.topic}")
+    print(f"  Gancho: {post.hook}")
+    print(f"  Slides: {len(post.slides)} | Fontes: {len(post.sources)}")
+    print(f"  Melhor horário (BRT): {post.best_posting_time_brt or 'a definir'}")
+    print(f"{'='*70}")
+    print("  Pacote completo salvo em outputs/carousel/latest.md")
+    print(f"{'='*70}\n")
+
+
 def run_api():
     try:
         import uvicorn
@@ -112,6 +134,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="AI Trends Research Agent")
     group = parser.add_mutually_exclusive_group()
     group.add_argument("--run", action="store_true", help="Run the agent")
+    group.add_argument("--carousel", action="store_true", help="Generate today's Instagram/TikTok carousel post")
     group.add_argument("--api", action="store_true", help="Start the API server")
     group.add_argument("--latest", action="store_true", help="Show latest results")
     parser.add_argument("--max-ideas", type=int, default=10, help="Max niche ideas to generate")
@@ -119,6 +142,8 @@ if __name__ == "__main__":
 
     if args.api:
         run_api()
+    elif args.carousel:
+        run_carousel()
     elif args.latest:
         show_latest()
     else:
