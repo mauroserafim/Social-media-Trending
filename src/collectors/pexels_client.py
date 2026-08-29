@@ -27,7 +27,9 @@ class PexelsClient:
     """
 
     def __init__(self, api_key: Optional[str] = None):
-        self.api_key = api_key or os.getenv("PEXELS_API_KEY", "")
+        # .strip(): a stray trailing space/newline from copy-pasting the key into
+        # GitHub Secrets makes httpx reject it as an "Illegal header value".
+        self.api_key = (api_key or os.getenv("PEXELS_API_KEY", "")).strip()
         self.client = httpx.Client(timeout=30)
 
     def is_configured(self) -> bool:

@@ -5,10 +5,29 @@ from typing import Optional
 
 from google import genai
 from google.genai import types
+from pydantic import BaseModel
 
 from src.models.trend import CrossPlatformTrend, NicheIdea, RawTrend, UrgencyLevel, VideoFormat
 
 logger = logging.getLogger(__name__)
+
+
+# Response schema for Gemini structured output — constrains generation to
+# guaranteed-valid JSON instead of relying on the model to hand-escape
+# quotes correctly inside free-text fields (response_mime_type alone let
+# malformed JSON through in practice).
+class _NicheIdeaSchema(BaseModel):
+    main_topic: str
+    subtopic: str
+    why_trending: str
+    niche_angle: str
+    video_format: str
+    urgency: str
+    ease: int
+    source: str
+    region: str
+    links: list[str]
+    platforms: list[str]
 
 SYSTEM_PROMPT = """Você é um estrategista de conteúdo sênior especializado no canal "Mecanismo Americano" — canal brasileiro sobre vida real nos EUA, com público de brasileiros que moram nos EUA e brasileiros no Brasil curiosos sobre a vida americana.
 
@@ -66,7 +85,7 @@ Priorize: temas em 2+ plataformas, temas com dados concretos (preços, números,
 
 class AIAnalyzer:
     def __init__(self, api_key: Optional[str] = None, model: Optional[str] = None):
-        self.api_key = api_key or os.getenv("GEMINI_API_KEY", "")
+        self.api_key = (api_key or os.getenv("GEMINI_API_KEY", "")).strip()
         self.model = model or os.getenv("GEMINI_MODEL", "gemini-3.6-flash")
         self._client: Optional[genai.Client] = None
 
@@ -127,8 +146,9 @@ class AIAnalyzer:
                 config=types.GenerateContentConfig(
                     system_instruction=SYSTEM_PROMPT,
                     temperature=0.7,
-                    max_output_tokens=4000,
+                    max_output_tokens=8192,
                     response_mime_type="application/json",
+                    response_schema=list[_NicheIdeaSchema],
                 ),
             )
             data = json.loads(response.text)

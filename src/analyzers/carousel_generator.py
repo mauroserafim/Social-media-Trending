@@ -5,10 +5,41 @@ from typing import Optional
 
 from google import genai
 from google.genai import types
+from pydantic import BaseModel
 
 from src.models.carousel import CarouselPost, CarouselSlide, Source, slugify
 
 logger = logging.getLogger(__name__)
+
+
+# Response schema for Gemini structured output — constrains generation to
+# guaranteed-valid JSON instead of relying on the model to hand-escape
+# quotes correctly inside free-text fields (response_mime_type alone let
+# malformed JSON through in practice).
+class _SlideSchema(BaseModel):
+    number: int
+    headline: str
+    body: str
+    visual_direction: str
+    image_query: str
+
+
+class _SourceSchema(BaseModel):
+    label: str
+    url: str
+
+
+class _CarouselSchema(BaseModel):
+    topic: str
+    hook: str
+    slides: list[_SlideSchema]
+    caption_instagram: str
+    caption_tiktok: str
+    hashtags_instagram: list[str]
+    hashtags_tiktok: list[str]
+    sources: list[_SourceSchema]
+    cta: str
+    best_posting_time_brt: str
 
 SYSTEM_PROMPT = """Você é redator sênior e "ghostwriter" do perfil "Mecanismo Americano" — PhD com pós-doutorado nos EUA, vivência real na cultura americana e brasileira, especialista em comparar Brasil x Estados Unidos para brasileiros (imigrantes e curiosos no Brasil).
 
@@ -58,7 +89,7 @@ Gere um objeto JSON com o schema exato:
 
 class CarouselGenerator:
     def __init__(self, api_key: Optional[str] = None, model: Optional[str] = None):
-        self.api_key = api_key or os.getenv("GEMINI_API_KEY", "")
+        self.api_key = (api_key or os.getenv("GEMINI_API_KEY", "")).strip()
         self.model = model or os.getenv("GEMINI_MODEL", "gemini-3.6-flash")
         self._client: Optional[genai.Client] = None
 
@@ -100,8 +131,9 @@ class CarouselGenerator:
                 config=types.GenerateContentConfig(
                     system_instruction=SYSTEM_PROMPT,
                     temperature=0.8,
-                    max_output_tokens=3000,
+                    max_output_tokens=4096,
                     response_mime_type="application/json",
+                    response_schema=_CarouselSchema,
                 ),
             )
             data = json.loads(response.text)

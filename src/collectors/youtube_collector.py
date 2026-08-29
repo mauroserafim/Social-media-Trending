@@ -57,7 +57,7 @@ EXCLUDED_TITLE_KEYWORDS_BR = {
 
 class YouTubeCollector:
     def __init__(self, api_key: Optional[str] = None):
-        self.api_key = api_key or os.getenv("YOUTUBE_API_KEY", "")
+        self.api_key = (api_key or os.getenv("YOUTUBE_API_KEY", "")).strip()
         self.client = httpx.Client(timeout=30)
 
     def _get_trending_videos(self, region: str, max_results: int = 50) -> list[dict]:
