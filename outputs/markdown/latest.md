@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 10/10/2026 17:04 UTC
+# 📊 Tendências em Alta — 11/10/2026 17:28 UTC
 
-**Run:** `38070214303` | **BR:** 30 trends | **US:** 24 trends | **Nicho:** 9 ideias
+**Run:** `38159717225` | **BR:** 30 trends | **US:** 24 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. The Guy She Was Interested In Wasn't a Guy At All | Official Trailer | Crunchyroll · [https://youtube.com/watch?v=2KPFnP1othM](https://youtube.com/watch?v=2KPFnP1othM)
+ 1. GODZILLA MINUS ZERO | Official Trailer 2 · [https://youtube.com/watch?v=pWJjYoqVSjQ](https://youtube.com/watch?v=pWJjYoqVSjQ)
  2. Felipe Araújo - Desgramou | De Ponta a Ponta em Barretos (Ao Vivo) · [https://youtube.com/watch?v=MBIuCjTEgNI](https://youtube.com/watch?v=MBIuCjTEgNI)
- 3. AMADO BATISTA – AS 20 MELHORES 🎶 SÓ AS ANTIGAS | GRANDES SUCESSOS ROMÂNTICOS · [https://youtube.com/watch?v=gdU8ZNpCDOo](https://youtube.com/watch?v=gdU8ZNpCDOo)
- 4. Absolute Justice | Official Teaser Trailer | DC · [https://youtube.com/watch?v=5T6U5Fqq7w4](https://youtube.com/watch?v=5T6U5Fqq7w4)
- 5. Felipe & Rodrigo -  Pós (Ao Vivo) #NoSentimento · [https://youtube.com/watch?v=7qcq8wAX9pU](https://youtube.com/watch?v=7qcq8wAX9pU)
- 6. Imagina o Trabalho - Ana Castela (Videoclipe Oficial) · [https://youtube.com/watch?v=H_BClfupJtU](https://youtube.com/watch?v=H_BClfupJtU)
- 7. O Exorcista: Mártires | Trailer Oficial Dublado (Universal Pictures) - HD · [https://youtube.com/watch?v=w_u98HnZsb4](https://youtube.com/watch?v=w_u98HnZsb4)
- 8. 🔴 The Witcher 3: Wild Hunt - Remastered AO VIVO | A História continua #6 - PC 🔴 · [https://youtube.com/watch?v=xiZnp_JX2mE](https://youtube.com/watch?v=xiZnp_JX2mE)
- 9. PRÍNCIPE ENCANTADO - Rey Vaqueiro e Joelma · [https://youtube.com/watch?v=bHn321r_Hqg](https://youtube.com/watch?v=bHn321r_Hqg)
-10. Depende do Peão Part. ‪@Jeninho, @DeuBão - (Clipe Oficial) · [https://youtube.com/watch?v=XaNIE7K55eY](https://youtube.com/watch?v=XaNIE7K55eY)
+ 3. Felipe & Rodrigo -  Pós (Ao Vivo) #NoSentimento · [https://youtube.com/watch?v=7qcq8wAX9pU](https://youtube.com/watch?v=7qcq8wAX9pU)
+ 4. O Exorcista: Mártires | Trailer Oficial Dublado (Universal Pictures) - HD · [https://youtube.com/watch?v=w_u98HnZsb4](https://youtube.com/watch?v=w_u98HnZsb4)
+ 5. Official Season 3 Part 2 Trailer | One-Punch Man | VIZ · [https://youtube.com/watch?v=iOFHoZWeEw4](https://youtube.com/watch?v=iOFHoZWeEw4)
+ 6. PRÍNCIPE ENCANTADO - Rey Vaqueiro e Joelma · [https://youtube.com/watch?v=bHn321r_Hqg](https://youtube.com/watch?v=bHn321r_Hqg)
+ 7. AMADO BATISTA – AS 20 MELHORES 🎶 SÓ AS ANTIGAS | GRANDES SUCESSOS ROMÂNTICOS · [https://youtube.com/watch?v=Hud_-xWnhwk](https://youtube.com/watch?v=Hud_-xWnhwk)
+ 8. JOGUEI DOORS PELA PRIMEIRA VEZ E ENTREI PRA HISTÓRIA! · [https://youtube.com/watch?v=LR6bky57ufk](https://youtube.com/watch?v=LR6bky57ufk)
+ 9. 🔴 The Witcher 3: Wild Hunt - Remastered AO VIVO | A História continua #7 - PC 🔴 · [https://youtube.com/watch?v=FvsAWpREl1M](https://youtube.com/watch?v=FvsAWpREl1M)
+10. FLASH - Zé Vaqueiro 2026 (Repertório Novo) · [https://youtube.com/watch?v=x60dTA-lxMg](https://youtube.com/watch?v=x60dTA-lxMg)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Homem fica em estado grave após entrar em jaula de tigre em zoológico no Reino Unido · [https://g1.globo.com/mundo/noticia/2026/10/10/homem-fica-ferido-apos-entrar-jaula-tigre-zoologico-reino-unido.ghtml](https://g1.globo.com/mundo/noticia/2026/10/10/homem-fica-ferido-apos-entrar-jaula-tigre-zoologico-reino-unido.ghtml)
- 2. Assustados, moradores passam noite nas ruas após terremotos no Panamá · [https://g1.globo.com/mundo/noticia/2026/10/10/assustados-moradores-passam-noite-nas-ruas-apos-terremotos-no-panama.ghtml](https://g1.globo.com/mundo/noticia/2026/10/10/assustados-moradores-passam-noite-nas-ruas-apos-terremotos-no-panama.ghtml)
- 3. Ataque a tiros deixa 9 mortos, incluindo duas crianças, nos EUA · [https://g1.globo.com/mundo/noticia/2026/10/10/ataque-a-tiros-deixa-9-mortos-incluindo-duas-criancas-nos-eua.ghtml](https://g1.globo.com/mundo/noticia/2026/10/10/ataque-a-tiros-deixa-9-mortos-incluindo-duas-criancas-nos-eua.ghtml)
- 4. Por que EUA querem retomar execuções públicas após quase um século? · [https://g1.globo.com/mundo/noticia/2026/10/10/por-que-eua-querem-retomar-execucoes-publicas-apos-quase-um-seculo.ghtml](https://g1.globo.com/mundo/noticia/2026/10/10/por-que-eua-querem-retomar-execucoes-publicas-apos-quase-um-seculo.ghtml)
- 5. Vários ficam feridos em explosão no aeroporto de Riad, segundo testemunhas · [https://www.infomoney.com.br/mundo/varios-ficam-feridos-em-explosao-no-aeroporto-de-riad-segundo-testemunhas/](https://www.infomoney.com.br/mundo/varios-ficam-feridos-em-explosao-no-aeroporto-de-riad-segundo-testemunhas/)
- 6. Abbas adia eleições palestinas e marca pleito presidencial para setembro de 2027 · [https://www.infomoney.com.br/mundo/abbas-adia-eleicoes-palestinas-e-marca-pleito-presidencial-para-setembro-de-2027/](https://www.infomoney.com.br/mundo/abbas-adia-eleicoes-palestinas-e-marca-pleito-presidencial-para-setembro-de-2027/)
- 7. Furacão Isaias deixa 2 mortos e milhares sem energia elétrica nos EUA · [https://www.infomoney.com.br/mundo/furacao-isaias-deixa-2-mortos-e-milhares-sem-energia-eletrica-nos-eua/](https://www.infomoney.com.br/mundo/furacao-isaias-deixa-2-mortos-e-milhares-sem-energia-eletrica-nos-eua/)
- 8. Lula diz que “tesouraço” de Flávio mira Bolsa Família e outros programas sociais · [https://www.infomoney.com.br/politica/lula-diz-que-tesouraco-de-flavio-mira-bolsa-familia-e-outros-programas-sociais/](https://www.infomoney.com.br/politica/lula-diz-que-tesouraco-de-flavio-mira-bolsa-familia-e-outros-programas-sociais/)
- 9. Flávio diz que Jair Bolsonaro irá a eventual posse e passará a faixa presidencial · [https://www.infomoney.com.br/politica/flavio-diz-que-jair-bolsonaro-ira-a-eventual-posse-e-passara-a-faixa-presidencial/](https://www.infomoney.com.br/politica/flavio-diz-que-jair-bolsonaro-ira-a-eventual-posse-e-passara-a-faixa-presidencial/)
-10. Trump anuncia acordo com Putin para liberar diesel russo para mercado mundial · [https://g1.globo.com/mundo/noticia/2026/10/10/trump-anuncia-acordo-com-putin-para-liberar-diesel-russo-para-mercado-mundial.ghtml](https://g1.globo.com/mundo/noticia/2026/10/10/trump-anuncia-acordo-com-putin-para-liberar-diesel-russo-para-mercado-mundial.ghtml)
+ 1. Sua mulher foi levada por tsunami e ele passou anos mergulhando para estar perto dela · [https://g1.globo.com/mundo/noticia/2026/10/11/sua-mulher-foi-levada-por-tsunami-e-ele-passou-anos-mergulhando-para-estar-perto-dela.ghtml](https://g1.globo.com/mundo/noticia/2026/10/11/sua-mulher-foi-levada-por-tsunami-e-ele-passou-anos-mergulhando-para-estar-perto-dela.ghtml)
+ 2. Carregador portátil pega fogo durante voo na Índia, e avião faz pouso de emergência · [https://g1.globo.com/mundo/noticia/2026/10/11/carregador-portatil-pega-fogo-durante-voo-na-india-e-aviao-faz-pouso-de-emergencia.ghtml](https://g1.globo.com/mundo/noticia/2026/10/11/carregador-portatil-pega-fogo-durante-voo-na-india-e-aviao-faz-pouso-de-emergencia.ghtml)
+ 3. Trump anuncia trégua energética entre Rússia e Ucrânia; o que se sabe · [https://g1.globo.com/mundo/noticia/2026/10/11/trump-anuncia-tregua-energetica-entre-russia-e-ucrania-o-que-se-sabe.ghtml](https://g1.globo.com/mundo/noticia/2026/10/11/trump-anuncia-tregua-energetica-entre-russia-e-ucrania-o-que-se-sabe.ghtml)
+ 4. Barco vira, e 139 morrem ao tentar ir de Djibuti para o Iêmen, uma das principais rotas migratórias do Golfo · [https://g1.globo.com/mundo/noticia/2026/10/11/barco-vira-e-pessoas-morrem-ao-tentar-ir-de-djibuti-para-o-iemen.ghtml](https://g1.globo.com/mundo/noticia/2026/10/11/barco-vira-e-pessoas-morrem-ao-tentar-ir-de-djibuti-para-o-iemen.ghtml)
+ 5. Lula: ‘Vamos votar fim da escala 6×1 na quarta-feira, já está conversado’ · [https://www.infomoney.com.br/politica/lula-vamos-votar-fim-da-escala-6x1-na-quarta-feira-ja-esta-conversado/](https://www.infomoney.com.br/politica/lula-vamos-votar-fim-da-escala-6x1-na-quarta-feira-ja-esta-conversado/)
+ 6. Irã: resposta dos EUA à proposta de reabrir Ormuz foi insuficiente, diz mídia estatal · [https://www.infomoney.com.br/mundo/ira-resposta-dos-eua-a-proposta-de-reabrir-ormuz-foi-insuficiente-diz-midia-estatal/](https://www.infomoney.com.br/mundo/ira-resposta-dos-eua-a-proposta-de-reabrir-ormuz-foi-insuficiente-diz-midia-estatal/)
+ 7. 139 imigrantes morrem após naufrágio de barco que ia de Djibuti ao Iêmen, diz ONU · [https://www.infomoney.com.br/mundo/139-imigrantes-morrem-apos-naufragio-de-barco-que-ia-de-djibuti-ao-iemen-diz-onu/](https://www.infomoney.com.br/mundo/139-imigrantes-morrem-apos-naufragio-de-barco-que-ia-de-djibuti-ao-iemen-diz-onu/)
+ 8. Grêmio x Internacional: Veja onde assistir e horário · [https://www.infomoney.com.br/esportes/gremio-internacional-onde-assistir-2/](https://www.infomoney.com.br/esportes/gremio-internacional-onde-assistir-2/)
+ 9. Antonelli pode conquistar título da Fórmula 1 em Austin; veja o que precisa acontecer · [https://www.infomoney.com.br/esportes/antonelli-pode-conquistar-titulo-da-formula-1-em-austin-veja-o-que-precisa-acontecer/](https://www.infomoney.com.br/esportes/antonelli-pode-conquistar-titulo-da-formula-1-em-austin-veja-o-que-precisa-acontecer/)
+10. Mega-Sena acumula, e prêmio vai a R$ 150 milhões; veja os números sorteados · [https://g1.globo.com/loterias/mega-sena/noticia/2026/10/11/mega-sena-concurso-3069-resultado.ghtml](https://g1.globo.com/loterias/mega-sena/noticia/2026/10/11/mega-sena-concurso-3069-resultado.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -56,23 +56,23 @@
 
 #### 📺 YouTube (US) — Top 4
 
- 1. skibidi toilet 82 · [https://youtube.com/watch?v=javQvZ0ADx0](https://youtube.com/watch?v=javQvZ0ADx0)
- 2. Avengers Doomsday Trailer Spoof - TOON SANDWICH · [https://youtube.com/watch?v=7wul_ifI1c4](https://youtube.com/watch?v=7wul_ifI1c4)
- 3. My Pro Teammates Try to Train Me For MCC! · [https://youtube.com/watch?v=ZgAbE9UiWVU](https://youtube.com/watch?v=ZgAbE9UiWVU)
- 4. 3C Live - Mike Flanagan's Exorcist Trailer Looks... · [https://youtube.com/watch?v=iDJRO4sdNd8](https://youtube.com/watch?v=iDJRO4sdNd8)
+ 1. JYNXZI CUP w/ STOMPN & MINGO · [https://youtube.com/watch?v=rWlcQpa6Rbs](https://youtube.com/watch?v=rWlcQpa6Rbs)
+ 2. Avengers Doomsday Trailer NYCC Footage & Easter Eggs · [https://youtube.com/watch?v=T7Lo73zSjCA](https://youtube.com/watch?v=T7Lo73zSjCA)
+ 3. 70 Counterpoints To An Old Earth - DEBUNKED (TRAILER) · [https://youtube.com/watch?v=IGd2ymYLwvU](https://youtube.com/watch?v=IGd2ymYLwvU)
+ 4. Tube Movie: The Trailer | SNL UK · [https://youtube.com/watch?v=OkL9oKkcG9Y](https://youtube.com/watch?v=OkL9oKkcG9Y)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Christa Pike left the hospital and returned to Tennessee prison after failed lethal injection · [https://www.axios.com/local/nashville/2026/10/10/christa-pike-hospital-failed-lethal-injection-tennessee](https://www.axios.com/local/nashville/2026/10/10/christa-pike-hospital-failed-lethal-injection-tennessee)
- 2. 9 people dead in Erie, Pennsylvania mass shooting · [https://thehill.com/homenews/state-watch/6140615-erie-mass-shooting-nine-dead/](https://thehill.com/homenews/state-watch/6140615-erie-mass-shooting-nine-dead/)
- 3. Opinion: Can I keep the baseball I caught? · [https://www.npr.org/2026/10/10/nx-s1-5982500/opinion-can-i-keep-the-baseball-i-caught](https://www.npr.org/2026/10/10/nx-s1-5982500/opinion-can-i-keep-the-baseball-i-caught)
- 4. U.S. imposes sweeping sanctions on International Criminal Court · [https://www.npr.org/2026/10/10/nx-s1-5996606/u-s-imposes-sweeping-sanctions-on-international-criminal-court](https://www.npr.org/2026/10/10/nx-s1-5996606/u-s-imposes-sweeping-sanctions-on-international-criminal-court)
- 5. Week in Politics: Hegseth's livestream backlash; Greece ambassador Guilfoyle scandal · [https://www.npr.org/2026/10/10/nx-s1-5995114/week-in-politics-hegseths-livestream-backlash-greece-ambassador-guilfoyle-scandal](https://www.npr.org/2026/10/10/nx-s1-5995114/week-in-politics-hegseths-livestream-backlash-greece-ambassador-guilfoyle-scandal)
- 6. On the ground in Ohio's 9th District: The battleground shaping next month's midterms · [https://www.npr.org/2026/10/10/nx-s1-5965798/on-the-ground-in-ohios-9th-district-the-battleground-shaping-next-months-midterms](https://www.npr.org/2026/10/10/nx-s1-5965798/on-the-ground-in-ohios-9th-district-the-battleground-shaping-next-months-midterms)
- 7. The big unknown behind Democrats' polling leads · [https://www.axios.com/2026/10/10/poll-democratic-wave-questions-oversampling-gop](https://www.axios.com/2026/10/10/poll-democratic-wave-questions-oversampling-gop)
- 8. Hegseth's public execution plan meets the age of viral violence · [https://www.axios.com/2026/10/10/hegseth-public-execution-nidal-hasan](https://www.axios.com/2026/10/10/hegseth-public-execution-nidal-hasan)
- 9. The Memo: Guilfoyle furor rises as Trump stops short of expressing support · [https://thehill.com/homenews/analysis/6140076-trump-guilfoyle-controversy-response-column/](https://thehill.com/homenews/analysis/6140076-trump-guilfoyle-controversy-response-column/)
-10. Forget the next big thing: How America's old things keep us safe · [https://thehill.com/opinion/national-security/6139525-american-national-security-maintenance/](https://thehill.com/opinion/national-security/6139525-american-national-security-maintenance/)
+ 1. Hamilton says Vance's attacks on his religion are 'really sad,' 'pathetic' · [https://thehill.com/homenews/campaign/6141240-hamilton-slams-vance-faith-attacks/](https://thehill.com/homenews/campaign/6141240-hamilton-slams-vance-faith-attacks/)
+ 2. Russia's Kaliningrad threat is aimed at the ally Washington left outside the room · [https://thehill.com/opinion/international/6140160-russias-kaliningrad-threat-is-aimed-at-the-ally-washington-left-outside-the-room/](https://thehill.com/opinion/international/6140160-russias-kaliningrad-threat-is-aimed-at-the-ally-washington-left-outside-the-room/)
+ 3. Mullin says livestreaming Hasan execution is part of 'restoring American values' · [https://thehill.com/homenews/administration/6141440-mullin-backs-hasan-execution-livestream/](https://thehill.com/homenews/administration/6141440-mullin-backs-hasan-execution-livestream/)
+ 4. Emmer says he's 'so happy' Trump will decide whether to stream public execution · [https://thehill.com/homenews/house/6141241-emmer-supports-trump-execution-streaming-decision/](https://thehill.com/homenews/house/6141241-emmer-supports-trump-execution-streaming-decision/)
+ 5. Pope Leo XIV to undergo lung surgery this week · [https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week](https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week)
+ 6. Hurricane Simon nears Mexico with 155 mph winds and flooding fears · [https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears](https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears)
+ 7. Justice Department investigates TV networks, citing possible anti-trust violations · [https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump](https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump)
+ 8. Don't be scared: Being afraid is outright fun, and maybe useful · [https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful](https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful)
+ 9. She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now? · [https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic](https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic)
+10. Politics chat: Trump announces fuel deal with Russia. What does it mean for sanctions? · [https://www.npr.org/2026/10/11/nx-s1-5996550/politics-chat-trump-announces-fuel-deal-with-russia-what-does-it-mean-for-sanctions](https://www.npr.org/2026/10/11/nx-s1-5996550/politics-chat-trump-announces-fuel-deal-with-russia-what-does-it-mean-for-sanctions)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -94,12 +94,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **Deportação** | Impactos da recente onda de deportações em imigrantes brasileiros | Recentes decisões judiciais têm gerado polêmica sobre deportações nos EUA, incluindo casos de imigrantes que enfrentam a |
-| 2 🟡 🎬 | **Empregadores** | Ranking de melhores empregadores e oportunidades para brasileiros nos EUA | Brasil possui 11 empresas no ranking de melhores empregadores do mundo, o que pode abrir portas para brasileiros que bus |
-| 3 🟠 🎬 | **Furacão** | Preparação e seguros residenciais durante furacões nos EUA | Recentes furacões causaram mortes e danos significativos, levantando preocupações sobre seguros e preparativos. |
-| 4 🟡 ⚡ | **IA e Golpes** | Como a IA está sendo usada em fraudes nos EUA | Relatos indicam que a economia de golpes com IA supera até o tráfico de drogas, uma preocupação crescente entre os consu |
-| 5 🟡 🎬 | **Criptomoedas** | O que esperar do mercado de criptomoedas após quedas | Um ano após quedas bilionárias, criptomoedas estão buscando novas apostas, atraindo atenção de investidores. |
-| 6 🟡 🎬 | **Dólar** | Impacto da variação do dólar na vida dos brasileiros nos EUA | Com a recente queda do dólar, muitos brasileiros estão reavaliando seus investimentos e gastos nos EUA. |
-| 7 🟡 🎬 | **Acordos Comerciais** | Acordo entre EUA e Rússia e suas implicações para o mercado | Trump anunciou um acordo para liberar diesel russo, o que pode ter impactos diretos no mercado global. |
-| 8 🟠 🎬 | **Direitos dos Imigrantes** | Direitos de imigrantes em situações de deportação | Casos de deportação estão em alta, e muitos imigrantes desconhecem seus direitos legais. |
-| 9 🟡 ⚡ | **Explosões em Aeroportos** | Segurança em aeroportos e como brasileiros devem se preparar | Recentes explosões em aeroportos levantaram questões sobre segurança e preparação para viagens. |
+| 1 🟠 🎬 | **Imigração** | Mudanças nas políticas de imigração dos EUA | Recentemente, a imigração nos EUA tem sido um tema quente, com novas políticas sendo discutidas e implementadas, afetand |
+| 2 🟠 🎯 | **Trabalho** | IA e mercado de trabalho | Um relatório recente aponta que a IA está ameaçando aumentar desigualdades de gênero no mercado de trabalho, o que pode  |
+| 3 🟡 🎬 | **Economia** | Impacto do dólar nas finanças pessoais | Com o dólar recuando e o real se destacando, muitos brasileiros estão se perguntando como isso impacta suas finanças nos |
+| 4 🟡 🎬 | **Saúde** | Custos de saúde nos EUA | Os altos custos do sistema de saúde nos EUA continuam a ser um grande problema, especialmente para imigrantes que podem  |
+| 5 🟡 🎯 | **Negócios** | Empreendedorismo entre imigrantes | Com a crescente comunidade de empreendedores imigrantes, o tema está em alta entre aqueles que buscam abrir negócios nos |
+| 6 🟡 🎬 | **Viagem** | Custo de viagens entre Brasil e EUA | Com a alta do dólar e mudanças nas restrições de viagem, muitos brasileiros estão repensando suas viagens aos EUA. |
+| 7 🟡 🎬 | **Direito & Legal** | Deportação e direitos dos imigrantes | A deportação e os direitos dos imigrantes estão em foco com novas políticas sendo propostas nos EUA. |
+| 8 🟡 🎬 | **Economia** | Mercado de trabalho e salários | Os salários e o custo de vida nos EUA estão em constante mudança, gerando discussões sobre a realidade do trabalho para  |
+| 9 🟢 ⚡ | **Entretenimento** | Humor e memes sobre a vida nos EUA | Com o crescimento das redes sociais, memes e conteúdos engraçados sobre a vida nos EUA estão cada vez mais populares. |
