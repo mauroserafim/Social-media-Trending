@@ -1,0 +1,890 @@
+{
+  "generated_at": "2026-10-12T21:01:31.494236",
+  "run_id": "38307888460",
+  "summary": {
+    "total_br": 30,
+    "total_us": 20,
+    "br_us_connections": 7,
+    "cross_platform_topics": 15,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "MEOVV(미야오) - ‘GO HARD’ M/V",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=8aKR2Ho--5k",
+          "score": 52.11,
+          "region": "BR",
+          "views": 5590008
+        },
+        {
+          "title": "GODZILLA MINUS ZERO | Official Trailer 2",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=pWJjYoqVSjQ",
+          "score": 15.75,
+          "region": "BR",
+          "views": 3909129
+        },
+        {
+          "title": "Hexed | Official Trailer",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=KXO21xZdUaM",
+          "score": 12.46,
+          "region": "BR",
+          "views": 1004629
+        },
+        {
+          "title": "River | Official Trailer",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=ox8lEnsxDag",
+          "score": 9.89,
+          "region": "BR",
+          "views": 561173
+        },
+        {
+          "title": "FUI ACHAR AGULHA NO PALHEIRO E CRIEI UMA INDÚSTRIA!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=NdoYgEjnxwQ",
+          "score": 3.43,
+          "region": "BR",
+          "views": 194361
+        },
+        {
+          "title": "💔RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎵",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=YG0Un4SP0ZU",
+          "score": 2.66,
+          "region": "BR",
+          "views": 26360
+        },
+        {
+          "title": "O MAIOR ESCUDO DA HISTÓRIA DO LOL É DO UDYR!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=zhhTTLlIuxI",
+          "score": 2.02,
+          "region": "BR",
+          "views": 114483
+        },
+        {
+          "title": "You’ll Be In My Heart - Phil Collins (Tarzan)(Boyce Avenue acoustic cover)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=IdO0ArsvmAQ",
+          "score": 1.14,
+          "region": "BR",
+          "views": 282706
+        },
+        {
+          "title": "Flash - Zé Vaqueiro - Forró 2026 Atualizado",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=vsynxadDHOo",
+          "score": 0.98,
+          "region": "BR",
+          "views": 224518
+        },
+        {
+          "title": "Vingadores Doutor Destino | TEASER LOKI vs DOOM",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=vNFpdoDJ8v4",
+          "score": 0.97,
+          "region": "BR",
+          "views": 77003
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Italiano Lorenzo Musetti é anunciado para a disputa do Rio Open 2027",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/italiano-lorenzo-musetti-e-anunciado-para-a-disputa-do-rio-open-2027/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "TSE alega problema técnico em propaganda de Flávio sem som; haverá nova exibição",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/tse-alega-problema-tecnico-em-propaganda-de-flavio-sem-som-havera-nova-exibicao/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Bolsas de NY fecham sem direção em dia de liquidez reduzida e geopolítica no radar",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-sem-direcao-em-dia-de-liquidez-reduzida-e-geopolitica-no-radar/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Índice de ADRs brasileiros fecha estável, com leve alta de Petrobras; veja destaques",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/indice-de-adrs-brasileiros-feriado-nossa-senhora-aparecida-12102026/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Dólar mantém maior cotação em 18 meses diante de tensões no Golfo e inflação nos EUA",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/dolar-mantem-maior-cotacao-em-18-meses-diante-de-tensoes-no-golfo-e-inflacao-nos-eua/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Furacão Simon causa inundações na costa do México no Pacífico",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/furacao-simon-causa-inundacoes-na-costa-do-mexico-no-pacifico/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Por que furacões têm nome de pessoas? Entenda como funciona a nomeação dos ciclones",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/por-que-furacoes-tem-nome-pessoas/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Bancos leiloam 566 imóveis – oportunidades são boas, mas é preciso ter atenção",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/minhas-financas/bancos-leiloam-566-imoveis-oportunidades-sao-boas-mas-e-preciso-ter-atencao/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Meta lança Muse Wonder, seu modelo de IA mais avançado, para pressionar OpenAI e Anthropic",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/10/12/meta-lanca-muse-wonder-seus-modelos-de-ia-mais-avancados-para-pressionar-openai-e-anthropic.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Declaração apoiada por 60 países condena cobrança de pedágio em rotas marítimas",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/12/declaracao-assinada-por-60-paises-condena-cobranca-de-pedagio-em-rotas-maritimas.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "Bisignano vows Social Security will last another 90 years",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/newsletters/business-economy/6143939-bisignano-vows-social-security-will-last-another-90-years/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Live updates: DC judge scolds DOJ, NPS for East Potomac Park tree cutting; Omar calls raid 'political intimidation'",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6141784-live-updates-trump-ohio-midterm-elections-russia-diesel-iran/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Pro-Collins ads target wrong Portland in GOP super PAC mix-up",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6143888-susan-collins-maine-ads-oregon/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "US military archbishop: Streamed execution threatens to 'imitate the terrorists'",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/defense/6143724-archbishop-opposes-hasan-execution-stream/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Selma Blair taken into custody, hospitalized after allegedly trying to open plane door",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/blogs/in-the-know/6143845-selma-blair-delta-air-lines-lax-new-york/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "India's opposition parties march to top court as protests over voter lists escalate",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "U.K. prime minister attributes plot against U.S. bomber base to Iran",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/12/uk-prime-minister-plot-bombers-base-iran",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump's Russia deal leaves GOP candidates with a Putin problem",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/12/trump-russia-diesel-deal-republicans-midterms",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Feds search Rep. Ilhan Omar's home in immigration probe",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/12/ilhan-omar-search-immigration",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 16,
+      "score": 61.67,
+      "sample_titles": [
+        "Governo Trump faz operação na casa de deputada democrata por suposta fraude imigratória; parlamentar fala em 'intimidação'",
+        "Musk gastou US$ 276 milhões desde julho para ajudar partido de Trump nas eleições de meio de mandato nos EUA",
+        "Juíza suspende corte de árvores em campo de golfe que Trump quer renovar",
+        "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
+        "Russia hits Ukraine gas facilities after Trump claims 'energy ceasefire'"
+      ]
+    },
+    {
+      "topic": "nobel",
+      "count": 5,
+      "score": 64.0,
+      "sample_titles": [
+        "Nobel de Economia: quem ganhou nos últimos anos e quais ideias renderam o prêmio",
+        "Nobel de Economia 2026 vai para Robert E. Hall e Michael Woodford por seus estudos sobre estabilização econômica",
+        "Nobel 2026: veja quem são os vencedores das seis categorias do prêmio",
+        "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
+        "Two U.S. professors win Nobel prize in economics"
+      ]
+    },
+    {
+      "topic": "collins",
+      "count": 3,
+      "score": 60.38,
+      "sample_titles": [
+        "You’ll Be In My Heart - Phil Collins (Tarzan)(Boyce Avenue acoustic cover)",
+        "Pro-Collins ads target wrong Portland in GOP super PAC mix-up",
+        "Trump set to rally in Georgia to support Collins in Senate race"
+      ]
+    },
+    {
+      "topic": "openai",
+      "count": 3,
+      "score": 46.67,
+      "sample_titles": [
+        "Meta lança Muse Wonder, seu modelo de IA mais avançado, para pressionar OpenAI e Anthropic",
+        "Fired OpenAI employees question the company's commitment to safety",
+        "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns"
+      ]
+    },
+    {
+      "topic": "drones",
+      "count": 2,
+      "score": 60.0,
+      "sample_titles": [
+        "Arábia Saudita reage a ataques com drones e mísseis após prometer 'resposta firme' a bombardeio em aeroporto",
+        "U.S. restrictions on Chinese drones are hurting cash-strapped police departments"
+      ]
+    },
+    {
+      "topic": "video",
+      "count": 2,
+      "score": 40.1,
+      "sample_titles": [
+        "O HOMEM É BOM (VIDEO CLIPE OFICIAL) FORRÓ 100 PRECONCEITO",
+        "Johnson: Video of Hasan execution could be 'recruiting tool for future terrorists'"
+      ]
+    },
+    {
+      "topic": "online",
+      "count": 2,
+      "score": 10.0,
+      "sample_titles": [
+        "como ganhar dinheiro online",
+        "how to learn online"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "collins",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 60.38,
+      "sample_titles": [
+        "You’ll Be In My Heart - Phil Collins (Tarzan)(Boyce Avenue acoustic cover)",
+        "Pro-Collins ads target wrong Portland in GOP super PAC mix-up",
+        "Trump set to rally in Georgia to support Collins in Senate race"
+      ]
+    },
+    {
+      "topic": "dólar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "Dólar mantém maior cotação em 18 meses diante de tensões no Golfo e inflação nos EUA",
+        "dólar hoje"
+      ]
+    },
+    {
+      "topic": "maior",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 51.01,
+      "sample_titles": [
+        "O MAIOR ESCUDO DA HISTÓRIA DO LOL É DO UDYR!",
+        "Dólar mantém maior cotação em 18 meses diante de tensões no Golfo e inflação nos EUA"
+      ]
+    },
+    {
+      "topic": "costa",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.23,
+      "sample_titles": [
+        "Eduardo Costa – Só as Antigas ❤️ As Melhores Músicas | Sertanejo Raiz & Modão",
+        "Furacão Simon causa inundações na costa do México no Pacífico"
+      ]
+    },
+    {
+      "topic": "immigration",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Feds search Rep. Ilhan Omar's home in immigration probe",
+        "immigration USA"
+      ]
+    },
+    {
+      "topic": "dinheiro",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 43.33,
+      "sample_titles": [
+        "Além do Planalto: como a eleição para o Congresso pode afetar impostos, empresas e dinheiro público",
+        "Dar mesada, ensinar a poupar ou deixar gastar? Veja como falar de dinheiro com os filhos",
+        "como ganhar dinheiro online"
+      ]
+    },
+    {
+      "topic": "eleições",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.27,
+      "sample_titles": [
+        "Trailer Eleições 2026 - Um trailer sem lados, apenas uma previa das nossas eleiçoes 🫵😎",
+        "Musk gastou US$ 276 milhões desde julho para ajudar partido de Trump nas eleições de meio de mandato nos EUA"
+      ]
+    },
+    {
+      "topic": "video",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.1,
+      "sample_titles": [
+        "O HOMEM É BOM (VIDEO CLIPE OFICIAL) FORRÓ 100 PRECONCEITO",
+        "Johnson: Video of Hasan execution could be 'recruiting tool for future terrorists'"
+      ]
+    },
+    {
+      "topic": "outubro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.07,
+      "sample_titles": [
+        "REY VAQUEIRO OUTUBRO 2026 | REPERTÓRIO NOVO & MÚSICAS NOVAS | ATUALIZAÇÃO COMPLETA",
+        "Papa cancela audiências até 20 de outubro por cirurgia"
+      ]
+    },
+    {
+      "topic": "lança",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.06,
+      "sample_titles": [
+        "ELA TA DE LANÇA - DJ GUILHERME BORGES E DJ DERBHEN, MC GW ",
+        "Meta lança Muse Wonder, seu modelo de IA mais avançado, para pressionar OpenAI e Anthropic"
+      ]
+    },
+    {
+      "topic": "brasileiro",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Cliente ou rival? Como a China pode passar de grande compradora a concorrente do frango brasileiro",
+        "brasileiro nos EUA"
+      ]
+    },
+    {
+      "topic": "living",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Trump struggles to show voters he's focused on the cost of living",
+        "cost of living"
+      ]
+    },
+    {
+      "topic": "cost living",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Trump struggles to show voters he's focused on the cost of living",
+        "cost of living"
+      ]
+    },
+    {
+      "topic": "business",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Business faces a more interventionist Washington post-midterms",
+        "start a business USA"
+      ]
+    },
+    {
+      "topic": "borges",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 20.04,
+      "sample_titles": [
+        "ELA TA DE LANÇA - DJ GUILHERME BORGES E DJ DERBHEN, MC GW ",
+        "Borges: Ato no RJ mostra que campanha de Lula não jogou a toalha",
+        "Borges: Mão pesada do TSE em 2022 tem reflexos até hoje"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "Dólar",
+      "subtopic": "Impacto da alta do dólar na vida dos brasileiros nos EUA",
+      "why_trending": "O dólar está atingindo a maior cotação em 18 meses devido a tensões geopolíticas e inflação nos EUA.",
+      "niche_angle": "Explorar como a alta do dólar afeta o custo de vida, remessas e investimentos dos brasileiros nos EUA.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 7,
+      "source": "InfoMoney",
+      "region": "BR|US",
+      "links": [
+        "https://www.infomoney.com.br/mercados/dolar-mantem-maior-cotacao-em-18-meses-diante-de-tensoes-no-golfo-e-inflacao-nos-eua/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-12T21:01:31.484513"
+    },
+    {
+      "main_topic": "Imigração",
+      "subtopic": "Consequências das ações do governo sobre imigração",
+      "why_trending": "A busca na casa da deputada Ilhan Omar por questões de fraude imigratória está gerando debates acalorados sobre as políticas de imigração nos EUA.",
+      "niche_angle": "Discutir como essas ações do governo afetam a comunidade imigrante e os direitos dos brasileiros nos EUA.",
+      "video_format": "both",
+      "urgency": "high",
+      "ease": 6,
+      "source": "Axios",
+      "region": "US",
+      "links": [
+        "https://www.axios.com/2026/10/12/ilhan-omar-search-immigration"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-12T21:01:31.484522"
+    },
+    {
+      "main_topic": "Custo de Vida",
+      "subtopic": "Aumento do custo de vida nos EUA e suas implicações",
+      "why_trending": "A inflação e a política econômica estão pressionando o custo de vida, afetando principalmente os imigrantes.",
+      "niche_angle": "Analisar como o aumento do custo de vida impacta brasileiros nos EUA, incluindo moradia e alimentação.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "The Hill",
+      "region": "US",
+      "links": [
+        "https://thehill.com/newsletters/business-economy/6143939-bisignano-vows-social-security-will-last-another-90-years/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-12T21:01:31.484526"
+    },
+    {
+      "main_topic": "Eleições",
+      "subtopic": "Como as eleições nos EUA impactam a comunidade imigrante",
+      "why_trending": "Com a proximidade das eleições, há um aumento na discussão sobre como as políticas eleitorais afetam a imigração.",
+      "niche_angle": "Explorar o que as eleições significam para os brasileiros nos EUA, incluindo direitos e oportunidades.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "G1",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/10/12/elon-musk-gastou-us-366-milhoes-para-ajudar-os-republicanos-a-manter-o-controle-do-congresso.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-12T21:01:31.484531"
+    },
+    {
+      "main_topic": "Tecnologia",
+      "subtopic": "Novas ferramentas de IA e seu impacto no mercado de trabalho",
+      "why_trending": "A Meta lançou um novo modelo de IA que pode alterar o cenário de trabalho e empreendedorismo.",
+      "niche_angle": "Discutir como os brasileiros nos EUA podem usar essa tecnologia para melhorar suas carreiras e negócios.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "G1",
+      "region": "BR|US",
+      "links": [
+        "https://g1.globo.com/tecnologia/noticia/2026/10/12/meta-lanca-muse-wonder-seus-modelos-de-ia-mais-avancados-para-pressionar-openai-e-anthropic.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-12T21:01:31.484536"
+    },
+    {
+      "main_topic": "Negócios",
+      "subtopic": "Oportunidades de investimento em imóveis leiloados",
+      "why_trending": "Bancos estão leiloando 566 imóveis com boas oportunidades para investidores.",
+      "niche_angle": "Analisar como brasileiros nos EUA podem aproveitar essas oportunidades de investimento no Brasil.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "InfoMoney",
+      "region": "BR",
+      "links": [
+        "https://www.infomoney.com.br/minhas-financas/bancos-leiloam-566-imoveis-oportunidades-sao-boas-mas-e-preciso-ter-atencao/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-12T21:01:31.484541"
+    },
+    {
+      "main_topic": "Furacões",
+      "subtopic": "O que fazer em caso de furacões: seguro residencial",
+      "why_trending": "Furacão Simon está causando inundações e gerando preocupação sobre a segurança e os seguros.",
+      "niche_angle": "Orientar brasileiros nos EUA sobre como escolher seguros residenciais e se preparar para furacões.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "InfoMoney",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mundo/furacao-simon-causa-inundacoes-na-costa-do-mexico-no-pacifico/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-12T21:01:31.484544"
+    },
+    {
+      "main_topic": "Vida de Imigrante",
+      "subtopic": "Realidade da vida do brasileiro nos EUA",
+      "why_trending": "A experiência de viver como imigrante nos EUA continua sendo um tema relevante e de interesse.",
+      "niche_angle": "Compartilhar histórias e desafios enfrentados por brasileiros que vivem nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "Reddit",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "reddit"
+      ],
+      "collected_at": "2026-10-12T21:01:31.484551"
+    },
+    {
+      "main_topic": "Finanças",
+      "subtopic": "Como ensinar crianças sobre dinheiro",
+      "why_trending": "A educação financeira para crianças está em alta, com pais buscando formas de ensinar sobre finanças.",
+      "niche_angle": "Discutir como brasileiros nos EUA podem abordar a educação financeira com seus filhos em um novo contexto cultural.",
+      "video_format": "short",
+      "urgency": "low",
+      "ease": 5,
+      "source": "Google Trends",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "google_trends"
+      ],
+      "collected_at": "2026-10-12T21:01:31.484556"
+    }
+  ]
+}

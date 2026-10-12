@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-11T17:28:23.732054",
-  "run_id": "38159717225",
+  "generated_at": "2026-10-12T21:01:31.494236",
+  "run_id": "38307888460",
   "summary": {
     "total_br": 30,
-    "total_us": 24,
-    "br_us_connections": 10,
+    "total_us": 20,
+    "br_us_connections": 7,
     "cross_platform_topics": 15,
     "niche_ideas": 9
   },
@@ -15,84 +15,84 @@
       "label": "YouTube (BR)",
       "trends": [
         {
+          "title": "MEOVV(미야오) - ‘GO HARD’ M/V",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=8aKR2Ho--5k",
+          "score": 52.11,
+          "region": "BR",
+          "views": 5590008
+        },
+        {
           "title": "GODZILLA MINUS ZERO | Official Trailer 2",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=pWJjYoqVSjQ",
-          "score": 23.25,
+          "score": 15.75,
           "region": "BR",
-          "views": 1202337
+          "views": 3909129
         },
         {
-          "title": "Felipe Araújo - Desgramou | De Ponta a Ponta em Barretos (Ao Vivo)",
+          "title": "Hexed | Official Trailer",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=MBIuCjTEgNI",
-          "score": 8.87,
+          "url": "https://youtube.com/watch?v=KXO21xZdUaM",
+          "score": 12.46,
           "region": "BR",
-          "views": 2976823
+          "views": 1004629
         },
         {
-          "title": "Felipe & Rodrigo -  Pós (Ao Vivo) #NoSentimento",
+          "title": "River | Official Trailer",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=7qcq8wAX9pU",
-          "score": 8.82,
+          "url": "https://youtube.com/watch?v=ox8lEnsxDag",
+          "score": 9.89,
           "region": "BR",
-          "views": 3489128
+          "views": 561173
         },
         {
-          "title": "O Exorcista: Mártires | Trailer Oficial Dublado (Universal Pictures) - HD",
+          "title": "FUI ACHAR AGULHA NO PALHEIRO E CRIEI UMA INDÚSTRIA!",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=w_u98HnZsb4",
-          "score": 6.99,
+          "url": "https://youtube.com/watch?v=NdoYgEjnxwQ",
+          "score": 3.43,
           "region": "BR",
-          "views": 2090107
+          "views": 194361
         },
         {
-          "title": "Official Season 3 Part 2 Trailer | One-Punch Man | VIZ",
+          "title": "💔RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎵",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=iOFHoZWeEw4",
-          "score": 6.59,
+          "url": "https://youtube.com/watch?v=YG0Un4SP0ZU",
+          "score": 2.66,
           "region": "BR",
-          "views": 1237254
+          "views": 26360
         },
         {
-          "title": "PRÍNCIPE ENCANTADO - Rey Vaqueiro e Joelma",
+          "title": "O MAIOR ESCUDO DA HISTÓRIA DO LOL É DO UDYR!",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=bHn321r_Hqg",
-          "score": 3.21,
+          "url": "https://youtube.com/watch?v=zhhTTLlIuxI",
+          "score": 2.02,
           "region": "BR",
-          "views": 987319
+          "views": 114483
         },
         {
-          "title": "AMADO BATISTA – AS 20 MELHORES 🎶 SÓ AS ANTIGAS | GRANDES SUCESSOS ROMÂNTICOS",
+          "title": "You’ll Be In My Heart - Phil Collins (Tarzan)(Boyce Avenue acoustic cover)",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=Hud_-xWnhwk",
-          "score": 2.71,
+          "url": "https://youtube.com/watch?v=IdO0ArsvmAQ",
+          "score": 1.14,
           "region": "BR",
-          "views": 49351
+          "views": 282706
         },
         {
-          "title": "JOGUEI DOORS PELA PRIMEIRA VEZ E ENTREI PRA HISTÓRIA!",
+          "title": "Flash - Zé Vaqueiro - Forró 2026 Atualizado",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=LR6bky57ufk",
-          "score": 2.41,
+          "url": "https://youtube.com/watch?v=vsynxadDHOo",
+          "score": 0.98,
           "region": "BR",
-          "views": 504636
+          "views": 224518
         },
         {
-          "title": "🔴 The Witcher 3: Wild Hunt - Remastered AO VIVO | A História continua #7 - PC 🔴",
+          "title": "Vingadores Doutor Destino | TEASER LOKI vs DOOM",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=FvsAWpREl1M",
-          "score": 1.45,
+          "url": "https://youtube.com/watch?v=vNFpdoDJ8v4",
+          "score": 0.97,
           "region": "BR",
-          "views": 42291
-        },
-        {
-          "title": "FLASH - Zé Vaqueiro 2026 (Repertório Novo)",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=x60dTA-lxMg",
-          "score": 1.28,
-          "region": "BR",
-          "views": 277346
+          "views": 77003
         }
       ]
     },
@@ -102,81 +102,81 @@
       "label": "Notícias (BR)",
       "trends": [
         {
-          "title": "Sua mulher foi levada por tsunami e ele passou anos mergulhando para estar perto dela",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/11/sua-mulher-foi-levada-por-tsunami-e-ele-passou-anos-mergulhando-para-estar-perto-dela.ghtml",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Carregador portátil pega fogo durante voo na Índia, e avião faz pouso de emergência",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/11/carregador-portatil-pega-fogo-durante-voo-na-india-e-aviao-faz-pouso-de-emergencia.ghtml",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Trump anuncia trégua energética entre Rússia e Ucrânia; o que se sabe",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/11/trump-anuncia-tregua-energetica-entre-russia-e-ucrania-o-que-se-sabe.ghtml",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Barco vira, e 139 morrem ao tentar ir de Djibuti para o Iêmen, uma das principais rotas migratórias do Golfo",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/11/barco-vira-e-pessoas-morrem-ao-tentar-ir-de-djibuti-para-o-iemen.ghtml",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Lula: ‘Vamos votar fim da escala 6×1 na quarta-feira, já está conversado’",
+          "title": "Italiano Lorenzo Musetti é anunciado para a disputa do Rio Open 2027",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/lula-vamos-votar-fim-da-escala-6x1-na-quarta-feira-ja-esta-conversado/",
+          "url": "https://www.infomoney.com.br/esportes/italiano-lorenzo-musetti-e-anunciado-para-a-disputa-do-rio-open-2027/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Irã: resposta dos EUA à proposta de reabrir Ormuz foi insuficiente, diz mídia estatal",
+          "title": "TSE alega problema técnico em propaganda de Flávio sem som; haverá nova exibição",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/ira-resposta-dos-eua-a-proposta-de-reabrir-ormuz-foi-insuficiente-diz-midia-estatal/",
+          "url": "https://www.infomoney.com.br/politica/tse-alega-problema-tecnico-em-propaganda-de-flavio-sem-som-havera-nova-exibicao/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "139 imigrantes morrem após naufrágio de barco que ia de Djibuti ao Iêmen, diz ONU",
+          "title": "Bolsas de NY fecham sem direção em dia de liquidez reduzida e geopolítica no radar",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/139-imigrantes-morrem-apos-naufragio-de-barco-que-ia-de-djibuti-ao-iemen-diz-onu/",
+          "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-sem-direcao-em-dia-de-liquidez-reduzida-e-geopolitica-no-radar/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Grêmio x Internacional: Veja onde assistir e horário",
+          "title": "Índice de ADRs brasileiros fecha estável, com leve alta de Petrobras; veja destaques",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/esportes/gremio-internacional-onde-assistir-2/",
+          "url": "https://www.infomoney.com.br/mercados/indice-de-adrs-brasileiros-feriado-nossa-senhora-aparecida-12102026/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Antonelli pode conquistar título da Fórmula 1 em Austin; veja o que precisa acontecer",
+          "title": "Dólar mantém maior cotação em 18 meses diante de tensões no Golfo e inflação nos EUA",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/esportes/antonelli-pode-conquistar-titulo-da-formula-1-em-austin-veja-o-que-precisa-acontecer/",
+          "url": "https://www.infomoney.com.br/mercados/dolar-mantem-maior-cotacao-em-18-meses-diante-de-tensoes-no-golfo-e-inflacao-nos-eua/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Mega-Sena acumula, e prêmio vai a R$ 150 milhões; veja os números sorteados",
+          "title": "Furacão Simon causa inundações na costa do México no Pacífico",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/furacao-simon-causa-inundacoes-na-costa-do-mexico-no-pacifico/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Por que furacões têm nome de pessoas? Entenda como funciona a nomeação dos ciclones",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/por-que-furacoes-tem-nome-pessoas/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Bancos leiloam 566 imóveis – oportunidades são boas, mas é preciso ter atenção",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/minhas-financas/bancos-leiloam-566-imoveis-oportunidades-sao-boas-mas-e-preciso-ter-atencao/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Meta lança Muse Wonder, seu modelo de IA mais avançado, para pressionar OpenAI e Anthropic",
           "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/11/mega-sena-concurso-3069-resultado.ghtml",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/10/12/meta-lanca-muse-wonder-seus-modelos-de-ia-mais-avancados-para-pressionar-openai-e-anthropic.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Declaração apoiada por 60 países condena cobrança de pedágio em rotas marítimas",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/12/declaracao-assinada-por-60-paises-condena-cobranca-de-pedagio-em-rotas-maritimas.ghtml",
           "score": 80.0,
           "region": "BR",
           "views": null
@@ -273,125 +273,86 @@
   ],
   "sections_us": [
     {
-      "platform": "youtube",
-      "region": "US",
-      "label": "YouTube (US)",
-      "trends": [
-        {
-          "title": "JYNXZI CUP w/ STOMPN & MINGO",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=rWlcQpa6Rbs",
-          "score": 4.99,
-          "region": "US",
-          "views": 699910
-        },
-        {
-          "title": "Avengers Doomsday Trailer NYCC Footage & Easter Eggs",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=T7Lo73zSjCA",
-          "score": 1.98,
-          "region": "US",
-          "views": 302460
-        },
-        {
-          "title": "70 Counterpoints To An Old Earth - DEBUNKED (TRAILER)",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=IGd2ymYLwvU",
-          "score": 0.84,
-          "region": "US",
-          "views": 103739
-        },
-        {
-          "title": "Tube Movie: The Trailer | SNL UK",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=OkL9oKkcG9Y",
-          "score": 0.52,
-          "region": "US",
-          "views": 71872
-        }
-      ]
-    },
-    {
       "platform": "news",
       "region": "US",
       "label": "Notícias (US)",
       "trends": [
         {
-          "title": "Hamilton says Vance's attacks on his religion are 'really sad,' 'pathetic'",
+          "title": "Bisignano vows Social Security will last another 90 years",
           "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/campaign/6141240-hamilton-slams-vance-faith-attacks/",
+          "url": "https://thehill.com/newsletters/business-economy/6143939-bisignano-vows-social-security-will-last-another-90-years/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Russia's Kaliningrad threat is aimed at the ally Washington left outside the room",
+          "title": "Live updates: DC judge scolds DOJ, NPS for East Potomac Park tree cutting; Omar calls raid 'political intimidation'",
           "source": "news:The Hill",
-          "url": "https://thehill.com/opinion/international/6140160-russias-kaliningrad-threat-is-aimed-at-the-ally-washington-left-outside-the-room/",
+          "url": "https://thehill.com/homenews/administration/6141784-live-updates-trump-ohio-midterm-elections-russia-diesel-iran/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Mullin says livestreaming Hasan execution is part of 'restoring American values'",
+          "title": "Pro-Collins ads target wrong Portland in GOP super PAC mix-up",
           "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/administration/6141440-mullin-backs-hasan-execution-livestream/",
+          "url": "https://thehill.com/homenews/campaign/6143888-susan-collins-maine-ads-oregon/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Emmer says he's 'so happy' Trump will decide whether to stream public execution",
+          "title": "US military archbishop: Streamed execution threatens to 'imitate the terrorists'",
           "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/house/6141241-emmer-supports-trump-execution-streaming-decision/",
+          "url": "https://thehill.com/policy/defense/6143724-archbishop-opposes-hasan-execution-stream/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Pope Leo XIV to undergo lung surgery this week",
+          "title": "Selma Blair taken into custody, hospitalized after allegedly trying to open plane door",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/blogs/in-the-know/6143845-selma-blair-delta-air-lines-lax-new-york/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+          "url": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
+          "title": "India's opposition parties march to top court as protests over voter lists escalate",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
+          "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Justice Department investigates TV networks, citing possible anti-trust violations",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
+          "title": "U.K. prime minister attributes plot against U.S. bomber base to Iran",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/12/uk-prime-minister-plot-bombers-base-iran",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Don't be scared: Being afraid is outright fun, and maybe useful",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful",
+          "title": "Trump's Russia deal leaves GOP candidates with a Putin problem",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/12/trump-russia-diesel-deal-republicans-midterms",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
-          "score": 80.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Politics chat: Trump announces fuel deal with Russia. What does it mean for sanctions?",
-          "source": "news:NPR Politics",
-          "url": "https://www.npr.org/2026/10/11/nx-s1-5996550/politics-chat-trump-announces-fuel-deal-with-russia-what-does-it-mean-for-sanctions",
+          "title": "Feds search Rep. Ilhan Omar's home in immigration probe",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/12/ilhan-omar-search-immigration",
           "score": 80.0,
           "region": "US",
           "views": null
@@ -489,160 +450,89 @@
   "br_us_connections": [
     {
       "topic": "trump",
-      "count": 18,
-      "score": 50.0,
+      "count": 16,
+      "score": 61.67,
       "sample_titles": [
-        "Trump anuncia acordo com Putin para liberar diesel russo para mercado mundial",
-        "Nobel da Paz a jurista é recado a Trump, dizem especialistas",
-        "Trump anuncia trégua energética entre Rússia e Ucrânia; o que se sabe",
-        "Rep. Pramila Jayapal - Statement on Trump Suspending Microsoft from the PERM Program",
-        "Trump’s Medicaid cuts strip health coverage from some legal immigrants—including refugees and victims of human trafficking"
-      ]
-    },
-    {
-      "topic": "trailer",
-      "count": 9,
-      "score": 5.57,
-      "sample_titles": [
-        "GODZILLA MINUS ZERO | Official Trailer 2",
-        "Official Season 3 Part 2 Trailer | One-Punch Man | VIZ",
-        "Trailer Eleições 2026 - Um trailer sem lados, apenas uma previa das nossas eleiçoes 🫵😎",
-        "Avengers Doomsday Trailer NYCC Footage & Easter Eggs",
-        "Tube Movie: The Trailer | SNL UK"
-      ]
-    },
-    {
-      "topic": "zelensky",
-      "count": 4,
-      "score": 70.0,
-      "sample_titles": [
-        "Zelensky rebate Trump e diz que Ucrânia só interromperá ataques se a Rússia fizer o mesmo",
-        "Trump tells Ukraine to replace Zelensky over Russia fuel deal",
-        "Zelensky says critics blaming him for Russia-Ukraine war 'can't find a key how to stop Putin'",
-        "Live updates: Trump claims Russia-Ukraine energy ceasefire; Zelensky rips diesel deal"
-      ]
-    },
-    {
-      "topic": "diesel",
-      "count": 4,
-      "score": 50.0,
-      "sample_titles": [
-        "Trump anuncia acordo com Putin para liberar diesel russo para mercado mundial",
-        "Russia’s deal to supply the U.S. with diesel is unlikely to ease pain at the pump, experts say. ‘It’s kind of shuffling deck chairs on the Titanic’",
-        "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
-        "Live updates: Trump claims Russia-Ukraine energy ceasefire; Zelensky rips diesel deal"
-      ]
-    },
-    {
-      "topic": "valley",
-      "count": 3,
-      "score": 27.05,
-      "sample_titles": [
-        "Chrono & DYA - FRESCOR DE OUTONO | Abigail (Stardew Valley)",
-        "Slow GM Ft. Pedro Alvez - Nostalgia (Stardew Valley) Official Music Video",
-        "Silicon Valley's horror shows"
-      ]
-    },
-    {
-      "topic": "putin",
-      "count": 2,
-      "score": 60.0,
-      "sample_titles": [
-        "Trump anuncia acordo com Putin para liberar diesel russo para mercado mundial",
-        "Zelensky says critics blaming him for Russia-Ukraine war 'can't find a key how to stop Putin'"
-      ]
-    },
-    {
-      "topic": "agenda",
-      "count": 2,
-      "score": 60.0,
-      "sample_titles": [
-        "Calendário de leilões da semana tem imóveis com descontos de até 76%; veja a agenda",
-        "REVEALED: The “Offices of New Americans” Spreading a Pro-Immigration Agenda Across the Country\nFree lawyers to fight deportation. Services regardless of immigration status. A national network helping build the bureaucracy."
+        "Governo Trump faz operação na casa de deputada democrata por suposta fraude imigratória; parlamentar fala em 'intimidação'",
+        "Musk gastou US$ 276 milhões desde julho para ajudar partido de Trump nas eleições de meio de mandato nos EUA",
+        "Juíza suspende corte de árvores em campo de golfe que Trump quer renovar",
+        "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
+        "Russia hits Ukraine gas facilities after Trump claims 'energy ceasefire'"
       ]
     },
     {
       "topic": "nobel",
-      "count": 2,
-      "score": 40.0,
+      "count": 5,
+      "score": 64.0,
       "sample_titles": [
-        "Nobel da Paz a jurista é recado a Trump, dizem especialistas",
-        "Trump rages over Nobel Peace Prize loss"
+        "Nobel de Economia: quem ganhou nos últimos anos e quais ideias renderam o prêmio",
+        "Nobel de Economia 2026 vai para Robert E. Hall e Michael Woodford por seus estudos sobre estabilização econômica",
+        "Nobel 2026: veja quem são os vencedores das seis categorias do prêmio",
+        "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
+        "Two U.S. professors win Nobel prize in economics"
       ]
     },
     {
-      "topic": "nothing",
-      "count": 2,
-      "score": 20.55,
+      "topic": "collins",
+      "count": 3,
+      "score": 60.38,
       "sample_titles": [
-        "Air Supply - Making Love Out Of Nothing At All (Vorsicht Musik!, 1983)",
-        "New Yorkers Refuse to Treat Violent Illegal Shot by ICE as One of Their Own: 'Nothing Else But Trash'"
+        "You’ll Be In My Heart - Phil Collins (Tarzan)(Boyce Avenue acoustic cover)",
+        "Pro-Collins ads target wrong Portland in GOP super PAC mix-up",
+        "Trump set to rally in Georgia to support Collins in Senate race"
       ]
     },
     {
-      "topic": "supply",
-      "count": 2,
-      "score": 20.55,
+      "topic": "openai",
+      "count": 3,
+      "score": 46.67,
       "sample_titles": [
-        "Air Supply - Making Love Out Of Nothing At All (Vorsicht Musik!, 1983)",
-        "Russia’s deal to supply the U.S. with diesel is unlikely to ease pain at the pump, experts say. ‘It’s kind of shuffling deck chairs on the Titanic’"
+        "Meta lança Muse Wonder, seu modelo de IA mais avançado, para pressionar OpenAI e Anthropic",
+        "Fired OpenAI employees question the company's commitment to safety",
+        "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns"
+      ]
+    },
+    {
+      "topic": "drones",
+      "count": 2,
+      "score": 60.0,
+      "sample_titles": [
+        "Arábia Saudita reage a ataques com drones e mísseis após prometer 'resposta firme' a bombardeio em aeroporto",
+        "U.S. restrictions on Chinese drones are hurting cash-strapped police departments"
+      ]
+    },
+    {
+      "topic": "video",
+      "count": 2,
+      "score": 40.1,
+      "sample_titles": [
+        "O HOMEM É BOM (VIDEO CLIPE OFICIAL) FORRÓ 100 PRECONCEITO",
+        "Johnson: Video of Hasan execution could be 'recruiting tool for future terrorists'"
+      ]
+    },
+    {
+      "topic": "online",
+      "count": 2,
+      "score": 10.0,
+      "sample_titles": [
+        "como ganhar dinheiro online",
+        "how to learn online"
       ]
     }
   ],
   "cross_platform": [
     {
-      "topic": "viral",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 43.33,
-      "sample_titles": [
-        "Hegseth's public execution plan meets the age of viral violence",
-        "Marshall pays bakery bill after complaint goes viral",
-        "viral trends"
-      ]
-    },
-    {
-      "topic": "homem",
+      "topic": "collins",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 40.04,
+      "score": 60.38,
       "sample_titles": [
-        "O HOMEM É BOM (VIDEO CLIPE OFICIAL) FORRÓ 100 PRECONCEITO",
-        "Após crítica de Mamdani, Imigração dos EUA defende ação violenta contra homem em carro com criança",
-        "Justiça mantém justa causa de homem que entregou 88 atestados em um ano, mas atuava como pastor na licença",
-        "Quem é o homem mais rico da África — e por que ele quer vender parte de seu império"
-      ]
-    },
-    {
-      "topic": "trabalho",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 35.0,
-      "sample_titles": [
-        "IA ameaça aumentar desigualdades de gênero no mercado de trabalho, diz relatório",
-        "trabalho home office"
-      ]
-    },
-    {
-      "topic": "novos",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 30.34,
-      "sample_titles": [
-        "MARIN VAMPIRA e NOVOS ANIMES ANUNCIADOS! | IntoxiLive",
-        "Produtores de lichia ampliam mercado e apostam em novos produtos para reduzir perdas"
+        "You’ll Be In My Heart - Phil Collins (Tarzan)(Boyce Avenue acoustic cover)",
+        "Pro-Collins ads target wrong Portland in GOP super PAC mix-up",
+        "Trump set to rally in Georgia to support Collins in Senate race"
       ]
     },
     {
@@ -652,65 +542,36 @@
         "google_trends"
       ],
       "count": 2,
-      "score": 27.5,
+      "score": 55.0,
       "sample_titles": [
-        "Dólar recua com otimismo eleitoral e real se destaca",
-        "Euro cai a R$ 5,62: por que moeda perde mais força que o dólar — e até onde pode ir?",
-        "Real ganha 10,9% ante o dólar em 2026, em maior avanço desde 2025",
+        "Dólar mantém maior cotação em 18 meses diante de tensões no Golfo e inflação nos EUA",
         "dólar hoje"
       ]
     },
     {
-      "topic": "valley",
+      "topic": "maior",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 27.05,
+      "score": 51.01,
       "sample_titles": [
-        "Chrono & DYA - FRESCOR DE OUTONO | Abigail (Stardew Valley)",
-        "Slow GM Ft. Pedro Alvez - Nostalgia (Stardew Valley) Official Music Video",
-        "Silicon Valley's horror shows"
+        "O MAIOR ESCUDO DA HISTÓRIA DO LOL É DO UDYR!",
+        "Dólar mantém maior cotação em 18 meses diante de tensões no Golfo e inflação nos EUA"
       ]
     },
     {
-      "topic": "imigração",
+      "topic": "costa",
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
       "count": 2,
-      "score": 25.0,
+      "score": 50.23,
       "sample_titles": [
-        "Após crítica de Mamdani, Imigração dos EUA defende ação violenta contra homem em carro com criança",
-        "imigração EUA"
-      ]
-    },
-    {
-      "topic": "healthcare",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 25.0,
-      "sample_titles": [
-        "The Great British Exodus: Taxes, Housing Costs, and Terrible Healthcare Are Driving Young Brits Away",
-        "healthcare cost"
-      ]
-    },
-    {
-      "topic": "deportation",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 25.0,
-      "sample_titles": [
-        "REVEALED: The “Offices of New Americans” Spreading a Pro-Immigration Agenda Across the Country\nFree lawyers to fight deportation. Services regardless of immigration status. A national network helping build the bureaucracy.",
-        "deportation"
+        "Eduardo Costa – Só as Antigas ❤️ As Melhores Músicas | Sertanejo Raiz & Modão",
+        "Furacão Simon causa inundações na costa do México no Pacífico"
       ]
     },
     {
@@ -720,62 +581,24 @@
         "google_trends"
       ],
       "count": 2,
-      "score": 25.0,
+      "score": 45.0,
       "sample_titles": [
-        "REVEALED: The “Offices of New Americans” Spreading a Pro-Immigration Agenda Across the Country\nFree lawyers to fight deportation. Services regardless of immigration status. A national network helping build the bureaucracy.",
+        "Feds search Rep. Ilhan Omar's home in immigration probe",
         "immigration USA"
       ]
     },
     {
-      "topic": "nothing",
+      "topic": "dinheiro",
       "platforms": [
-        "youtube",
-        "news"
+        "news",
+        "google_trends"
       ],
       "count": 2,
-      "score": 20.55,
+      "score": 43.33,
       "sample_titles": [
-        "Air Supply - Making Love Out Of Nothing At All (Vorsicht Musik!, 1983)",
-        "New Yorkers Refuse to Treat Violent Illegal Shot by ICE as One of Their Own: 'Nothing Else But Trash'"
-      ]
-    },
-    {
-      "topic": "supply",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 20.55,
-      "sample_titles": [
-        "Air Supply - Making Love Out Of Nothing At All (Vorsicht Musik!, 1983)",
-        "Russia’s deal to supply the U.S. with diesel is unlikely to ease pain at the pump, experts say. ‘It’s kind of shuffling deck chairs on the Titanic’"
-      ]
-    },
-    {
-      "topic": "menos",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 20.12,
-      "sample_titles": [
-        "Grupo Menos É Mais - GILETE NO BOX (Lyrics/Letra)",
-        "Fumaça de incêndios florestais da Indonésia atinge ao menos 4 países"
-      ]
-    },
-    {
-      "topic": "apenas",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 20.11,
-      "sample_titles": [
-        "Trailer Eleições 2026 - Um trailer sem lados, apenas uma previa das nossas eleiçoes 🫵😎",
-        "Emile, de 28 anos, mora em um contêiner marítimo de 13 metros quadrados nas montanhas: comprou 20 mil metros quadrados de terra por 15 mil euros, pagou 1,3 mil euros no contêiner e afirma gastar apenas 20 euros por mês"
+        "Além do Planalto: como a eleição para o Congresso pode afetar impostos, empresas e dinheiro público",
+        "Dar mesada, ensinar a poupar ou deixar gastar? Veja como falar de dinheiro com os filhos",
+        "como ganhar dinheiro online"
       ]
     },
     {
@@ -785,184 +608,283 @@
         "news"
       ],
       "count": 2,
-      "score": 20.11,
+      "score": 40.27,
       "sample_titles": [
         "Trailer Eleições 2026 - Um trailer sem lados, apenas uma previa das nossas eleiçoes 🫵😎",
-        "Ibovespa sobe mais de 1% com eleições no radar, apesar de inflação acima do esperado"
+        "Musk gastou US$ 276 milhões desde julho para ajudar partido de Trump nas eleições de meio de mandato nos EUA"
+      ]
+    },
+    {
+      "topic": "video",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.1,
+      "sample_titles": [
+        "O HOMEM É BOM (VIDEO CLIPE OFICIAL) FORRÓ 100 PRECONCEITO",
+        "Johnson: Video of Hasan execution could be 'recruiting tool for future terrorists'"
+      ]
+    },
+    {
+      "topic": "outubro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.07,
+      "sample_titles": [
+        "REY VAQUEIRO OUTUBRO 2026 | REPERTÓRIO NOVO & MÚSICAS NOVAS | ATUALIZAÇÃO COMPLETA",
+        "Papa cancela audiências até 20 de outubro por cirurgia"
+      ]
+    },
+    {
+      "topic": "lança",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.06,
+      "sample_titles": [
+        "ELA TA DE LANÇA - DJ GUILHERME BORGES E DJ DERBHEN, MC GW ",
+        "Meta lança Muse Wonder, seu modelo de IA mais avançado, para pressionar OpenAI e Anthropic"
+      ]
+    },
+    {
+      "topic": "brasileiro",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Cliente ou rival? Como a China pode passar de grande compradora a concorrente do frango brasileiro",
+        "brasileiro nos EUA"
+      ]
+    },
+    {
+      "topic": "living",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Trump struggles to show voters he's focused on the cost of living",
+        "cost of living"
+      ]
+    },
+    {
+      "topic": "cost living",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Trump struggles to show voters he's focused on the cost of living",
+        "cost of living"
+      ]
+    },
+    {
+      "topic": "business",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Business faces a more interventionist Washington post-midterms",
+        "start a business USA"
+      ]
+    },
+    {
+      "topic": "borges",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 20.04,
+      "sample_titles": [
+        "ELA TA DE LANÇA - DJ GUILHERME BORGES E DJ DERBHEN, MC GW ",
+        "Borges: Ato no RJ mostra que campanha de Lula não jogou a toalha",
+        "Borges: Mão pesada do TSE em 2022 tem reflexos até hoje"
       ]
     }
   ],
   "niche_ideas": [
     {
-      "main_topic": "Imigração",
-      "subtopic": "Mudanças nas políticas de imigração dos EUA",
-      "why_trending": "Recentemente, a imigração nos EUA tem sido um tema quente, com novas políticas sendo discutidas e implementadas, afetando milhões. As ações violentas na imigração foram defendidas, levando a debates acalorados.",
-      "niche_angle": "Explorar como essas mudanças afetam brasileiros que vivem nos EUA e os que desejam imigrar, destacando direitos e opções disponíveis.",
+      "main_topic": "Dólar",
+      "subtopic": "Impacto da alta do dólar na vida dos brasileiros nos EUA",
+      "why_trending": "O dólar está atingindo a maior cotação em 18 meses devido a tensões geopolíticas e inflação nos EUA.",
+      "niche_angle": "Explorar como a alta do dólar afeta o custo de vida, remessas e investimentos dos brasileiros nos EUA.",
       "video_format": "long",
       "urgency": "high",
       "ease": 7,
-      "source": "news",
-      "region": "US",
+      "source": "InfoMoney",
+      "region": "BR|US",
       "links": [
-        "https://g1.globo.com/mundo/noticia/2026/10/11/imigracao-eua-defende-acao-violenta.ghtml"
+        "https://www.infomoney.com.br/mercados/dolar-mantem-maior-cotacao-em-18-meses-diante-de-tensoes-no-golfo-e-inflacao-nos-eua/"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-10-11T17:28:23.728242"
+      "collected_at": "2026-10-12T21:01:31.484513"
     },
     {
-      "main_topic": "Trabalho",
-      "subtopic": "IA e mercado de trabalho",
-      "why_trending": "Um relatório recente aponta que a IA está ameaçando aumentar desigualdades de gênero no mercado de trabalho, o que pode afetar muitos imigrantes.",
-      "niche_angle": "Discutir como a tecnologia e a IA estão mudando o cenário de trabalho nos EUA e como brasileiros podem se preparar para essas mudanças.",
+      "main_topic": "Imigração",
+      "subtopic": "Consequências das ações do governo sobre imigração",
+      "why_trending": "A busca na casa da deputada Ilhan Omar por questões de fraude imigratória está gerando debates acalorados sobre as políticas de imigração nos EUA.",
+      "niche_angle": "Discutir como essas ações do governo afetam a comunidade imigrante e os direitos dos brasileiros nos EUA.",
       "video_format": "both",
       "urgency": "high",
       "ease": 6,
-      "source": "news",
+      "source": "Axios",
       "region": "US",
       "links": [
-        "https://g1.globo.com/tecnologia/noticia/2026/10/11/ia-mercado-de-trabalho.ghtml"
+        "https://www.axios.com/2026/10/12/ilhan-omar-search-immigration"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-10-11T17:28:23.728253"
+      "collected_at": "2026-10-12T21:01:31.484522"
     },
     {
-      "main_topic": "Economia",
-      "subtopic": "Impacto do dólar nas finanças pessoais",
-      "why_trending": "Com o dólar recuando e o real se destacando, muitos brasileiros estão se perguntando como isso impacta suas finanças nos EUA.",
-      "niche_angle": "Explorar como a flutuação do dólar pode afetar a vida financeira dos brasileiros nos EUA, incluindo dicas de economia e investimento.",
+      "main_topic": "Custo de Vida",
+      "subtopic": "Aumento do custo de vida nos EUA e suas implicações",
+      "why_trending": "A inflação e a política econômica estão pressionando o custo de vida, afetando principalmente os imigrantes.",
+      "niche_angle": "Analisar como o aumento do custo de vida impacta brasileiros nos EUA, incluindo moradia e alimentação.",
       "video_format": "long",
       "urgency": "medium",
       "ease": 5,
-      "source": "news",
+      "source": "The Hill",
       "region": "US",
       "links": [
-        "https://g1.globo.com/economia/noticia/2026/10/11/dolar-recuo.ghtml"
+        "https://thehill.com/newsletters/business-economy/6143939-bisignano-vows-social-security-will-last-another-90-years/"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-10-11T17:28:23.728263"
+      "collected_at": "2026-10-12T21:01:31.484526"
     },
     {
-      "main_topic": "Saúde",
-      "subtopic": "Custos de saúde nos EUA",
-      "why_trending": "Os altos custos do sistema de saúde nos EUA continuam a ser um grande problema, especialmente para imigrantes que podem não ter acesso a planos de saúde adequados.",
-      "niche_angle": "Debater os desafios do sistema de saúde americano e como brasileiros podem se preparar financeiramente para esses custos.",
+      "main_topic": "Eleições",
+      "subtopic": "Como as eleições nos EUA impactam a comunidade imigrante",
+      "why_trending": "Com a proximidade das eleições, há um aumento na discussão sobre como as políticas eleitorais afetam a imigração.",
+      "niche_angle": "Explorar o que as eleições significam para os brasileiros nos EUA, incluindo direitos e oportunidades.",
       "video_format": "long",
       "urgency": "medium",
       "ease": 6,
-      "source": "news",
+      "source": "G1",
       "region": "US",
       "links": [
-        "https://g1.globo.com/mundo/noticia/2026/10/11/custo-de-saude-eua.ghtml"
+        "https://g1.globo.com/mundo/noticia/2026/10/12/elon-musk-gastou-us-366-milhoes-para-ajudar-os-republicanos-a-manter-o-controle-do-congresso.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-10-11T17:28:23.728268"
+      "collected_at": "2026-10-12T21:01:31.484531"
+    },
+    {
+      "main_topic": "Tecnologia",
+      "subtopic": "Novas ferramentas de IA e seu impacto no mercado de trabalho",
+      "why_trending": "A Meta lançou um novo modelo de IA que pode alterar o cenário de trabalho e empreendedorismo.",
+      "niche_angle": "Discutir como os brasileiros nos EUA podem usar essa tecnologia para melhorar suas carreiras e negócios.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "G1",
+      "region": "BR|US",
+      "links": [
+        "https://g1.globo.com/tecnologia/noticia/2026/10/12/meta-lanca-muse-wonder-seus-modelos-de-ia-mais-avancados-para-pressionar-openai-e-anthropic.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-12T21:01:31.484536"
     },
     {
       "main_topic": "Negócios",
-      "subtopic": "Empreendedorismo entre imigrantes",
-      "why_trending": "Com a crescente comunidade de empreendedores imigrantes, o tema está em alta entre aqueles que buscam abrir negócios nos EUA.",
-      "niche_angle": "Apresentar histórias de sucesso e dicas práticas para brasileiros que desejam empreender e superar desafios específicos.",
+      "subtopic": "Oportunidades de investimento em imóveis leiloados",
+      "why_trending": "Bancos estão leiloando 566 imóveis com boas oportunidades para investidores.",
+      "niche_angle": "Analisar como brasileiros nos EUA podem aproveitar essas oportunidades de investimento no Brasil.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "InfoMoney",
+      "region": "BR",
+      "links": [
+        "https://www.infomoney.com.br/minhas-financas/bancos-leiloam-566-imoveis-oportunidades-sao-boas-mas-e-preciso-ter-atencao/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-12T21:01:31.484541"
+    },
+    {
+      "main_topic": "Furacões",
+      "subtopic": "O que fazer em caso de furacões: seguro residencial",
+      "why_trending": "Furacão Simon está causando inundações e gerando preocupação sobre a segurança e os seguros.",
+      "niche_angle": "Orientar brasileiros nos EUA sobre como escolher seguros residenciais e se preparar para furacões.",
       "video_format": "both",
       "urgency": "medium",
-      "ease": 5,
-      "source": "news",
-      "region": "US",
-      "links": [
-        "https://exame.com/negocios/empreendedorismo-imigrantes.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-11T17:28:23.728272"
-    },
-    {
-      "main_topic": "Viagem",
-      "subtopic": "Custo de viagens entre Brasil e EUA",
-      "why_trending": "Com a alta do dólar e mudanças nas restrições de viagem, muitos brasileiros estão repensando suas viagens aos EUA.",
-      "niche_angle": "Explorar os custos atuais de viajar para os EUA, oferecendo dicas de economia e planejamento para brasileiros.",
-      "video_format": "long",
-      "urgency": "medium",
-      "ease": 6,
-      "source": "news",
-      "region": "US",
-      "links": [
-        "https://g1.globo.com/mundo/noticia/2026/10/11/custos-viagem-brasil-eua.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-11T17:28:23.728280"
-    },
-    {
-      "main_topic": "Direito & Legal",
-      "subtopic": "Deportação e direitos dos imigrantes",
-      "why_trending": "A deportação e os direitos dos imigrantes estão em foco com novas políticas sendo propostas nos EUA.",
-      "niche_angle": "Informar brasileiros sobre seus direitos e como se proteger legalmente diante de possíveis deportações.",
-      "video_format": "long",
-      "urgency": "medium",
       "ease": 7,
-      "source": "news",
+      "source": "InfoMoney",
       "region": "US",
       "links": [
-        "https://g1.globo.com/mundo/noticia/2026/10/11/deportacao-eua.ghtml"
+        "https://www.infomoney.com.br/mundo/furacao-simon-causa-inundacoes-na-costa-do-mexico-no-pacifico/"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-10-11T17:28:23.728285"
+      "collected_at": "2026-10-12T21:01:31.484544"
     },
     {
-      "main_topic": "Economia",
-      "subtopic": "Mercado de trabalho e salários",
-      "why_trending": "Os salários e o custo de vida nos EUA estão em constante mudança, gerando discussões sobre a realidade do trabalho para imigrantes.",
-      "niche_angle": "Comparar os salários médios nos EUA com os do Brasil, ajudando brasileiros a entenderem suas oportunidades econômicas.",
+      "main_topic": "Vida de Imigrante",
+      "subtopic": "Realidade da vida do brasileiro nos EUA",
+      "why_trending": "A experiência de viver como imigrante nos EUA continua sendo um tema relevante e de interesse.",
+      "niche_angle": "Compartilhar histórias e desafios enfrentados por brasileiros que vivem nos EUA.",
       "video_format": "long",
       "urgency": "medium",
-      "ease": 5,
-      "source": "news",
-      "region": "US",
-      "links": [
-        "https://g1.globo.com/economia/noticia/2026/10/11/salarios-eua-brasil.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-11T17:28:23.728294"
-    },
-    {
-      "main_topic": "Entretenimento",
-      "subtopic": "Humor e memes sobre a vida nos EUA",
-      "why_trending": "Com o crescimento das redes sociais, memes e conteúdos engraçados sobre a vida nos EUA estão cada vez mais populares.",
-      "niche_angle": "Criar conteúdos que traduzam a realidade da vida americana de forma humorística, atraindo tanto brasileiros nos EUA quanto no Brasil.",
-      "video_format": "short",
-      "urgency": "low",
       "ease": 4,
-      "source": "tiktok",
+      "source": "Reddit",
       "region": "US",
-      "links": [
-        "https://www.tiktok.com/tag/vidasnosEUA"
-      ],
+      "links": [],
       "platforms": [
-        "tiktok",
         "reddit"
       ],
-      "collected_at": "2026-10-11T17:28:23.728301"
+      "collected_at": "2026-10-12T21:01:31.484551"
+    },
+    {
+      "main_topic": "Finanças",
+      "subtopic": "Como ensinar crianças sobre dinheiro",
+      "why_trending": "A educação financeira para crianças está em alta, com pais buscando formas de ensinar sobre finanças.",
+      "niche_angle": "Discutir como brasileiros nos EUA podem abordar a educação financeira com seus filhos em um novo contexto cultural.",
+      "video_format": "short",
+      "urgency": "low",
+      "ease": 5,
+      "source": "Google Trends",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "google_trends"
+      ],
+      "collected_at": "2026-10-12T21:01:31.484556"
     }
   ]
 }

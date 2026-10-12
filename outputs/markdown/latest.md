@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 11/10/2026 17:28 UTC
+# 📊 Tendências em Alta — 12/10/2026 21:01 UTC
 
-**Run:** `38159717225` | **BR:** 30 trends | **US:** 24 trends | **Nicho:** 9 ideias
+**Run:** `38307888460` | **BR:** 30 trends | **US:** 20 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. GODZILLA MINUS ZERO | Official Trailer 2 · [https://youtube.com/watch?v=pWJjYoqVSjQ](https://youtube.com/watch?v=pWJjYoqVSjQ)
- 2. Felipe Araújo - Desgramou | De Ponta a Ponta em Barretos (Ao Vivo) · [https://youtube.com/watch?v=MBIuCjTEgNI](https://youtube.com/watch?v=MBIuCjTEgNI)
- 3. Felipe & Rodrigo -  Pós (Ao Vivo) #NoSentimento · [https://youtube.com/watch?v=7qcq8wAX9pU](https://youtube.com/watch?v=7qcq8wAX9pU)
- 4. O Exorcista: Mártires | Trailer Oficial Dublado (Universal Pictures) - HD · [https://youtube.com/watch?v=w_u98HnZsb4](https://youtube.com/watch?v=w_u98HnZsb4)
- 5. Official Season 3 Part 2 Trailer | One-Punch Man | VIZ · [https://youtube.com/watch?v=iOFHoZWeEw4](https://youtube.com/watch?v=iOFHoZWeEw4)
- 6. PRÍNCIPE ENCANTADO - Rey Vaqueiro e Joelma · [https://youtube.com/watch?v=bHn321r_Hqg](https://youtube.com/watch?v=bHn321r_Hqg)
- 7. AMADO BATISTA – AS 20 MELHORES 🎶 SÓ AS ANTIGAS | GRANDES SUCESSOS ROMÂNTICOS · [https://youtube.com/watch?v=Hud_-xWnhwk](https://youtube.com/watch?v=Hud_-xWnhwk)
- 8. JOGUEI DOORS PELA PRIMEIRA VEZ E ENTREI PRA HISTÓRIA! · [https://youtube.com/watch?v=LR6bky57ufk](https://youtube.com/watch?v=LR6bky57ufk)
- 9. 🔴 The Witcher 3: Wild Hunt - Remastered AO VIVO | A História continua #7 - PC 🔴 · [https://youtube.com/watch?v=FvsAWpREl1M](https://youtube.com/watch?v=FvsAWpREl1M)
-10. FLASH - Zé Vaqueiro 2026 (Repertório Novo) · [https://youtube.com/watch?v=x60dTA-lxMg](https://youtube.com/watch?v=x60dTA-lxMg)
+ 1. MEOVV(미야오) - ‘GO HARD’ M/V · [https://youtube.com/watch?v=8aKR2Ho--5k](https://youtube.com/watch?v=8aKR2Ho--5k)
+ 2. GODZILLA MINUS ZERO | Official Trailer 2 · [https://youtube.com/watch?v=pWJjYoqVSjQ](https://youtube.com/watch?v=pWJjYoqVSjQ)
+ 3. Hexed | Official Trailer · [https://youtube.com/watch?v=KXO21xZdUaM](https://youtube.com/watch?v=KXO21xZdUaM)
+ 4. River | Official Trailer · [https://youtube.com/watch?v=ox8lEnsxDag](https://youtube.com/watch?v=ox8lEnsxDag)
+ 5. FUI ACHAR AGULHA NO PALHEIRO E CRIEI UMA INDÚSTRIA! · [https://youtube.com/watch?v=NdoYgEjnxwQ](https://youtube.com/watch?v=NdoYgEjnxwQ)
+ 6. 💔RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎵 · [https://youtube.com/watch?v=YG0Un4SP0ZU](https://youtube.com/watch?v=YG0Un4SP0ZU)
+ 7. O MAIOR ESCUDO DA HISTÓRIA DO LOL É DO UDYR! · [https://youtube.com/watch?v=zhhTTLlIuxI](https://youtube.com/watch?v=zhhTTLlIuxI)
+ 8. You’ll Be In My Heart - Phil Collins (Tarzan)(Boyce Avenue acoustic cover) · [https://youtube.com/watch?v=IdO0ArsvmAQ](https://youtube.com/watch?v=IdO0ArsvmAQ)
+ 9. Flash - Zé Vaqueiro - Forró 2026 Atualizado · [https://youtube.com/watch?v=vsynxadDHOo](https://youtube.com/watch?v=vsynxadDHOo)
+10. Vingadores Doutor Destino | TEASER LOKI vs DOOM · [https://youtube.com/watch?v=vNFpdoDJ8v4](https://youtube.com/watch?v=vNFpdoDJ8v4)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Sua mulher foi levada por tsunami e ele passou anos mergulhando para estar perto dela · [https://g1.globo.com/mundo/noticia/2026/10/11/sua-mulher-foi-levada-por-tsunami-e-ele-passou-anos-mergulhando-para-estar-perto-dela.ghtml](https://g1.globo.com/mundo/noticia/2026/10/11/sua-mulher-foi-levada-por-tsunami-e-ele-passou-anos-mergulhando-para-estar-perto-dela.ghtml)
- 2. Carregador portátil pega fogo durante voo na Índia, e avião faz pouso de emergência · [https://g1.globo.com/mundo/noticia/2026/10/11/carregador-portatil-pega-fogo-durante-voo-na-india-e-aviao-faz-pouso-de-emergencia.ghtml](https://g1.globo.com/mundo/noticia/2026/10/11/carregador-portatil-pega-fogo-durante-voo-na-india-e-aviao-faz-pouso-de-emergencia.ghtml)
- 3. Trump anuncia trégua energética entre Rússia e Ucrânia; o que se sabe · [https://g1.globo.com/mundo/noticia/2026/10/11/trump-anuncia-tregua-energetica-entre-russia-e-ucrania-o-que-se-sabe.ghtml](https://g1.globo.com/mundo/noticia/2026/10/11/trump-anuncia-tregua-energetica-entre-russia-e-ucrania-o-que-se-sabe.ghtml)
- 4. Barco vira, e 139 morrem ao tentar ir de Djibuti para o Iêmen, uma das principais rotas migratórias do Golfo · [https://g1.globo.com/mundo/noticia/2026/10/11/barco-vira-e-pessoas-morrem-ao-tentar-ir-de-djibuti-para-o-iemen.ghtml](https://g1.globo.com/mundo/noticia/2026/10/11/barco-vira-e-pessoas-morrem-ao-tentar-ir-de-djibuti-para-o-iemen.ghtml)
- 5. Lula: ‘Vamos votar fim da escala 6×1 na quarta-feira, já está conversado’ · [https://www.infomoney.com.br/politica/lula-vamos-votar-fim-da-escala-6x1-na-quarta-feira-ja-esta-conversado/](https://www.infomoney.com.br/politica/lula-vamos-votar-fim-da-escala-6x1-na-quarta-feira-ja-esta-conversado/)
- 6. Irã: resposta dos EUA à proposta de reabrir Ormuz foi insuficiente, diz mídia estatal · [https://www.infomoney.com.br/mundo/ira-resposta-dos-eua-a-proposta-de-reabrir-ormuz-foi-insuficiente-diz-midia-estatal/](https://www.infomoney.com.br/mundo/ira-resposta-dos-eua-a-proposta-de-reabrir-ormuz-foi-insuficiente-diz-midia-estatal/)
- 7. 139 imigrantes morrem após naufrágio de barco que ia de Djibuti ao Iêmen, diz ONU · [https://www.infomoney.com.br/mundo/139-imigrantes-morrem-apos-naufragio-de-barco-que-ia-de-djibuti-ao-iemen-diz-onu/](https://www.infomoney.com.br/mundo/139-imigrantes-morrem-apos-naufragio-de-barco-que-ia-de-djibuti-ao-iemen-diz-onu/)
- 8. Grêmio x Internacional: Veja onde assistir e horário · [https://www.infomoney.com.br/esportes/gremio-internacional-onde-assistir-2/](https://www.infomoney.com.br/esportes/gremio-internacional-onde-assistir-2/)
- 9. Antonelli pode conquistar título da Fórmula 1 em Austin; veja o que precisa acontecer · [https://www.infomoney.com.br/esportes/antonelli-pode-conquistar-titulo-da-formula-1-em-austin-veja-o-que-precisa-acontecer/](https://www.infomoney.com.br/esportes/antonelli-pode-conquistar-titulo-da-formula-1-em-austin-veja-o-que-precisa-acontecer/)
-10. Mega-Sena acumula, e prêmio vai a R$ 150 milhões; veja os números sorteados · [https://g1.globo.com/loterias/mega-sena/noticia/2026/10/11/mega-sena-concurso-3069-resultado.ghtml](https://g1.globo.com/loterias/mega-sena/noticia/2026/10/11/mega-sena-concurso-3069-resultado.ghtml)
+ 1. Italiano Lorenzo Musetti é anunciado para a disputa do Rio Open 2027 · [https://www.infomoney.com.br/esportes/italiano-lorenzo-musetti-e-anunciado-para-a-disputa-do-rio-open-2027/](https://www.infomoney.com.br/esportes/italiano-lorenzo-musetti-e-anunciado-para-a-disputa-do-rio-open-2027/)
+ 2. TSE alega problema técnico em propaganda de Flávio sem som; haverá nova exibição · [https://www.infomoney.com.br/politica/tse-alega-problema-tecnico-em-propaganda-de-flavio-sem-som-havera-nova-exibicao/](https://www.infomoney.com.br/politica/tse-alega-problema-tecnico-em-propaganda-de-flavio-sem-som-havera-nova-exibicao/)
+ 3. Bolsas de NY fecham sem direção em dia de liquidez reduzida e geopolítica no radar · [https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-sem-direcao-em-dia-de-liquidez-reduzida-e-geopolitica-no-radar/](https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-sem-direcao-em-dia-de-liquidez-reduzida-e-geopolitica-no-radar/)
+ 4. Índice de ADRs brasileiros fecha estável, com leve alta de Petrobras; veja destaques · [https://www.infomoney.com.br/mercados/indice-de-adrs-brasileiros-feriado-nossa-senhora-aparecida-12102026/](https://www.infomoney.com.br/mercados/indice-de-adrs-brasileiros-feriado-nossa-senhora-aparecida-12102026/)
+ 5. Dólar mantém maior cotação em 18 meses diante de tensões no Golfo e inflação nos EUA · [https://www.infomoney.com.br/mercados/dolar-mantem-maior-cotacao-em-18-meses-diante-de-tensoes-no-golfo-e-inflacao-nos-eua/](https://www.infomoney.com.br/mercados/dolar-mantem-maior-cotacao-em-18-meses-diante-de-tensoes-no-golfo-e-inflacao-nos-eua/)
+ 6. Furacão Simon causa inundações na costa do México no Pacífico · [https://www.infomoney.com.br/mundo/furacao-simon-causa-inundacoes-na-costa-do-mexico-no-pacifico/](https://www.infomoney.com.br/mundo/furacao-simon-causa-inundacoes-na-costa-do-mexico-no-pacifico/)
+ 7. Por que furacões têm nome de pessoas? Entenda como funciona a nomeação dos ciclones · [https://www.infomoney.com.br/mundo/por-que-furacoes-tem-nome-pessoas/](https://www.infomoney.com.br/mundo/por-que-furacoes-tem-nome-pessoas/)
+ 8. Bancos leiloam 566 imóveis – oportunidades são boas, mas é preciso ter atenção · [https://www.infomoney.com.br/minhas-financas/bancos-leiloam-566-imoveis-oportunidades-sao-boas-mas-e-preciso-ter-atencao/](https://www.infomoney.com.br/minhas-financas/bancos-leiloam-566-imoveis-oportunidades-sao-boas-mas-e-preciso-ter-atencao/)
+ 9. Meta lança Muse Wonder, seu modelo de IA mais avançado, para pressionar OpenAI e Anthropic · [https://g1.globo.com/tecnologia/noticia/2026/10/12/meta-lanca-muse-wonder-seus-modelos-de-ia-mais-avancados-para-pressionar-openai-e-anthropic.ghtml](https://g1.globo.com/tecnologia/noticia/2026/10/12/meta-lanca-muse-wonder-seus-modelos-de-ia-mais-avancados-para-pressionar-openai-e-anthropic.ghtml)
+10. Declaração apoiada por 60 países condena cobrança de pedágio em rotas marítimas · [https://g1.globo.com/mundo/noticia/2026/10/12/declaracao-assinada-por-60-paises-condena-cobranca-de-pedagio-em-rotas-maritimas.ghtml](https://g1.globo.com/mundo/noticia/2026/10/12/declaracao-assinada-por-60-paises-condena-cobranca-de-pedagio-em-rotas-maritimas.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,25 +54,18 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 4
-
- 1. JYNXZI CUP w/ STOMPN & MINGO · [https://youtube.com/watch?v=rWlcQpa6Rbs](https://youtube.com/watch?v=rWlcQpa6Rbs)
- 2. Avengers Doomsday Trailer NYCC Footage & Easter Eggs · [https://youtube.com/watch?v=T7Lo73zSjCA](https://youtube.com/watch?v=T7Lo73zSjCA)
- 3. 70 Counterpoints To An Old Earth - DEBUNKED (TRAILER) · [https://youtube.com/watch?v=IGd2ymYLwvU](https://youtube.com/watch?v=IGd2ymYLwvU)
- 4. Tube Movie: The Trailer | SNL UK · [https://youtube.com/watch?v=OkL9oKkcG9Y](https://youtube.com/watch?v=OkL9oKkcG9Y)
-
 #### 📰 Notícias (US) — Top 10
 
- 1. Hamilton says Vance's attacks on his religion are 'really sad,' 'pathetic' · [https://thehill.com/homenews/campaign/6141240-hamilton-slams-vance-faith-attacks/](https://thehill.com/homenews/campaign/6141240-hamilton-slams-vance-faith-attacks/)
- 2. Russia's Kaliningrad threat is aimed at the ally Washington left outside the room · [https://thehill.com/opinion/international/6140160-russias-kaliningrad-threat-is-aimed-at-the-ally-washington-left-outside-the-room/](https://thehill.com/opinion/international/6140160-russias-kaliningrad-threat-is-aimed-at-the-ally-washington-left-outside-the-room/)
- 3. Mullin says livestreaming Hasan execution is part of 'restoring American values' · [https://thehill.com/homenews/administration/6141440-mullin-backs-hasan-execution-livestream/](https://thehill.com/homenews/administration/6141440-mullin-backs-hasan-execution-livestream/)
- 4. Emmer says he's 'so happy' Trump will decide whether to stream public execution · [https://thehill.com/homenews/house/6141241-emmer-supports-trump-execution-streaming-decision/](https://thehill.com/homenews/house/6141241-emmer-supports-trump-execution-streaming-decision/)
- 5. Pope Leo XIV to undergo lung surgery this week · [https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week](https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week)
- 6. Hurricane Simon nears Mexico with 155 mph winds and flooding fears · [https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears](https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears)
- 7. Justice Department investigates TV networks, citing possible anti-trust violations · [https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump](https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump)
- 8. Don't be scared: Being afraid is outright fun, and maybe useful · [https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful](https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful)
- 9. She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now? · [https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic](https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic)
-10. Politics chat: Trump announces fuel deal with Russia. What does it mean for sanctions? · [https://www.npr.org/2026/10/11/nx-s1-5996550/politics-chat-trump-announces-fuel-deal-with-russia-what-does-it-mean-for-sanctions](https://www.npr.org/2026/10/11/nx-s1-5996550/politics-chat-trump-announces-fuel-deal-with-russia-what-does-it-mean-for-sanctions)
+ 1. Bisignano vows Social Security will last another 90 years · [https://thehill.com/newsletters/business-economy/6143939-bisignano-vows-social-security-will-last-another-90-years/](https://thehill.com/newsletters/business-economy/6143939-bisignano-vows-social-security-will-last-another-90-years/)
+ 2. Live updates: DC judge scolds DOJ, NPS for East Potomac Park tree cutting; Omar calls raid 'political intimidation' · [https://thehill.com/homenews/administration/6141784-live-updates-trump-ohio-midterm-elections-russia-diesel-iran/](https://thehill.com/homenews/administration/6141784-live-updates-trump-ohio-midterm-elections-russia-diesel-iran/)
+ 3. Pro-Collins ads target wrong Portland in GOP super PAC mix-up · [https://thehill.com/homenews/campaign/6143888-susan-collins-maine-ads-oregon/](https://thehill.com/homenews/campaign/6143888-susan-collins-maine-ads-oregon/)
+ 4. US military archbishop: Streamed execution threatens to 'imitate the terrorists' · [https://thehill.com/policy/defense/6143724-archbishop-opposes-hasan-execution-stream/](https://thehill.com/policy/defense/6143724-archbishop-opposes-hasan-execution-stream/)
+ 5. Selma Blair taken into custody, hospitalized after allegedly trying to open plane door · [https://thehill.com/blogs/in-the-know/6143845-selma-blair-delta-air-lines-lax-new-york/](https://thehill.com/blogs/in-the-know/6143845-selma-blair-delta-air-lines-lax-new-york/)
+ 6. Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant · [https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj](https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj)
+ 7. India's opposition parties march to top court as protests over voter lists escalate · [https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests](https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests)
+ 8. U.K. prime minister attributes plot against U.S. bomber base to Iran · [https://www.axios.com/2026/10/12/uk-prime-minister-plot-bombers-base-iran](https://www.axios.com/2026/10/12/uk-prime-minister-plot-bombers-base-iran)
+ 9. Trump's Russia deal leaves GOP candidates with a Putin problem · [https://www.axios.com/2026/10/12/trump-russia-diesel-deal-republicans-midterms](https://www.axios.com/2026/10/12/trump-russia-diesel-deal-republicans-midterms)
+10. Feds search Rep. Ilhan Omar's home in immigration probe · [https://www.axios.com/2026/10/12/ilhan-omar-search-immigration](https://www.axios.com/2026/10/12/ilhan-omar-search-immigration)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -94,12 +87,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **Imigração** | Mudanças nas políticas de imigração dos EUA | Recentemente, a imigração nos EUA tem sido um tema quente, com novas políticas sendo discutidas e implementadas, afetand |
-| 2 🟠 🎯 | **Trabalho** | IA e mercado de trabalho | Um relatório recente aponta que a IA está ameaçando aumentar desigualdades de gênero no mercado de trabalho, o que pode  |
-| 3 🟡 🎬 | **Economia** | Impacto do dólar nas finanças pessoais | Com o dólar recuando e o real se destacando, muitos brasileiros estão se perguntando como isso impacta suas finanças nos |
-| 4 🟡 🎬 | **Saúde** | Custos de saúde nos EUA | Os altos custos do sistema de saúde nos EUA continuam a ser um grande problema, especialmente para imigrantes que podem  |
-| 5 🟡 🎯 | **Negócios** | Empreendedorismo entre imigrantes | Com a crescente comunidade de empreendedores imigrantes, o tema está em alta entre aqueles que buscam abrir negócios nos |
-| 6 🟡 🎬 | **Viagem** | Custo de viagens entre Brasil e EUA | Com a alta do dólar e mudanças nas restrições de viagem, muitos brasileiros estão repensando suas viagens aos EUA. |
-| 7 🟡 🎬 | **Direito & Legal** | Deportação e direitos dos imigrantes | A deportação e os direitos dos imigrantes estão em foco com novas políticas sendo propostas nos EUA. |
-| 8 🟡 🎬 | **Economia** | Mercado de trabalho e salários | Os salários e o custo de vida nos EUA estão em constante mudança, gerando discussões sobre a realidade do trabalho para  |
-| 9 🟢 ⚡ | **Entretenimento** | Humor e memes sobre a vida nos EUA | Com o crescimento das redes sociais, memes e conteúdos engraçados sobre a vida nos EUA estão cada vez mais populares. |
+| 1 🟠 🎬 | **Dólar** | Impacto da alta do dólar na vida dos brasileiros nos EUA | O dólar está atingindo a maior cotação em 18 meses devido a tensões geopolíticas e inflação nos EUA. |
+| 2 🟠 🎯 | **Imigração** | Consequências das ações do governo sobre imigração | A busca na casa da deputada Ilhan Omar por questões de fraude imigratória está gerando debates acalorados sobre as polít |
+| 3 🟡 🎬 | **Custo de Vida** | Aumento do custo de vida nos EUA e suas implicações | A inflação e a política econômica estão pressionando o custo de vida, afetando principalmente os imigrantes. |
+| 4 🟡 🎬 | **Eleições** | Como as eleições nos EUA impactam a comunidade imigrante | Com a proximidade das eleições, há um aumento na discussão sobre como as políticas eleitorais afetam a imigração. |
+| 5 🟡 🎯 | **Tecnologia** | Novas ferramentas de IA e seu impacto no mercado de trabalho | A Meta lançou um novo modelo de IA que pode alterar o cenário de trabalho e empreendedorismo. |
+| 6 🟡 🎬 | **Negócios** | Oportunidades de investimento em imóveis leiloados | Bancos estão leiloando 566 imóveis com boas oportunidades para investidores. |
+| 7 🟡 🎯 | **Furacões** | O que fazer em caso de furacões: seguro residencial | Furacão Simon está causando inundações e gerando preocupação sobre a segurança e os seguros. |
+| 8 🟡 🎬 | **Vida de Imigrante** | Realidade da vida do brasileiro nos EUA | A experiência de viver como imigrante nos EUA continua sendo um tema relevante e de interesse. |
+| 9 🟢 ⚡ | **Finanças** | Como ensinar crianças sobre dinheiro | A educação financeira para crianças está em alta, com pais buscando formas de ensinar sobre finanças. |
