@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 12/10/2026 21:01 UTC
+# 📊 Tendências em Alta — 13/10/2026 19:00 UTC
 
-**Run:** `38307888460` | **BR:** 30 trends | **US:** 20 trends | **Nicho:** 9 ideias
+**Run:** `38451184192` | **BR:** 30 trends | **US:** 24 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -12,28 +12,28 @@
 #### 📺 YouTube (BR) — Top 10
 
  1. MEOVV(미야오) - ‘GO HARD’ M/V · [https://youtube.com/watch?v=8aKR2Ho--5k](https://youtube.com/watch?v=8aKR2Ho--5k)
- 2. GODZILLA MINUS ZERO | Official Trailer 2 · [https://youtube.com/watch?v=pWJjYoqVSjQ](https://youtube.com/watch?v=pWJjYoqVSjQ)
- 3. Hexed | Official Trailer · [https://youtube.com/watch?v=KXO21xZdUaM](https://youtube.com/watch?v=KXO21xZdUaM)
- 4. River | Official Trailer · [https://youtube.com/watch?v=ox8lEnsxDag](https://youtube.com/watch?v=ox8lEnsxDag)
- 5. FUI ACHAR AGULHA NO PALHEIRO E CRIEI UMA INDÚSTRIA! · [https://youtube.com/watch?v=NdoYgEjnxwQ](https://youtube.com/watch?v=NdoYgEjnxwQ)
- 6. 💔RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎵 · [https://youtube.com/watch?v=YG0Un4SP0ZU](https://youtube.com/watch?v=YG0Un4SP0ZU)
- 7. O MAIOR ESCUDO DA HISTÓRIA DO LOL É DO UDYR! · [https://youtube.com/watch?v=zhhTTLlIuxI](https://youtube.com/watch?v=zhhTTLlIuxI)
- 8. You’ll Be In My Heart - Phil Collins (Tarzan)(Boyce Avenue acoustic cover) · [https://youtube.com/watch?v=IdO0ArsvmAQ](https://youtube.com/watch?v=IdO0ArsvmAQ)
- 9. Flash - Zé Vaqueiro - Forró 2026 Atualizado · [https://youtube.com/watch?v=vsynxadDHOo](https://youtube.com/watch?v=vsynxadDHOo)
-10. Vingadores Doutor Destino | TEASER LOKI vs DOOM · [https://youtube.com/watch?v=vNFpdoDJ8v4](https://youtube.com/watch?v=vNFpdoDJ8v4)
+ 2. River | Official Trailer · [https://youtube.com/watch?v=ox8lEnsxDag](https://youtube.com/watch?v=ox8lEnsxDag)
+ 3. MEOVV(미야오) - ‘GO HARD’ PERFORMANCE VIDEO · [https://youtube.com/watch?v=OKV1j4whPCQ](https://youtube.com/watch?v=OKV1j4whPCQ)
+ 4. FUI ACHAR AGULHA NO PALHEIRO E CRIEI UMA INDÚSTRIA! · [https://youtube.com/watch?v=NdoYgEjnxwQ](https://youtube.com/watch?v=NdoYgEjnxwQ)
+ 5. AMADO BATISTA – AS 20 MELHORES 🎶 SÓ AS ANTIGAS | GRANDES SUCESSOS ROMÂNTICOS · [https://youtube.com/watch?v=HDTJ-3xxhzk](https://youtube.com/watch?v=HDTJ-3xxhzk)
+ 6. Post Malone, Swae Lee - Sunflower (Lyrics) · [https://youtube.com/watch?v=NzUtcB51ksA](https://youtube.com/watch?v=NzUtcB51ksA)
+ 7. Flash - Zé Vaqueiro - Forró 2026 Atualizado · [https://youtube.com/watch?v=vsynxadDHOo](https://youtube.com/watch?v=vsynxadDHOo)
+ 8. Dance Se Souber Musicas Atualizadas ~ 2026 {tiktok}🎶💜 · [https://youtube.com/watch?v=Xr1nER6dMU8](https://youtube.com/watch?v=Xr1nER6dMU8)
+ 9. Shawn Mendes - Treat You Better (Lyrics) · [https://youtube.com/watch?v=8uy7upCfe3w](https://youtube.com/watch?v=8uy7upCfe3w)
+10. Eu fui (compeltamente) ENGANADO com o trailer de OUTRA MAMÃE... · [https://youtube.com/watch?v=BHtnQZutetY](https://youtube.com/watch?v=BHtnQZutetY)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Italiano Lorenzo Musetti é anunciado para a disputa do Rio Open 2027 · [https://www.infomoney.com.br/esportes/italiano-lorenzo-musetti-e-anunciado-para-a-disputa-do-rio-open-2027/](https://www.infomoney.com.br/esportes/italiano-lorenzo-musetti-e-anunciado-para-a-disputa-do-rio-open-2027/)
- 2. TSE alega problema técnico em propaganda de Flávio sem som; haverá nova exibição · [https://www.infomoney.com.br/politica/tse-alega-problema-tecnico-em-propaganda-de-flavio-sem-som-havera-nova-exibicao/](https://www.infomoney.com.br/politica/tse-alega-problema-tecnico-em-propaganda-de-flavio-sem-som-havera-nova-exibicao/)
- 3. Bolsas de NY fecham sem direção em dia de liquidez reduzida e geopolítica no radar · [https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-sem-direcao-em-dia-de-liquidez-reduzida-e-geopolitica-no-radar/](https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-sem-direcao-em-dia-de-liquidez-reduzida-e-geopolitica-no-radar/)
- 4. Índice de ADRs brasileiros fecha estável, com leve alta de Petrobras; veja destaques · [https://www.infomoney.com.br/mercados/indice-de-adrs-brasileiros-feriado-nossa-senhora-aparecida-12102026/](https://www.infomoney.com.br/mercados/indice-de-adrs-brasileiros-feriado-nossa-senhora-aparecida-12102026/)
- 5. Dólar mantém maior cotação em 18 meses diante de tensões no Golfo e inflação nos EUA · [https://www.infomoney.com.br/mercados/dolar-mantem-maior-cotacao-em-18-meses-diante-de-tensoes-no-golfo-e-inflacao-nos-eua/](https://www.infomoney.com.br/mercados/dolar-mantem-maior-cotacao-em-18-meses-diante-de-tensoes-no-golfo-e-inflacao-nos-eua/)
- 6. Furacão Simon causa inundações na costa do México no Pacífico · [https://www.infomoney.com.br/mundo/furacao-simon-causa-inundacoes-na-costa-do-mexico-no-pacifico/](https://www.infomoney.com.br/mundo/furacao-simon-causa-inundacoes-na-costa-do-mexico-no-pacifico/)
- 7. Por que furacões têm nome de pessoas? Entenda como funciona a nomeação dos ciclones · [https://www.infomoney.com.br/mundo/por-que-furacoes-tem-nome-pessoas/](https://www.infomoney.com.br/mundo/por-que-furacoes-tem-nome-pessoas/)
- 8. Bancos leiloam 566 imóveis – oportunidades são boas, mas é preciso ter atenção · [https://www.infomoney.com.br/minhas-financas/bancos-leiloam-566-imoveis-oportunidades-sao-boas-mas-e-preciso-ter-atencao/](https://www.infomoney.com.br/minhas-financas/bancos-leiloam-566-imoveis-oportunidades-sao-boas-mas-e-preciso-ter-atencao/)
- 9. Meta lança Muse Wonder, seu modelo de IA mais avançado, para pressionar OpenAI e Anthropic · [https://g1.globo.com/tecnologia/noticia/2026/10/12/meta-lanca-muse-wonder-seus-modelos-de-ia-mais-avancados-para-pressionar-openai-e-anthropic.ghtml](https://g1.globo.com/tecnologia/noticia/2026/10/12/meta-lanca-muse-wonder-seus-modelos-de-ia-mais-avancados-para-pressionar-openai-e-anthropic.ghtml)
-10. Declaração apoiada por 60 países condena cobrança de pedágio em rotas marítimas · [https://g1.globo.com/mundo/noticia/2026/10/12/declaracao-assinada-por-60-paises-condena-cobranca-de-pedagio-em-rotas-maritimas.ghtml](https://g1.globo.com/mundo/noticia/2026/10/12/declaracao-assinada-por-60-paises-condena-cobranca-de-pedagio-em-rotas-maritimas.ghtml)
+ 1. Trump demite embaixadora na Grécia que já foi noiva de seu filho, após reportagens sobre má conduta · [https://g1.globo.com/mundo/noticia/2026/10/13/trump-demite-embaixadora-na-grecia-que-ja-foi-noiva-de-seu-filho-apos-reportagens-sobre-ma-conduta.ghtml](https://g1.globo.com/mundo/noticia/2026/10/13/trump-demite-embaixadora-na-grecia-que-ja-foi-noiva-de-seu-filho-apos-reportagens-sobre-ma-conduta.ghtml)
+ 2. Ray Dalio: disparada dos Treasuries ainda tem “longo caminho pela frente” · [https://www.infomoney.com.br/onde-investir/ray-dalio-disparada-dos-treasuries-ainda-tem-longo-caminho-pela-frente/](https://www.infomoney.com.br/onde-investir/ray-dalio-disparada-dos-treasuries-ainda-tem-longo-caminho-pela-frente/)
+ 3. RJ: Galeão terá R$ 1 bi em investimentos em três anos e voos para mais 30 destinos · [https://www.infomoney.com.br/mercados/rj-galeao-tera-r-1-bi-em-investimentos-em-tres-anos-e-voos-para-mais-30-destinos/](https://www.infomoney.com.br/mercados/rj-galeao-tera-r-1-bi-em-investimentos-em-tres-anos-e-voos-para-mais-30-destinos/)
+ 4. Pix MEI, perdão de dívida e mais: o que muda para microempreendedor com Prospera MEI · [https://www.infomoney.com.br/minhas-financas/pix-mei-perdao-de-divida-e-mais-o-que-muda-para-microempreendedor-com-prospera-mei/](https://www.infomoney.com.br/minhas-financas/pix-mei-perdao-de-divida-e-mais-o-que-muda-para-microempreendedor-com-prospera-mei/)
+ 5. Quase todos os clubes ingleses operam no vermelho, alerta regulador do futebol · [https://www.infomoney.com.br/esportes/quase-todos-os-clubes-ingleses-operam-no-vermelho-alerta-regulador-do-futebol/](https://www.infomoney.com.br/esportes/quase-todos-os-clubes-ingleses-operam-no-vermelho-alerta-regulador-do-futebol/)
+ 6. Confira o calendário de resultados do 3º trimestre de 2026 da Bolsa brasileira · [https://www.infomoney.com.br/mercados/calendario-de-resultados-terceiro-trimestre-2026-da-bolsa-brasileira/](https://www.infomoney.com.br/mercados/calendario-de-resultados-terceiro-trimestre-2026-da-bolsa-brasileira/)
+ 7. Vaticano diz que cirurgia de Leão XIV foi bem-sucedida · [https://www.infomoney.com.br/mundo/vaticano-diz-que-cirurgia-de-leao-xiv-foi-bem-sucedida/](https://www.infomoney.com.br/mundo/vaticano-diz-que-cirurgia-de-leao-xiv-foi-bem-sucedida/)
+ 8. Meta lança modelos de IA mais avançados e eleva disputa com OpenAI e Anthropic · [https://www.infomoney.com.br/business/meta-lanca-modelos-de-ia-mais-avancados-e-eleva-disputa-com-openai-e-anthropic/](https://www.infomoney.com.br/business/meta-lanca-modelos-de-ia-mais-avancados-e-eleva-disputa-com-openai-e-anthropic/)
+ 9. TSE libera canal de Janones pró-Lula após campanha cumprir exigência eleitoral · [https://www.infomoney.com.br/politica/tse-libera-canal-de-janones-pro-lula-apos-campanha-cumprir-exigencia-eleitoral/](https://www.infomoney.com.br/politica/tse-libera-canal-de-janones-pro-lula-apos-campanha-cumprir-exigencia-eleitoral/)
+10. Goldman Sachs corta estimativas para o dólar e projeta real a R$ 4,70 em três meses · [https://www.infomoney.com.br/mercados/goldman-sachs-corta-estimativas-para-o-dolar-e-projeta-real-a-r-470-em-tres-meses/](https://www.infomoney.com.br/mercados/goldman-sachs-corta-estimativas-para-o-dolar-e-projeta-real-a-r-470-em-tres-meses/)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,18 +54,25 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
+#### 📺 YouTube (US) — Top 4
+
+ 1. LEVANTO MIS MANOS/ PODEROSAS ALABANZAS CRISTIANAS ADORACION/ MUSICA CRISTIANA DE ADORACION PARA · [https://youtube.com/watch?v=l_kZ7_EIBwg](https://youtube.com/watch?v=l_kZ7_EIBwg)
+ 2. Clayface First Reactions, Godzilla Trailer And Box Office Tracking - The John Campea Show · [https://youtube.com/watch?v=WmpvwqVJwkc](https://youtube.com/watch?v=WmpvwqVJwkc)
+ 3. I Found a Trailer Almost Nobody Knows About · [https://youtube.com/watch?v=61n9d7oSexc](https://youtube.com/watch?v=61n9d7oSexc)
+ 4. THE GLOBAL RESET 🌎 (TRAILER #1) STARRING CHARLIE CLIPS & MURDA MOOK 🔥(FULL CARD Link In Description) · [https://youtube.com/watch?v=OBTjyMdwzco](https://youtube.com/watch?v=OBTjyMdwzco)
+
 #### 📰 Notícias (US) — Top 10
 
- 1. Bisignano vows Social Security will last another 90 years · [https://thehill.com/newsletters/business-economy/6143939-bisignano-vows-social-security-will-last-another-90-years/](https://thehill.com/newsletters/business-economy/6143939-bisignano-vows-social-security-will-last-another-90-years/)
- 2. Live updates: DC judge scolds DOJ, NPS for East Potomac Park tree cutting; Omar calls raid 'political intimidation' · [https://thehill.com/homenews/administration/6141784-live-updates-trump-ohio-midterm-elections-russia-diesel-iran/](https://thehill.com/homenews/administration/6141784-live-updates-trump-ohio-midterm-elections-russia-diesel-iran/)
- 3. Pro-Collins ads target wrong Portland in GOP super PAC mix-up · [https://thehill.com/homenews/campaign/6143888-susan-collins-maine-ads-oregon/](https://thehill.com/homenews/campaign/6143888-susan-collins-maine-ads-oregon/)
- 4. US military archbishop: Streamed execution threatens to 'imitate the terrorists' · [https://thehill.com/policy/defense/6143724-archbishop-opposes-hasan-execution-stream/](https://thehill.com/policy/defense/6143724-archbishop-opposes-hasan-execution-stream/)
- 5. Selma Blair taken into custody, hospitalized after allegedly trying to open plane door · [https://thehill.com/blogs/in-the-know/6143845-selma-blair-delta-air-lines-lax-new-york/](https://thehill.com/blogs/in-the-know/6143845-selma-blair-delta-air-lines-lax-new-york/)
- 6. Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant · [https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj](https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj)
- 7. India's opposition parties march to top court as protests over voter lists escalate · [https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests](https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests)
- 8. U.K. prime minister attributes plot against U.S. bomber base to Iran · [https://www.axios.com/2026/10/12/uk-prime-minister-plot-bombers-base-iran](https://www.axios.com/2026/10/12/uk-prime-minister-plot-bombers-base-iran)
- 9. Trump's Russia deal leaves GOP candidates with a Putin problem · [https://www.axios.com/2026/10/12/trump-russia-diesel-deal-republicans-midterms](https://www.axios.com/2026/10/12/trump-russia-diesel-deal-republicans-midterms)
-10. Feds search Rep. Ilhan Omar's home in immigration probe · [https://www.axios.com/2026/10/12/ilhan-omar-search-immigration](https://www.axios.com/2026/10/12/ilhan-omar-search-immigration)
+ 1. Zelenskyy tells NPR Ukraine wants peace but will hit Russia until it follows ceasefire · [https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war](https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war)
+ 2. Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait · [https://www.axios.com/2026/10/13/netanyahu-trump-iran-war-elections](https://www.axios.com/2026/10/13/netanyahu-trump-iran-war-elections)
+ 3. Hegseth wants a livestream execution. Here's how firing squads work · [https://www.axios.com/2026/10/13/execution-nidal-hasan-firing-squad-hegseth-stream](https://www.axios.com/2026/10/13/execution-nidal-hasan-firing-squad-hegseth-stream)
+ 4. Cook Political Report shifts 4 governors' races toward Democrats · [https://thehill.com/homenews/campaign/6145770-cook-political-report-shifts-four-democrats/](https://thehill.com/homenews/campaign/6145770-cook-political-report-shifts-four-democrats/)
+ 5. Vance announces plan to use wartime authority to boost fuel production at Texas refinery · [https://thehill.com/homenews/administration/6146057-trump-vance-defense-production-act/](https://thehill.com/homenews/administration/6146057-trump-vance-defense-production-act/)
+ 6. Cornell announces suspension of all frat parties amid Jane Doe lawsuit · [https://thehill.com/homenews/education/6146032-cornell-frat-parties-jane-doe-gang-rape/](https://thehill.com/homenews/education/6146032-cornell-frat-parties-jane-doe-gang-rape/)
+ 7. Obama to campaign with Brown, Acton in Cleveland · [https://thehill.com/homenews/campaign/6146037-obama-campaigning-ohio-midterms/](https://thehill.com/homenews/campaign/6146037-obama-campaigning-ohio-midterms/)
+ 8. Most voters see Congress as out of touch on spending despite midterm affordability pitch · [https://thehill.com/homenews/campaign/6145799-voters-congress-spending-affordability-poll/](https://thehill.com/homenews/campaign/6145799-voters-congress-spending-affordability-poll/)
+ 9. Melania Trump's student AI competition gets rebranded as SI Presidential Challenge · [https://thehill.com/blogs/in-the-know/6146039-melania-trumps-student-ai-si-presidential-challenge/](https://thehill.com/blogs/in-the-know/6146039-melania-trumps-student-ai-si-presidential-challenge/)
+10. Writer Yiyun Li lost both of her sons. When words fell short, she turned to music · [https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night](https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -87,12 +94,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **Dólar** | Impacto da alta do dólar na vida dos brasileiros nos EUA | O dólar está atingindo a maior cotação em 18 meses devido a tensões geopolíticas e inflação nos EUA. |
-| 2 🟠 🎯 | **Imigração** | Consequências das ações do governo sobre imigração | A busca na casa da deputada Ilhan Omar por questões de fraude imigratória está gerando debates acalorados sobre as polít |
-| 3 🟡 🎬 | **Custo de Vida** | Aumento do custo de vida nos EUA e suas implicações | A inflação e a política econômica estão pressionando o custo de vida, afetando principalmente os imigrantes. |
-| 4 🟡 🎬 | **Eleições** | Como as eleições nos EUA impactam a comunidade imigrante | Com a proximidade das eleições, há um aumento na discussão sobre como as políticas eleitorais afetam a imigração. |
-| 5 🟡 🎯 | **Tecnologia** | Novas ferramentas de IA e seu impacto no mercado de trabalho | A Meta lançou um novo modelo de IA que pode alterar o cenário de trabalho e empreendedorismo. |
-| 6 🟡 🎬 | **Negócios** | Oportunidades de investimento em imóveis leiloados | Bancos estão leiloando 566 imóveis com boas oportunidades para investidores. |
-| 7 🟡 🎯 | **Furacões** | O que fazer em caso de furacões: seguro residencial | Furacão Simon está causando inundações e gerando preocupação sobre a segurança e os seguros. |
-| 8 🟡 🎬 | **Vida de Imigrante** | Realidade da vida do brasileiro nos EUA | A experiência de viver como imigrante nos EUA continua sendo um tema relevante e de interesse. |
-| 9 🟢 ⚡ | **Finanças** | Como ensinar crianças sobre dinheiro | A educação financeira para crianças está em alta, com pais buscando formas de ensinar sobre finanças. |
+| 1 🟠 🎬 | **Dólar** | Como a alta do dólar impacta seu bolso nos EUA | O dólar está em alta, com projeções de R$ 4,70 em três meses, influenciando preços e custos de vida. |
+| 2 🟡 🎬 | **Dinheiro** | Dinheiro esquecido e como resgatar | R$ 5,8 bilhões podem ser resgatados por quase 24 milhões de pessoas, gerando interesse sobre finanças pessoais. |
+| 3 🟡 🎯 | **IA e Tecnologia** | Novos modelos de IA da Meta e o impacto no dia a dia | A Meta lançou modelos de IA mais avançados, aumentando a concorrência no setor e mudando a forma como interagimos com a  |
+| 4 🟡 🎬 | **Empreendedorismo** | Mudanças para MEIs com a nova lei | Recentes mudanças legais podem beneficiar microempreendedores com perdão de dívidas e novas oportunidades de negócio. |
+| 5 🟡 🎬 | **Preços de Aluguel** | Impactos do aumento de aluguel nos EUA | O preço do aluguel de escritórios bateu recorde em SP, refletindo tendências de mercado que podem se espalhar para outro |
+| 6 🟡 🎯 | **Custo de Vida** | Comparação de custos entre Brasil e EUA | Com a alta do dólar e mudanças econômicas, o custo de vida nos dois países se torna um tema relevante para muitos. |
+| 7 🟡 🎬 | **Trabalho Remoto** | Home office: desafios e oportunidades | Com a volta ao trabalho presencial, o home office se reafirma como uma opção viável, mas com desafios. |
+| 8 🟡 🎬 | **Imigração** | Impacto da política americana nas eleições | As eleições americanas estão se aproximando e a política de imigração é um tema quente. |
+| 9 🟢 🎯 | **Saúde** | Cuidado com o seguro de saúde nos EUA | Com as novas regulamentações, é importante entender como os seguros de saúde funcionam. |
