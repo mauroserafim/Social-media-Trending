@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T19:00:11.655914",
-  "run_id": "38451184192",
+  "generated_at": "2026-10-14T16:44:03.584718",
+  "run_id": "38600456488",
   "summary": {
     "total_br": 30,
     "total_us": 24,
-    "br_us_connections": 8,
-    "cross_platform_topics": 8,
+    "br_us_connections": 5,
+    "cross_platform_topics": 15,
     "niche_ideas": 9
   },
   "sections_br": [
@@ -15,84 +15,84 @@
       "label": "YouTube (BR)",
       "trends": [
         {
-          "title": "MEOVV(미야오) - ‘GO HARD’ M/V",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=8aKR2Ho--5k",
-          "score": 31.72,
-          "region": "BR",
-          "views": 8046405
-        },
-        {
-          "title": "River | Official Trailer",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=ox8lEnsxDag",
-          "score": 10.98,
-          "region": "BR",
-          "views": 2400226
-        },
-        {
-          "title": "MEOVV(미야오) - ‘GO HARD’ PERFORMANCE VIDEO",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=OKV1j4whPCQ",
-          "score": 8.95,
-          "region": "BR",
-          "views": 813387
-        },
-        {
-          "title": "FUI ACHAR AGULHA NO PALHEIRO E CRIEI UMA INDÚSTRIA!",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=NdoYgEjnxwQ",
-          "score": 2.62,
-          "region": "BR",
-          "views": 573284
-        },
-        {
-          "title": "AMADO BATISTA – AS 20 MELHORES 🎶 SÓ AS ANTIGAS | GRANDES SUCESSOS ROMÂNTICOS",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=HDTJ-3xxhzk",
-          "score": 1.18,
-          "region": "BR",
-          "views": 24587
-        },
-        {
           "title": "Post Malone, Swae Lee - Sunflower (Lyrics)",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=NzUtcB51ksA",
-          "score": 1.07,
+          "score": 1.67,
           "region": "BR",
-          "views": 466861
+          "views": 828191
         },
         {
-          "title": "Flash - Zé Vaqueiro - Forró 2026 Atualizado",
+          "title": "Nárnia: O Sobrinho do Mago | Trailer oficial | Netflix",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=vsynxadDHOo",
-          "score": 0.93,
+          "url": "https://youtube.com/watch?v=pDvjN6h-mRo",
+          "score": 1.28,
           "region": "BR",
-          "views": 317354
-        },
-        {
-          "title": "Dance Se Souber Musicas Atualizadas ~ 2026 {tiktok}🎶💜",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=Xr1nER6dMU8",
-          "score": 0.68,
-          "region": "BR",
-          "views": 152328
+          "views": 237905
         },
         {
           "title": "Shawn Mendes - Treat You Better (Lyrics)",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=8uy7upCfe3w",
-          "score": 0.58,
+          "score": 0.98,
           "region": "BR",
-          "views": 116879
+          "views": 313789
+        },
+        {
+          "title": "Minha Voz Controla Tudo que Minha Irmã Faz na Direção!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=SKCIrhL6SPk",
+          "score": 0.62,
+          "region": "BR",
+          "views": 106301
+        },
+        {
+          "title": "Baywatch - 1ª Temporada | Trailer Oficial | Amazon Prime Video",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=dMaq7lZUlZg",
+          "score": 0.53,
+          "region": "BR",
+          "views": 104895
+        },
+        {
+          "title": "Trailer VisionQuest - MARVEL NO DIVÃ!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=vI0BNVwoCCE",
+          "score": 0.51,
+          "region": "BR",
+          "views": 100624
         },
         {
           "title": "Eu fui (compeltamente) ENGANADO com o trailer de OUTRA MAMÃE...",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=BHtnQZutetY",
-          "score": 0.55,
+          "score": 0.43,
           "region": "BR",
-          "views": 102878
+          "views": 132318
+        },
+        {
+          "title": "Me Fez - Diante do Trono, Ana Paula Valadão",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=RhY9-9j6MGs",
+          "score": 0.36,
+          "region": "BR",
+          "views": 51939
+        },
+        {
+          "title": "Enquanto Eu Te Adoro - Ramon e Rafael | O Som da Igreja 2",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=vj44etgNLqY",
+          "score": 0.29,
+          "region": "BR",
+          "views": 18216
+        },
+        {
+          "title": "SUPER HERÓI - Rey Vaqueiro (Rey Vaqueiro Ao Vivo em Belém do Pará)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=oKkQK7wzoSU",
+          "score": 0.26,
+          "region": "BR",
+          "views": 42389
         }
       ]
     },
@@ -102,81 +102,81 @@
       "label": "Notícias (BR)",
       "trends": [
         {
-          "title": "Trump demite embaixadora na Grécia que já foi noiva de seu filho, após reportagens sobre má conduta",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/13/trump-demite-embaixadora-na-grecia-que-ja-foi-noiva-de-seu-filho-apos-reportagens-sobre-ma-conduta.ghtml",
+          "title": "Universidades particulares proíbem atos pró-Lula e pró-Flávio Bolsonaro por segurança",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/universidades-particulares-proibem-atos-pro-lula-e-pro-flavio-bolsonaro-por-seguranca/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Ray Dalio: disparada dos Treasuries ainda tem “longo caminho pela frente”",
+          "title": "Da periferia à Faria Lima: os obstáculos de um assessor até o primeiro milhão",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/onde-investir/ray-dalio-disparada-dos-treasuries-ainda-tem-longo-caminho-pela-frente/",
+          "url": "https://www.infomoney.com.br/advisor/piriri-marmita-na-calcada-e-terno-do-didi-da-brasilandia-ao-milhao-antes-dos-30/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "RJ: Galeão terá R$ 1 bi em investimentos em três anos e voos para mais 30 destinos",
+          "title": "Douglas Ruas anuncia Maria Gabriela Bessa como coordenadora da equipe de transição",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/rj-galeao-tera-r-1-bi-em-investimentos-em-tres-anos-e-voos-para-mais-30-destinos/",
+          "url": "https://www.infomoney.com.br/politica/douglas-ruas-anuncia-maria-gabriela-bessa-como-coordenadora-da-equipe-de-transicao/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Pix MEI, perdão de dívida e mais: o que muda para microempreendedor com Prospera MEI",
+          "title": "Ibovespa Hoje Ao Vivo: Bolsa cai com exterior e dados de inflação dos EUA em foco",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/minhas-financas/pix-mei-perdao-de-divida-e-mais-o-que-muda-para-microempreendedor-com-prospera-mei/",
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-14102026/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Quase todos os clubes ingleses operam no vermelho, alerta regulador do futebol",
+          "title": "Couto oficializa nomes do governo que participarão da transição para a gestão de Ruas",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/esportes/quase-todos-os-clubes-ingleses-operam-no-vermelho-alerta-regulador-do-futebol/",
+          "url": "https://www.infomoney.com.br/politica/couto-oficializa-nomes-do-governo-que-participarao-da-transicao-para-a-gestao-de-ruas/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Confira o calendário de resultados do 3º trimestre de 2026 da Bolsa brasileira",
+          "title": "Nikolas, Pavanato e outros eleitos ‘puxaram’ 25 colegas para a Câmara; veja quem",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/calendario-de-resultados-terceiro-trimestre-2026-da-bolsa-brasileira/",
+          "url": "https://www.infomoney.com.br/politica/nikolas-pavanato-e-outros-eleitos-puxaram-25-colegas-para-a-camara-veja-quem/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Vaticano diz que cirurgia de Leão XIV foi bem-sucedida",
+          "title": "Inmet emite alerta laranja para tempestades no Brasil; confira estados afetados",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/vaticano-diz-que-cirurgia-de-leao-xiv-foi-bem-sucedida/",
+          "url": "https://www.infomoney.com.br/brasil/inmet-emite-alerta-laranja-para-tempestades-no-brasil-confira-estados-afetados/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Meta lança modelos de IA mais avançados e eleva disputa com OpenAI e Anthropic",
+          "title": "Papa Leão XIV se alimenta e se recupera bem após cirurgia contra câncer, diz médico",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/business/meta-lanca-modelos-de-ia-mais-avancados-e-eleva-disputa-com-openai-e-anthropic/",
+          "url": "https://www.infomoney.com.br/mundo/papa-leao-xiv-se-alimenta-e-se-recupera-bem-apos-cirurgia-contra-cancer-diz-medico/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "TSE libera canal de Janones pró-Lula após campanha cumprir exigência eleitoral",
+          "title": "Com MEIs, pacote de benefícios do governo Lula chega a R$ 260 bilhões",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/tse-libera-canal-de-janones-pro-lula-apos-campanha-cumprir-exigencia-eleitoral/",
+          "url": "https://www.infomoney.com.br/economia/com-meis-pacote-de-beneficios-do-governo-lula-chega-a-r-260-bilhoes/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Goldman Sachs corta estimativas para o dólar e projeta real a R$ 4,70 em três meses",
+          "title": "Farmácia Popular é a medida mais aprovada do governo Lula, aponta AtlasIntel",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/goldman-sachs-corta-estimativas-para-o-dolar-e-projeta-real-a-r-470-em-tres-meses/",
+          "url": "https://www.infomoney.com.br/politica/farmacia-popular-e-a-medida-mais-aprovada-do-governo-lula-aponta-atlasintel/",
           "score": 100.0,
           "region": "BR",
           "views": null
@@ -278,36 +278,36 @@
       "label": "YouTube (US)",
       "trends": [
         {
-          "title": "LEVANTO MIS MANOS/ PODEROSAS ALABANZAS CRISTIANAS ADORACION/ MUSICA CRISTIANA DE ADORACION PARA",
+          "title": "Crainer Hates Us",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=l_kZ7_EIBwg",
-          "score": 0.48,
+          "url": "https://youtube.com/watch?v=J4SrriCda7k",
+          "score": 3.06,
           "region": "US",
-          "views": 120692
+          "views": 525191
         },
         {
-          "title": "Clayface First Reactions, Godzilla Trailer And Box Office Tracking - The John Campea Show",
+          "title": "MP3 Trailer [New Dropout Series]",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=WmpvwqVJwkc",
-          "score": 0.34,
+          "url": "https://youtube.com/watch?v=Q9Uvlu_mDAU",
+          "score": 1.59,
           "region": "US",
-          "views": 60104
+          "views": 299019
         },
         {
-          "title": "I Found a Trailer Almost Nobody Knows About",
+          "title": "Remy Ma “Rem The Pen”",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=61n9d7oSexc",
-          "score": 0.33,
+          "url": "https://youtube.com/watch?v=ZZOxZOrRLiQ",
+          "score": 1.06,
           "region": "US",
-          "views": 55764
+          "views": 152033
         },
         {
-          "title": "THE GLOBAL RESET 🌎 (TRAILER #1) STARRING CHARLIE CLIPS & MURDA MOOK 🔥(FULL CARD Link In Description)",
+          "title": "Zeddy Will - Bow Bow Bow (Official Video)",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=OBTjyMdwzco",
-          "score": 0.28,
+          "url": "https://youtube.com/watch?v=CxW46IKpjpA",
+          "score": 0.44,
           "region": "US",
-          "views": 47725
+          "views": 84808
         }
       ]
     },
@@ -317,81 +317,81 @@
       "label": "Notícias (US)",
       "trends": [
         {
-          "title": "Zelenskyy tells NPR Ukraine wants peace but will hit Russia until it follows ceasefire",
+          "title": "Fox News predicts Democrats will win House in midterms for first time this cycle",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6148096-fox-news-predicts-democrat-house-win/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Maryland Republican accuses reporter of violating law by recording postdebate gaggle",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6148173-andy-harris-maryland-recording-laws-reporter/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
-          "score": 100.0,
+          "url": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
+          "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait",
-          "source": "news:Axios",
-          "url": "https://www.axios.com/2026/10/13/netanyahu-trump-iran-war-elections",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Hegseth wants a livestream execution. Here's how firing squads work",
-          "source": "news:Axios",
-          "url": "https://www.axios.com/2026/10/13/execution-nidal-hasan-firing-squad-hegseth-stream",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Cook Political Report shifts 4 governors' races toward Democrats",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/campaign/6145770-cook-political-report-shifts-four-democrats/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Vance announces plan to use wartime authority to boost fuel production at Texas refinery",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/administration/6146057-trump-vance-defense-production-act/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Cornell announces suspension of all frat parties amid Jane Doe lawsuit",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/education/6146032-cornell-frat-parties-jane-doe-gang-rape/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Obama to campaign with Brown, Acton in Cleveland",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/campaign/6146037-obama-campaigning-ohio-midterms/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Most voters see Congress as out of touch on spending despite midterm affordability pitch",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/campaign/6145799-voters-congress-spending-affordability-poll/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Melania Trump's student AI competition gets rebranded as SI Presidential Challenge",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/blogs/in-the-know/6146039-melania-trumps-student-ai-si-presidential-challenge/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
+          "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night",
+          "url": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Social Security recipients will see rise in monthly payments next year",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/14/social-security-cola-inflation",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Inflation heats up as gas prices surge",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/14/cpi-september-inflation-trump",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump keeps turning to the Supreme Court. Is it paying off?",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6148184-donald-trump-emergency-docket-scorecard-live-discussion/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Koch-aligned group makes last ad push for GOP candidates",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6148123-battleground-senate-races-pac-ads/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Usha Vance, please speak up: Indians are not 'indentured servants'",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/immigration/6146116-jd-vance-h1b-visa-comments/",
           "score": 80.0,
           "region": "US",
           "views": null
@@ -488,65 +488,45 @@
   ],
   "br_us_connections": [
     {
-      "topic": "trump",
-      "count": 16,
-      "score": 70.0,
+      "topic": "trailer",
+      "count": 12,
+      "score": 0.9,
       "sample_titles": [
-        "Trump demite embaixadora na Grécia que já foi noiva de seu filho, após reportagens sobre má conduta",
-        "Nova porta-voz da Casa Branca confunde Trump com marido e diz que queria 'há tempos' trabalhar para o presidente dos EUA; VÍDEO",
-        "As críticas a Trump por seu plano de importar diesel russo: 'Um porto seguro financeiro para a Rússia enquanto mata civis na Ucrânia'",
-        "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+        "Nárnia: O Sobrinho do Mago | Trailer oficial | Netflix",
+        "Trailer VisionQuest - MARVEL NO DIVÃ!",
+        "NÁRNIA: O SOBRINHO DO MAGO - TRAILER COMPLETO + REACT E PRIMEIRSA IMPRESSÕES",
+        "MP3 Trailer [New Dropout Series]"
+      ]
+    },
+    {
+      "topic": "trump",
+      "count": 10,
+      "score": 54.0,
+      "sample_titles": [
+        "Como conflitos globais viraram dor de cabeça para Trump em eleições de meio de mandato nos EUA",
+        "Com maioria ameaçada, Trump intensifica ofensiva eleitoral para salvar controle do Congresso nos EUA",
+        "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+        "In Kansas, a newly competitive Senate race tests limit of Trump's unpopular policies",
         "Farmers say they'll take the relief of Trump's EO — but they're still hurting"
       ]
     },
     {
-      "topic": "trailer",
-      "count": 7,
-      "score": 2.17,
+      "topic": "video",
+      "count": 3,
+      "score": 20.32,
       "sample_titles": [
-        "Eu fui (compeltamente) ENGANADO com o trailer de OUTRA MAMÃE...",
-        "River | Official Trailer",
-        "UMA VERGONHA O NOVO TRAILER de ONE PUNCH MAN 3",
-        "Clayface First Reactions, Godzilla Trailer And Box Office Tracking - The John Campea Show",
-        "I Found a Trailer Almost Nobody Knows About"
+        "Baywatch - 1ª Temporada | Trailer Oficial | Amazon Prime Video",
+        "Zeddy Will - Bow Bow Bow (Official Video)",
+        "VIDEO: The skincare sample is free. What happens next can cost thousands"
       ]
     },
     {
-      "topic": "diesel",
-      "count": 4,
-      "score": 60.0,
-      "sample_titles": [
-        "As críticas a Trump por seu plano de importar diesel russo: 'Um porto seguro financeiro para a Rússia enquanto mata civis na Ucrânia'",
-        "Democratic senator talks Trump's Russian diesel deal",
-        "Russian diesel deal \"a betrayal,\" bipartisan coalition says",
-        "Five things to watch after Trump's Russian diesel deal"
-      ]
-    },
-    {
-      "topic": "decide",
+      "topic": "super",
       "count": 2,
-      "score": 70.0,
+      "score": 30.13,
       "sample_titles": [
-        "Simulação eletroenergética: onde o setor elétrico decide seu futuro",
-        "Voters here will decide whether to force cities to build cheaper, smaller homes"
-      ]
-    },
-    {
-      "topic": "openai",
-      "count": 2,
-      "score": 60.0,
-      "sample_titles": [
-        "Meta lança modelos de IA mais avançados e eleva disputa com OpenAI e Anthropic",
-        "Fired OpenAI employees question the company's commitment to safety"
-      ]
-    },
-    {
-      "topic": "global",
-      "count": 2,
-      "score": 30.14,
-      "sample_titles": [
-        "FMI eleva previsão de crescimento global com impulso da IA, mas alerta para dependência",
-        "THE GLOBAL RESET 🌎 (TRAILER #1) STARRING CHARLIE CLIPS & MURDA MOOK 🔥(FULL CARD Link In Description)"
+        "SUPER HERÓI - Rey Vaqueiro (Rey Vaqueiro Ao Vivo em Belém do Pará)",
+        "Conservative super-lawyer squares up for his latest Supreme Court argument"
       ]
     },
     {
@@ -556,15 +536,6 @@
       "sample_titles": [
         "como ganhar dinheiro online",
         "how to learn online"
-      ]
-    },
-    {
-      "topic": "office",
-      "count": 2,
-      "score": 5.17,
-      "sample_titles": [
-        "trabalho home office",
-        "Clayface First Reactions, Godzilla Trailer And Box Office Tracking - The John Campea Show"
       ]
     }
   ],
@@ -576,37 +547,26 @@
         "google_trends"
       ],
       "count": 2,
-      "score": 56.67,
+      "score": 57.5,
       "sample_titles": [
-        "Dólar sobe, de olho nos preços do petróleo e pesquisas eleitorais no Brasil; Ibovespa cai",
-        "Goldman Sachs corta estimativas para o dólar e projeta real a R$ 4,70 em três meses",
+        "Dólar opera em alta, com foco em inflação americana e cenário político brasileiro; Ibovespa cai",
+        "Por que eleições mexem com a bolsa, o dólar e os juros? Entenda o que move o mercado",
+        "Dólar volta a operar acima dos R$ 5: alta veio para ficar?",
         "dólar hoje"
       ]
     },
     {
-      "topic": "dinheiro",
+      "topic": "inflation",
       "platforms": [
         "news",
         "google_trends"
       ],
       "count": 2,
-      "score": 45.0,
+      "score": 56.67,
       "sample_titles": [
-        "'Dinheiro esquecido': BC diz que R$ 5,8 bilhões podem ser resgatados; quase 24 milhões de pessoas têm direito",
-        "como ganhar dinheiro online"
-      ]
-    },
-    {
-      "topic": "global",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 30.14,
-      "sample_titles": [
-        "THE GLOBAL RESET 🌎 (TRAILER #1) STARRING CHARLIE CLIPS & MURDA MOOK 🔥(FULL CARD Link In Description)",
-        "FMI eleva previsão de crescimento global com impulso da IA, mas alerta para dependência"
+        "Inflation sizzled in September — and Social Security benefits will get a boost",
+        "Inflation heats up as gas prices surge",
+        "inflation"
       ]
     },
     {
@@ -616,236 +576,342 @@
         "google_trends"
       ],
       "count": 2,
-      "score": 20.0,
+      "score": 55.0,
       "sample_titles": [
-        "Tarcisio viajará com Flávio a 3 estados em campanha no 2º turno",
+        "Inmet emite alerta laranja para tempestades no Brasil; confira estados afetados",
         "vida nos Estados Unidos"
       ]
     },
     {
-      "topic": "exército",
+      "topic": "brasileiro",
       "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 15.18,
-      "sample_titles": [
-        "Jesus Sacramentado | Ir Kelly Patrícia e Exército de São Miguel - Instituto Hesed",
-        "Canal 'Exército do Lula' é registrado no TSE após exigência de Nunes Marques"
-      ]
-    },
-    {
-      "topic": "sucessos",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 10.59,
-      "sample_titles": [
-        "AMADO BATISTA – AS 20 MELHORES 🎶 SÓ AS ANTIGAS | GRANDES SUCESSOS ROMÂNTICOS",
-        "Michele Maycoth interpreta sucessos de Maria Gadú em noite romântica no AP"
-      ]
-    },
-    {
-      "topic": "minha",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 10.02,
-      "sample_titles": [
-        "Deus não cabe na minha bolha",
-        "Exposição 'Minha Aldeia' reúne fotografias inspiradas no cotidiano amapaense"
-      ]
-    },
-    {
-      "topic": "office",
-      "platforms": [
-        "youtube",
+        "news",
         "google_trends"
       ],
       "count": 2,
-      "score": 5.17,
+      "score": 45.0,
       "sample_titles": [
-        "Clayface First Reactions, Godzilla Trailer And Box Office Tracking - The John Campea Show",
-        "trabalho home office"
+        "Dólar opera em alta, com foco em inflação americana e cenário político brasileiro; Ibovespa cai",
+        "brasileiro nos EUA"
+      ]
+    },
+    {
+      "topic": "saúde",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Viagem do papa à América Latina pode ser adiada por saúde de Leão XIV, diz presidente do Peru",
+        "saúde nos EUA"
+      ]
+    },
+    {
+      "topic": "empresa",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Embraer compra 51% de empresa aeroespacial da Mahindra, gigante indiana de automóveis",
+        "abrir empresa nos EUA"
+      ]
+    },
+    {
+      "topic": "quanto",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Quanto custam os ingressos para o Lollapalooza 2027?",
+        "quanto custa viajar para os EUA"
+      ]
+    },
+    {
+      "topic": "maria",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.02,
+      "sample_titles": [
+        "DONA MARIA - Mc Vm e Dj Chulo ",
+        "Michele Maycoth interpreta sucessos de Maria Gadú em noite romântica no AP",
+        "Douglas Ruas anuncia Maria Gabriela Bessa como coordenadora da equipe de transição"
+      ]
+    },
+    {
+      "topic": "moving",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "AI's extreme heat challenge is moving from prediction to protection",
+        "moving to USA"
+      ]
+    },
+    {
+      "topic": "super",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.13,
+      "sample_titles": [
+        "SUPER HERÓI - Rey Vaqueiro (Rey Vaqueiro Ao Vivo em Belém do Pará)",
+        "Conservative super-lawyer squares up for his latest Supreme Court argument"
+      ]
+    },
+    {
+      "topic": "quarta",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.07,
+      "sample_titles": [
+        "Quarta Feira 14 de Outubro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Mega-Sena pode pagar R$ 150 milhões nesta quarta-feira; g1 transmite ao vivo"
+      ]
+    },
+    {
+      "topic": "quarta feira",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.07,
+      "sample_titles": [
+        "Quarta Feira 14 de Outubro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Mega-Sena pode pagar R$ 150 milhões nesta quarta-feira; g1 transmite ao vivo"
+      ]
+    },
+    {
+      "topic": "feira",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.07,
+      "sample_titles": [
+        "Quarta Feira 14 de Outubro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Mega-Sena pode pagar R$ 150 milhões nesta quarta-feira; g1 transmite ao vivo"
+      ]
+    },
+    {
+      "topic": "video",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 20.32,
+      "sample_titles": [
+        "Baywatch - 1ª Temporada | Trailer Oficial | Amazon Prime Video",
+        "Zeddy Will - Bow Bow Bow (Official Video)",
+        "VIDEO: The skincare sample is free. What happens next can cost thousands"
+      ]
+    },
+    {
+      "topic": "netflix",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 15.64,
+      "sample_titles": [
+        "Nárnia: O Sobrinho do Mago | Trailer oficial | Netflix",
+        "Netflix demitirá cerca de 1.000 funcionários em maior corte desde 2022"
       ]
     }
   ],
   "niche_ideas": [
     {
-      "main_topic": "Dólar",
-      "subtopic": "Como a alta do dólar impacta seu bolso nos EUA",
-      "why_trending": "O dólar está em alta, com projeções de R$ 4,70 em três meses, influenciando preços e custos de vida.",
-      "niche_angle": "Explorar como a valorização do dólar afeta os brasileiros que moram nos EUA, especialmente em compras e remessas.",
+      "main_topic": "dólar",
+      "subtopic": "Como a alta do dólar afeta brasileiros nos EUA",
+      "why_trending": "O dólar opera em alta devido a preocupações com a inflação americana e incertezas políticas no Brasil, impactando diretamente o custo de vida dos imigrantes.",
+      "niche_angle": "Explorar como a variação do dólar impacta as finanças e o dia a dia dos brasileiros que vivem nos EUA, incluindo dicas de como proteger suas economias.",
       "video_format": "long",
       "urgency": "high",
       "ease": 6,
-      "source": "InfoMoney",
-      "region": "BR|US",
+      "source": "G1 Economia",
+      "region": "GLOBAL",
       "links": [
-        "https://www.infomoney.com.br/mercados/goldman-sachs-corta-estimativas-para-o-dolar-e-projeta-real-a-r-470-em-tres-meses/"
+        "https://g1.globo.com/economia/noticia/2026/10/14/dolar-ibovespa.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-10-13T19:00:11.491527"
+      "collected_at": "2026-10-14T16:44:03.581655"
     },
     {
-      "main_topic": "Dinheiro",
-      "subtopic": "Dinheiro esquecido e como resgatar",
-      "why_trending": "R$ 5,8 bilhões podem ser resgatados por quase 24 milhões de pessoas, gerando interesse sobre finanças pessoais.",
-      "niche_angle": "Discutir a possibilidade de brasileiros nos EUA resgatarem dinheiro esquecido e os impactos disso na gestão financeira.",
+      "main_topic": "inflação",
+      "subtopic": "Como a inflação nos EUA impacta imigrantes brasileiros",
+      "why_trending": "A inflação nos EUA subiu em setembro, afetando o poder de compra e a qualidade de vida, especialmente para os imigrantes que lidam com conversão de moeda.",
+      "niche_angle": "Discutir as consequências da inflação para brasileiros nos EUA, incluindo estratégias para lidar com o aumento de preços e manter o orçamento em dia.",
       "video_format": "long",
-      "urgency": "medium",
+      "urgency": "high",
       "ease": 7,
-      "source": "G1 Economia",
-      "region": "BR",
-      "links": [
-        "https://g1.globo.com/economia/noticia/2026/10/13/dinheiro-esquecido-bc-diz-que-r-58-bilhoes-podem-ser-resgatados-quase-24-milhoes-de-pessoas-tem-direito.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-13T19:00:11.491537"
-    },
-    {
-      "main_topic": "IA e Tecnologia",
-      "subtopic": "Novos modelos de IA da Meta e o impacto no dia a dia",
-      "why_trending": "A Meta lançou modelos de IA mais avançados, aumentando a concorrência no setor e mudando a forma como interagimos com a tecnologia.",
-      "niche_angle": "Analisar como essas inovações em IA podem beneficiar brasileiros nos EUA, especialmente em ambientes de trabalho e aprendizado.",
-      "video_format": "both",
-      "urgency": "medium",
-      "ease": 5,
-      "source": "InfoMoney",
-      "region": "BR",
-      "links": [
-        "https://www.infomoney.com.br/business/meta-lanca-modelos-de-ia-mais-avancados-e-eleva-disputa-com-openai-e-anthropic/"
-      ],
-      "platforms": [
-        "news",
-        "reddit"
-      ],
-      "collected_at": "2026-10-13T19:00:11.491541"
-    },
-    {
-      "main_topic": "Empreendedorismo",
-      "subtopic": "Mudanças para MEIs com a nova lei",
-      "why_trending": "Recentes mudanças legais podem beneficiar microempreendedores com perdão de dívidas e novas oportunidades de negócio.",
-      "niche_angle": "Falar sobre como essas mudanças podem impactar brasileiros que possuem pequenos negócios nos EUA ou que planejam abrir um.",
-      "video_format": "long",
-      "urgency": "medium",
-      "ease": 6,
-      "source": "G1 Economia",
-      "region": "BR",
-      "links": [
-        "https://g1.globo.com/politica/noticia/2026/10/13/na-reta-final-do-segundo-turno-lula-anuncia-credito-e-medidas-para-pequenos-negocios.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-13T19:00:11.491545"
-    },
-    {
-      "main_topic": "Preços de Aluguel",
-      "subtopic": "Impactos do aumento de aluguel nos EUA",
-      "why_trending": "O preço do aluguel de escritórios bateu recorde em SP, refletindo tendências de mercado que podem se espalhar para outros locais.",
-      "niche_angle": "Comparar o aumento do custo de aluguel nos EUA e no Brasil, e como isso afeta a vida de brasileiros imigrantes.",
-      "video_format": "long",
-      "urgency": "medium",
-      "ease": 5,
-      "source": "G1 Economia",
-      "region": "BR|US",
-      "links": [
-        "https://g1.globo.com/economia/noticia/2026/10/13/preco-aluguel-escritorios-sp.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-13T19:00:11.491551"
-    },
-    {
-      "main_topic": "Custo de Vida",
-      "subtopic": "Comparação de custos entre Brasil e EUA",
-      "why_trending": "Com a alta do dólar e mudanças econômicas, o custo de vida nos dois países se torna um tema relevante para muitos.",
-      "niche_angle": "Analisar como as variações no custo de vida impactam brasileiros que vivem em diferentes regiões dos EUA.",
-      "video_format": "both",
-      "urgency": "medium",
-      "ease": 7,
-      "source": "InfoMoney",
-      "region": "BR|US",
-      "links": [
-        "https://www.infomoney.com.br/mercados/calendario-de-resultados-terceiro-trimestre-2026-da-bolsa-brasileira/"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-13T19:00:11.491555"
-    },
-    {
-      "main_topic": "Trabalho Remoto",
-      "subtopic": "Home office: desafios e oportunidades",
-      "why_trending": "Com a volta ao trabalho presencial, o home office se reafirma como uma opção viável, mas com desafios.",
-      "niche_angle": "Explorar como brasileiros nos EUA estão lidando com o retorno ao escritório e as oportunidades do trabalho remoto.",
-      "video_format": "long",
-      "urgency": "medium",
-      "ease": 6,
-      "source": "G1 Economia",
-      "region": "BR|US",
-      "links": [
-        "https://g1.globo.com/economia/noticia/2026/10/13/preco-aluguel-escritorios-sp.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-13T19:00:11.491561"
-    },
-    {
-      "main_topic": "Imigração",
-      "subtopic": "Impacto da política americana nas eleições",
-      "why_trending": "As eleições americanas estão se aproximando e a política de imigração é um tema quente.",
-      "niche_angle": "Discutir como as mudanças políticas podem afetar a vida dos imigrantes brasileiros nos EUA.",
-      "video_format": "long",
-      "urgency": "medium",
-      "ease": 5,
-      "source": "The Hill",
+      "source": "NPR News",
       "region": "US",
       "links": [
-        "https://thehill.com/homenews/campaign/6145799-voters-congress-spending-affordability-poll/"
-      ],
-      "platforms": [
-        "news",
-        "reddit"
-      ],
-      "collected_at": "2026-10-13T19:00:11.491568"
-    },
-    {
-      "main_topic": "Saúde",
-      "subtopic": "Cuidado com o seguro de saúde nos EUA",
-      "why_trending": "Com as novas regulamentações, é importante entender como os seguros de saúde funcionam.",
-      "niche_angle": "Abordar as diferenças entre os sistemas de saúde do Brasil e dos EUA, e como isso afeta brasileiros imigrantes.",
-      "video_format": "both",
-      "urgency": "low",
-      "ease": 6,
-      "source": "InfoMoney",
-      "region": "BR|US",
-      "links": [
-        "https://www.infomoney.com.br/mercados/sessao-brutal-para-acoes-do-setor-de-chips-mostra-que-tendencia-da-ia-esta-mudando/"
+        "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-10-13T19:00:11.491572"
+      "collected_at": "2026-10-14T16:44:03.581665"
+    },
+    {
+      "main_topic": "empresa",
+      "subtopic": "Abrir uma empresa nos EUA: o que você precisa saber",
+      "why_trending": "Com a recuperação econômica, muitos brasileiros estão buscando oportunidades de empreender nos EUA, especialmente em setores emergentes.",
+      "niche_angle": "Criar um guia prático sobre como abrir uma empresa nos EUA, com foco em brasileiros, incluindo passos, custos e as melhores áreas para investimento.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/10/14/embora-receba-reconhecimento-da-onu-por-impacto-social.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-14T16:44:03.581670"
+    },
+    {
+      "main_topic": "quanto",
+      "subtopic": "Quanto custa viver nos EUA: comparação com o Brasil",
+      "why_trending": "Com a alta do dólar e a inflação, é crucial entender o custo de vida nos EUA em comparação ao Brasil, especialmente para novos imigrantes.",
+      "niche_angle": "Fazer uma análise detalhada dos custos de itens essenciais como aluguel, alimentação e transporte nos EUA versus Brasil, ajudando brasileiros a se planejarem melhor.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "G1 Economia",
+      "region": "GLOBAL",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/10/14/dolar-ibovespa.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-14T16:44:03.581678"
+    },
+    {
+      "main_topic": "moving",
+      "subtopic": "Mudando-se para os EUA: o que você precisa saber",
+      "why_trending": "Muitos brasileiros estão considerando se mudar para os EUA em busca de melhores oportunidades, especialmente em um cenário econômico desafiador no Brasil.",
+      "niche_angle": "Fornecer dicas práticas e informações sobre o processo de mudança, desde vistos e moradia até adaptação cultural, focando nas necessidades dos imigrantes.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 8,
+      "source": "G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/10/14/dolar-ibovespa.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-14T16:44:03.581683"
+    },
+    {
+      "main_topic": "saúde",
+      "subtopic": "Como funciona o sistema de saúde nos EUA para imigrantes",
+      "why_trending": "Com as recentes mudanças nas políticas de saúde e imigração, é vital que brasileiros entendam como acessar serviços de saúde nos EUA.",
+      "niche_angle": "Discutir as opções de cobertura de saúde para imigrantes e como navegar no sistema de saúde americano, com dicas práticas para brasileiros.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/10/14/embora-receba-reconhecimento-da-onu-por-impacto-social.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-14T16:44:03.581687"
+    },
+    {
+      "main_topic": "brasileiro",
+      "subtopic": "A vida de brasileiros nos EUA: desafios e conquistas",
+      "why_trending": "Histórias de brasileiros imigrantes estão se tornando populares, mostrando tanto os desafios quanto as vitórias na adaptação ao novo país.",
+      "niche_angle": "Criar uma série de vídeos contando histórias inspiradoras de brasileiros que se destacaram nos EUA, abordando suas lutas e sucessos.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/10/14/dolar-ibovespa.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-14T16:44:03.581692"
+    },
+    {
+      "main_topic": "estados",
+      "subtopic": "Impactos das tempestades nos EUA para brasileiros",
+      "why_trending": "Com o alerta de tempestades em vários estados, é importante que os imigrantes saibam como se preparar e proteger suas famílias.",
+      "niche_angle": "Fornecer dicas práticas sobre como se preparar para tempestades e desastres naturais, incluindo informações sobre seguros e segurança.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "InfoMoney",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/brasil/inmet-emite-alerta-laranja-para-tempestades-no-brasil-confira-estados-afetados/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-14T16:44:03.581701"
+    },
+    {
+      "main_topic": "direito",
+      "subtopic": "Direitos dos imigrantes nos EUA: o que você precisa saber",
+      "why_trending": "O debate sobre os direitos dos imigrantes nos EUA está em alta, especialmente com as mudanças políticas recentes.",
+      "niche_angle": "Discutir os direitos trabalhistas e civis de imigrantes brasileiros, oferecendo informações práticas e atualizadas.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/10/14/embora-receba-reconhecimento-da-onu-por-impacto-social.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-14T16:44:03.581710"
     }
   ]
 }
