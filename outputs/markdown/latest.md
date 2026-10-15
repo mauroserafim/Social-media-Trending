@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 14/10/2026 16:44 UTC
+# 📊 Tendências em Alta — 15/10/2026 16:29 UTC
 
-**Run:** `38600456488` | **BR:** 30 trends | **US:** 24 trends | **Nicho:** 9 ideias
+**Run:** `38769310888` | **BR:** 30 trends | **US:** 23 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. Post Malone, Swae Lee - Sunflower (Lyrics) · [https://youtube.com/watch?v=NzUtcB51ksA](https://youtube.com/watch?v=NzUtcB51ksA)
- 2. Nárnia: O Sobrinho do Mago | Trailer oficial | Netflix · [https://youtube.com/watch?v=pDvjN6h-mRo](https://youtube.com/watch?v=pDvjN6h-mRo)
- 3. Shawn Mendes - Treat You Better (Lyrics) · [https://youtube.com/watch?v=8uy7upCfe3w](https://youtube.com/watch?v=8uy7upCfe3w)
- 4. Minha Voz Controla Tudo que Minha Irmã Faz na Direção! · [https://youtube.com/watch?v=SKCIrhL6SPk](https://youtube.com/watch?v=SKCIrhL6SPk)
- 5. Baywatch - 1ª Temporada | Trailer Oficial | Amazon Prime Video · [https://youtube.com/watch?v=dMaq7lZUlZg](https://youtube.com/watch?v=dMaq7lZUlZg)
- 6. Trailer VisionQuest - MARVEL NO DIVÃ! · [https://youtube.com/watch?v=vI0BNVwoCCE](https://youtube.com/watch?v=vI0BNVwoCCE)
- 7. Eu fui (compeltamente) ENGANADO com o trailer de OUTRA MAMÃE... · [https://youtube.com/watch?v=BHtnQZutetY](https://youtube.com/watch?v=BHtnQZutetY)
- 8. Me Fez - Diante do Trono, Ana Paula Valadão · [https://youtube.com/watch?v=RhY9-9j6MGs](https://youtube.com/watch?v=RhY9-9j6MGs)
- 9. Enquanto Eu Te Adoro - Ramon e Rafael | O Som da Igreja 2 · [https://youtube.com/watch?v=vj44etgNLqY](https://youtube.com/watch?v=vj44etgNLqY)
-10. SUPER HERÓI - Rey Vaqueiro (Rey Vaqueiro Ao Vivo em Belém do Pará) · [https://youtube.com/watch?v=oKkQK7wzoSU](https://youtube.com/watch?v=oKkQK7wzoSU)
+ 1. Zara Larsson - Blue Moon (Official Music Video) · [https://youtube.com/watch?v=LB72Mbd88mU](https://youtube.com/watch?v=LB72Mbd88mU)
+ 2. "Animal" (Live from THE WILDWORLD TOUR) | KATSEYE · [https://youtube.com/watch?v=ctf1e0gQDSA](https://youtube.com/watch?v=ctf1e0gQDSA)
+ 3. BANDOLEIRA - Nino Abravanel - Ryan SP, Nego Trufa, Jvila, Meno K, Lele JP (Glenner e Daltin no Beat) · [https://youtube.com/watch?v=cWlBXqplRRY](https://youtube.com/watch?v=cWlBXqplRRY)
+ 4. Tate McRae - Housewife (Official Video Trailer) · [https://youtube.com/watch?v=LUT0Zufd-xs](https://youtube.com/watch?v=LUT0Zufd-xs)
+ 5. NÃO OLHE PARA TRÁS NESSA FLORESTA! | The Rake Sees You · [https://youtube.com/watch?v=efRtCvBbTzA](https://youtube.com/watch?v=efRtCvBbTzA)
+ 6. Nada Te Perturbe | Ir Kelly Patrícia no Misericórdia Brasil - Instituto Hesed · [https://youtube.com/watch?v=OrYALfe77p4](https://youtube.com/watch?v=OrYALfe77p4)
+ 7. Nárnia: O Sobrinho do Mago | Trailer oficial | Netflix · [https://youtube.com/watch?v=pDvjN6h-mRo](https://youtube.com/watch?v=pDvjN6h-mRo)
+ 8. SUPER HERÓI - Rey Vaqueiro (Rey Vaqueiro Ao Vivo em Belém do Pará) · [https://youtube.com/watch?v=oKkQK7wzoSU](https://youtube.com/watch?v=oKkQK7wzoSU)
+ 9. Trailer VisionQuest - MARVEL NO DIVÃ! · [https://youtube.com/watch?v=vI0BNVwoCCE](https://youtube.com/watch?v=vI0BNVwoCCE)
+10. Toto - Africa (Lyrics) · [https://youtube.com/watch?v=FkVjZVJGzHk](https://youtube.com/watch?v=FkVjZVJGzHk)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Universidades particulares proíbem atos pró-Lula e pró-Flávio Bolsonaro por segurança · [https://www.infomoney.com.br/politica/universidades-particulares-proibem-atos-pro-lula-e-pro-flavio-bolsonaro-por-seguranca/](https://www.infomoney.com.br/politica/universidades-particulares-proibem-atos-pro-lula-e-pro-flavio-bolsonaro-por-seguranca/)
- 2. Da periferia à Faria Lima: os obstáculos de um assessor até o primeiro milhão · [https://www.infomoney.com.br/advisor/piriri-marmita-na-calcada-e-terno-do-didi-da-brasilandia-ao-milhao-antes-dos-30/](https://www.infomoney.com.br/advisor/piriri-marmita-na-calcada-e-terno-do-didi-da-brasilandia-ao-milhao-antes-dos-30/)
- 3. Douglas Ruas anuncia Maria Gabriela Bessa como coordenadora da equipe de transição · [https://www.infomoney.com.br/politica/douglas-ruas-anuncia-maria-gabriela-bessa-como-coordenadora-da-equipe-de-transicao/](https://www.infomoney.com.br/politica/douglas-ruas-anuncia-maria-gabriela-bessa-como-coordenadora-da-equipe-de-transicao/)
- 4. Ibovespa Hoje Ao Vivo: Bolsa cai com exterior e dados de inflação dos EUA em foco · [https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-14102026/](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-14102026/)
- 5. Couto oficializa nomes do governo que participarão da transição para a gestão de Ruas · [https://www.infomoney.com.br/politica/couto-oficializa-nomes-do-governo-que-participarao-da-transicao-para-a-gestao-de-ruas/](https://www.infomoney.com.br/politica/couto-oficializa-nomes-do-governo-que-participarao-da-transicao-para-a-gestao-de-ruas/)
- 6. Nikolas, Pavanato e outros eleitos ‘puxaram’ 25 colegas para a Câmara; veja quem · [https://www.infomoney.com.br/politica/nikolas-pavanato-e-outros-eleitos-puxaram-25-colegas-para-a-camara-veja-quem/](https://www.infomoney.com.br/politica/nikolas-pavanato-e-outros-eleitos-puxaram-25-colegas-para-a-camara-veja-quem/)
- 7. Inmet emite alerta laranja para tempestades no Brasil; confira estados afetados · [https://www.infomoney.com.br/brasil/inmet-emite-alerta-laranja-para-tempestades-no-brasil-confira-estados-afetados/](https://www.infomoney.com.br/brasil/inmet-emite-alerta-laranja-para-tempestades-no-brasil-confira-estados-afetados/)
- 8. Papa Leão XIV se alimenta e se recupera bem após cirurgia contra câncer, diz médico · [https://www.infomoney.com.br/mundo/papa-leao-xiv-se-alimenta-e-se-recupera-bem-apos-cirurgia-contra-cancer-diz-medico/](https://www.infomoney.com.br/mundo/papa-leao-xiv-se-alimenta-e-se-recupera-bem-apos-cirurgia-contra-cancer-diz-medico/)
- 9. Com MEIs, pacote de benefícios do governo Lula chega a R$ 260 bilhões · [https://www.infomoney.com.br/economia/com-meis-pacote-de-beneficios-do-governo-lula-chega-a-r-260-bilhoes/](https://www.infomoney.com.br/economia/com-meis-pacote-de-beneficios-do-governo-lula-chega-a-r-260-bilhoes/)
-10. Farmácia Popular é a medida mais aprovada do governo Lula, aponta AtlasIntel · [https://www.infomoney.com.br/politica/farmacia-popular-e-a-medida-mais-aprovada-do-governo-lula-aponta-atlasintel/](https://www.infomoney.com.br/politica/farmacia-popular-e-a-medida-mais-aprovada-do-governo-lula-aponta-atlasintel/)
+ 1. Trump publica vídeo de IA em que aparece brincando com tigre após ataque fatal na Inglaterra · [https://g1.globo.com/mundo/noticia/2026/10/15/trump-publica-video-de-ia-em-que-aparece-brincando-com-tigre-apos-ataque-fatal-na-inglaterra.ghtml](https://g1.globo.com/mundo/noticia/2026/10/15/trump-publica-video-de-ia-em-que-aparece-brincando-com-tigre-apos-ataque-fatal-na-inglaterra.ghtml)
+ 2. Maduro e Cilia Flores se declaram inocentes em audiência em Nova York sobre acusação de torturar adversários · [https://g1.globo.com/mundo/noticia/2026/10/15/maduro-cilia-audiencia-eua-acusacao-tortura.ghtml](https://g1.globo.com/mundo/noticia/2026/10/15/maduro-cilia-audiencia-eua-acusacao-tortura.ghtml)
+ 3. Dezenas de FIIs pagam dividendos hoje; veja valores de MXRF11, TRXF11 e XPLG11 · [https://www.infomoney.com.br/onde-investir/dezenas-de-fiis-pagam-dividendos-hoje-veja-valores-de-mxrf11-trxf11-e-xplg11/](https://www.infomoney.com.br/onde-investir/dezenas-de-fiis-pagam-dividendos-hoje-veja-valores-de-mxrf11-trxf11-e-xplg11/)
+ 4. Colômbia: após protestos da esquerda, Espriella endurece regras para ação policial · [https://www.infomoney.com.br/mundo/colombia-apos-protestos-da-esquerda-espriella-endurece-regras-para-acao-policial/](https://www.infomoney.com.br/mundo/colombia-apos-protestos-da-esquerda-espriella-endurece-regras-para-acao-policial/)
+ 5. PSD de Eduardo Paes recorre ao STF para restabelecer segundo turno ao governo do Rio · [https://www.infomoney.com.br/?p=3528798](https://www.infomoney.com.br/?p=3528798)
+ 6. Ibovespa Hoje Ao Vivo: Bolsa cai com reta final das eleições e fim da 6×1 · [https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15102026/](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15102026/)
+ 7. Fim da escala 6×1 supera 1 milhão de menções nas redes, com domínio da esquerda · [https://www.infomoney.com.br/politica/fim-da-escala-6x1-supera-1-milhao-de-mencoes-nas-redes-com-dominio-da-esquerda/](https://www.infomoney.com.br/politica/fim-da-escala-6x1-supera-1-milhao-de-mencoes-nas-redes-com-dominio-da-esquerda/)
+ 8. Governo federal lança política nacional de conectividade para rodovias · [https://www.infomoney.com.br/?p=3528759](https://www.infomoney.com.br/?p=3528759)
+ 9. Canella é “patrono político” de organização criminosa ligada ao CV, afirma PF · [https://www.infomoney.com.br/brasil/canella-e-patrono-politico-de-organizacao-criminosa-ligada-ao-cv-afirma-pf/](https://www.infomoney.com.br/brasil/canella-e-patrono-politico-de-organizacao-criminosa-ligada-ao-cv-afirma-pf/)
+10. Amazon lança dispositivos de IA que resumem conversas e criam lembretes · [https://g1.globo.com/tecnologia/noticia/2026/10/15/amazon-lanca-dispositivos-de-ia-que-resumem-conversas-e-criam-lembretes.ghtml](https://g1.globo.com/tecnologia/noticia/2026/10/15/amazon-lanca-dispositivos-de-ia-que-resumem-conversas-e-criam-lembretes.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,25 +54,24 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 4
+#### 📺 YouTube (US) — Top 3
 
- 1. Crainer Hates Us · [https://youtube.com/watch?v=J4SrriCda7k](https://youtube.com/watch?v=J4SrriCda7k)
- 2. MP3 Trailer [New Dropout Series] · [https://youtube.com/watch?v=Q9Uvlu_mDAU](https://youtube.com/watch?v=Q9Uvlu_mDAU)
+ 1. Going On A Date - NSP · [https://youtube.com/watch?v=mfdpJ6hbYdA](https://youtube.com/watch?v=mfdpJ6hbYdA)
+ 2. DCU Batman Updates, Clayface Reactions, Batman Beyond Movie & MORE!! · [https://youtube.com/watch?v=9Xr3fTwRjDQ](https://youtube.com/watch?v=9Xr3fTwRjDQ)
  3. Remy Ma “Rem The Pen” · [https://youtube.com/watch?v=ZZOxZOrRLiQ](https://youtube.com/watch?v=ZZOxZOrRLiQ)
- 4. Zeddy Will - Bow Bow Bow (Official Video) · [https://youtube.com/watch?v=CxW46IKpjpA](https://youtube.com/watch?v=CxW46IKpjpA)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Fox News predicts Democrats will win House in midterms for first time this cycle · [https://thehill.com/homenews/campaign/6148096-fox-news-predicts-democrat-house-win/](https://thehill.com/homenews/campaign/6148096-fox-news-predicts-democrat-house-win/)
- 2. Maryland Republican accuses reporter of violating law by recording postdebate gaggle · [https://thehill.com/homenews/campaign/6148173-andy-harris-maryland-recording-laws-reporter/](https://thehill.com/homenews/campaign/6148173-andy-harris-maryland-recording-laws-reporter/)
- 3. Inflation sizzled in September — and Social Security benefits will get a boost · [https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits](https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits)
- 4. Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made · [https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2](https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2)
- 5. Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer · [https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech](https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech)
- 6. Social Security recipients will see rise in monthly payments next year · [https://www.axios.com/2026/10/14/social-security-cola-inflation](https://www.axios.com/2026/10/14/social-security-cola-inflation)
- 7. Inflation heats up as gas prices surge · [https://www.axios.com/2026/10/14/cpi-september-inflation-trump](https://www.axios.com/2026/10/14/cpi-september-inflation-trump)
- 8. Trump keeps turning to the Supreme Court. Is it paying off? · [https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6148184-donald-trump-emergency-docket-scorecard-live-discussion/](https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6148184-donald-trump-emergency-docket-scorecard-live-discussion/)
- 9. Koch-aligned group makes last ad push for GOP candidates · [https://thehill.com/homenews/campaign/6148123-battleground-senate-races-pac-ads/](https://thehill.com/homenews/campaign/6148123-battleground-senate-races-pac-ads/)
-10. Usha Vance, please speak up: Indians are not 'indentured servants' · [https://thehill.com/opinion/immigration/6146116-jd-vance-h1b-visa-comments/](https://thehill.com/opinion/immigration/6146116-jd-vance-h1b-visa-comments/)
+ 1. Anthropic's PAC spent over $250K in third-quater, splitting between parties · [https://thehill.com/policy/technology/6150160-anthropicpac-spending-q3-ai/](https://thehill.com/policy/technology/6150160-anthropicpac-spending-q3-ai/)
+ 2. Enough is enough. It’s time for America to end executions. · [https://thehill.com/opinion/criminal-justice/6149650-death-penalty-cruelty-debate/](https://thehill.com/opinion/criminal-justice/6149650-death-penalty-cruelty-debate/)
+ 3. Live updates: Trump quashes Hegseth's plan to livestream execution · [https://thehill.com/homenews/administration/6150037-live-updates-trump-midterm-elections-ukraine-russia/](https://thehill.com/homenews/administration/6150037-live-updates-trump-midterm-elections-ukraine-russia/)
+ 4. Appeals court revives Virginia school boards' suits against Trump admin over transgender policy threats · [https://thehill.com/homenews/education/6151056-transgender-student-policy-legal-battle/](https://thehill.com/homenews/education/6151056-transgender-student-policy-legal-battle/)
+ 5. Former Cruz spokesperson: 'It's going to be a bad night' for Republicans in midterms · [https://thehill.com/homenews/campaign/6151052-rick-tyler-predicts-bad-republican-night/](https://thehill.com/homenews/campaign/6151052-rick-tyler-predicts-bad-republican-night/)
+ 6. Could Dan Osborn shake up Nebraska’s Senate race? · [https://thehill.com/homenews/campaign/data-nerds/6151029-independent-dan-osborn-senate-race-nebraska-live-discussion/](https://thehill.com/homenews/campaign/data-nerds/6151029-independent-dan-osborn-senate-race-nebraska-live-discussion/)
+ 7. Ossoff: Georgia Republicans 'do not want the president to come' · [https://thehill.com/homenews/campaign/6151005-ossoff-georgia-republicans-do-not-want-the-president-to-come/](https://thehill.com/homenews/campaign/6151005-ossoff-georgia-republicans-do-not-want-the-president-to-come/)
+ 8. Pneumonic plague in Russia exposes a world still dangerously divided · [https://thehill.com/homenews/6148864-ai-biosecurity-threats-global/](https://thehill.com/homenews/6148864-ai-biosecurity-threats-global/)
+ 9. Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric · [https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia](https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia)
+10. After booting 760K off ACA health plans, the Trump administration adds some people back · [https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance](https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -94,12 +93,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **dólar** | Como a alta do dólar afeta brasileiros nos EUA | O dólar opera em alta devido a preocupações com a inflação americana e incertezas políticas no Brasil, impactando direta |
-| 2 🟠 🎬 | **inflação** | Como a inflação nos EUA impacta imigrantes brasileiros | A inflação nos EUA subiu em setembro, afetando o poder de compra e a qualidade de vida, especialmente para os imigrantes |
-| 3 🟡 🎬 | **empresa** | Abrir uma empresa nos EUA: o que você precisa saber | Com a recuperação econômica, muitos brasileiros estão buscando oportunidades de empreender nos EUA, especialmente em set |
-| 4 🟡 🎬 | **quanto** | Quanto custa viver nos EUA: comparação com o Brasil | Com a alta do dólar e a inflação, é crucial entender o custo de vida nos EUA em comparação ao Brasil, especialmente para |
-| 5 🟡 🎯 | **moving** | Mudando-se para os EUA: o que você precisa saber | Muitos brasileiros estão considerando se mudar para os EUA em busca de melhores oportunidades, especialmente em um cenár |
-| 6 🟡 🎬 | **saúde** | Como funciona o sistema de saúde nos EUA para imigrantes | Com as recentes mudanças nas políticas de saúde e imigração, é vital que brasileiros entendam como acessar serviços de s |
-| 7 🟡 🎬 | **brasileiro** | A vida de brasileiros nos EUA: desafios e conquistas | Histórias de brasileiros imigrantes estão se tornando populares, mostrando tanto os desafios quanto as vitórias na adapt |
-| 8 🟡 🎯 | **estados** | Impactos das tempestades nos EUA para brasileiros | Com o alerta de tempestades em vários estados, é importante que os imigrantes saibam como se preparar e proteger suas fa |
-| 9 🟡 🎬 | **direito** | Direitos dos imigrantes nos EUA: o que você precisa saber | O debate sobre os direitos dos imigrantes nos EUA está em alta, especialmente com as mudanças políticas recentes. |
+| 1 🟠 🎬 | **Dólar** | Impacto da alta do dólar na vida do imigrante | O dólar está operando em alta devido à inflação americana, impactando diretamente o custo de vida e as remessas dos bras |
+| 2 🟠 🎬 | **Escala de trabalho** | Como o fim da escala 6x1 impacta brasileiros que trabalham nos EUA | O fim da escala 6x1 no Brasil gerou discussões sobre mudanças nas jornadas de trabalho, afetando imigrantes que podem es |
+| 3 🟡 🎬 | **Educação e Trabalho** | O que os brasileiros devem saber sobre as escalas de trabalho nos EUA | A discussão sobre escalas de trabalho está em alta, abordando como elas afetam a produtividade e o equilíbrio entre vida |
+| 4 🟡 🎬 | **Investimentos** | Como brasileiros podem aproveitar as mudanças na bolsa americana | A bolsa americana e o Ibovespa estão em movimento, e investidores estão buscando entender como isso pode afetar seus por |
+| 5 🟡 🎬 | **IA e Tecnologia** | Como a IA está moldando o futuro do trabalho | Recentes inovações em IA estão mudando rapidamente o mercado de trabalho, levantando questões sobre a adaptação necessár |
+| 6 🟡 🎬 | **Turismo** | Custo de viagem para brasileiros que desejam visitar o Brasil | Com a alta do dólar e a inflação, os custos de viagem estão mudando, e brasileiros que vivem no exterior estão buscando  |
+| 7 🟡 🎬 | **Direito & Legal** | O que muda com as novas políticas de imigração nos EUA | Mudanças nas políticas de imigração estão em discussão, afetando diretamente a vida dos imigrantes. |
+| 8 🟡 🎬 | **Economia** | Como a inflação afeta o custo de vida nos EUA | A inflação está em alta e os custos estão mudando, o que gera preocupação entre os consumidores. |
+| 9 🟢 ⚡ | **Entretenimento e Cultura** | Memes e cultura pop que refletem a vida dos imigrantes | Memes e tendências virais estão em alta nas redes sociais, refletindo questões sociais e culturais. |

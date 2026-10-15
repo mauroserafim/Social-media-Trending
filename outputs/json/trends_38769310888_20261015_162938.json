@@ -1,0 +1,894 @@
+{
+  "generated_at": "2026-10-15T16:29:38.383625",
+  "run_id": "38769310888",
+  "summary": {
+    "total_br": 30,
+    "total_us": 23,
+    "br_us_connections": 5,
+    "cross_platform_topics": 14,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "Zara Larsson - Blue Moon (Official Music Video)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=LB72Mbd88mU",
+          "score": 8.73,
+          "region": "BR",
+          "views": 968328
+        },
+        {
+          "title": "\"Animal\" (Live from THE WILDWORLD TOUR) | KATSEYE",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=ctf1e0gQDSA",
+          "score": 3.02,
+          "region": "BR",
+          "views": 514018
+        },
+        {
+          "title": "BANDOLEIRA - Nino Abravanel - Ryan SP, Nego Trufa, Jvila, Meno K, Lele JP (Glenner e Daltin no Beat)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=cWlBXqplRRY",
+          "score": 1.45,
+          "region": "BR",
+          "views": 220557
+        },
+        {
+          "title": "Tate McRae - Housewife (Official Video Trailer)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=LUT0Zufd-xs",
+          "score": 1.28,
+          "region": "BR",
+          "views": 234437
+        },
+        {
+          "title": "NÃO OLHE PARA TRÁS NESSA FLORESTA! | The Rake Sees You",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=efRtCvBbTzA",
+          "score": 1.22,
+          "region": "BR",
+          "views": 241870
+        },
+        {
+          "title": "Nada Te Perturbe | Ir Kelly Patrícia no Misericórdia Brasil - Instituto Hesed",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=OrYALfe77p4",
+          "score": 1.05,
+          "region": "BR",
+          "views": 71081
+        },
+        {
+          "title": "Nárnia: O Sobrinho do Mago | Trailer oficial | Netflix",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=pDvjN6h-mRo",
+          "score": 1.03,
+          "region": "BR",
+          "views": 325929
+        },
+        {
+          "title": "SUPER HERÓI - Rey Vaqueiro (Rey Vaqueiro Ao Vivo em Belém do Pará)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=oKkQK7wzoSU",
+          "score": 0.51,
+          "region": "BR",
+          "views": 153242
+        },
+        {
+          "title": "Trailer VisionQuest - MARVEL NO DIVÃ!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=vI0BNVwoCCE",
+          "score": 0.39,
+          "region": "BR",
+          "views": 127432
+        },
+        {
+          "title": "Toto - Africa (Lyrics)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=FkVjZVJGzHk",
+          "score": 0.36,
+          "region": "BR",
+          "views": 223550
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Trump publica vídeo de IA em que aparece brincando com tigre após ataque fatal na Inglaterra",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/15/trump-publica-video-de-ia-em-que-aparece-brincando-com-tigre-apos-ataque-fatal-na-inglaterra.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Maduro e Cilia Flores se declaram inocentes em audiência em Nova York sobre acusação de torturar adversários",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/15/maduro-cilia-audiencia-eua-acusacao-tortura.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Dezenas de FIIs pagam dividendos hoje; veja valores de MXRF11, TRXF11 e XPLG11",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/onde-investir/dezenas-de-fiis-pagam-dividendos-hoje-veja-valores-de-mxrf11-trxf11-e-xplg11/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Colômbia: após protestos da esquerda, Espriella endurece regras para ação policial",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/colombia-apos-protestos-da-esquerda-espriella-endurece-regras-para-acao-policial/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "PSD de Eduardo Paes recorre ao STF para restabelecer segundo turno ao governo do Rio",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/?p=3528798",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ibovespa Hoje Ao Vivo: Bolsa cai com reta final das eleições e fim da 6×1",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15102026/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Fim da escala 6×1 supera 1 milhão de menções nas redes, com domínio da esquerda",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/fim-da-escala-6x1-supera-1-milhao-de-mencoes-nas-redes-com-dominio-da-esquerda/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Governo federal lança política nacional de conectividade para rodovias",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/?p=3528759",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Canella é “patrono político” de organização criminosa ligada ao CV, afirma PF",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/brasil/canella-e-patrono-politico-de-organizacao-criminosa-ligada-ao-cv-afirma-pf/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Amazon lança dispositivos de IA que resumem conversas e criam lembretes",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/10/15/amazon-lanca-dispositivos-de-ia-que-resumem-conversas-e-criam-lembretes.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "Going On A Date - NSP",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=mfdpJ6hbYdA",
+          "score": 1.68,
+          "region": "US",
+          "views": 330299
+        },
+        {
+          "title": "DCU Batman Updates, Clayface Reactions, Batman Beyond Movie & MORE!!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=9Xr3fTwRjDQ",
+          "score": 0.93,
+          "region": "US",
+          "views": 133342
+        },
+        {
+          "title": "Remy Ma “Rem The Pen”",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=ZZOxZOrRLiQ",
+          "score": 0.87,
+          "region": "US",
+          "views": 249673
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "Anthropic's PAC spent over $250K in third-quater, splitting between parties",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/technology/6150160-anthropicpac-spending-q3-ai/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Enough is enough. It’s time for America to end executions.",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/criminal-justice/6149650-death-penalty-cruelty-debate/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Live updates: Trump quashes Hegseth's plan to livestream execution",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6150037-live-updates-trump-midterm-elections-ukraine-russia/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Appeals court revives Virginia school boards' suits against Trump admin over transgender policy threats",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/education/6151056-transgender-student-policy-legal-battle/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Former Cruz spokesperson: 'It's going to be a bad night' for Republicans in midterms",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6151052-rick-tyler-predicts-bad-republican-night/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Could Dan Osborn shake up Nebraska’s Senate race?",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/data-nerds/6151029-independent-dan-osborn-senate-race-nebraska-live-discussion/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Ossoff: Georgia Republicans 'do not want the president to come'",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6151005-ossoff-georgia-republicans-do-not-want-the-president-to-come/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Pneumonic plague in Russia exposes a world still dangerously divided",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/6148864-ai-biosecurity-threats-global/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 13,
+      "score": 76.67,
+      "sample_titles": [
+        "Trump publica vídeo de IA em que aparece brincando com tigre após ataque fatal na Inglaterra",
+        "Governo Trump envia centenas de soldados para a América Latina, diz 'New York Times'",
+        "Trump recua e diz que execução por fuzilamento de ex-militar não será transmitida ao vivo",
+        "After booting 760K off ACA health plans, the Trump administration adds some people back",
+        "These swing voters regret voting for Trump and it's influencing their midterm choices"
+      ]
+    },
+    {
+      "topic": "video",
+      "count": 4,
+      "score": 12.52,
+      "sample_titles": [
+        "Zara Larsson - Blue Moon (Official Music Video)",
+        "Tate McRae - Housewife (Official Video Trailer)",
+        "Uma oração que vai tocar profundamente o seu coração hoje - Quando eu chamo (lyric Video)",
+        "VIDEO: The skincare sample is free. What happens next can cost thousands"
+      ]
+    },
+    {
+      "topic": "final",
+      "count": 3,
+      "score": 53.4,
+      "sample_titles": [
+        "O ATAQUE DE GHIDORAH! Análise do Trailer final de Godzilla Minus Zero",
+        "Ibovespa Hoje Ao Vivo: Bolsa cai com reta final das eleições e fim da 6×1",
+        "YOLO Chuck: Schumer's final fight"
+      ]
+    },
+    {
+      "topic": "federal",
+      "count": 2,
+      "score": 70.0,
+      "sample_titles": [
+        "Governo federal lança política nacional de conectividade para rodovias",
+        "The skincare scheme that led to consumer complaints, lawsuits and a federal investigation"
+      ]
+    },
+    {
+      "topic": "online",
+      "count": 2,
+      "score": 10.0,
+      "sample_titles": [
+        "como ganhar dinheiro online",
+        "how to learn online"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "final",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 53.4,
+      "sample_titles": [
+        "O ATAQUE DE GHIDORAH! Análise do Trailer final de Godzilla Minus Zero",
+        "Ibovespa Hoje Ao Vivo: Bolsa cai com reta final das eleições e fim da 6×1",
+        "YOLO Chuck: Schumer's final fight"
+      ]
+    },
+    {
+      "topic": "apple",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 53.4,
+      "sample_titles": [
+        "12 12 12 — Trailer oficial | Apple TV",
+        "OpenAI acusa ex-funcionário de levar arquivos sobre aparelho não lançado para a Apple",
+        "Apple ganha sinal verde para IA na China — com Alibaba e sem a nova Siri"
+      ]
+    },
+    {
+      "topic": "going",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.84,
+      "sample_titles": [
+        "Going On A Date - NSP",
+        "Former Cruz spokesperson: 'It's going to be a bad night' for Republicans in midterms"
+      ]
+    },
+    {
+      "topic": "updates",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.47,
+      "sample_titles": [
+        "DCU Batman Updates, Clayface Reactions, Batman Beyond Movie & MORE!!",
+        "Live updates: Trump quashes Hegseth's plan to livestream execution"
+      ]
+    },
+    {
+      "topic": "ataque",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.1,
+      "sample_titles": [
+        "O ATAQUE DE GHIDORAH! Análise do Trailer final de Godzilla Minus Zero",
+        "Trump publica vídeo de IA em que aparece brincando com tigre após ataque fatal na Inglaterra"
+      ]
+    },
+    {
+      "topic": "trabalho",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "6x1, 5x2, 4x3 e 12x36: entenda como funcionam as escalas de trabalho",
+        "trabalho home office"
+      ]
+    },
+    {
+      "topic": "dólar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Dólar opera em alta, com foco em inflação americana e pesquisas eleitorais; Ibovespa cai",
+        "dólar hoje"
+      ]
+    },
+    {
+      "topic": "brasil",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.52,
+      "sample_titles": [
+        "Nada Te Perturbe | Ir Kelly Patrícia no Misericórdia Brasil - Instituto Hesed",
+        "Quando começou a escala 6x1 no Brasil? Veja o histórico desde a CLT"
+      ]
+    },
+    {
+      "topic": "netflix",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.52,
+      "sample_titles": [
+        "Nárnia: O Sobrinho do Mago | Trailer oficial | Netflix",
+        "Quem é quem em 'Sobrevivência'? Conheça o elenco do filme da Netflix"
+      ]
+    },
+    {
+      "topic": "quando",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.03,
+      "sample_titles": [
+        "Uma oração que vai tocar profundamente o seu coração hoje - Quando eu chamo (lyric Video)",
+        "Quando começou a escala 6x1 no Brasil? Veja o histórico desde a CLT"
+      ]
+    },
+    {
+      "topic": "inflation",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "Inflation sizzled in September — and Social Security benefits will get a boost",
+        "inflation"
+      ]
+    },
+    {
+      "topic": "condenado",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 16.68,
+      "sample_titles": [
+        "Condenado (Ao Vivo)",
+        "Acusado do assassinato de duas crianças em Viçosa do Ceará é condenado a 50 anos de prisão",
+        "Trump descarta transmissão de execução de condenado por massacre em base militar"
+      ]
+    },
+    {
+      "topic": "video",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 12.52,
+      "sample_titles": [
+        "Zara Larsson - Blue Moon (Official Music Video)",
+        "Tate McRae - Housewife (Official Video Trailer)",
+        "Uma oração que vai tocar profundamente o seu coração hoje - Quando eu chamo (lyric Video)",
+        "VIDEO: The skincare sample is free. What happens next can cost thousands"
+      ]
+    },
+    {
+      "topic": "animal",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 11.51,
+      "sample_titles": [
+        "\"Animal\" (Live from THE WILDWORLD TOUR) | KATSEYE",
+        "Jacaré de 2 metros é resgatado dentro do campus do Ifap em Macapá; é o 2º animal em 17 dias"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "Dólar",
+      "subtopic": "Impacto da alta do dólar na vida do imigrante",
+      "why_trending": "O dólar está operando em alta devido à inflação americana, impactando diretamente o custo de vida e as remessas dos brasileiros nos EUA.",
+      "niche_angle": "Explorar como a alta do dólar afeta a vida financeira dos imigrantes brasileiros, incluindo dicas de como lidar com esse cenário.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/10/15/dolar-ibovespa.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-15T16:29:38.381862"
+    },
+    {
+      "main_topic": "Escala de trabalho",
+      "subtopic": "Como o fim da escala 6x1 impacta brasileiros que trabalham nos EUA",
+      "why_trending": "O fim da escala 6x1 no Brasil gerou discussões sobre mudanças nas jornadas de trabalho, afetando imigrantes que podem estar comparando suas rotinas.",
+      "niche_angle": "Analisar as diferenças nas escalas de trabalho entre Brasil e EUA e o que brasileiros devem considerar ao trabalhar em diferentes setores nos dois países.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 5,
+      "source": "G1 Economia",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/fim-da-escala-6x1-tambem-afeta-quem-trabalha-de-segunda-a-sexta-veja-o-que-muda.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-15T16:29:38.381872"
+    },
+    {
+      "main_topic": "Educação e Trabalho",
+      "subtopic": "O que os brasileiros devem saber sobre as escalas de trabalho nos EUA",
+      "why_trending": "A discussão sobre escalas de trabalho está em alta, abordando como elas afetam a produtividade e o equilíbrio entre vida pessoal e profissional.",
+      "niche_angle": "Discutir como entender e gerenciar as escalas de trabalho nos EUA pode ajudar brasileiros a se adaptarem melhor ao mercado de trabalho local.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/6x1-5x2-4x3-e-12x36-entenda-como-funcionam-as-escalas-de-trabalho.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-15T16:29:38.381878"
+    },
+    {
+      "main_topic": "Investimentos",
+      "subtopic": "Como brasileiros podem aproveitar as mudanças na bolsa americana",
+      "why_trending": "A bolsa americana e o Ibovespa estão em movimento, e investidores estão buscando entender como isso pode afetar seus portfólios.",
+      "niche_angle": "Oferecer dicas práticas sobre como brasileiros nos EUA podem investir no mercado americano, especialmente em tempos de volatilidade.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "InfoMoney",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15102026/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-15T16:29:38.381886"
+    },
+    {
+      "main_topic": "IA e Tecnologia",
+      "subtopic": "Como a IA está moldando o futuro do trabalho",
+      "why_trending": "Recentes inovações em IA estão mudando rapidamente o mercado de trabalho, levantando questões sobre a adaptação necessária.",
+      "niche_angle": "Explorar como brasileiros podem se preparar para as mudanças que a IA trará para suas carreiras e o que devem aprender para se manterem relevantes.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "G1 Tecnologia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/tecnologia/noticia/2026/10/15/amazon-lanca-dispositivos-de-ia-que-resumem-conversas-e-criam-lembretes.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-15T16:29:38.381891"
+    },
+    {
+      "main_topic": "Turismo",
+      "subtopic": "Custo de viagem para brasileiros que desejam visitar o Brasil",
+      "why_trending": "Com a alta do dólar e a inflação, os custos de viagem estão mudando, e brasileiros que vivem no exterior estão buscando por informações.",
+      "niche_angle": "Dar uma visão prática dos custos envolvidos em viajar do EUA para o Brasil e como economizar durante a viagem.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/tecnologia/noticia/2026/10/15/amazon-lanca-dispositivos-de-ia-que-resumem-conversas-e-criam-lembretes.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-15T16:29:38.381895"
+    },
+    {
+      "main_topic": "Direito & Legal",
+      "subtopic": "O que muda com as novas políticas de imigração nos EUA",
+      "why_trending": "Mudanças nas políticas de imigração estão em discussão, afetando diretamente a vida dos imigrantes.",
+      "niche_angle": "Explorar como essas mudanças podem impactar brasileiros nos EUA e o que eles precisam saber para se proteger.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "The Hill",
+      "region": "US",
+      "links": [
+        "https://thehill.com/homenews/education/6151056-transgender-student-policy-legal-battle/"
+      ],
+      "platforms": [
+        "news",
+        "reddit"
+      ],
+      "collected_at": "2026-10-15T16:29:38.381900"
+    },
+    {
+      "main_topic": "Economia",
+      "subtopic": "Como a inflação afeta o custo de vida nos EUA",
+      "why_trending": "A inflação está em alta e os custos estão mudando, o que gera preocupação entre os consumidores.",
+      "niche_angle": "Analisar como a inflação impacta diretamente a vida dos brasileiros que residem nos EUA e quais estratégias podem ser usadas para lidar com isso.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://thehill.com/policy/economy/6149650-death-penalty-cruelty-debate/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-15T16:29:38.381908"
+    },
+    {
+      "main_topic": "Entretenimento e Cultura",
+      "subtopic": "Memes e cultura pop que refletem a vida dos imigrantes",
+      "why_trending": "Memes e tendências virais estão em alta nas redes sociais, refletindo questões sociais e culturais.",
+      "niche_angle": "Usar memes populares para discutir as experiências dos brasileiros nos EUA de forma leve e divertida.",
+      "video_format": "short",
+      "urgency": "low",
+      "ease": 8,
+      "source": "reddit",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "reddit",
+        "tiktok"
+      ],
+      "collected_at": "2026-10-15T16:29:38.381914"
+    }
+  ]
+}
