@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 16/10/2026 16:15 UTC
+# 📊 Tendências em Alta — 17/10/2026 15:09 UTC
 
-**Run:** `38930338742` | **BR:** 30 trends | **US:** 22 trends | **Nicho:** 9 ideias
+**Run:** `39043719867` | **BR:** 30 trends | **US:** 22 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -12,28 +12,28 @@
 #### 📺 YouTube (BR) — Top 10
 
  1. Olivia Rodrigo - expectations (feat. Chappell Roan) (Official Music Video) · [https://youtube.com/watch?v=gsZauX8gwxo](https://youtube.com/watch?v=gsZauX8gwxo)
- 2. Zara Larsson - Blue Moon (Official Music Video) · [https://youtube.com/watch?v=LB72Mbd88mU](https://youtube.com/watch?v=LB72Mbd88mU)
- 3. VIREI COMISSÁRIA, MAS OS PASSAGEIROS ERRADOS ENTRARAM! - Night Plane · [https://youtube.com/watch?v=cUFi2a_-GNk](https://youtube.com/watch?v=cUFi2a_-GNk)
- 4. BANDOLEIRA - Nino Abravanel - Ryan SP, Nego Trufa, Jvila, Meno K, Lele JP (Glenner e Daltin no Beat) · [https://youtube.com/watch?v=cWlBXqplRRY](https://youtube.com/watch?v=cWlBXqplRRY)
- 5. The Chosen: Temporada 6 | Trailer Oficial Dublado · [https://youtube.com/watch?v=cF7OAYCi3hY](https://youtube.com/watch?v=cF7OAYCi3hY)
- 6. Fornalha Ardente | Irmã Kelly Patrícia no Misericórdia Brasil - Instituto Hesed · [https://youtube.com/watch?v=-SZZ_Aqoiao](https://youtube.com/watch?v=-SZZ_Aqoiao)
- 7. Dance Se Souber atualizadas 2026 {tiktok}🎶💜 · [https://youtube.com/watch?v=0KJqy2AtyRs](https://youtube.com/watch?v=0KJqy2AtyRs)
- 8. Flash (Minha Mente) 💠 · [https://youtube.com/watch?v=Hf9BlxTbV30](https://youtube.com/watch?v=Hf9BlxTbV30)
- 9. Set do Rincon 3 - Na Base do Agro, Us Agroboy, Loubet, Country Boy, Dan Lelis, DJ Ari SL, Insane · [https://youtube.com/watch?v=dRSR6LoEl-0](https://youtube.com/watch?v=dRSR6LoEl-0)
-10. Bebê De Academia - MC Joãozinho VT, MC Tuto e MC Lele JP (DJ Glenner) · [https://youtube.com/watch?v=OEQ6mUqphFw](https://youtube.com/watch?v=OEQ6mUqphFw)
+ 2. George Henrique e Rodrigo, @zncoficial  - UMA GALERA CHORA (Uma Nova História Vol.2 - Ao Vivo) · [https://youtube.com/watch?v=uhyaN3s5OWk](https://youtube.com/watch?v=uhyaN3s5OWk)
+ 3. Heitor & Henrique, @MuriloHuff - Réveillon  [Passo a Passo] · [https://youtube.com/watch?v=rGKBBy6v2Z4](https://youtube.com/watch?v=rGKBBy6v2Z4)
+ 4. LAST TRAILER | BLEACH: Thousand-Year Blood War Final Part - The Calamity | VIZ · [https://youtube.com/watch?v=ymA80fp-UnE](https://youtube.com/watch?v=ymA80fp-UnE)
+ 5. Hugo e Guilherme, Zé Vaqueiro - Flash (Minha Mente) · [https://youtube.com/watch?v=akkCnFdhPWo](https://youtube.com/watch?v=akkCnFdhPWo)
+ 6. The Chosen: Temporada 6 | Trailer Oficial Dublado · [https://youtube.com/watch?v=cF7OAYCi3hY](https://youtube.com/watch?v=cF7OAYCi3hY)
+ 7. The Cranberries — Zombie (Sub. Español & Lyrics) · [https://youtube.com/watch?v=CODQ_Wz2KRQ](https://youtube.com/watch?v=CODQ_Wz2KRQ)
+ 8. RETURN (Piggy: Season 9 Part II Teaser Trailer) · [https://youtube.com/watch?v=Eq1WkD3gyiY](https://youtube.com/watch?v=Eq1WkD3gyiY)
+ 9. Trailer de "O Exorcista Mártires" | Análise e Expectativas para o Filme · [https://youtube.com/watch?v=uExY72Js2jI](https://youtube.com/watch?v=uExY72Js2jI)
+10. TIC TAC CORAÇÃO FAZ TUM TUM - Rey Vaqueiro (Rey Vaqueiro Ao Vivo em Belém do Pará) · [https://youtube.com/watch?v=VgmuMclzb7o](https://youtube.com/watch?v=VgmuMclzb7o)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Tarifa zero nos ônibus aos fins de semana pode reduzir inflação em 0,25 ponto percentual, diz economista · [https://g1.globo.com/economia/noticia/2026/10/16/tarifa-zero-nos-onibus-aos-fins-de-semana-pode-reduzir-inflacao-em-025-ponto-percentual-diz-economista.ghtml](https://g1.globo.com/economia/noticia/2026/10/16/tarifa-zero-nos-onibus-aos-fins-de-semana-pode-reduzir-inflacao-em-025-ponto-percentual-diz-economista.ghtml)
- 2. Mexicano é preso em aeroporto na Alemanha com 37 cobras venenosas na bagagem · [https://g1.globo.com/mundo/noticia/2026/10/16/mexicano-e-preso-em-aeroporto-na-alemanha-com-37-cobras-venenosas-na-bagagem.ghtml](https://g1.globo.com/mundo/noticia/2026/10/16/mexicano-e-preso-em-aeroporto-na-alemanha-com-37-cobras-venenosas-na-bagagem.ghtml)
- 3. Papa fala ao telefone com Putin, oferece mediação na guerra e pede corretor humanitário · [https://g1.globo.com/mundo/noticia/2026/10/16/papa-fala-ao-telefone-com-putin-oferece-mediacao-na-guerra-e-pede-corretor-humanitario.ghtml](https://g1.globo.com/mundo/noticia/2026/10/16/papa-fala-ao-telefone-com-putin-oferece-mediacao-na-guerra-e-pede-corretor-humanitario.ghtml)
- 4. ‘Vamos trabalhar para aprovar PEC da Segurança na 3ª feira’, diz Randolfe Rodrigues · [https://www.infomoney.com.br/politica/vamos-trabalhar-para-aprovar-pec-da-seguranca-na-3a-feira-diz-randolfe-rodrigues/](https://www.infomoney.com.br/politica/vamos-trabalhar-para-aprovar-pec-da-seguranca-na-3a-feira-diz-randolfe-rodrigues/)
- 5. Renda fixa: prêmios sobem e títulos do setor elétrico ganham novo apelo · [https://www.infomoney.com.br/onde-investir/renda-fixa-premios-titulos-setor-eletrico/](https://www.infomoney.com.br/onde-investir/renda-fixa-premios-titulos-setor-eletrico/)
- 6. Dólar ronda estabilidade com após pesquisa indicar empate técnico entre Flávio e Lula · [https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-16102026/](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-16102026/)
- 7. Parou de investir na previdência privada? Entenda o custo da pausa na aposentadoria · [https://www.infomoney.com.br/minhas-financas/parou-de-investir-na-previdencia-privada-entenda-o-custo-da-pausa-na-aposentadoria/](https://www.infomoney.com.br/minhas-financas/parou-de-investir-na-previdencia-privada-entenda-o-custo-da-pausa-na-aposentadoria/)
- 8. Maior queda em 28 anos: o que fez uma das piores bolsas do mundo desabar ainda mais · [https://www.infomoney.com.br/mercados/maior-queda-em-28-anos-o-que-fez-uma-das-piores-bolsas-do-mundo-desabar-ainda-mais/](https://www.infomoney.com.br/mercados/maior-queda-em-28-anos-o-que-fez-uma-das-piores-bolsas-do-mundo-desabar-ainda-mais/)
- 9. Ibovespa Hoje Ao Vivo: Bolsa sobe aos 205 mil pontos com pesquisas eleitorais em foco · [https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16102026/](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16102026/)
-10. “Não quero que empresas quebrem, mas ninguém tem que morrer trabalhando”, diz Lula · [https://www.infomoney.com.br/politica/nao-quero-que-empresas-quebrem-mas-ninguem-tem-que-morrer-trabalhando-diz-lula/](https://www.infomoney.com.br/politica/nao-quero-que-empresas-quebrem-mas-ninguem-tem-que-morrer-trabalhando-diz-lula/)
+ 1. Zelenski pede apoio a novas sanções dos EUA contra a Rússia após suspensão de Trump · [https://www.infomoney.com.br/mundo/zelenski-pede-apoio-a-novas-sancoes-dos-eua-contra-a-russia-apos-suspensao-de-trump/](https://www.infomoney.com.br/mundo/zelenski-pede-apoio-a-novas-sancoes-dos-eua-contra-a-russia-apos-suspensao-de-trump/)
+ 2. Joao Fonseca fala em priorizar saúde e só retorna ao circuito em 2027 · [https://www.infomoney.com.br/esportes/joao-fonseca-fala-em-priorizar-saude-e-so-retorna-ao-circuito-em-2027/](https://www.infomoney.com.br/esportes/joao-fonseca-fala-em-priorizar-saude-e-so-retorna-ao-circuito-em-2027/)
+ 3. Pesquisa Ipespe: Flávio tem 51,2% e Lula 48,8%; vantagem de senador cai 3 pontos · [https://www.infomoney.com.br/politica/pesquisa-ipespe-flavio-tem-512-e-lula-488-vantagem-de-senador-cai-3-pontos/](https://www.infomoney.com.br/politica/pesquisa-ipespe-flavio-tem-512-e-lula-488-vantagem-de-senador-cai-3-pontos/)
+ 4. iPhones ficam à deriva no Estreito de Ormuz após navio ser atingido por mina · [https://www.infomoney.com.br/mundo/iphones-ficam-a-deriva-no-estreito-de-ormuz-apos-navio-ser-atingido-por-mina/](https://www.infomoney.com.br/mundo/iphones-ficam-a-deriva-no-estreito-de-ormuz-apos-navio-ser-atingido-por-mina/)
+ 5. Polícia usa gás lacrimogêneo e entra em confronto com manifestantes em protestos contra o custo de vida na França · [https://g1.globo.com/mundo/noticia/2026/10/17/policia-usa-gas-lacrimogeneo-e-entra-em-confronto-com-manifestantes-em-protestos-contra-o-custo-de-vida-na-franca.ghtml](https://g1.globo.com/mundo/noticia/2026/10/17/policia-usa-gas-lacrimogeneo-e-entra-em-confronto-com-manifestantes-em-protestos-contra-o-custo-de-vida-na-franca.ghtml)
+ 6. Papa Leão XIV recebe alta após cirurgia para tratar câncer de pulmão · [https://g1.globo.com/mundo/noticia/2026/10/17/papa-leao-xiv-alta.ghtml](https://g1.globo.com/mundo/noticia/2026/10/17/papa-leao-xiv-alta.ghtml)
+ 7. Magalu, Smart Fit e Raia: as apostas do UBS BB após rali de 20% no varejo com eleições · [https://exame.com/invest/mercados/magalu-smart-fit-e-raia-as-apostas-do-ubs-bb-apos-rali-de-20-no-varejo-com-eleicoes/](https://exame.com/invest/mercados/magalu-smart-fit-e-raia-as-apostas-do-ubs-bb-apos-rali-de-20-no-varejo-com-eleicoes/)
+ 8. 7 destinos para viajar atrás de arte longe do circuito óbvio · [https://exame.com/casual/7-destinos-para-viajar-atras-de-arte-longe-do-circuito-obvio/](https://exame.com/casual/7-destinos-para-viajar-atras-de-arte-longe-do-circuito-obvio/)
+ 9. Pesquisa que mais acertou no 1º turno mostra Flávio Bolsonaro com 51,1% e Lula, 48,9%, no 2º · [https://exame.com/brasil/pesquisa-que-mais-acertou-no-1o-turno-mostra-flavio-bolsonaro-com-511-e-lula-489-no-2o/](https://exame.com/brasil/pesquisa-que-mais-acertou-no-1o-turno-mostra-flavio-bolsonaro-com-511-e-lula-489-no-2o/)
+10. Pesquisa para presidente: Flávio tem 48% e Lula, 46%, aponta Ipespe · [https://exame.com/brasil/pesquisa-para-presidente-flavio-tem-48-e-lula-46-aponta-ipespe/](https://exame.com/brasil/pesquisa-para-presidente-flavio-tem-48-e-lula-46-aponta-ipespe/)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -56,21 +56,21 @@
 
 #### 📺 YouTube (US) — Top 2
 
- 1. OG Murder Run is BACK · [https://youtube.com/watch?v=EvBBB_PXFLU](https://youtube.com/watch?v=EvBBB_PXFLU)
- 2. Going On A Date - NSP · [https://youtube.com/watch?v=mfdpJ6hbYdA](https://youtube.com/watch?v=mfdpJ6hbYdA)
+ 1. RAMAYANA: RISE OF A LEGEND - NEW TRAILER · [https://youtube.com/watch?v=AYkPRN874m8](https://youtube.com/watch?v=AYkPRN874m8)
+ 2. Five Nights at Frickbear's: Four Layers Down Trailer · [https://youtube.com/watch?v=n0ytZxeWOx4](https://youtube.com/watch?v=n0ytZxeWOx4)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks · [https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank](https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank)
- 2. Why the poor vote matters: Under the right threshold, it could be you · [https://thehill.com/opinion/campaign/6151677-trump-poverty-measure-dispute/](https://thehill.com/opinion/campaign/6151677-trump-poverty-measure-dispute/)
- 3. Artemis III astronaut talks about 'honor' of helping US lead space race · [https://thehill.com/homenews/space/6152878-artemis-3-astronaut-randy-breznik-nasa/](https://thehill.com/homenews/space/6152878-artemis-3-astronaut-randy-breznik-nasa/)
- 4. Collins says she doesn't regret RFK Jr. vote, tried to block Hegseth · [https://thehill.com/homenews/campaign/6153981-collins-defends-rfk-jr-confirmation/](https://thehill.com/homenews/campaign/6153981-collins-defends-rfk-jr-confirmation/)
- 5. Talarico compares campaign to biblical David · [https://thehill.com/homenews/campaign/6153875-talarico-compares-campaign-to-biblical-david/](https://thehill.com/homenews/campaign/6153875-talarico-compares-campaign-to-biblical-david/)
- 6. America’s best diplomats might be its mayors · [https://thehill.com/opinion/international/6151232-local-leaders-global-investment/](https://thehill.com/opinion/international/6151232-local-leaders-global-investment/)
- 7. Zelensky praises 'real leaders' in Europe with Trump relationship strained · [https://thehill.com/policy/international/6153604-volodymyr-zelensky-europe-trump-diesel/](https://thehill.com/policy/international/6153604-volodymyr-zelensky-europe-trump-diesel/)
- 8. Crowds throng New Delhi and wave Indian flags amid escalating protests · [https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests](https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests)
- 9. Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support · [https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support](https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support)
-10. Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens · [https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers](https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers)
+ 1. Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold · [https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia](https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia)
+ 2. Trump waives new Russia sanctions in the "national interests" · [https://www.axios.com/2026/10/17/trump-russia-sanctions](https://www.axios.com/2026/10/17/trump-russia-sanctions)
+ 3. Zelensky says Musk-owned satellite system still restricted in Ukraine · [https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump](https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump)
+ 4. Perspective: Midterm money madness · [https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness](https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness)
+ 5. Fraud, affordability and Trump policies drive friction in Minnesota Senate debate · [https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race](https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race)
+ 6. Dozens of critically endangered orangutans rescued from Indonesian wildfires · [https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires](https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires)
+ 7. Decades after apartheid, South Africans seek justice for crimes of the past · [https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid](https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid)
+ 8. Week in Politics: Trump's Russian diesel deal update; why the DOJ is suing California · [https://www.npr.org/2026/10/17/nx-s1-5998079/week-in-politics-trumps-russian-diesel-deal-update-why-the-doj-is-suing-california](https://www.npr.org/2026/10/17/nx-s1-5998079/week-in-politics-trumps-russian-diesel-deal-update-why-the-doj-is-suing-california)
+ 9. A welcome recovery milestone for Pope Leo after cancer surgery · [https://www.axios.com/2026/10/17/pope-leo-xiv-lung-cancer-treatment-hospital-discharge](https://www.axios.com/2026/10/17/pope-leo-xiv-lung-cancer-treatment-hospital-discharge)
+10. Trump ratchets up the chaos in an October barrage · [https://www.axios.com/2026/10/17/trump-october-midterms-controversy](https://www.axios.com/2026/10/17/trump-october-midterms-controversy)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -92,12 +92,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **custo** | Custo de vida nos EUA versus Brasil | O custo de vida nos EUA está em alta devido a mudanças econômicas, como inflação e aumento de preços em várias categoria |
-| 2 🟠 🎬 | **dólar** | Impacto da variação do dólar na vida dos imigrantes | O dólar está operando de forma estável, mas as flutuações afetaram diretamente o poder de compra e a remessa de dinheiro |
-| 3 🟡 🎬 | **renda** | Oportunidades de renda extra nos EUA | Com o aumento do custo de vida, muitos estão buscando maneiras de aumentar sua renda. A busca por alternativas de renda  |
-| 4 🟡 🎬 | **trabalho** | O futuro do trabalho: home office e empregos nos EUA | O modelo de trabalho remoto continua em alta, com muitas empresas adotando essa prática permanentemente, o que altera o  |
-| 5 🟡 🎬 | **inflation** | Como a inflação nos EUA afeta a vida dos imigrantes | A inflação nos EUA está em alta, impactando o custo de vida e a capacidade de compra da população, gerando preocupações  |
-| 6 🟡 🎯 | **tecnologia** | Novidades do ChatGPT e como usar IA no dia a dia | O ChatGPT atualizou seus recursos, permitindo uma interação mais eficiente e prática. O uso de IA está crescendo tanto n |
-| 7 🟡 🎬 | **comunidade** | Debate sobre o impacto da imigração nas eleições americanas | As eleições nos EUA estão se aproximando e a imigração é um tema central nas discussões políticas, especialmente em rela |
-| 8 🟡 🎬 | **viagem** | Custo de viajar para NY: o que considerar | Com o aumento do custo de vida e a inflação, os preços de viagens estão mudando, tornando as viagens mais caras e exigin |
-| 9 🟡 🎬 | **direito & legal** | Mudanças nas leis de imigração e seus impactos | Com a proximidade das eleições, as leis de imigração estão em discussão, o que pode afetar muitos imigrantes nos EUA. |
+| 1 🟠 🎬 | **custo de vida** | como o custo de vida nos EUA afeta imigrantes brasileiros | O custo de vida nos EUA está em alta devido à inflação e aumento nos preços de bens essenciais, afetando a forma como mu |
+| 2 🟠 🎬 | **viagens** | quanto custa viajar para os EUA | Com o aumento do interesse em turismo para os EUA, muitos brasileiros estão buscando informações sobre custos de viagem. |
+| 3 🟡 🎯 | **inteligência artificial** | como usar inteligência artificial para ganhar dinheiro | A popularidade da inteligência artificial está crescendo, e muitos buscam maneiras de monetizar suas habilidades com ess |
+| 4 🟡 🎬 | **negócios** | como abrir uma empresa nos EUA | Muitos brasileiros estão empreendendo nos EUA e buscando informações sobre como estabelecer suas empresas legalmente. |
+| 5 🟡 🎬 | **saúde** | como funciona o sistema de saúde nos EUA para imigrantes | Com a recente discussão sobre saúde e bem-estar nos EUA, muitos imigrantes brasileiros estão preocupados com o acesso a  |
+| 6 🟡 🎯 | **direito & legal** | como funciona o visto para trabalhar nos EUA | O aumento das discussões sobre imigração e trabalho nos EUA tem gerado um interesse maior por informação sobre vistos. |
+| 7 🟡 🎬 | **economia** | impacto da inflação nos salários nos EUA | A inflação continua a ser um tema relevante, afetando diretamente a renda dos trabalhadores nos EUA, incluindo imigrante |
+| 8 🟡 ⚡ | **entretenimento** | tendências de humor entre brasileiros nos EUA | Com o crescimento da comunidade brasileira, novas tendências de humor estão surgindo, especialmente nas redes sociais. |
+| 9 🟢 🎯 | **tecnologia** | gadgets essenciais para brasileiros nos EUA | Os novos gadgets estão sempre em alta, especialmente com o lançamento de novos produtos tecnológicos. |

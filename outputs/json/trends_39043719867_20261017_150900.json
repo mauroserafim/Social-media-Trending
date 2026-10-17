@@ -1,0 +1,952 @@
+{
+  "generated_at": "2026-10-17T15:09:00.701495",
+  "run_id": "39043719867",
+  "summary": {
+    "total_br": 30,
+    "total_us": 22,
+    "br_us_connections": 10,
+    "cross_platform_topics": 15,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "Olivia Rodrigo - expectations (feat. Chappell Roan) (Official Music Video)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=gsZauX8gwxo",
+          "score": 30.33,
+          "region": "BR",
+          "views": 8532912
+        },
+        {
+          "title": "George Henrique e Rodrigo, @zncoficial  - UMA GALERA CHORA (Uma Nova História Vol.2 - Ao Vivo)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=uhyaN3s5OWk",
+          "score": 4.49,
+          "region": "BR",
+          "views": 900038
+        },
+        {
+          "title": "Heitor & Henrique, @MuriloHuff - Réveillon  [Passo a Passo]",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=rGKBBy6v2Z4",
+          "score": 4.06,
+          "region": "BR",
+          "views": 789338
+        },
+        {
+          "title": "LAST TRAILER | BLEACH: Thousand-Year Blood War Final Part - The Calamity | VIZ",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=ymA80fp-UnE",
+          "score": 3.55,
+          "region": "BR",
+          "views": 706449
+        },
+        {
+          "title": "Hugo e Guilherme, Zé Vaqueiro - Flash (Minha Mente)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=akkCnFdhPWo",
+          "score": 3.09,
+          "region": "BR",
+          "views": 601326
+        },
+        {
+          "title": "The Chosen: Temporada 6 | Trailer Oficial Dublado",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=cF7OAYCi3hY",
+          "score": 1.8,
+          "region": "BR",
+          "views": 593460
+        },
+        {
+          "title": "The Cranberries — Zombie (Sub. Español & Lyrics)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=CODQ_Wz2KRQ",
+          "score": 1.03,
+          "region": "BR",
+          "views": 308968
+        },
+        {
+          "title": "RETURN (Piggy: Season 9 Part II Teaser Trailer)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Eq1WkD3gyiY",
+          "score": 0.93,
+          "region": "BR",
+          "views": 169012
+        },
+        {
+          "title": "Trailer de \"O Exorcista Mártires\" | Análise e Expectativas para o Filme",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=uExY72Js2jI",
+          "score": 0.8,
+          "region": "BR",
+          "views": 155515
+        },
+        {
+          "title": "TIC TAC CORAÇÃO FAZ TUM TUM - Rey Vaqueiro (Rey Vaqueiro Ao Vivo em Belém do Pará)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=VgmuMclzb7o",
+          "score": 0.53,
+          "region": "BR",
+          "views": 156448
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Zelenski pede apoio a novas sanções dos EUA contra a Rússia após suspensão de Trump",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/zelenski-pede-apoio-a-novas-sancoes-dos-eua-contra-a-russia-apos-suspensao-de-trump/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Joao Fonseca fala em priorizar saúde e só retorna ao circuito em 2027",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/joao-fonseca-fala-em-priorizar-saude-e-so-retorna-ao-circuito-em-2027/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Pesquisa Ipespe: Flávio tem 51,2% e Lula 48,8%; vantagem de senador cai 3 pontos",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/pesquisa-ipespe-flavio-tem-512-e-lula-488-vantagem-de-senador-cai-3-pontos/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "iPhones ficam à deriva no Estreito de Ormuz após navio ser atingido por mina",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/iphones-ficam-a-deriva-no-estreito-de-ormuz-apos-navio-ser-atingido-por-mina/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Polícia usa gás lacrimogêneo e entra em confronto com manifestantes em protestos contra o custo de vida na França",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/17/policia-usa-gas-lacrimogeneo-e-entra-em-confronto-com-manifestantes-em-protestos-contra-o-custo-de-vida-na-franca.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Papa Leão XIV recebe alta após cirurgia para tratar câncer de pulmão",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/17/papa-leao-xiv-alta.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Magalu, Smart Fit e Raia: as apostas do UBS BB após rali de 20% no varejo com eleições",
+          "source": "news:Exame",
+          "url": "https://exame.com/invest/mercados/magalu-smart-fit-e-raia-as-apostas-do-ubs-bb-apos-rali-de-20-no-varejo-com-eleicoes/",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "7 destinos para viajar atrás de arte longe do circuito óbvio",
+          "source": "news:Exame",
+          "url": "https://exame.com/casual/7-destinos-para-viajar-atras-de-arte-longe-do-circuito-obvio/",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Pesquisa que mais acertou no 1º turno mostra Flávio Bolsonaro com 51,1% e Lula, 48,9%, no 2º",
+          "source": "news:Exame",
+          "url": "https://exame.com/brasil/pesquisa-que-mais-acertou-no-1o-turno-mostra-flavio-bolsonaro-com-511-e-lula-489-no-2o/",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Pesquisa para presidente: Flávio tem 48% e Lula, 46%, aponta Ipespe",
+          "source": "news:Exame",
+          "url": "https://exame.com/brasil/pesquisa-para-presidente-flavio-tem-48-e-lula-46-aponta-ipespe/",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "RAMAYANA: RISE OF A LEGEND - NEW TRAILER",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=AYkPRN874m8",
+          "score": 34.46,
+          "region": "US",
+          "views": 11353267
+        },
+        {
+          "title": "Five Nights at Frickbear's: Four Layers Down Trailer",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=n0ytZxeWOx4",
+          "score": 0.66,
+          "region": "US",
+          "views": 128673
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump waives new Russia sanctions in the \"national interests\"",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/17/trump-russia-sanctions",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Perspective: Midterm money madness",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Dozens of critically endangered orangutans rescued from Indonesian wildfires",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Week in Politics: Trump's Russian diesel deal update; why the DOJ is suing California",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/10/17/nx-s1-5998079/week-in-politics-trumps-russian-diesel-deal-update-why-the-doj-is-suing-california",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "A welcome recovery milestone for Pope Leo after cancer surgery",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/17/pope-leo-xiv-lung-cancer-treatment-hospital-discharge",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump ratchets up the chaos in an October barrage",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/17/trump-october-midterms-controversy",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 15,
+      "score": 76.67,
+      "sample_titles": [
+        "'Superinteligência'? Por que Trump insiste em tentar mudar o termo 'IA', usado há 70 anos",
+        "Trump suspende tarifas contra a Rússia e grandes compradores de petróleo e gás russos",
+        "Zelenski pede apoio a novas sanções dos EUA contra a Rússia após suspensão de Trump",
+        "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+        "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate"
+      ]
+    },
+    {
+      "topic": "trailer",
+      "count": 9,
+      "score": 7.29,
+      "sample_titles": [
+        "Trailer de \"O Exorcista Mártires\" | Análise e Expectativas para o Filme",
+        "RAMAYANA: O NASCIMENTO DE UMA LENDA Trailer Dublado Oficial (2026)",
+        "O TRAILER DE NÁRNIA QUER TE ENGANAR",
+        "Five Nights at Frickbear's: Four Layers Down Trailer",
+        "RAMAYANA: RISE OF A LEGEND - NEW TRAILER"
+      ]
+    },
+    {
+      "topic": "starlink",
+      "count": 2,
+      "score": 70.0,
+      "sample_titles": [
+        "Starlink tem uma 'irmã militar' controlada pelos EUA; entenda o que é a Starshield",
+        "Live updates: Trump-Zelensky relationship rocky over Russia sanctions, Starlink; Obama campaigns in Michigan, Ohio"
+      ]
+    },
+    {
+      "topic": "video",
+      "count": 2,
+      "score": 25.16,
+      "sample_titles": [
+        "Olivia Rodrigo - expectations (feat. Chappell Roan) (Official Music Video)",
+        "VIDEO: The skincare sample is free. What happens next can cost thousands"
+      ]
+    },
+    {
+      "topic": "ramayana",
+      "count": 2,
+      "score": 17.39,
+      "sample_titles": [
+        "RAMAYANA: O NASCIMENTO DE UMA LENDA Trailer Dublado Oficial (2026)",
+        "RAMAYANA: RISE OF A LEGEND - NEW TRAILER"
+      ]
+    },
+    {
+      "topic": "politico",
+      "count": 2,
+      "score": 10.04,
+      "sample_titles": [
+        "Flavio Bolsonaro (Minha MÃE É BOLSONARO) Jingle Politico 2026",
+        "CNN, MS NOW and Politico prevail against White House — for now"
+      ]
+    },
+    {
+      "topic": "online",
+      "count": 2,
+      "score": 10.0,
+      "sample_titles": [
+        "como ganhar dinheiro online",
+        "how to learn online"
+      ]
+    },
+    {
+      "topic": "frickbear",
+      "count": 2,
+      "score": 0.45,
+      "sample_titles": [
+        "NOVO TRAILER do FNAF Frickbear's 3 Four Layers Down",
+        "Five Nights at Frickbear's: Four Layers Down Trailer"
+      ]
+    },
+    {
+      "topic": "layers down",
+      "count": 2,
+      "score": 0.45,
+      "sample_titles": [
+        "NOVO TRAILER do FNAF Frickbear's 3 Four Layers Down",
+        "Five Nights at Frickbear's: Four Layers Down Trailer"
+      ]
+    },
+    {
+      "topic": "frickbear four",
+      "count": 2,
+      "score": 0.45,
+      "sample_titles": [
+        "NOVO TRAILER do FNAF Frickbear's 3 Four Layers Down",
+        "Five Nights at Frickbear's: Four Layers Down Trailer"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "saúde",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "Joao Fonseca fala em priorizar saúde e só retorna ao circuito em 2027",
+        "saúde nos EUA"
+      ]
+    },
+    {
+      "topic": "custo",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Polícia usa gás lacrimogêneo e entra em confronto com manifestantes em protestos contra o custo de vida na França",
+        "custo de vida EUA"
+      ]
+    },
+    {
+      "topic": "custo vida",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Polícia usa gás lacrimogêneo e entra em confronto com manifestantes em protestos contra o custo de vida na França",
+        "custo de vida EUA"
+      ]
+    },
+    {
+      "topic": "viajar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "7 destinos para viajar atrás de arte longe do circuito óbvio",
+        "quanto custa viajar para os EUA"
+      ]
+    },
+    {
+      "topic": "brasil",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 42.63,
+      "sample_titles": [
+        "Alemão do Forró, Nando Moreno - PEÃO CIUMENTO | Alemão do Brasil",
+        "Depois dos carros, a carne: como a China avança sobre clientes do Brasil com frango até 20% mais barato",
+        "Exclusivo: OKX pede licença cripto ao Banco Central no Brasil",
+        "Uruguai teme isolamento com mudança política no Brasil"
+      ]
+    },
+    {
+      "topic": "ganhar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Volkswagen Tera ganha motor mais forte e novo câmbio, mas vai ganhar dos chineses? O g1 testou",
+        "como ganhar dinheiro online"
+      ]
+    },
+    {
+      "topic": "grandes",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.14,
+      "sample_titles": [
+        "AMADO BATISTA – AS 20 MELHORES 🎶 SÓ AS ANTIGAS | GRANDES SUCESSOS ROMÂNTICOS",
+        "Trump suspende tarifas contra a Rússia e grandes compradores de petróleo e gás russos"
+      ]
+    },
+    {
+      "topic": "acabou",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.14,
+      "sample_titles": [
+        "Eduardo Costa – Acabou o Amor (Ao Vivo) | Eduardo Costa do Velho Testamento",
+        "Escala 6x1 acabou. E agora? Veja perguntas e respostas para entender tudo sobre mudança"
+      ]
+    },
+    {
+      "topic": "tomar",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.04,
+      "sample_titles": [
+        "HEITOR SANTOS - PRA TOMAR UMA E CURTIR - CD NOVO DE OUTUBRO COM SÓ AS MELHORES",
+        "Uma geração em protesto: 'gen Z' usa redes sociais para tomar as ruas ao redor do mundo"
+      ]
+    },
+    {
+      "topic": "bolsonaro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 26.72,
+      "sample_titles": [
+        "Flavio Bolsonaro (Minha MÃE É BOLSONARO) Jingle Politico 2026",
+        "FORA PT AQUI NÃO É TEU LUGAR 🔥 BOLSONARO 2026 🇧🇷 SOLINHO FORA PT | QUEM FICAR PARADO É PETISTA",
+        "Pesquisa que mais acertou no 1º turno mostra Flávio Bolsonaro com 51,1% e Lula, 48,9%, no 2º"
+      ]
+    },
+    {
+      "topic": "inteligência",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 26.67,
+      "sample_titles": [
+        "Coreia do Norte testa torpedo que usa inteligência artificial para detectar alvos",
+        "inteligência artificial 2025",
+        "como usar inteligência artificial"
+      ]
+    },
+    {
+      "topic": "inteligência artificial",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 26.67,
+      "sample_titles": [
+        "Coreia do Norte testa torpedo que usa inteligência artificial para detectar alvos",
+        "inteligência artificial 2025",
+        "como usar inteligência artificial"
+      ]
+    },
+    {
+      "topic": "artificial",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 26.67,
+      "sample_titles": [
+        "Coreia do Norte testa torpedo que usa inteligência artificial para detectar alvos",
+        "inteligência artificial 2025",
+        "como usar inteligência artificial"
+      ]
+    },
+    {
+      "topic": "video",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 25.16,
+      "sample_titles": [
+        "Olivia Rodrigo - expectations (feat. Chappell Roan) (Official Music Video)",
+        "VIDEO: The skincare sample is free. What happens next can cost thousands"
+      ]
+    },
+    {
+      "topic": "oficial",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 15.58,
+      "sample_titles": [
+        "BODY SPLASH - Netto Brito | Ilha do Arrocha (Ao Vivo em São Luís/MA) - OFICIAL",
+        "RAMAYANA: O NASCIMENTO DE UMA LENDA Trailer Dublado Oficial (2026)",
+        "The Chosen: Temporada 6 | Trailer Oficial Dublado",
+        "Fim da escala 6x1 é oficializado no Diário Oficial; quando entra em vigor? Veja datas"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "custo de vida",
+      "subtopic": "como o custo de vida nos EUA afeta imigrantes brasileiros",
+      "why_trending": "O custo de vida nos EUA está em alta devido à inflação e aumento nos preços de bens essenciais, afetando a forma como muitos imigrantes gerenciam suas finanças.",
+      "niche_angle": "Explorar como os brasileiros nos EUA podem se adaptar a esse cenário, incluindo dicas de economia e planejamento financeiro.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 7,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/10/17/policia-usa-gas-lacrimogeneo-e-entra-em-confronto-com-manifestantes-em-protestos-contra-o-custo-de-vida-na-franca.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-17T15:09:00.699209"
+    },
+    {
+      "main_topic": "viagens",
+      "subtopic": "quanto custa viajar para os EUA",
+      "why_trending": "Com o aumento do interesse em turismo para os EUA, muitos brasileiros estão buscando informações sobre custos de viagem.",
+      "niche_angle": "Apresentar um guia prático sobre custos, incluindo passagens, hospedagem e alimentação para brasileiros planejando visitar ou imigrar para os EUA.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "news",
+      "region": "BR",
+      "links": [
+        "https://exame.com/casual/7-destinos-para-viajar-atras-de-arte-longe-do-circuito-obvio/"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-17T15:09:00.699218"
+    },
+    {
+      "main_topic": "inteligência artificial",
+      "subtopic": "como usar inteligência artificial para ganhar dinheiro",
+      "why_trending": "A popularidade da inteligência artificial está crescendo, e muitos buscam maneiras de monetizar suas habilidades com essas tecnologias.",
+      "niche_angle": "Mostrar como brasileiros nos EUA podem utilizar ferramentas de IA para aumentar sua renda, seja através de freelancing ou startups.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 8,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-17T15:09:00.699223"
+    },
+    {
+      "main_topic": "negócios",
+      "subtopic": "como abrir uma empresa nos EUA",
+      "why_trending": "Muitos brasileiros estão empreendendo nos EUA e buscando informações sobre como estabelecer suas empresas legalmente.",
+      "niche_angle": "Oferecer um passo a passo prático para brasileiros que desejam abrir um negócio nos EUA, abordando questões legais e financeiras.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/business/tinha-um-espetinho-no-meio-do-caminho/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-17T15:09:00.699227"
+    },
+    {
+      "main_topic": "saúde",
+      "subtopic": "como funciona o sistema de saúde nos EUA para imigrantes",
+      "why_trending": "Com a recente discussão sobre saúde e bem-estar nos EUA, muitos imigrantes brasileiros estão preocupados com o acesso a cuidados médicos.",
+      "niche_angle": "Explorar os desafios e soluções que brasileiros enfrentam ao acessar o sistema de saúde nos EUA, incluindo dicas de seguros e cuidados médicos.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/esportes/joao-fonseca-fala-em-priorizar-saude-e-so-retorna-ao-circuito-em-2027/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-17T15:09:00.699230"
+    },
+    {
+      "main_topic": "direito & legal",
+      "subtopic": "como funciona o visto para trabalhar nos EUA",
+      "why_trending": "O aumento das discussões sobre imigração e trabalho nos EUA tem gerado um interesse maior por informação sobre vistos.",
+      "niche_angle": "Explicar o processo de obtenção de vistos de trabalho, incluindo dicas para brasileiros que desejam se estabelecer nos EUA.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://thehill.com/policy/international/6155800-zelensky-condemns-trump-russia-sanctions-waiver/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-17T15:09:00.699234"
+    },
+    {
+      "main_topic": "economia",
+      "subtopic": "impacto da inflação nos salários nos EUA",
+      "why_trending": "A inflação continua a ser um tema relevante, afetando diretamente a renda dos trabalhadores nos EUA, incluindo imigrantes.",
+      "niche_angle": "Analisar como a inflação está impactando os salários e o custo de vida dos brasileiros nos EUA e o que pode ser feito para se adaptar.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-17T15:09:00.699238"
+    },
+    {
+      "main_topic": "entretenimento",
+      "subtopic": "tendências de humor entre brasileiros nos EUA",
+      "why_trending": "Com o crescimento da comunidade brasileira, novas tendências de humor estão surgindo, especialmente nas redes sociais.",
+      "niche_angle": "Mostrar como o humor brasileiro se adapta e evolui nos EUA, incluindo memes e referências culturais.",
+      "video_format": "short",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia"
+      ],
+      "platforms": [
+        "youtube",
+        "tiktok"
+      ],
+      "collected_at": "2026-10-17T15:09:00.699245"
+    },
+    {
+      "main_topic": "tecnologia",
+      "subtopic": "gadgets essenciais para brasileiros nos EUA",
+      "why_trending": "Os novos gadgets estão sempre em alta, especialmente com o lançamento de novos produtos tecnológicos.",
+      "niche_angle": "Listar gadgets que facilitam a vida dos imigrantes brasileiros, incluindo tecnologias que ajudam na adaptação ao novo país.",
+      "video_format": "both",
+      "urgency": "low",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://exame.com/tecnologia/iphone-duo-pre-venda-entrega-janeiro-2027/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-17T15:09:00.699249"
+    }
+  ]
+}
