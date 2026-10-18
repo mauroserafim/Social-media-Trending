@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 17/10/2026 15:09 UTC
+# 📊 Tendências em Alta — 18/10/2026 15:31 UTC
 
-**Run:** `39043719867` | **BR:** 30 trends | **US:** 22 trends | **Nicho:** 9 ideias
+**Run:** `39140812558` | **BR:** 30 trends | **US:** 21 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. Olivia Rodrigo - expectations (feat. Chappell Roan) (Official Music Video) · [https://youtube.com/watch?v=gsZauX8gwxo](https://youtube.com/watch?v=gsZauX8gwxo)
+ 1. João Neto e Frederico, Mariana Fagundes - Vou Ficar Devendo (Desce Mais Uma 2) · [https://youtube.com/watch?v=DJ1k8n_yOT8](https://youtube.com/watch?v=DJ1k8n_yOT8)
  2. George Henrique e Rodrigo, @zncoficial  - UMA GALERA CHORA (Uma Nova História Vol.2 - Ao Vivo) · [https://youtube.com/watch?v=uhyaN3s5OWk](https://youtube.com/watch?v=uhyaN3s5OWk)
- 3. Heitor & Henrique, @MuriloHuff - Réveillon  [Passo a Passo] · [https://youtube.com/watch?v=rGKBBy6v2Z4](https://youtube.com/watch?v=rGKBBy6v2Z4)
- 4. LAST TRAILER | BLEACH: Thousand-Year Blood War Final Part - The Calamity | VIZ · [https://youtube.com/watch?v=ymA80fp-UnE](https://youtube.com/watch?v=ymA80fp-UnE)
- 5. Hugo e Guilherme, Zé Vaqueiro - Flash (Minha Mente) · [https://youtube.com/watch?v=akkCnFdhPWo](https://youtube.com/watch?v=akkCnFdhPWo)
- 6. The Chosen: Temporada 6 | Trailer Oficial Dublado · [https://youtube.com/watch?v=cF7OAYCi3hY](https://youtube.com/watch?v=cF7OAYCi3hY)
- 7. The Cranberries — Zombie (Sub. Español & Lyrics) · [https://youtube.com/watch?v=CODQ_Wz2KRQ](https://youtube.com/watch?v=CODQ_Wz2KRQ)
- 8. RETURN (Piggy: Season 9 Part II Teaser Trailer) · [https://youtube.com/watch?v=Eq1WkD3gyiY](https://youtube.com/watch?v=Eq1WkD3gyiY)
- 9. Trailer de "O Exorcista Mártires" | Análise e Expectativas para o Filme · [https://youtube.com/watch?v=uExY72Js2jI](https://youtube.com/watch?v=uExY72Js2jI)
-10. TIC TAC CORAÇÃO FAZ TUM TUM - Rey Vaqueiro (Rey Vaqueiro Ao Vivo em Belém do Pará) · [https://youtube.com/watch?v=VgmuMclzb7o](https://youtube.com/watch?v=VgmuMclzb7o)
+ 3. Hugo e Guilherme, Zé Vaqueiro - Flash (Minha Mente) · [https://youtube.com/watch?v=akkCnFdhPWo](https://youtube.com/watch?v=akkCnFdhPWo)
+ 4. M4rkim - PRESIDENTE (Funny Valentine) · [https://youtube.com/watch?v=OSuMYKKuyNQ](https://youtube.com/watch?v=OSuMYKKuyNQ)
+ 5. CONSEGUIMOS FALAR COM A TIA DO CLÓVIS! My Child Lebensborn #3 · [https://youtube.com/watch?v=LvwQUo9vkjs](https://youtube.com/watch?v=LvwQUo9vkjs)
+ 6. ThunderCats: The Warbot (1985) | Cinematic 4K AI Short Film · [https://youtube.com/watch?v=JP_2pQl149s](https://youtube.com/watch?v=JP_2pQl149s)
+ 7. Trailer de "O Exorcista Mártires" | Análise e Expectativas para o Filme · [https://youtube.com/watch?v=uExY72Js2jI](https://youtube.com/watch?v=uExY72Js2jI)
+ 8. Flavio Bolsonaro (Minha MÃE É BOLSONARO) Jingle Politico 2026 · [https://youtube.com/watch?v=W1_y2xTExwA](https://youtube.com/watch?v=W1_y2xTExwA)
+ 9. MC Meno K & Oruam - Eu e Meu AK (Prod. Fepache & Elow) - Visualizer · [https://youtube.com/watch?v=kir1r2hZEyY](https://youtube.com/watch?v=kir1r2hZEyY)
+10. COMEDINHA FICOU BRAVO 2 - MC Negão Original e MC Meno K (Videoclipe Oficial) DJ Japa Nk · [https://youtube.com/watch?v=stXznc_exq8](https://youtube.com/watch?v=stXznc_exq8)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Zelenski pede apoio a novas sanções dos EUA contra a Rússia após suspensão de Trump · [https://www.infomoney.com.br/mundo/zelenski-pede-apoio-a-novas-sancoes-dos-eua-contra-a-russia-apos-suspensao-de-trump/](https://www.infomoney.com.br/mundo/zelenski-pede-apoio-a-novas-sancoes-dos-eua-contra-a-russia-apos-suspensao-de-trump/)
- 2. Joao Fonseca fala em priorizar saúde e só retorna ao circuito em 2027 · [https://www.infomoney.com.br/esportes/joao-fonseca-fala-em-priorizar-saude-e-so-retorna-ao-circuito-em-2027/](https://www.infomoney.com.br/esportes/joao-fonseca-fala-em-priorizar-saude-e-so-retorna-ao-circuito-em-2027/)
- 3. Pesquisa Ipespe: Flávio tem 51,2% e Lula 48,8%; vantagem de senador cai 3 pontos · [https://www.infomoney.com.br/politica/pesquisa-ipespe-flavio-tem-512-e-lula-488-vantagem-de-senador-cai-3-pontos/](https://www.infomoney.com.br/politica/pesquisa-ipespe-flavio-tem-512-e-lula-488-vantagem-de-senador-cai-3-pontos/)
- 4. iPhones ficam à deriva no Estreito de Ormuz após navio ser atingido por mina · [https://www.infomoney.com.br/mundo/iphones-ficam-a-deriva-no-estreito-de-ormuz-apos-navio-ser-atingido-por-mina/](https://www.infomoney.com.br/mundo/iphones-ficam-a-deriva-no-estreito-de-ormuz-apos-navio-ser-atingido-por-mina/)
- 5. Polícia usa gás lacrimogêneo e entra em confronto com manifestantes em protestos contra o custo de vida na França · [https://g1.globo.com/mundo/noticia/2026/10/17/policia-usa-gas-lacrimogeneo-e-entra-em-confronto-com-manifestantes-em-protestos-contra-o-custo-de-vida-na-franca.ghtml](https://g1.globo.com/mundo/noticia/2026/10/17/policia-usa-gas-lacrimogeneo-e-entra-em-confronto-com-manifestantes-em-protestos-contra-o-custo-de-vida-na-franca.ghtml)
- 6. Papa Leão XIV recebe alta após cirurgia para tratar câncer de pulmão · [https://g1.globo.com/mundo/noticia/2026/10/17/papa-leao-xiv-alta.ghtml](https://g1.globo.com/mundo/noticia/2026/10/17/papa-leao-xiv-alta.ghtml)
- 7. Magalu, Smart Fit e Raia: as apostas do UBS BB após rali de 20% no varejo com eleições · [https://exame.com/invest/mercados/magalu-smart-fit-e-raia-as-apostas-do-ubs-bb-apos-rali-de-20-no-varejo-com-eleicoes/](https://exame.com/invest/mercados/magalu-smart-fit-e-raia-as-apostas-do-ubs-bb-apos-rali-de-20-no-varejo-com-eleicoes/)
- 8. 7 destinos para viajar atrás de arte longe do circuito óbvio · [https://exame.com/casual/7-destinos-para-viajar-atras-de-arte-longe-do-circuito-obvio/](https://exame.com/casual/7-destinos-para-viajar-atras-de-arte-longe-do-circuito-obvio/)
- 9. Pesquisa que mais acertou no 1º turno mostra Flávio Bolsonaro com 51,1% e Lula, 48,9%, no 2º · [https://exame.com/brasil/pesquisa-que-mais-acertou-no-1o-turno-mostra-flavio-bolsonaro-com-511-e-lula-489-no-2o/](https://exame.com/brasil/pesquisa-que-mais-acertou-no-1o-turno-mostra-flavio-bolsonaro-com-511-e-lula-489-no-2o/)
-10. Pesquisa para presidente: Flávio tem 48% e Lula, 46%, aponta Ipespe · [https://exame.com/brasil/pesquisa-para-presidente-flavio-tem-48-e-lula-46-aponta-ipespe/](https://exame.com/brasil/pesquisa-para-presidente-flavio-tem-48-e-lula-46-aponta-ipespe/)
+ 1. Sem ganhador, Mega-Sena acumula e vai a R$ 185 mi; veja quando é o próximo sorteio · [https://www.infomoney.com.br/consumo/sem-ganhador-mega-sena-acumula-e-vai-a-r-185-mi-veja-quando-e-o-proximo-sorteio/](https://www.infomoney.com.br/consumo/sem-ganhador-mega-sena-acumula-e-vai-a-r-185-mi-veja-quando-e-o-proximo-sorteio/)
+ 2. Prêmio de R$ 171 milhões da Mega-Sena renderia até R$ 1,8 milhão por mês; simule · [https://www.infomoney.com.br/onde-investir/mega-sena-concurso-3071-quanto-rende-por-mes-simulacao/](https://www.infomoney.com.br/onde-investir/mega-sena-concurso-3071-quanto-rende-por-mes-simulacao/)
+ 3. Ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel · [https://www.infomoney.com.br/politica/ato-de-flavio-na-paulista-pede-que-apoiadores-escondam-bandeiras-de-eua-e-israel/](https://www.infomoney.com.br/politica/ato-de-flavio-na-paulista-pede-que-apoiadores-escondam-bandeiras-de-eua-e-israel/)
+ 4. Após a euforia eleitoral, mercados da América Latina enfrentam a realidade · [https://www.infomoney.com.br/onde-investir/apos-a-euforia-eleitoral-mercados-da-america-latina-enfrentam-a-realidade/](https://www.infomoney.com.br/onde-investir/apos-a-euforia-eleitoral-mercados-da-america-latina-enfrentam-a-realidade/)
+ 5. Mega-Sena acumula e próximo concurso pode pagar até R$ 185 milhões; confira os números sorteados · [https://g1.globo.com/loterias/mega-sena/noticia/2026/10/18/mega-sena-concurso-3072-confira-os-numeros-sorteados.ghtml](https://g1.globo.com/loterias/mega-sena/noticia/2026/10/18/mega-sena-concurso-3072-confira-os-numeros-sorteados.ghtml)
+ 6. Ucrânia volta a receber dados dos EUA para barrar mísseis russos, diz Zelensky · [https://g1.globo.com/mundo/noticia/2026/10/18/ucrania-volta-a-receber-dados-dos-eua-para-barrar-misseis-russos-diz-zelensky.ghtml](https://g1.globo.com/mundo/noticia/2026/10/18/ucrania-volta-a-receber-dados-dos-eua-para-barrar-misseis-russos-diz-zelensky.ghtml)
+ 7. Militar da Força Aérea dos EUA morre após cair de rapel em jogo de futebol americano no Texas · [https://g1.globo.com/mundo/noticia/2026/10/18/militar-da-forca-aerea-dos-eua-morre-apos-cair-de-rapel-em-jogo-de-futebol-americano-no-texas.ghtml](https://g1.globo.com/mundo/noticia/2026/10/18/militar-da-forca-aerea-dos-eua-morre-apos-cair-de-rapel-em-jogo-de-futebol-americano-no-texas.ghtml)
+ 8. Trump diz que a França 'está em chamas' e 'destruída' pela imigração · [https://g1.globo.com/mundo/noticia/2026/10/18/trump-diz-que-a-franca-esta-em-chamas-e-destruida-pela-imigracao.ghtml](https://g1.globo.com/mundo/noticia/2026/10/18/trump-diz-que-a-franca-esta-em-chamas-e-destruida-pela-imigracao.ghtml)
+ 9. Veja VÍDEO do momento que torre de prefeitura na França desaba durante incêndio causado em protestos · [https://g1.globo.com/mundo/noticia/2026/10/18/veja-video-do-momento-que-torre-de-prefeitura-na-franca-desaba-durante-incendio-causado-em-protestos.ghtml](https://g1.globo.com/mundo/noticia/2026/10/18/veja-video-do-momento-que-torre-de-prefeitura-na-franca-desaba-durante-incendio-causado-em-protestos.ghtml)
+10. Iate com piscina de 50 metros e toboáguas: imagens de satélite revelam o centro de lazer secreto de Kim Jong Un · [https://g1.globo.com/mundo/noticia/2026/10/18/iate-com-piscina-de-50-metros-e-toboaguas-imagens-de-satelite-revelam-o-centro-de-lazer-secreto-de-kim-jong-un.ghtml](https://g1.globo.com/mundo/noticia/2026/10/18/iate-com-piscina-de-50-metros-e-toboaguas-imagens-de-satelite-revelam-o-centro-de-lazer-secreto-de-kim-jong-un.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,23 +54,22 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 2
+#### 📺 YouTube (US) — Top 1
 
- 1. RAMAYANA: RISE OF A LEGEND - NEW TRAILER · [https://youtube.com/watch?v=AYkPRN874m8](https://youtube.com/watch?v=AYkPRN874m8)
- 2. Five Nights at Frickbear's: Four Layers Down Trailer · [https://youtube.com/watch?v=n0ytZxeWOx4](https://youtube.com/watch?v=n0ytZxeWOx4)
+ 1. Aakasamlo Oka Tara - Teaser | Dulquer Salmaan | Satvika | Shruti Haasan |GV Prakash | Pavan Sadineni · [https://youtube.com/watch?v=h3ElWvu31dc](https://youtube.com/watch?v=h3ElWvu31dc)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold · [https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia](https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia)
- 2. Trump waives new Russia sanctions in the "national interests" · [https://www.axios.com/2026/10/17/trump-russia-sanctions](https://www.axios.com/2026/10/17/trump-russia-sanctions)
- 3. Zelensky says Musk-owned satellite system still restricted in Ukraine · [https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump](https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump)
- 4. Perspective: Midterm money madness · [https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness](https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness)
- 5. Fraud, affordability and Trump policies drive friction in Minnesota Senate debate · [https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race](https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race)
- 6. Dozens of critically endangered orangutans rescued from Indonesian wildfires · [https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires](https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires)
- 7. Decades after apartheid, South Africans seek justice for crimes of the past · [https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid](https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid)
- 8. Week in Politics: Trump's Russian diesel deal update; why the DOJ is suing California · [https://www.npr.org/2026/10/17/nx-s1-5998079/week-in-politics-trumps-russian-diesel-deal-update-why-the-doj-is-suing-california](https://www.npr.org/2026/10/17/nx-s1-5998079/week-in-politics-trumps-russian-diesel-deal-update-why-the-doj-is-suing-california)
- 9. A welcome recovery milestone for Pope Leo after cancer surgery · [https://www.axios.com/2026/10/17/pope-leo-xiv-lung-cancer-treatment-hospital-discharge](https://www.axios.com/2026/10/17/pope-leo-xiv-lung-cancer-treatment-hospital-discharge)
-10. Trump ratchets up the chaos in an October barrage · [https://www.axios.com/2026/10/17/trump-october-midterms-controversy](https://www.axios.com/2026/10/17/trump-october-midterms-controversy)
+ 1. Trump endorses Netanyahu 9 days before Israel election · [https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran](https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran)
+ 2. Zelensky speaks to Witkoff, Kushner amid U.S.-Ukraine crisis · [https://www.axios.com/2026/10/18/zelensky-witkoff-kushner-ukraine-russia-crisis](https://www.axios.com/2026/10/18/zelensky-witkoff-kushner-ukraine-russia-crisis)
+ 3. We didn't protect children from social media — we have another chance with AI · [https://thehill.com/opinion/technology/6153897-ai-risks-child-development/](https://thehill.com/opinion/technology/6153897-ai-risks-child-development/)
+ 4. Rogers says he worries about 'optics' of U.S.-Russia diesel deal, US cannot not give Putin 'an inch' · [https://thehill.com/homenews/campaign/6156420-rogers-skeptical-russia-diesel-deal/](https://thehill.com/homenews/campaign/6156420-rogers-skeptical-russia-diesel-deal/)
+ 5. Pope Leo says he will gradually resume duties after cancer surgery · [https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery](https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery)
+ 6. If you have the scratch, they have the scares · [https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares](https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares)
+ 7. Greensboro, NC students protest the absence of early voting sites on campus · [https://www.npr.org/2026/10/18/nx-s1-6006791/greensboro-nc-students-protest-the-absence-of-early-voting-sites-on-campus](https://www.npr.org/2026/10/18/nx-s1-6006791/greensboro-nc-students-protest-the-absence-of-early-voting-sites-on-campus)
+ 8. What role does the White House Press Secretary play in the Trump era? · [https://www.npr.org/2026/10/18/nx-s1-6005279/what-role-does-the-white-house-press-secretary-play-in-the-trump-era](https://www.npr.org/2026/10/18/nx-s1-6005279/what-role-does-the-white-house-press-secretary-play-in-the-trump-era)
+ 9. Politics chat: Zelenskyy on Trump, Democrats bring in the money for midterms · [https://www.npr.org/2026/10/18/nx-s1-6005192/politics-chat-zelenskyy-on-trump-democrats-bring-in-the-money-for-midterms](https://www.npr.org/2026/10/18/nx-s1-6005192/politics-chat-zelenskyy-on-trump-democrats-bring-in-the-money-for-midterms)
+10. Trump suspends federal diesel taxes to help farmers, but states issue warnings · [https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings](https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -92,12 +91,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **custo de vida** | como o custo de vida nos EUA afeta imigrantes brasileiros | O custo de vida nos EUA está em alta devido à inflação e aumento nos preços de bens essenciais, afetando a forma como mu |
-| 2 🟠 🎬 | **viagens** | quanto custa viajar para os EUA | Com o aumento do interesse em turismo para os EUA, muitos brasileiros estão buscando informações sobre custos de viagem. |
-| 3 🟡 🎯 | **inteligência artificial** | como usar inteligência artificial para ganhar dinheiro | A popularidade da inteligência artificial está crescendo, e muitos buscam maneiras de monetizar suas habilidades com ess |
-| 4 🟡 🎬 | **negócios** | como abrir uma empresa nos EUA | Muitos brasileiros estão empreendendo nos EUA e buscando informações sobre como estabelecer suas empresas legalmente. |
-| 5 🟡 🎬 | **saúde** | como funciona o sistema de saúde nos EUA para imigrantes | Com a recente discussão sobre saúde e bem-estar nos EUA, muitos imigrantes brasileiros estão preocupados com o acesso a  |
-| 6 🟡 🎯 | **direito & legal** | como funciona o visto para trabalhar nos EUA | O aumento das discussões sobre imigração e trabalho nos EUA tem gerado um interesse maior por informação sobre vistos. |
-| 7 🟡 🎬 | **economia** | impacto da inflação nos salários nos EUA | A inflação continua a ser um tema relevante, afetando diretamente a renda dos trabalhadores nos EUA, incluindo imigrante |
-| 8 🟡 ⚡ | **entretenimento** | tendências de humor entre brasileiros nos EUA | Com o crescimento da comunidade brasileira, novas tendências de humor estão surgindo, especialmente nas redes sociais. |
-| 9 🟢 🎯 | **tecnologia** | gadgets essenciais para brasileiros nos EUA | Os novos gadgets estão sempre em alta, especialmente com o lançamento de novos produtos tecnológicos. |
+| 1 🟠 🎬 | **imigração** | O impacto da imigração nas políticas americanas | Trump fez declarações recentes sobre imigração que estão gerando debates acalorados nos EUA, especialmente entre os imig |
+| 2 🟠 🎬 | **abrir** | Franquias baratas para brasileiros nos EUA | Recentemente, foram listadas franquias para abrir negócios a partir de R$ 9.500, atraindo atenção em um mercado competit |
+| 3 🟡 🎯 | **renda** | Como aumentar sua renda extra nos EUA | A discussão sobre renda extra está em alta, especialmente com a economia incerta e mais pessoas buscando alternativas de |
+| 4 🟡 🎬 | **economia & mercado** | Impacto da inflação na vida do imigrante | Recentes dados mostram que a inflação está subindo rapidamente, afetando o custo de vida nos EUA. |
+| 5 🟡 ⚡ | **tecnologia** | Golpes com IA: como se proteger | Com o aumento do uso de IA, os golpes também estão se tornando mais sofisticados e comuns. |
+| 6 🟡 ⚡ | **educação** | Dicas para aprender inglês rapidamente | Com a necessidade crescente de fluência em inglês para a integração no mercado de trabalho americano, mais brasileiros b |
+| 7 🟢 🎬 | **lifestyle** | Rotina de um brasileiro vivendo nos EUA | A curiosidade sobre a vida cotidiana nos EUA está crescendo entre brasileiros, tanto os que vivem lá quanto os que plane |
+| 8 🟢 ⚡ | **entretenimento** | Memes sobre a vida nos EUA | Com a popularização dos memes e a cultura de humor, há uma demanda por conteúdo que reflita as experiências dos brasilei |
+| 9 🟢 🎬 | **viagem** | Quanto custa viajar para NY | Os preços de viagens e passagens aéreas estão em alta, e brasileiros estão cada vez mais interessados em planejar viagen |
