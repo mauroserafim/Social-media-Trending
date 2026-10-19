@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-18T15:31:30.428845",
-  "run_id": "39140812558",
+  "generated_at": "2026-10-19T18:27:39.534520",
+  "run_id": "39302557165",
   "summary": {
     "total_br": 30,
-    "total_us": 21,
+    "total_us": 28,
     "br_us_connections": 10,
-    "cross_platform_topics": 10,
-    "niche_ideas": 9
+    "cross_platform_topics": 15,
+    "niche_ideas": 10
   },
   "sections_br": [
     {
@@ -15,84 +15,84 @@
       "label": "YouTube (BR)",
       "trends": [
         {
-          "title": "João Neto e Frederico, Mariana Fagundes - Vou Ficar Devendo (Desce Mais Uma 2)",
+          "title": "IVE 아이브 'Looks Can Kill' MV",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=DJ1k8n_yOT8",
-          "score": 6.77,
+          "url": "https://youtube.com/watch?v=rsNhWkC4neE",
+          "score": 46.21,
           "region": "BR",
-          "views": 2209966
+          "views": 3990634
         },
         {
-          "title": "George Henrique e Rodrigo, @zncoficial  - UMA GALERA CHORA (Uma Nova História Vol.2 - Ao Vivo)",
+          "title": "NMIXX(엔믹스) “긴 소원(Birthday Wish)” M/V",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=uhyaN3s5OWk",
-          "score": 5.78,
+          "url": "https://youtube.com/watch?v=roHWN9fL2SM",
+          "score": 44.83,
           "region": "BR",
-          "views": 1913438
+          "views": 3871670
         },
         {
           "title": "Hugo e Guilherme, Zé Vaqueiro - Flash (Minha Mente)",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=akkCnFdhPWo",
-          "score": 4.55,
+          "score": 5.4,
           "region": "BR",
-          "views": 1487893
+          "views": 2321032
+        },
+        {
+          "title": "Flatbed Truck McQueen Transportation with Truck Pothole vs Car #70   BeamNG Drive",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Ohhxci6cK7I",
+          "score": 2.9,
+          "region": "BR",
+          "views": 213807
+        },
+        {
+          "title": "ALGORITHOMUS INVADIU O GARTICPHONE! 🍉🥝",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=fDBmng_6Yis",
+          "score": 2.43,
+          "region": "BR",
+          "views": 445628
+        },
+        {
+          "title": "A PASSIVA DA AMBESSA CRIOU UM MONSTRO EM FORMA DE BUILD",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=U4ZWhmwcLj8",
+          "score": 1.53,
+          "region": "BR",
+          "views": 50924
         },
         {
           "title": "M4rkim - PRESIDENTE (Funny Valentine)",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=OSuMYKKuyNQ",
-          "score": 1.9,
+          "score": 1.44,
           "region": "BR",
-          "views": 296275
+          "views": 449839
         },
         {
-          "title": "CONSEGUIMOS FALAR COM A TIA DO CLÓVIS! My Child Lebensborn #3",
+          "title": "7 Minutoz - ATÉ O FIM | Billy Bruto (The Boys)",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=LvwQUo9vkjs",
-          "score": 1.8,
+          "url": "https://youtube.com/watch?v=dg5PPCs_8Ls",
+          "score": 1.15,
           "region": "BR",
-          "views": 354806
+          "views": 196054
         },
         {
-          "title": "ThunderCats: The Warbot (1985) | Cinematic 4K AI Short Film",
+          "title": "Dance Se Souber atualizadas 2026 {tiktok}🎶💜",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=JP_2pQl149s",
-          "score": 0.62,
-          "region": "BR",
-          "views": 133033
-        },
-        {
-          "title": "Trailer de \"O Exorcista Mártires\" | Análise e Expectativas para o Filme",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=uExY72Js2jI",
+          "url": "https://youtube.com/watch?v=vESJj4E1fpg",
           "score": 0.57,
           "region": "BR",
-          "views": 186257
+          "views": 127137
         },
         {
-          "title": "Flavio Bolsonaro (Minha MÃE É BOLSONARO) Jingle Politico 2026",
+          "title": "FLASH - Zé Vaqueiro 2026 (Repertório Novo)",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=W1_y2xTExwA",
-          "score": 0.56,
+          "url": "https://youtube.com/watch?v=lxBoauM12pM",
+          "score": 0.48,
           "region": "BR",
-          "views": 157441
-        },
-        {
-          "title": "MC Meno K & Oruam - Eu e Meu AK (Prod. Fepache & Elow) - Visualizer",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=kir1r2hZEyY",
-          "score": 0.52,
-          "region": "BR",
-          "views": 146324
-        },
-        {
-          "title": "COMEDINHA FICOU BRAVO 2 - MC Negão Original e MC Meno K (Videoclipe Oficial) DJ Japa Nk",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=stXznc_exq8",
-          "score": 0.51,
-          "region": "BR",
-          "views": 96487
+          "views": 161999
         }
       ]
     },
@@ -102,81 +102,81 @@
       "label": "Notícias (BR)",
       "trends": [
         {
-          "title": "Sem ganhador, Mega-Sena acumula e vai a R$ 185 mi; veja quando é o próximo sorteio",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/consumo/sem-ganhador-mega-sena-acumula-e-vai-a-r-185-mi-veja-quando-e-o-proximo-sorteio/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Prêmio de R$ 171 milhões da Mega-Sena renderia até R$ 1,8 milhão por mês; simule",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/onde-investir/mega-sena-concurso-3071-quanto-rende-por-mes-simulacao/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/ato-de-flavio-na-paulista-pede-que-apoiadores-escondam-bandeiras-de-eua-e-israel/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Após a euforia eleitoral, mercados da América Latina enfrentam a realidade",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/onde-investir/apos-a-euforia-eleitoral-mercados-da-america-latina-enfrentam-a-realidade/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Mega-Sena acumula e próximo concurso pode pagar até R$ 185 milhões; confira os números sorteados",
+          "title": "Apple pode ter de pagar mais em caso de patente com indenização de US$ 5,7 bilhões",
           "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/18/mega-sena-concurso-3072-confira-os-numeros-sorteados.ghtml",
-          "score": 80.0,
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/10/19/apple-pode-ter-de-pagar-mais-em-caso-de-patente-com-indenizacao-de-us-57-bilhoes.ghtml",
+          "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Ucrânia volta a receber dados dos EUA para barrar mísseis russos, diz Zelensky",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/18/ucrania-volta-a-receber-dados-dos-eua-para-barrar-misseis-russos-diz-zelensky.ghtml",
-          "score": 80.0,
+          "title": "Após 43 anos, jornalista Christiane Amanpour deixará a CNN americana",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/10/19/apos-43-anos-christiane-amanpour-deixara-a-cnn-americana.ghtml",
+          "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Militar da Força Aérea dos EUA morre após cair de rapel em jogo de futebol americano no Texas",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/18/militar-da-forca-aerea-dos-eua-morre-apos-cair-de-rapel-em-jogo-de-futebol-americano-no-texas.ghtml",
-          "score": 80.0,
+          "title": "Governo Trump proíbe uso de tecnologia DeepSeek em sistemas de TI civis federais",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/governo-trump-proibe-uso-de-tecnologia-deepseek-em-sistemas-de-ti-civis-federais/",
+          "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Trump diz que a França 'está em chamas' e 'destruída' pela imigração",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/18/trump-diz-que-a-franca-esta-em-chamas-e-destruida-pela-imigracao.ghtml",
-          "score": 80.0,
+          "title": "Vale Base Metals avança em virada operacional e acelera expansão em cobre",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/vale-base-metals-avanca-em-virada-operacional-e-acelera-expansao-em-cobre/",
+          "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Veja VÍDEO do momento que torre de prefeitura na França desaba durante incêndio causado em protestos",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/18/veja-video-do-momento-que-torre-de-prefeitura-na-franca-desaba-durante-incendio-causado-em-protestos.ghtml",
-          "score": 80.0,
+          "title": "Tiro durante confusão em bar com deputado atinge apresentador Fred Bruno, da TV Globo",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/tiro-durante-confusao-em-bar-com-deputado-atinge-apresentador-fred-bruno-da-tv-globo/",
+          "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Iate com piscina de 50 metros e toboáguas: imagens de satélite revelam o centro de lazer secreto de Kim Jong Un",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/18/iate-com-piscina-de-50-metros-e-toboaguas-imagens-de-satelite-revelam-o-centro-de-lazer-secreto-de-kim-jong-un.ghtml",
+          "title": "Como buscar uma renda extra mensal sem mudar sua rotina de trabalho",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/onde-investir/como-buscar-uma-renda-extra-mensal-sem-mudar-sua-rotina-de-trabalho/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ações europeias caem à medida que distúrbios na França abalam o ânimo do mercado",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/acoes-europeias-caem-a-medida-que-disturbios-na-franca-abalam-o-animo-do-mercado/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ibovespa Hoje Ao Vivo: Bolsa tem queda curta e se mantém nos 205 mil",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Automob (AMOB3): ações saltam após divulgação de dados operacionais do 3º tri",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/automob-amob3-acoes-saltam-apos-divulgacao-de-dados-operacionais-do-3o-tri/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ministério da Agricultura confirma foco da doença de Newcastle em granja de perus em SC",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/ministerio-da-agricultura-confirma-foco-da-doenca-de-newcastle-em-sc.ghtml",
           "score": 80.0,
           "region": "BR",
           "views": null
@@ -278,12 +278,68 @@
       "label": "YouTube (US)",
       "trends": [
         {
-          "title": "Aakasamlo Oka Tara - Teaser | Dulquer Salmaan | Satvika | Shruti Haasan |GV Prakash | Pavan Sadineni",
+          "title": "SURYAA: Ant Se Aarambh Tak - Official Teaser | Sunny Deol, Ravi Kishan | M Padmakumar| 20th Nov 2026",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=h3ElWvu31dc",
-          "score": 17.92,
+          "url": "https://youtube.com/watch?v=UTgecrJoTZc",
+          "score": 30.75,
           "region": "US",
-          "views": 4549339
+          "views": 3481372
+        },
+        {
+          "title": "I'm Getting Competitive Again",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=u5Im4E3myoM",
+          "score": 7.74,
+          "region": "US",
+          "views": 1063550
+        },
+        {
+          "title": "we're no longer friends..",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=mIqVLAb54q8",
+          "score": 4.31,
+          "region": "US",
+          "views": 753021
+        },
+        {
+          "title": "A$AP ROCKY - SHROOM CLOUDS (Official Video)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=jnFVwpvlq4E",
+          "score": 3.03,
+          "region": "US",
+          "views": 128968
+        },
+        {
+          "title": "Orbital Drop | Trailer",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=uPOLtwCXjpc",
+          "score": 2.04,
+          "region": "US",
+          "views": 457273
+        },
+        {
+          "title": "Crusader Kings III: Silk and Silver | Official Announcement Trailer",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=GsIjU7vnIxg",
+          "score": 1.32,
+          "region": "US",
+          "views": 68092
+        },
+        {
+          "title": "Let’s Play: Wii Sports",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=_nd0JnjIA8E",
+          "score": 0.9,
+          "region": "US",
+          "views": 70194
+        },
+        {
+          "title": "FINAL DOOMSDAY TRAILER SOON?? Here's what Insiders are saying... (PLUS MORE NEWS!)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=HIe3cOe5UR8",
+          "score": 0.14,
+          "region": "US",
+          "views": 4424
         }
       ]
     },
@@ -293,81 +349,81 @@
       "label": "Notícias (US)",
       "trends": [
         {
-          "title": "Trump endorses Netanyahu 9 days before Israel election",
-          "source": "news:Axios",
-          "url": "https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Zelensky speaks to Witkoff, Kushner amid U.S.-Ukraine crisis",
-          "source": "news:Axios",
-          "url": "https://www.axios.com/2026/10/18/zelensky-witkoff-kushner-ukraine-russia-crisis",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "We didn't protect children from social media — we have another chance with AI",
+          "title": "Dimon says US economy 'booming,' but warns about 'inflationary' events",
           "source": "news:The Hill",
-          "url": "https://thehill.com/opinion/technology/6153897-ai-risks-child-development/",
+          "url": "https://thehill.com/business/6158409-jamie-dimon-economy-warning/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Rogers says he worries about 'optics' of U.S.-Russia diesel deal, US cannot not give Putin 'an inch'",
+          "title": "Klobuchar, Demuth face off in first Minnesota governor's debate",
           "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/campaign/6156420-rogers-skeptical-russia-diesel-deal/",
+          "url": "https://thehill.com/homenews/campaign/6158330-klobuchar-demuth-minnesota-governor-debate/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Pope Leo says he will gradually resume duties after cancer surgery",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+          "title": "Live updates: Interior officials defend golf course takeover moves; Trump heads to Kansas",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6156709-live-updates-trump-russia-sanctions-gop-midterms/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Could you soon make your own moonshine? SCOTUS takes up 160-year-old ban",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/19/supreme-court-home-distilling-moonshine-ban",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "If you have the scratch, they have the scares",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
+          "title": "Exclusive: Secret pay-for-play text rocks Trump White House",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/19/kennedy-center-text-trump-grenell-habba",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Greensboro, NC students protest the absence of early voting sites on campus",
-          "source": "news:NPR Politics",
-          "url": "https://www.npr.org/2026/10/18/nx-s1-6006791/greensboro-nc-students-protest-the-absence-of-early-voting-sites-on-campus",
+          "title": "Supreme Court won't revive accused 9/11 mastermind's plea deal",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/19/supreme-court-khalid-sheikh-mohammed-911-plea-deal",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "What role does the White House Press Secretary play in the Trump era?",
-          "source": "news:NPR Politics",
-          "url": "https://www.npr.org/2026/10/18/nx-s1-6005279/what-role-does-the-white-house-press-secretary-play-in-the-trump-era",
+          "title": "The fallout from Trump's Russia energy moves",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/19/fallout-trump-russia-energy",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Politics chat: Zelenskyy on Trump, Democrats bring in the money for midterms",
-          "source": "news:NPR Politics",
-          "url": "https://www.npr.org/2026/10/18/nx-s1-6005192/politics-chat-zelenskyy-on-trump-democrats-bring-in-the-money-for-midterms",
+          "title": "Virginia Democrat becomes latest lawmaker to receive suspicious white powder",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/house/6158277-lawmakers-targeted-suspicious-white-powder/",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Trump suspends federal diesel taxes to help farmers, but states issue warnings",
-          "source": "news:NPR Politics",
-          "url": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings",
+          "title": "Judge presses federal government on East Potomac takeover despite Trump attacks",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/regulation/court-battles/6158276-judge-questions-trump-east-potomac-park/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Amanpour announces CNN departure after 43 years",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/media/6158178-amanpour-to-leave-cnn-june-2027/",
           "score": 80.0,
           "region": "US",
           "views": null
@@ -465,88 +521,89 @@
   "br_us_connections": [
     {
       "topic": "trump",
-      "count": 16,
-      "score": 48.33,
+      "count": 12,
+      "score": 70.0,
       "sample_titles": [
-        "'Superinteligência'? Por que Trump insiste em tentar mudar o termo 'IA', usado há 70 anos",
-        "Trump diz que a França 'está em chamas' e 'destruída' pela imigração",
-        "Rubio afirma que Trump levará até 60 dias para avaliar as sanções contra a Rússia",
-        "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
-        "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold"
+        "Governo Trump proíbe uso de tecnologia DeepSeek em sistemas de TI civis federais",
+        "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+        "Trump to close and renovate D.C. golf course, despite legal battle",
+        "Rep. Don Beyer, D-Va., on Trump waiving sanctions on Russia"
+      ]
+    },
+    {
+      "topic": "house",
+      "count": 5,
+      "score": 50.0,
+      "sample_titles": [
+        "GP de São Paulo: Nubank House recebe exposição da Mercedes F1 Team",
+        "CNN, MS NOW and Politico prevail against White House — for now",
+        "What does a White House press secretary do?",
+        "What role does the White House Press Secretary play in the Trump era?"
+      ]
+    },
+    {
+      "topic": "trailer",
+      "count": 4,
+      "score": 0.96,
+      "sample_titles": [
+        "Daniel e a Fornalha Ardente | Trailer Oficial Dublado",
+        "Orbital Drop | Trailer",
+        "FINAL DOOMSDAY TRAILER SOON?? Here's what Insiders are saying... (PLUS MORE NEWS!)",
+        "Crusader Kings III: Silk and Silver | Official Announcement Trailer"
+      ]
+    },
+    {
+      "topic": "interior",
+      "count": 2,
+      "score": 90.0,
+      "sample_titles": [
+        "Time do interior de SP campeão cima do Palmeiras oficializa SAF com Ronaldo e Roberto Carlos",
+        "Live updates: Interior officials defend golf course takeover moves; Trump heads to Kansas"
+      ]
+    },
+    {
+      "topic": "amanpour",
+      "count": 2,
+      "score": 90.0,
+      "sample_titles": [
+        "Após 43 anos, jornalista Christiane Amanpour deixará a CNN americana",
+        "Amanpour announces CNN departure after 43 years"
       ]
     },
     {
       "topic": "zelensky",
-      "count": 3,
-      "score": 80.0,
+      "count": 2,
+      "score": 70.0,
       "sample_titles": [
-        "Ucrânia volta a receber dados dos EUA para barrar mísseis russos, diz Zelensky",
-        "Zelensky speaks to Witkoff, Kushner amid U.S.-Ukraine crisis",
-        "Zelensky says Musk-owned satellite system still restricted in Ukraine"
+        "Papa pede que Zelensky coopere com Putin para garantir ajuda a cidade ucraniana sob controle russo",
+        "Zelensky speaks to Witkoff and Kushner amid U.S.-Ukraine crisis"
+      ]
+    },
+    {
+      "topic": "alberta",
+      "count": 2,
+      "score": 70.0,
+      "sample_titles": [
+        "Quanto a província de Alberta gera de riqueza para o Canadá e o que aconteceria se ela conquistasse a independência?",
+        "Alberta voters weigh future in Canada"
       ]
     },
     {
       "topic": "debate",
-      "count": 3,
-      "score": 33.33,
-      "sample_titles": [
-        "UOL faz programa ao vivo às 22h para analisar debate da Band",
-        "Tem debate hoje? Veja onde assistir e que horas começa Flávio x Lula",
-        "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate"
-      ]
-    },
-    {
-      "topic": "israel",
       "count": 2,
-      "score": 100.0,
+      "score": 65.0,
       "sample_titles": [
-        "Ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel",
-        "Trump endorses Netanyahu 9 days before Israel election"
-      ]
-    },
-    {
-      "topic": "hospital",
-      "count": 2,
-      "score": 60.0,
-      "sample_titles": [
-        "Papa Leão XIV conduz oração no Vaticano um dia após deixar hospital e diz que vai retomar suas atividades",
-        "Pope Leo XIV leaves hospital days after lung cancer surgery"
-      ]
-    },
-    {
-      "topic": "elon musk",
-      "count": 2,
-      "score": 50.0,
-      "sample_titles": [
-        "Elon Musk pode desligar a internet de uma guerra? Entenda o poder da Starlink",
-        "Inside the race between Elon Musk and Jeff Bezos for control of outer space"
-      ]
-    },
-    {
-      "topic": "decide",
-      "count": 2,
-      "score": 50.0,
-      "sample_titles": [
-        "Abstenção, brancos e nulos: quem decide o 2º turno?",
-        "Voters here will decide whether to force cities to build cheaper, smaller homes"
+        "'Caótico' e 'tenso': o que imprensa internacional disse sobre debate entre Lula e Flávio Bolsonaro",
+        "Klobuchar, Demuth face off in first Minnesota governor's debate"
       ]
     },
     {
       "topic": "campus",
       "count": 2,
-      "score": 50.0,
+      "score": 30.0,
       "sample_titles": [
         "Jacaré de 2 metros é resgatado dentro do campus do Ifap em Macapá; é o 2º animal em 17 dias",
         "Greensboro, NC students protest the absence of early voting sites on campus"
-      ]
-    },
-    {
-      "topic": "politico",
-      "count": 2,
-      "score": 10.28,
-      "sample_titles": [
-        "Flavio Bolsonaro (Minha MÃE É BOLSONARO) Jingle Politico 2026",
-        "CNN, MS NOW and Politico prevail against White House — for now"
       ]
     },
     {
@@ -561,42 +618,30 @@
   ],
   "cross_platform": [
     {
-      "topic": "americano",
+      "topic": "trabalho",
       "platforms": [
         "news",
         "google_trends"
       ],
       "count": 2,
-      "score": 45.0,
+      "score": 63.33,
       "sample_titles": [
-        "Militar da Força Aérea dos EUA morre após cair de rapel em jogo de futebol americano no Texas",
-        "visto americano"
+        "Ex-vice-presidente de RH da Microsoft revela 3 formas de usar IA no trabalho e o que evitar",
+        "Como buscar uma renda extra mensal sem mudar sua rotina de trabalho",
+        "trabalho home office"
       ]
     },
     {
-      "topic": "imigração",
+      "topic": "renda extra",
       "platforms": [
         "news",
         "google_trends"
       ],
       "count": 2,
-      "score": 45.0,
+      "score": 55.0,
       "sample_titles": [
-        "Trump diz que a França 'está em chamas' e 'destruída' pela imigração",
-        "imigração EUA"
-      ]
-    },
-    {
-      "topic": "abrir",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 45.0,
-      "sample_titles": [
-        "18 franquias baratas para abrir o próprio negócio a partir de R$ 9.500",
-        "abrir empresa nos EUA"
+        "Como buscar uma renda extra mensal sem mudar sua rotina de trabalho",
+        "renda extra"
       ]
     },
     {
@@ -606,38 +651,129 @@
         "google_trends"
       ],
       "count": 2,
-      "score": 45.0,
+      "score": 55.0,
       "sample_titles": [
-        "Caixa não espera Minha Casa Minha Vida para famílias com renda de até R$ 21 mil",
+        "Como buscar uma renda extra mensal sem mudar sua rotina de trabalho",
         "renda extra"
       ]
     },
     {
-      "topic": "minha",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 26.28,
-      "sample_titles": [
-        "Hugo e Guilherme, Zé Vaqueiro - Flash (Minha Mente)",
-        "Flavio Bolsonaro (Minha MÃE É BOLSONARO) Jingle Politico 2026",
-        "Exposição 'Minha Aldeia' reúne fotografias inspiradas no cotidiano amapaense",
-        "Caixa não espera Minha Casa Minha Vida para famílias com renda de até R$ 21 mil"
-      ]
-    },
-    {
-      "topic": "ganhar",
+      "topic": "extra",
       "platforms": [
         "news",
         "google_trends"
       ],
       "count": 2,
-      "score": 25.0,
+      "score": 55.0,
       "sample_titles": [
-        "Volkswagen Tera ganha motor mais forte e novo câmbio, mas vai ganhar dos chineses? O g1 testou",
-        "como ganhar dinheiro online"
+        "Como buscar uma renda extra mensal sem mudar sua rotina de trabalho",
+        "renda extra"
+      ]
+    },
+    {
+      "topic": "kings",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 53.77,
+      "sample_titles": [
+        "Crusader Kings III: Silk and Silver | Official Announcement Trailer",
+        "Meta apologizes for suspending 'No Kings' Instagram account, blaming bot traffic increase",
+        "No Kings account suspended by Meta during protests — not a coincidence?"
+      ]
+    },
+    {
+      "topic": "estados",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Suprema Corte dos Estados Unidos rejeita recurso de mentor dos atentados de 11/9",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "unidos",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Suprema Corte dos Estados Unidos rejeita recurso de mentor dos atentados de 11/9",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "estados unidos",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Suprema Corte dos Estados Unidos rejeita recurso de mentor dos atentados de 11/9",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "quanto",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Quanto a província de Alberta gera de riqueza para o Canadá e o que aconteceria se ela conquistasse a independência?",
+        "quanto custa viajar para os EUA"
+      ]
+    },
+    {
+      "topic": "feira",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.06,
+      "sample_titles": [
+        "Segunda Feira 19 de outubro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "'Anora', vencedor de cinco Oscars, estreia na Netflix nesta sexta-feira, 23"
+      ]
+    },
+    {
+      "topic": "troca",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.02,
+      "sample_titles": [
+        "Troca de Calçada",
+        "Lindt troca CEO após queda nas vendas e alta no preço do cacau"
+      ]
+    },
+    {
+      "topic": "presidente",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 37.15,
+      "sample_titles": [
+        "M4rkim - PRESIDENTE (Funny Valentine)",
+        "Ex-vice-presidente de RH da Microsoft revela 3 formas de usar IA no trabalho e o que evitar",
+        "Pesquisa segundo turno presidente 2026: veja números mais recentes"
       ]
     },
     {
@@ -647,13 +783,12 @@
         "news"
       ],
       "count": 2,
-      "score": 22.22,
+      "score": 35.1,
       "sample_titles": [
-        "VOTA VOTA E CONFIRMA 22 É FLAVIO BOLSONARO -  VOTA VOTA E CONFIRMA 22 E BOLSONARO",
-        "Flavio Bolsonaro (Minha MÃE É BOLSONARO) Jingle Politico 2026",
-        "Flavio Bolsonaro - Quem ficar parado é petista disfarçado",
-        "Vox Brasil: o que explica a vantagem numérica de Lula contra Flávio Bolsonaro",
-        "Com funk e axé, Flávio Bolsonaro transforma ato político em bloco de carnaval na Av. Paulista"
+        "FORA PT AQUI NÃO É TEU LUGAR 🔥 BOLSONARO 2026 🇧🇷 SOLINHO FORA PT | QUEM FICAR PARADO É PETISTA",
+        "Bolsa Família vai ter regra de transição de dois anos, diz coordenadora de campanha de Flávio Bolsonaro",
+        "'Caótico' e 'tenso': o que imprensa internacional disse sobre debate entre Lula e Flávio Bolsonaro",
+        "Flávio Bolsonaro critica entraves ambientais e diz que produtor 'vai fazer o que quiser na sua terra'"
       ]
     },
     {
@@ -670,160 +805,177 @@
       ]
     },
     {
-      "topic": "politico",
+      "topic": "video",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 10.28,
+      "score": 11.52,
       "sample_titles": [
-        "Flavio Bolsonaro (Minha MÃE É BOLSONARO) Jingle Politico 2026",
-        "CNN, MS NOW and Politico prevail against White House — for now"
-      ]
-    },
-    {
-      "topic": "quase",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 10.04,
-      "sample_titles": [
-        "MARCOS ANTONIO - PAI, QUASE MORRI, FUI NO MUNDO, O GALILEU,... #youtube #musicagospel",
-        "Grupo empresarial deve pagar quase R$ 21 milhões por desvio de recursos da Cidade das Águas em Frutal"
+        "A$AP ROCKY - SHROOM CLOUDS (Official Video)",
+        "VIDEO: The skincare sample is free. What happens next can cost thousands"
       ]
     }
   ],
   "niche_ideas": [
     {
-      "main_topic": "imigração",
-      "subtopic": "O impacto da imigração nas políticas americanas",
-      "why_trending": "Trump fez declarações recentes sobre imigração que estão gerando debates acalorados nos EUA, especialmente entre os imigrantes.",
-      "niche_angle": "Explorar como as políticas de imigração de figuras políticas impactam a vida dos brasileiros que vivem nos EUA, e o que eles podem esperar no futuro.",
+      "main_topic": "Renda Extra",
+      "subtopic": "Como buscar uma renda extra mensal sem mudar sua rotina de trabalho",
+      "why_trending": "A busca por fontes alternativas de renda se intensifica à medida que a economia se torna mais desafiadora, com muitos procurando maneiras de complementar seus ganhos.",
+      "niche_angle": "Explorar como brasileiros nos EUA podem implementar estratégias práticas para gerar renda extra, considerando as particularidades do mercado americano.",
       "video_format": "long",
+      "urgency": "high",
+      "ease": 8,
+      "source": "InfoMoney",
+      "region": "BR",
+      "links": [
+        "https://www.infomoney.com.br/onde-investir/como-buscar-uma-renda-extra-mensal-sem-mudar-sua-rotina-de-trabalho/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194311"
+    },
+    {
+      "main_topic": "Trabalho e IA",
+      "subtopic": "3 formas de usar IA no trabalho e o que evitar",
+      "why_trending": "O uso de inteligência artificial está crescendo rapidamente em ambientes de trabalho, com profissionais buscando otimizar suas atividades.",
+      "niche_angle": "Discutir como brasileiros podem aplicar essas tecnologias em suas carreiras nos EUA, evitando armadilhas comuns.",
+      "video_format": "both",
       "urgency": "high",
       "ease": 7,
-      "source": "news",
+      "source": "Exame",
       "region": "US",
-      "links": [],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-18T15:31:30.426941"
-    },
-    {
-      "main_topic": "abrir",
-      "subtopic": "Franquias baratas para brasileiros nos EUA",
-      "why_trending": "Recentemente, foram listadas franquias para abrir negócios a partir de R$ 9.500, atraindo atenção em um mercado competitivo.",
-      "niche_angle": "Discutir como brasileiros podem aproveitar essas oportunidades de franquias nos EUA, incluindo custos e regulamentações.",
-      "video_format": "long",
-      "urgency": "high",
-      "ease": 6,
-      "source": "news",
-      "region": "BR",
       "links": [
-        "https://exame.com/negocios/18-franquias-baratas-para-abrir-o-proprio-negocio-a-partir-de-r-9-500/"
+        "https://exame.com/inteligencia-artificial/ex-vice-presidente-de-rh-da-microsoft-revela-3-formas-de-usar-ia-no-trabalho-e-o-que-evitar/"
       ],
       "platforms": [
         "news",
-        "google_trends"
+        "youtube"
       ],
-      "collected_at": "2026-10-18T15:31:30.426951"
+      "collected_at": "2026-10-19T18:27:39.194320"
     },
     {
-      "main_topic": "renda",
-      "subtopic": "Como aumentar sua renda extra nos EUA",
-      "why_trending": "A discussão sobre renda extra está em alta, especialmente com a economia incerta e mais pessoas buscando alternativas de ganhos.",
-      "niche_angle": "Apresentar métodos práticos que brasileiros podem usar para aumentar sua renda enquanto vivem nos EUA, como trabalhos temporários e freelancing.",
-      "video_format": "both",
-      "urgency": "medium",
-      "ease": 5,
-      "source": "news",
-      "region": "US",
-      "links": [],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-18T15:31:30.426977"
-    },
-    {
-      "main_topic": "economia & mercado",
-      "subtopic": "Impacto da inflação na vida do imigrante",
-      "why_trending": "Recentes dados mostram que a inflação está subindo rapidamente, afetando o custo de vida nos EUA.",
-      "niche_angle": "Analisar como a inflação atual impacta diretamente o orçamento dos brasileiros que residem nos EUA e dicas para se ajustar a essa nova realidade.",
+      "main_topic": "Custo de Vida",
+      "subtopic": "Quanto custa viver nos EUA em comparação com o Brasil",
+      "why_trending": "Com a inflação e o aumento do custo de vida, muitos brasileiros estão avaliando suas opções de migração e o que esperar financeiramente.",
+      "niche_angle": "Fornecer uma análise detalhada sobre custos reais de moradia, alimentação e transporte, ajudando brasileiros a se prepararem financeiramente.",
       "video_format": "long",
       "urgency": "medium",
-      "ease": 8,
-      "source": "news",
-      "region": "US",
-      "links": [],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-18T15:31:30.426982"
-    },
-    {
-      "main_topic": "tecnologia",
-      "subtopic": "Golpes com IA: como se proteger",
-      "why_trending": "Com o aumento do uso de IA, os golpes também estão se tornando mais sofisticados e comuns.",
-      "niche_angle": "Ensinar brasileiros nos EUA a se proteger de fraudes relacionadas à tecnologia, especialmente em plataformas sociais.",
-      "video_format": "short",
-      "urgency": "medium",
       "ease": 6,
-      "source": "news",
-      "region": "BR",
-      "links": [
-        "https://exame.com/tecnologia/examelab/golpes-com-ia-como-ajudar-parentes-e-amigos-a-nao-cairem-em-videos-falsos/"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-18T15:31:30.426987"
-    },
-    {
-      "main_topic": "educação",
-      "subtopic": "Dicas para aprender inglês rapidamente",
-      "why_trending": "Com a necessidade crescente de fluência em inglês para a integração no mercado de trabalho americano, mais brasileiros buscam maneiras eficazes de aprender o idioma.",
-      "niche_angle": "Oferecer dicas práticas e recursos gratuitos para brasileiros que desejam aprender inglês rapidamente enquanto vivem nos EUA.",
-      "video_format": "short",
-      "urgency": "medium",
-      "ease": 4,
       "source": "google_trends",
       "region": "US",
       "links": [],
       "platforms": [
-        "google_trends",
-        "youtube"
+        "google_trends"
       ],
-      "collected_at": "2026-10-18T15:31:30.426992"
+      "collected_at": "2026-10-19T18:27:39.194325"
     },
     {
-      "main_topic": "lifestyle",
-      "subtopic": "Rotina de um brasileiro vivendo nos EUA",
-      "why_trending": "A curiosidade sobre a vida cotidiana nos EUA está crescendo entre brasileiros, tanto os que vivem lá quanto os que planejam se mudar.",
-      "niche_angle": "Criar um vlog mostrando a rotina de um brasileiro nos EUA, incluindo desafios e conquistas, para desmistificar a experiência.",
+      "main_topic": "Direito & Legal",
+      "subtopic": "Suprema Corte dos EUA e suas implicações para imigrantes",
+      "why_trending": "Decisões recentes da Suprema Corte têm implicações diretas sobre direitos e regulamentações que afetam imigrantes.",
+      "niche_angle": "Analisar como essas decisões impactam diretamente a vida dos brasileiros que vivem nos EUA e o que pode mudar no futuro.",
       "video_format": "long",
-      "urgency": "low",
+      "urgency": "medium",
       "ease": 5,
-      "source": "youtube",
+      "source": "G1",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/10/19/suprema-corte-dos-estados-unidos-rejeita-recurso-de-suposto-mentor-dos-atentados-de-119.ghtml"
+      ],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194329"
+    },
+    {
+      "main_topic": "Tecnologia",
+      "subtopic": "Novidades sobre tecnologia que afetam o mercado de trabalho",
+      "why_trending": "Com a rápida evolução da tecnologia, as empresas estão se adaptando e buscando inovações para melhorar a eficiência.",
+      "niche_angle": "Explorar como essas inovações podem ser aplicadas por brasileiros que trabalham nos EUA, tanto em empregos tradicionais quanto em empreendimentos.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "Exame",
       "region": "US",
       "links": [],
       "platforms": [
-        "youtube"
+        "news"
       ],
-      "collected_at": "2026-10-18T15:31:30.427000"
+      "collected_at": "2026-10-19T18:27:39.194334"
     },
     {
-      "main_topic": "entretenimento",
-      "subtopic": "Memes sobre a vida nos EUA",
-      "why_trending": "Com a popularização dos memes e a cultura de humor, há uma demanda por conteúdo que reflita as experiências dos brasileiros nos EUA.",
-      "niche_angle": "Compilar memes e criar vídeos engraçados que ressoem com a vida dos brasileiros nos EUA, usando humor para conectar a audiência.",
+      "main_topic": "Empreendedorismo",
+      "subtopic": "O impacto da economia nos pequenos negócios",
+      "why_trending": "A economia dos EUA está em um momento delicado, e muitos pequenos empresários estão repensando suas estratégias.",
+      "niche_angle": "Investigar como brasileiros podem navegar nesse ambiente desafiador e encontrar oportunidades para empreender nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "The Hill",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194337"
+    },
+    {
+      "main_topic": "Viagem",
+      "subtopic": "Quanto custa viajar para os EUA",
+      "why_trending": "O turismo está se recuperando, e muitos brasileiros estão planejando viagens para os EUA, mas o custo pode ser uma preocupação.",
+      "niche_angle": "Fornecer um guia prático sobre os custos envolvidos e dicas para economizar durante a viagem.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "google_trends",
+      "region": "BR",
+      "links": [],
+      "platforms": [
+        "google_trends"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194342"
+    },
+    {
+      "main_topic": "Economia",
+      "subtopic": "Efeitos da inflação na vida dos imigrantes",
+      "why_trending": "A inflação nos EUA está em alta, afetando diretamente o poder de compra dos imigrantes.",
+      "niche_angle": "Discutir estratégias que brasileiros podem usar para se proteger financeiramente durante períodos de alta inflação.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "The Hill",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194350"
+    },
+    {
+      "main_topic": "Lifestyle",
+      "subtopic": "Rotina de trabalho home office nos EUA",
+      "why_trending": "O home office se tornou uma norma para muitos trabalhadores, e as pessoas estão buscando maneiras de otimizar suas rotinas.",
+      "niche_angle": "Mostrar como brasileiros podem adaptar suas rotinas de trabalho em casa, utilizando dicas que funcionam no contexto americano.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 5,
+      "source": "google_trends",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "google_trends"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194354"
+    },
+    {
+      "main_topic": "Entretenimento",
+      "subtopic": "Tendências de memes sobre a vida nos EUA",
+      "why_trending": "Memes sobre a vida cotidiana nos EUA estão se tornando populares, refletindo a experiência dos imigrantes.",
+      "niche_angle": "Criar uma série de vídeos analisando memes populares e como eles refletem a realidade dos brasileiros vivendo nos EUA.",
       "video_format": "short",
       "urgency": "low",
       "ease": 3,
@@ -833,23 +985,7 @@
       "platforms": [
         "tiktok"
       ],
-      "collected_at": "2026-10-18T15:31:30.427008"
-    },
-    {
-      "main_topic": "viagem",
-      "subtopic": "Quanto custa viajar para NY",
-      "why_trending": "Os preços de viagens e passagens aéreas estão em alta, e brasileiros estão cada vez mais interessados em planejar viagens para os EUA.",
-      "niche_angle": "Fornecer um guia completo com custos detalhados para brasileiros que planejam visitar Nova York, incluindo transporte e acomodação.",
-      "video_format": "long",
-      "urgency": "low",
-      "ease": 5,
-      "source": "news",
-      "region": "BR",
-      "links": [],
-      "platforms": [
-        "news"
-      ],
-      "collected_at": "2026-10-18T15:31:30.427013"
+      "collected_at": "2026-10-19T18:27:39.194358"
     }
   ]
 }

@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 18/10/2026 15:31 UTC
+# 📊 Tendências em Alta — 19/10/2026 18:27 UTC
 
-**Run:** `39140812558` | **BR:** 30 trends | **US:** 21 trends | **Nicho:** 9 ideias
+**Run:** `39302557165` | **BR:** 30 trends | **US:** 28 trends | **Nicho:** 10 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. João Neto e Frederico, Mariana Fagundes - Vou Ficar Devendo (Desce Mais Uma 2) · [https://youtube.com/watch?v=DJ1k8n_yOT8](https://youtube.com/watch?v=DJ1k8n_yOT8)
- 2. George Henrique e Rodrigo, @zncoficial  - UMA GALERA CHORA (Uma Nova História Vol.2 - Ao Vivo) · [https://youtube.com/watch?v=uhyaN3s5OWk](https://youtube.com/watch?v=uhyaN3s5OWk)
+ 1. IVE 아이브 'Looks Can Kill' MV · [https://youtube.com/watch?v=rsNhWkC4neE](https://youtube.com/watch?v=rsNhWkC4neE)
+ 2. NMIXX(엔믹스) “긴 소원(Birthday Wish)” M/V · [https://youtube.com/watch?v=roHWN9fL2SM](https://youtube.com/watch?v=roHWN9fL2SM)
  3. Hugo e Guilherme, Zé Vaqueiro - Flash (Minha Mente) · [https://youtube.com/watch?v=akkCnFdhPWo](https://youtube.com/watch?v=akkCnFdhPWo)
- 4. M4rkim - PRESIDENTE (Funny Valentine) · [https://youtube.com/watch?v=OSuMYKKuyNQ](https://youtube.com/watch?v=OSuMYKKuyNQ)
- 5. CONSEGUIMOS FALAR COM A TIA DO CLÓVIS! My Child Lebensborn #3 · [https://youtube.com/watch?v=LvwQUo9vkjs](https://youtube.com/watch?v=LvwQUo9vkjs)
- 6. ThunderCats: The Warbot (1985) | Cinematic 4K AI Short Film · [https://youtube.com/watch?v=JP_2pQl149s](https://youtube.com/watch?v=JP_2pQl149s)
- 7. Trailer de "O Exorcista Mártires" | Análise e Expectativas para o Filme · [https://youtube.com/watch?v=uExY72Js2jI](https://youtube.com/watch?v=uExY72Js2jI)
- 8. Flavio Bolsonaro (Minha MÃE É BOLSONARO) Jingle Politico 2026 · [https://youtube.com/watch?v=W1_y2xTExwA](https://youtube.com/watch?v=W1_y2xTExwA)
- 9. MC Meno K & Oruam - Eu e Meu AK (Prod. Fepache & Elow) - Visualizer · [https://youtube.com/watch?v=kir1r2hZEyY](https://youtube.com/watch?v=kir1r2hZEyY)
-10. COMEDINHA FICOU BRAVO 2 - MC Negão Original e MC Meno K (Videoclipe Oficial) DJ Japa Nk · [https://youtube.com/watch?v=stXznc_exq8](https://youtube.com/watch?v=stXznc_exq8)
+ 4. Flatbed Truck McQueen Transportation with Truck Pothole vs Car #70   BeamNG Drive · [https://youtube.com/watch?v=Ohhxci6cK7I](https://youtube.com/watch?v=Ohhxci6cK7I)
+ 5. ALGORITHOMUS INVADIU O GARTICPHONE! 🍉🥝 · [https://youtube.com/watch?v=fDBmng_6Yis](https://youtube.com/watch?v=fDBmng_6Yis)
+ 6. A PASSIVA DA AMBESSA CRIOU UM MONSTRO EM FORMA DE BUILD · [https://youtube.com/watch?v=U4ZWhmwcLj8](https://youtube.com/watch?v=U4ZWhmwcLj8)
+ 7. M4rkim - PRESIDENTE (Funny Valentine) · [https://youtube.com/watch?v=OSuMYKKuyNQ](https://youtube.com/watch?v=OSuMYKKuyNQ)
+ 8. 7 Minutoz - ATÉ O FIM | Billy Bruto (The Boys) · [https://youtube.com/watch?v=dg5PPCs_8Ls](https://youtube.com/watch?v=dg5PPCs_8Ls)
+ 9. Dance Se Souber atualizadas 2026 {tiktok}🎶💜 · [https://youtube.com/watch?v=vESJj4E1fpg](https://youtube.com/watch?v=vESJj4E1fpg)
+10. FLASH - Zé Vaqueiro 2026 (Repertório Novo) · [https://youtube.com/watch?v=lxBoauM12pM](https://youtube.com/watch?v=lxBoauM12pM)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Sem ganhador, Mega-Sena acumula e vai a R$ 185 mi; veja quando é o próximo sorteio · [https://www.infomoney.com.br/consumo/sem-ganhador-mega-sena-acumula-e-vai-a-r-185-mi-veja-quando-e-o-proximo-sorteio/](https://www.infomoney.com.br/consumo/sem-ganhador-mega-sena-acumula-e-vai-a-r-185-mi-veja-quando-e-o-proximo-sorteio/)
- 2. Prêmio de R$ 171 milhões da Mega-Sena renderia até R$ 1,8 milhão por mês; simule · [https://www.infomoney.com.br/onde-investir/mega-sena-concurso-3071-quanto-rende-por-mes-simulacao/](https://www.infomoney.com.br/onde-investir/mega-sena-concurso-3071-quanto-rende-por-mes-simulacao/)
- 3. Ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel · [https://www.infomoney.com.br/politica/ato-de-flavio-na-paulista-pede-que-apoiadores-escondam-bandeiras-de-eua-e-israel/](https://www.infomoney.com.br/politica/ato-de-flavio-na-paulista-pede-que-apoiadores-escondam-bandeiras-de-eua-e-israel/)
- 4. Após a euforia eleitoral, mercados da América Latina enfrentam a realidade · [https://www.infomoney.com.br/onde-investir/apos-a-euforia-eleitoral-mercados-da-america-latina-enfrentam-a-realidade/](https://www.infomoney.com.br/onde-investir/apos-a-euforia-eleitoral-mercados-da-america-latina-enfrentam-a-realidade/)
- 5. Mega-Sena acumula e próximo concurso pode pagar até R$ 185 milhões; confira os números sorteados · [https://g1.globo.com/loterias/mega-sena/noticia/2026/10/18/mega-sena-concurso-3072-confira-os-numeros-sorteados.ghtml](https://g1.globo.com/loterias/mega-sena/noticia/2026/10/18/mega-sena-concurso-3072-confira-os-numeros-sorteados.ghtml)
- 6. Ucrânia volta a receber dados dos EUA para barrar mísseis russos, diz Zelensky · [https://g1.globo.com/mundo/noticia/2026/10/18/ucrania-volta-a-receber-dados-dos-eua-para-barrar-misseis-russos-diz-zelensky.ghtml](https://g1.globo.com/mundo/noticia/2026/10/18/ucrania-volta-a-receber-dados-dos-eua-para-barrar-misseis-russos-diz-zelensky.ghtml)
- 7. Militar da Força Aérea dos EUA morre após cair de rapel em jogo de futebol americano no Texas · [https://g1.globo.com/mundo/noticia/2026/10/18/militar-da-forca-aerea-dos-eua-morre-apos-cair-de-rapel-em-jogo-de-futebol-americano-no-texas.ghtml](https://g1.globo.com/mundo/noticia/2026/10/18/militar-da-forca-aerea-dos-eua-morre-apos-cair-de-rapel-em-jogo-de-futebol-americano-no-texas.ghtml)
- 8. Trump diz que a França 'está em chamas' e 'destruída' pela imigração · [https://g1.globo.com/mundo/noticia/2026/10/18/trump-diz-que-a-franca-esta-em-chamas-e-destruida-pela-imigracao.ghtml](https://g1.globo.com/mundo/noticia/2026/10/18/trump-diz-que-a-franca-esta-em-chamas-e-destruida-pela-imigracao.ghtml)
- 9. Veja VÍDEO do momento que torre de prefeitura na França desaba durante incêndio causado em protestos · [https://g1.globo.com/mundo/noticia/2026/10/18/veja-video-do-momento-que-torre-de-prefeitura-na-franca-desaba-durante-incendio-causado-em-protestos.ghtml](https://g1.globo.com/mundo/noticia/2026/10/18/veja-video-do-momento-que-torre-de-prefeitura-na-franca-desaba-durante-incendio-causado-em-protestos.ghtml)
-10. Iate com piscina de 50 metros e toboáguas: imagens de satélite revelam o centro de lazer secreto de Kim Jong Un · [https://g1.globo.com/mundo/noticia/2026/10/18/iate-com-piscina-de-50-metros-e-toboaguas-imagens-de-satelite-revelam-o-centro-de-lazer-secreto-de-kim-jong-un.ghtml](https://g1.globo.com/mundo/noticia/2026/10/18/iate-com-piscina-de-50-metros-e-toboaguas-imagens-de-satelite-revelam-o-centro-de-lazer-secreto-de-kim-jong-un.ghtml)
+ 1. Apple pode ter de pagar mais em caso de patente com indenização de US$ 5,7 bilhões · [https://g1.globo.com/tecnologia/noticia/2026/10/19/apple-pode-ter-de-pagar-mais-em-caso-de-patente-com-indenizacao-de-us-57-bilhoes.ghtml](https://g1.globo.com/tecnologia/noticia/2026/10/19/apple-pode-ter-de-pagar-mais-em-caso-de-patente-com-indenizacao-de-us-57-bilhoes.ghtml)
+ 2. Após 43 anos, jornalista Christiane Amanpour deixará a CNN americana · [https://g1.globo.com/economia/noticia/2026/10/19/apos-43-anos-christiane-amanpour-deixara-a-cnn-americana.ghtml](https://g1.globo.com/economia/noticia/2026/10/19/apos-43-anos-christiane-amanpour-deixara-a-cnn-americana.ghtml)
+ 3. Governo Trump proíbe uso de tecnologia DeepSeek em sistemas de TI civis federais · [https://www.infomoney.com.br/mundo/governo-trump-proibe-uso-de-tecnologia-deepseek-em-sistemas-de-ti-civis-federais/](https://www.infomoney.com.br/mundo/governo-trump-proibe-uso-de-tecnologia-deepseek-em-sistemas-de-ti-civis-federais/)
+ 4. Vale Base Metals avança em virada operacional e acelera expansão em cobre · [https://www.infomoney.com.br/mercados/vale-base-metals-avanca-em-virada-operacional-e-acelera-expansao-em-cobre/](https://www.infomoney.com.br/mercados/vale-base-metals-avanca-em-virada-operacional-e-acelera-expansao-em-cobre/)
+ 5. Tiro durante confusão em bar com deputado atinge apresentador Fred Bruno, da TV Globo · [https://www.infomoney.com.br/politica/tiro-durante-confusao-em-bar-com-deputado-atinge-apresentador-fred-bruno-da-tv-globo/](https://www.infomoney.com.br/politica/tiro-durante-confusao-em-bar-com-deputado-atinge-apresentador-fred-bruno-da-tv-globo/)
+ 6. Como buscar uma renda extra mensal sem mudar sua rotina de trabalho · [https://www.infomoney.com.br/onde-investir/como-buscar-uma-renda-extra-mensal-sem-mudar-sua-rotina-de-trabalho/](https://www.infomoney.com.br/onde-investir/como-buscar-uma-renda-extra-mensal-sem-mudar-sua-rotina-de-trabalho/)
+ 7. Ações europeias caem à medida que distúrbios na França abalam o ânimo do mercado · [https://www.infomoney.com.br/mercados/acoes-europeias-caem-a-medida-que-disturbios-na-franca-abalam-o-animo-do-mercado/](https://www.infomoney.com.br/mercados/acoes-europeias-caem-a-medida-que-disturbios-na-franca-abalam-o-animo-do-mercado/)
+ 8. Ibovespa Hoje Ao Vivo: Bolsa tem queda curta e se mantém nos 205 mil · [https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/)
+ 9. Automob (AMOB3): ações saltam após divulgação de dados operacionais do 3º tri · [https://www.infomoney.com.br/mercados/automob-amob3-acoes-saltam-apos-divulgacao-de-dados-operacionais-do-3o-tri/](https://www.infomoney.com.br/mercados/automob-amob3-acoes-saltam-apos-divulgacao-de-dados-operacionais-do-3o-tri/)
+10. Ministério da Agricultura confirma foco da doença de Newcastle em granja de perus em SC · [https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/ministerio-da-agricultura-confirma-foco-da-doenca-de-newcastle-em-sc.ghtml](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/ministerio-da-agricultura-confirma-foco-da-doenca-de-newcastle-em-sc.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,22 +54,29 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 1
+#### 📺 YouTube (US) — Top 8
 
- 1. Aakasamlo Oka Tara - Teaser | Dulquer Salmaan | Satvika | Shruti Haasan |GV Prakash | Pavan Sadineni · [https://youtube.com/watch?v=h3ElWvu31dc](https://youtube.com/watch?v=h3ElWvu31dc)
+ 1. SURYAA: Ant Se Aarambh Tak - Official Teaser | Sunny Deol, Ravi Kishan | M Padmakumar| 20th Nov 2026 · [https://youtube.com/watch?v=UTgecrJoTZc](https://youtube.com/watch?v=UTgecrJoTZc)
+ 2. I'm Getting Competitive Again · [https://youtube.com/watch?v=u5Im4E3myoM](https://youtube.com/watch?v=u5Im4E3myoM)
+ 3. we're no longer friends.. · [https://youtube.com/watch?v=mIqVLAb54q8](https://youtube.com/watch?v=mIqVLAb54q8)
+ 4. A$AP ROCKY - SHROOM CLOUDS (Official Video) · [https://youtube.com/watch?v=jnFVwpvlq4E](https://youtube.com/watch?v=jnFVwpvlq4E)
+ 5. Orbital Drop | Trailer · [https://youtube.com/watch?v=uPOLtwCXjpc](https://youtube.com/watch?v=uPOLtwCXjpc)
+ 6. Crusader Kings III: Silk and Silver | Official Announcement Trailer · [https://youtube.com/watch?v=GsIjU7vnIxg](https://youtube.com/watch?v=GsIjU7vnIxg)
+ 7. Let’s Play: Wii Sports · [https://youtube.com/watch?v=_nd0JnjIA8E](https://youtube.com/watch?v=_nd0JnjIA8E)
+ 8. FINAL DOOMSDAY TRAILER SOON?? Here's what Insiders are saying... (PLUS MORE NEWS!) · [https://youtube.com/watch?v=HIe3cOe5UR8](https://youtube.com/watch?v=HIe3cOe5UR8)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Trump endorses Netanyahu 9 days before Israel election · [https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran](https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran)
- 2. Zelensky speaks to Witkoff, Kushner amid U.S.-Ukraine crisis · [https://www.axios.com/2026/10/18/zelensky-witkoff-kushner-ukraine-russia-crisis](https://www.axios.com/2026/10/18/zelensky-witkoff-kushner-ukraine-russia-crisis)
- 3. We didn't protect children from social media — we have another chance with AI · [https://thehill.com/opinion/technology/6153897-ai-risks-child-development/](https://thehill.com/opinion/technology/6153897-ai-risks-child-development/)
- 4. Rogers says he worries about 'optics' of U.S.-Russia diesel deal, US cannot not give Putin 'an inch' · [https://thehill.com/homenews/campaign/6156420-rogers-skeptical-russia-diesel-deal/](https://thehill.com/homenews/campaign/6156420-rogers-skeptical-russia-diesel-deal/)
- 5. Pope Leo says he will gradually resume duties after cancer surgery · [https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery](https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery)
- 6. If you have the scratch, they have the scares · [https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares](https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares)
- 7. Greensboro, NC students protest the absence of early voting sites on campus · [https://www.npr.org/2026/10/18/nx-s1-6006791/greensboro-nc-students-protest-the-absence-of-early-voting-sites-on-campus](https://www.npr.org/2026/10/18/nx-s1-6006791/greensboro-nc-students-protest-the-absence-of-early-voting-sites-on-campus)
- 8. What role does the White House Press Secretary play in the Trump era? · [https://www.npr.org/2026/10/18/nx-s1-6005279/what-role-does-the-white-house-press-secretary-play-in-the-trump-era](https://www.npr.org/2026/10/18/nx-s1-6005279/what-role-does-the-white-house-press-secretary-play-in-the-trump-era)
- 9. Politics chat: Zelenskyy on Trump, Democrats bring in the money for midterms · [https://www.npr.org/2026/10/18/nx-s1-6005192/politics-chat-zelenskyy-on-trump-democrats-bring-in-the-money-for-midterms](https://www.npr.org/2026/10/18/nx-s1-6005192/politics-chat-zelenskyy-on-trump-democrats-bring-in-the-money-for-midterms)
-10. Trump suspends federal diesel taxes to help farmers, but states issue warnings · [https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings](https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings)
+ 1. Dimon says US economy 'booming,' but warns about 'inflationary' events · [https://thehill.com/business/6158409-jamie-dimon-economy-warning/](https://thehill.com/business/6158409-jamie-dimon-economy-warning/)
+ 2. Klobuchar, Demuth face off in first Minnesota governor's debate · [https://thehill.com/homenews/campaign/6158330-klobuchar-demuth-minnesota-governor-debate/](https://thehill.com/homenews/campaign/6158330-klobuchar-demuth-minnesota-governor-debate/)
+ 3. Live updates: Interior officials defend golf course takeover moves; Trump heads to Kansas · [https://thehill.com/homenews/administration/6156709-live-updates-trump-russia-sanctions-gop-midterms/](https://thehill.com/homenews/administration/6156709-live-updates-trump-russia-sanctions-gop-midterms/)
+ 4. Could you soon make your own moonshine? SCOTUS takes up 160-year-old ban · [https://www.axios.com/2026/10/19/supreme-court-home-distilling-moonshine-ban](https://www.axios.com/2026/10/19/supreme-court-home-distilling-moonshine-ban)
+ 5. Exclusive: Secret pay-for-play text rocks Trump White House · [https://www.axios.com/2026/10/19/kennedy-center-text-trump-grenell-habba](https://www.axios.com/2026/10/19/kennedy-center-text-trump-grenell-habba)
+ 6. Supreme Court won't revive accused 9/11 mastermind's plea deal · [https://www.axios.com/2026/10/19/supreme-court-khalid-sheikh-mohammed-911-plea-deal](https://www.axios.com/2026/10/19/supreme-court-khalid-sheikh-mohammed-911-plea-deal)
+ 7. The fallout from Trump's Russia energy moves · [https://www.axios.com/2026/10/19/fallout-trump-russia-energy](https://www.axios.com/2026/10/19/fallout-trump-russia-energy)
+ 8. Virginia Democrat becomes latest lawmaker to receive suspicious white powder · [https://thehill.com/homenews/house/6158277-lawmakers-targeted-suspicious-white-powder/](https://thehill.com/homenews/house/6158277-lawmakers-targeted-suspicious-white-powder/)
+ 9. Judge presses federal government on East Potomac takeover despite Trump attacks · [https://thehill.com/regulation/court-battles/6158276-judge-questions-trump-east-potomac-park/](https://thehill.com/regulation/court-battles/6158276-judge-questions-trump-east-potomac-park/)
+10. Amanpour announces CNN departure after 43 years · [https://thehill.com/media/6158178-amanpour-to-leave-cnn-june-2027/](https://thehill.com/media/6158178-amanpour-to-leave-cnn-june-2027/)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -91,12 +98,13 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **imigração** | O impacto da imigração nas políticas americanas | Trump fez declarações recentes sobre imigração que estão gerando debates acalorados nos EUA, especialmente entre os imig |
-| 2 🟠 🎬 | **abrir** | Franquias baratas para brasileiros nos EUA | Recentemente, foram listadas franquias para abrir negócios a partir de R$ 9.500, atraindo atenção em um mercado competit |
-| 3 🟡 🎯 | **renda** | Como aumentar sua renda extra nos EUA | A discussão sobre renda extra está em alta, especialmente com a economia incerta e mais pessoas buscando alternativas de |
-| 4 🟡 🎬 | **economia & mercado** | Impacto da inflação na vida do imigrante | Recentes dados mostram que a inflação está subindo rapidamente, afetando o custo de vida nos EUA. |
-| 5 🟡 ⚡ | **tecnologia** | Golpes com IA: como se proteger | Com o aumento do uso de IA, os golpes também estão se tornando mais sofisticados e comuns. |
-| 6 🟡 ⚡ | **educação** | Dicas para aprender inglês rapidamente | Com a necessidade crescente de fluência em inglês para a integração no mercado de trabalho americano, mais brasileiros b |
-| 7 🟢 🎬 | **lifestyle** | Rotina de um brasileiro vivendo nos EUA | A curiosidade sobre a vida cotidiana nos EUA está crescendo entre brasileiros, tanto os que vivem lá quanto os que plane |
-| 8 🟢 ⚡ | **entretenimento** | Memes sobre a vida nos EUA | Com a popularização dos memes e a cultura de humor, há uma demanda por conteúdo que reflita as experiências dos brasilei |
-| 9 🟢 🎬 | **viagem** | Quanto custa viajar para NY | Os preços de viagens e passagens aéreas estão em alta, e brasileiros estão cada vez mais interessados em planejar viagen |
+| 1 🟠 🎬 | **Renda Extra** | Como buscar uma renda extra mensal sem mudar sua rotina de trabalho | A busca por fontes alternativas de renda se intensifica à medida que a economia se torna mais desafiadora, com muitos pr |
+| 2 🟠 🎯 | **Trabalho e IA** | 3 formas de usar IA no trabalho e o que evitar | O uso de inteligência artificial está crescendo rapidamente em ambientes de trabalho, com profissionais buscando otimiza |
+| 3 🟡 🎬 | **Custo de Vida** | Quanto custa viver nos EUA em comparação com o Brasil | Com a inflação e o aumento do custo de vida, muitos brasileiros estão avaliando suas opções de migração e o que esperar  |
+| 4 🟡 🎬 | **Direito & Legal** | Suprema Corte dos EUA e suas implicações para imigrantes | Decisões recentes da Suprema Corte têm implicações diretas sobre direitos e regulamentações que afetam imigrantes. |
+| 5 🟡 🎯 | **Tecnologia** | Novidades sobre tecnologia que afetam o mercado de trabalho | Com a rápida evolução da tecnologia, as empresas estão se adaptando e buscando inovações para melhorar a eficiência. |
+| 6 🟡 🎬 | **Empreendedorismo** | O impacto da economia nos pequenos negócios | A economia dos EUA está em um momento delicado, e muitos pequenos empresários estão repensando suas estratégias. |
+| 7 🟡 🎬 | **Viagem** | Quanto custa viajar para os EUA | O turismo está se recuperando, e muitos brasileiros estão planejando viagens para os EUA, mas o custo pode ser uma preoc |
+| 8 🟡 🎯 | **Economia** | Efeitos da inflação na vida dos imigrantes | A inflação nos EUA está em alta, afetando diretamente o poder de compra dos imigrantes. |
+| 9 🟢 🎬 | **Lifestyle** | Rotina de trabalho home office nos EUA | O home office se tornou uma norma para muitos trabalhadores, e as pessoas estão buscando maneiras de otimizar suas rotin |
+| 10 🟢 ⚡ | **Entretenimento** | Tendências de memes sobre a vida nos EUA | Memes sobre a vida cotidiana nos EUA estão se tornando populares, refletindo a experiência dos imigrantes. |

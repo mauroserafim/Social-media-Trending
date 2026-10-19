@@ -1,0 +1,991 @@
+{
+  "generated_at": "2026-10-19T18:27:39.534520",
+  "run_id": "39302557165",
+  "summary": {
+    "total_br": 30,
+    "total_us": 28,
+    "br_us_connections": 10,
+    "cross_platform_topics": 15,
+    "niche_ideas": 10
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "IVE 아이브 'Looks Can Kill' MV",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=rsNhWkC4neE",
+          "score": 46.21,
+          "region": "BR",
+          "views": 3990634
+        },
+        {
+          "title": "NMIXX(엔믹스) “긴 소원(Birthday Wish)” M/V",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=roHWN9fL2SM",
+          "score": 44.83,
+          "region": "BR",
+          "views": 3871670
+        },
+        {
+          "title": "Hugo e Guilherme, Zé Vaqueiro - Flash (Minha Mente)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=akkCnFdhPWo",
+          "score": 5.4,
+          "region": "BR",
+          "views": 2321032
+        },
+        {
+          "title": "Flatbed Truck McQueen Transportation with Truck Pothole vs Car #70   BeamNG Drive",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Ohhxci6cK7I",
+          "score": 2.9,
+          "region": "BR",
+          "views": 213807
+        },
+        {
+          "title": "ALGORITHOMUS INVADIU O GARTICPHONE! 🍉🥝",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=fDBmng_6Yis",
+          "score": 2.43,
+          "region": "BR",
+          "views": 445628
+        },
+        {
+          "title": "A PASSIVA DA AMBESSA CRIOU UM MONSTRO EM FORMA DE BUILD",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=U4ZWhmwcLj8",
+          "score": 1.53,
+          "region": "BR",
+          "views": 50924
+        },
+        {
+          "title": "M4rkim - PRESIDENTE (Funny Valentine)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=OSuMYKKuyNQ",
+          "score": 1.44,
+          "region": "BR",
+          "views": 449839
+        },
+        {
+          "title": "7 Minutoz - ATÉ O FIM | Billy Bruto (The Boys)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=dg5PPCs_8Ls",
+          "score": 1.15,
+          "region": "BR",
+          "views": 196054
+        },
+        {
+          "title": "Dance Se Souber atualizadas 2026 {tiktok}🎶💜",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=vESJj4E1fpg",
+          "score": 0.57,
+          "region": "BR",
+          "views": 127137
+        },
+        {
+          "title": "FLASH - Zé Vaqueiro 2026 (Repertório Novo)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=lxBoauM12pM",
+          "score": 0.48,
+          "region": "BR",
+          "views": 161999
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Apple pode ter de pagar mais em caso de patente com indenização de US$ 5,7 bilhões",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/10/19/apple-pode-ter-de-pagar-mais-em-caso-de-patente-com-indenizacao-de-us-57-bilhoes.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Após 43 anos, jornalista Christiane Amanpour deixará a CNN americana",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/10/19/apos-43-anos-christiane-amanpour-deixara-a-cnn-americana.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Governo Trump proíbe uso de tecnologia DeepSeek em sistemas de TI civis federais",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/governo-trump-proibe-uso-de-tecnologia-deepseek-em-sistemas-de-ti-civis-federais/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Vale Base Metals avança em virada operacional e acelera expansão em cobre",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/vale-base-metals-avanca-em-virada-operacional-e-acelera-expansao-em-cobre/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Tiro durante confusão em bar com deputado atinge apresentador Fred Bruno, da TV Globo",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/tiro-durante-confusao-em-bar-com-deputado-atinge-apresentador-fred-bruno-da-tv-globo/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Como buscar uma renda extra mensal sem mudar sua rotina de trabalho",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/onde-investir/como-buscar-uma-renda-extra-mensal-sem-mudar-sua-rotina-de-trabalho/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ações europeias caem à medida que distúrbios na França abalam o ânimo do mercado",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/acoes-europeias-caem-a-medida-que-disturbios-na-franca-abalam-o-animo-do-mercado/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ibovespa Hoje Ao Vivo: Bolsa tem queda curta e se mantém nos 205 mil",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Automob (AMOB3): ações saltam após divulgação de dados operacionais do 3º tri",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/automob-amob3-acoes-saltam-apos-divulgacao-de-dados-operacionais-do-3o-tri/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ministério da Agricultura confirma foco da doença de Newcastle em granja de perus em SC",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/ministerio-da-agricultura-confirma-foco-da-doenca-de-newcastle-em-sc.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "SURYAA: Ant Se Aarambh Tak - Official Teaser | Sunny Deol, Ravi Kishan | M Padmakumar| 20th Nov 2026",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=UTgecrJoTZc",
+          "score": 30.75,
+          "region": "US",
+          "views": 3481372
+        },
+        {
+          "title": "I'm Getting Competitive Again",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=u5Im4E3myoM",
+          "score": 7.74,
+          "region": "US",
+          "views": 1063550
+        },
+        {
+          "title": "we're no longer friends..",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=mIqVLAb54q8",
+          "score": 4.31,
+          "region": "US",
+          "views": 753021
+        },
+        {
+          "title": "A$AP ROCKY - SHROOM CLOUDS (Official Video)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=jnFVwpvlq4E",
+          "score": 3.03,
+          "region": "US",
+          "views": 128968
+        },
+        {
+          "title": "Orbital Drop | Trailer",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=uPOLtwCXjpc",
+          "score": 2.04,
+          "region": "US",
+          "views": 457273
+        },
+        {
+          "title": "Crusader Kings III: Silk and Silver | Official Announcement Trailer",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=GsIjU7vnIxg",
+          "score": 1.32,
+          "region": "US",
+          "views": 68092
+        },
+        {
+          "title": "Let’s Play: Wii Sports",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=_nd0JnjIA8E",
+          "score": 0.9,
+          "region": "US",
+          "views": 70194
+        },
+        {
+          "title": "FINAL DOOMSDAY TRAILER SOON?? Here's what Insiders are saying... (PLUS MORE NEWS!)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=HIe3cOe5UR8",
+          "score": 0.14,
+          "region": "US",
+          "views": 4424
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "Dimon says US economy 'booming,' but warns about 'inflationary' events",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/business/6158409-jamie-dimon-economy-warning/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Klobuchar, Demuth face off in first Minnesota governor's debate",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6158330-klobuchar-demuth-minnesota-governor-debate/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Live updates: Interior officials defend golf course takeover moves; Trump heads to Kansas",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6156709-live-updates-trump-russia-sanctions-gop-midterms/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Could you soon make your own moonshine? SCOTUS takes up 160-year-old ban",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/19/supreme-court-home-distilling-moonshine-ban",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Exclusive: Secret pay-for-play text rocks Trump White House",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/19/kennedy-center-text-trump-grenell-habba",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Supreme Court won't revive accused 9/11 mastermind's plea deal",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/19/supreme-court-khalid-sheikh-mohammed-911-plea-deal",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "The fallout from Trump's Russia energy moves",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/19/fallout-trump-russia-energy",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Virginia Democrat becomes latest lawmaker to receive suspicious white powder",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/house/6158277-lawmakers-targeted-suspicious-white-powder/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Judge presses federal government on East Potomac takeover despite Trump attacks",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/regulation/court-battles/6158276-judge-questions-trump-east-potomac-park/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Amanpour announces CNN departure after 43 years",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/media/6158178-amanpour-to-leave-cnn-june-2027/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 12,
+      "score": 70.0,
+      "sample_titles": [
+        "Governo Trump proíbe uso de tecnologia DeepSeek em sistemas de TI civis federais",
+        "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+        "Trump to close and renovate D.C. golf course, despite legal battle",
+        "Rep. Don Beyer, D-Va., on Trump waiving sanctions on Russia"
+      ]
+    },
+    {
+      "topic": "house",
+      "count": 5,
+      "score": 50.0,
+      "sample_titles": [
+        "GP de São Paulo: Nubank House recebe exposição da Mercedes F1 Team",
+        "CNN, MS NOW and Politico prevail against White House — for now",
+        "What does a White House press secretary do?",
+        "What role does the White House Press Secretary play in the Trump era?"
+      ]
+    },
+    {
+      "topic": "trailer",
+      "count": 4,
+      "score": 0.96,
+      "sample_titles": [
+        "Daniel e a Fornalha Ardente | Trailer Oficial Dublado",
+        "Orbital Drop | Trailer",
+        "FINAL DOOMSDAY TRAILER SOON?? Here's what Insiders are saying... (PLUS MORE NEWS!)",
+        "Crusader Kings III: Silk and Silver | Official Announcement Trailer"
+      ]
+    },
+    {
+      "topic": "interior",
+      "count": 2,
+      "score": 90.0,
+      "sample_titles": [
+        "Time do interior de SP campeão cima do Palmeiras oficializa SAF com Ronaldo e Roberto Carlos",
+        "Live updates: Interior officials defend golf course takeover moves; Trump heads to Kansas"
+      ]
+    },
+    {
+      "topic": "amanpour",
+      "count": 2,
+      "score": 90.0,
+      "sample_titles": [
+        "Após 43 anos, jornalista Christiane Amanpour deixará a CNN americana",
+        "Amanpour announces CNN departure after 43 years"
+      ]
+    },
+    {
+      "topic": "zelensky",
+      "count": 2,
+      "score": 70.0,
+      "sample_titles": [
+        "Papa pede que Zelensky coopere com Putin para garantir ajuda a cidade ucraniana sob controle russo",
+        "Zelensky speaks to Witkoff and Kushner amid U.S.-Ukraine crisis"
+      ]
+    },
+    {
+      "topic": "alberta",
+      "count": 2,
+      "score": 70.0,
+      "sample_titles": [
+        "Quanto a província de Alberta gera de riqueza para o Canadá e o que aconteceria se ela conquistasse a independência?",
+        "Alberta voters weigh future in Canada"
+      ]
+    },
+    {
+      "topic": "debate",
+      "count": 2,
+      "score": 65.0,
+      "sample_titles": [
+        "'Caótico' e 'tenso': o que imprensa internacional disse sobre debate entre Lula e Flávio Bolsonaro",
+        "Klobuchar, Demuth face off in first Minnesota governor's debate"
+      ]
+    },
+    {
+      "topic": "campus",
+      "count": 2,
+      "score": 30.0,
+      "sample_titles": [
+        "Jacaré de 2 metros é resgatado dentro do campus do Ifap em Macapá; é o 2º animal em 17 dias",
+        "Greensboro, NC students protest the absence of early voting sites on campus"
+      ]
+    },
+    {
+      "topic": "online",
+      "count": 2,
+      "score": 10.0,
+      "sample_titles": [
+        "como ganhar dinheiro online",
+        "how to learn online"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "trabalho",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 63.33,
+      "sample_titles": [
+        "Ex-vice-presidente de RH da Microsoft revela 3 formas de usar IA no trabalho e o que evitar",
+        "Como buscar uma renda extra mensal sem mudar sua rotina de trabalho",
+        "trabalho home office"
+      ]
+    },
+    {
+      "topic": "renda extra",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "Como buscar uma renda extra mensal sem mudar sua rotina de trabalho",
+        "renda extra"
+      ]
+    },
+    {
+      "topic": "renda",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "Como buscar uma renda extra mensal sem mudar sua rotina de trabalho",
+        "renda extra"
+      ]
+    },
+    {
+      "topic": "extra",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "Como buscar uma renda extra mensal sem mudar sua rotina de trabalho",
+        "renda extra"
+      ]
+    },
+    {
+      "topic": "kings",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 53.77,
+      "sample_titles": [
+        "Crusader Kings III: Silk and Silver | Official Announcement Trailer",
+        "Meta apologizes for suspending 'No Kings' Instagram account, blaming bot traffic increase",
+        "No Kings account suspended by Meta during protests — not a coincidence?"
+      ]
+    },
+    {
+      "topic": "estados",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Suprema Corte dos Estados Unidos rejeita recurso de mentor dos atentados de 11/9",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "unidos",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Suprema Corte dos Estados Unidos rejeita recurso de mentor dos atentados de 11/9",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "estados unidos",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Suprema Corte dos Estados Unidos rejeita recurso de mentor dos atentados de 11/9",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "quanto",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Quanto a província de Alberta gera de riqueza para o Canadá e o que aconteceria se ela conquistasse a independência?",
+        "quanto custa viajar para os EUA"
+      ]
+    },
+    {
+      "topic": "feira",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.06,
+      "sample_titles": [
+        "Segunda Feira 19 de outubro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "'Anora', vencedor de cinco Oscars, estreia na Netflix nesta sexta-feira, 23"
+      ]
+    },
+    {
+      "topic": "troca",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.02,
+      "sample_titles": [
+        "Troca de Calçada",
+        "Lindt troca CEO após queda nas vendas e alta no preço do cacau"
+      ]
+    },
+    {
+      "topic": "presidente",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 37.15,
+      "sample_titles": [
+        "M4rkim - PRESIDENTE (Funny Valentine)",
+        "Ex-vice-presidente de RH da Microsoft revela 3 formas de usar IA no trabalho e o que evitar",
+        "Pesquisa segundo turno presidente 2026: veja números mais recentes"
+      ]
+    },
+    {
+      "topic": "bolsonaro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 35.1,
+      "sample_titles": [
+        "FORA PT AQUI NÃO É TEU LUGAR 🔥 BOLSONARO 2026 🇧🇷 SOLINHO FORA PT | QUEM FICAR PARADO É PETISTA",
+        "Bolsa Família vai ter regra de transição de dois anos, diz coordenadora de campanha de Flávio Bolsonaro",
+        "'Caótico' e 'tenso': o que imprensa internacional disse sobre debate entre Lula e Flávio Bolsonaro",
+        "Flávio Bolsonaro critica entraves ambientais e diz que produtor 'vai fazer o que quiser na sua terra'"
+      ]
+    },
+    {
+      "topic": "inflation",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 15.0,
+      "sample_titles": [
+        "Inflation sizzled in September — and Social Security benefits will get a boost",
+        "inflation"
+      ]
+    },
+    {
+      "topic": "video",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 11.52,
+      "sample_titles": [
+        "A$AP ROCKY - SHROOM CLOUDS (Official Video)",
+        "VIDEO: The skincare sample is free. What happens next can cost thousands"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "Renda Extra",
+      "subtopic": "Como buscar uma renda extra mensal sem mudar sua rotina de trabalho",
+      "why_trending": "A busca por fontes alternativas de renda se intensifica à medida que a economia se torna mais desafiadora, com muitos procurando maneiras de complementar seus ganhos.",
+      "niche_angle": "Explorar como brasileiros nos EUA podem implementar estratégias práticas para gerar renda extra, considerando as particularidades do mercado americano.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 8,
+      "source": "InfoMoney",
+      "region": "BR",
+      "links": [
+        "https://www.infomoney.com.br/onde-investir/como-buscar-uma-renda-extra-mensal-sem-mudar-sua-rotina-de-trabalho/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194311"
+    },
+    {
+      "main_topic": "Trabalho e IA",
+      "subtopic": "3 formas de usar IA no trabalho e o que evitar",
+      "why_trending": "O uso de inteligência artificial está crescendo rapidamente em ambientes de trabalho, com profissionais buscando otimizar suas atividades.",
+      "niche_angle": "Discutir como brasileiros podem aplicar essas tecnologias em suas carreiras nos EUA, evitando armadilhas comuns.",
+      "video_format": "both",
+      "urgency": "high",
+      "ease": 7,
+      "source": "Exame",
+      "region": "US",
+      "links": [
+        "https://exame.com/inteligencia-artificial/ex-vice-presidente-de-rh-da-microsoft-revela-3-formas-de-usar-ia-no-trabalho-e-o-que-evitar/"
+      ],
+      "platforms": [
+        "news",
+        "youtube"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194320"
+    },
+    {
+      "main_topic": "Custo de Vida",
+      "subtopic": "Quanto custa viver nos EUA em comparação com o Brasil",
+      "why_trending": "Com a inflação e o aumento do custo de vida, muitos brasileiros estão avaliando suas opções de migração e o que esperar financeiramente.",
+      "niche_angle": "Fornecer uma análise detalhada sobre custos reais de moradia, alimentação e transporte, ajudando brasileiros a se prepararem financeiramente.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "google_trends",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "google_trends"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194325"
+    },
+    {
+      "main_topic": "Direito & Legal",
+      "subtopic": "Suprema Corte dos EUA e suas implicações para imigrantes",
+      "why_trending": "Decisões recentes da Suprema Corte têm implicações diretas sobre direitos e regulamentações que afetam imigrantes.",
+      "niche_angle": "Analisar como essas decisões impactam diretamente a vida dos brasileiros que vivem nos EUA e o que pode mudar no futuro.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "G1",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/10/19/suprema-corte-dos-estados-unidos-rejeita-recurso-de-suposto-mentor-dos-atentados-de-119.ghtml"
+      ],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194329"
+    },
+    {
+      "main_topic": "Tecnologia",
+      "subtopic": "Novidades sobre tecnologia que afetam o mercado de trabalho",
+      "why_trending": "Com a rápida evolução da tecnologia, as empresas estão se adaptando e buscando inovações para melhorar a eficiência.",
+      "niche_angle": "Explorar como essas inovações podem ser aplicadas por brasileiros que trabalham nos EUA, tanto em empregos tradicionais quanto em empreendimentos.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "Exame",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194334"
+    },
+    {
+      "main_topic": "Empreendedorismo",
+      "subtopic": "O impacto da economia nos pequenos negócios",
+      "why_trending": "A economia dos EUA está em um momento delicado, e muitos pequenos empresários estão repensando suas estratégias.",
+      "niche_angle": "Investigar como brasileiros podem navegar nesse ambiente desafiador e encontrar oportunidades para empreender nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "The Hill",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194337"
+    },
+    {
+      "main_topic": "Viagem",
+      "subtopic": "Quanto custa viajar para os EUA",
+      "why_trending": "O turismo está se recuperando, e muitos brasileiros estão planejando viagens para os EUA, mas o custo pode ser uma preocupação.",
+      "niche_angle": "Fornecer um guia prático sobre os custos envolvidos e dicas para economizar durante a viagem.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "google_trends",
+      "region": "BR",
+      "links": [],
+      "platforms": [
+        "google_trends"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194342"
+    },
+    {
+      "main_topic": "Economia",
+      "subtopic": "Efeitos da inflação na vida dos imigrantes",
+      "why_trending": "A inflação nos EUA está em alta, afetando diretamente o poder de compra dos imigrantes.",
+      "niche_angle": "Discutir estratégias que brasileiros podem usar para se proteger financeiramente durante períodos de alta inflação.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "The Hill",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194350"
+    },
+    {
+      "main_topic": "Lifestyle",
+      "subtopic": "Rotina de trabalho home office nos EUA",
+      "why_trending": "O home office se tornou uma norma para muitos trabalhadores, e as pessoas estão buscando maneiras de otimizar suas rotinas.",
+      "niche_angle": "Mostrar como brasileiros podem adaptar suas rotinas de trabalho em casa, utilizando dicas que funcionam no contexto americano.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 5,
+      "source": "google_trends",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "google_trends"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194354"
+    },
+    {
+      "main_topic": "Entretenimento",
+      "subtopic": "Tendências de memes sobre a vida nos EUA",
+      "why_trending": "Memes sobre a vida cotidiana nos EUA estão se tornando populares, refletindo a experiência dos imigrantes.",
+      "niche_angle": "Criar uma série de vídeos analisando memes populares e como eles refletem a realidade dos brasileiros vivendo nos EUA.",
+      "video_format": "short",
+      "urgency": "low",
+      "ease": 3,
+      "source": "tiktok",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "tiktok"
+      ],
+      "collected_at": "2026-10-19T18:27:39.194358"
+    }
+  ]
+}
