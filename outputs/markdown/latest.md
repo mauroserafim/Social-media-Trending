@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 19/10/2026 18:27 UTC
+# 📊 Tendências em Alta — 20/10/2026 16:29 UTC
 
-**Run:** `39302557165` | **BR:** 30 trends | **US:** 28 trends | **Nicho:** 10 ideias
+**Run:** `39457820121` | **BR:** 30 trends | **US:** 26 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -13,27 +13,27 @@
 
  1. IVE 아이브 'Looks Can Kill' MV · [https://youtube.com/watch?v=rsNhWkC4neE](https://youtube.com/watch?v=rsNhWkC4neE)
  2. NMIXX(엔믹스) “긴 소원(Birthday Wish)” M/V · [https://youtube.com/watch?v=roHWN9fL2SM](https://youtube.com/watch?v=roHWN9fL2SM)
- 3. Hugo e Guilherme, Zé Vaqueiro - Flash (Minha Mente) · [https://youtube.com/watch?v=akkCnFdhPWo](https://youtube.com/watch?v=akkCnFdhPWo)
- 4. Flatbed Truck McQueen Transportation with Truck Pothole vs Car #70   BeamNG Drive · [https://youtube.com/watch?v=Ohhxci6cK7I](https://youtube.com/watch?v=Ohhxci6cK7I)
- 5. ALGORITHOMUS INVADIU O GARTICPHONE! 🍉🥝 · [https://youtube.com/watch?v=fDBmng_6Yis](https://youtube.com/watch?v=fDBmng_6Yis)
- 6. A PASSIVA DA AMBESSA CRIOU UM MONSTRO EM FORMA DE BUILD · [https://youtube.com/watch?v=U4ZWhmwcLj8](https://youtube.com/watch?v=U4ZWhmwcLj8)
- 7. M4rkim - PRESIDENTE (Funny Valentine) · [https://youtube.com/watch?v=OSuMYKKuyNQ](https://youtube.com/watch?v=OSuMYKKuyNQ)
- 8. 7 Minutoz - ATÉ O FIM | Billy Bruto (The Boys) · [https://youtube.com/watch?v=dg5PPCs_8Ls](https://youtube.com/watch?v=dg5PPCs_8Ls)
- 9. Dance Se Souber atualizadas 2026 {tiktok}🎶💜 · [https://youtube.com/watch?v=vESJj4E1fpg](https://youtube.com/watch?v=vESJj4E1fpg)
-10. FLASH - Zé Vaqueiro 2026 (Repertório Novo) · [https://youtube.com/watch?v=lxBoauM12pM](https://youtube.com/watch?v=lxBoauM12pM)
+ 3. FIRESTARTER · [https://youtube.com/watch?v=miIihGHZ_7A](https://youtube.com/watch?v=miIihGHZ_7A)
+ 4. A PASSIVA DA AMBESSA CRIOU UM MONSTRO EM FORMA DE BUILD · [https://youtube.com/watch?v=U4ZWhmwcLj8](https://youtube.com/watch?v=U4ZWhmwcLj8)
+ 5. Daniel e a Fornalha Ardente | Trailer Oficial Dublado · [https://youtube.com/watch?v=3oNKOALkL2o](https://youtube.com/watch?v=3oNKOALkL2o)
+ 6. EM BUSCA DO FINAL BOM | 60 Seconds! Reatomized · [https://youtube.com/watch?v=EtYzQSaITNI](https://youtube.com/watch?v=EtYzQSaITNI)
+ 7. 7 Minutoz - ATÉ O FIM | Billy Bruto (The Boys) · [https://youtube.com/watch?v=dg5PPCs_8Ls](https://youtube.com/watch?v=dg5PPCs_8Ls)
+ 8. Dance Se Souber atualizadas 2026 {tiktok}🎶💜 · [https://youtube.com/watch?v=vESJj4E1fpg](https://youtube.com/watch?v=vESJj4E1fpg)
+ 9. Louvores de Adoração, As Melhores Músicas Gospel Mais Tocadas 2026 ,Top Gospel ,Evangélicos Gospel · [https://youtube.com/watch?v=MVXu0ZlkSe0](https://youtube.com/watch?v=MVXu0ZlkSe0)
+10. سورة الممتحنة · [https://youtube.com/watch?v=l2OfH1H1hZw](https://youtube.com/watch?v=l2OfH1H1hZw)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Apple pode ter de pagar mais em caso de patente com indenização de US$ 5,7 bilhões · [https://g1.globo.com/tecnologia/noticia/2026/10/19/apple-pode-ter-de-pagar-mais-em-caso-de-patente-com-indenizacao-de-us-57-bilhoes.ghtml](https://g1.globo.com/tecnologia/noticia/2026/10/19/apple-pode-ter-de-pagar-mais-em-caso-de-patente-com-indenizacao-de-us-57-bilhoes.ghtml)
- 2. Após 43 anos, jornalista Christiane Amanpour deixará a CNN americana · [https://g1.globo.com/economia/noticia/2026/10/19/apos-43-anos-christiane-amanpour-deixara-a-cnn-americana.ghtml](https://g1.globo.com/economia/noticia/2026/10/19/apos-43-anos-christiane-amanpour-deixara-a-cnn-americana.ghtml)
- 3. Governo Trump proíbe uso de tecnologia DeepSeek em sistemas de TI civis federais · [https://www.infomoney.com.br/mundo/governo-trump-proibe-uso-de-tecnologia-deepseek-em-sistemas-de-ti-civis-federais/](https://www.infomoney.com.br/mundo/governo-trump-proibe-uso-de-tecnologia-deepseek-em-sistemas-de-ti-civis-federais/)
- 4. Vale Base Metals avança em virada operacional e acelera expansão em cobre · [https://www.infomoney.com.br/mercados/vale-base-metals-avanca-em-virada-operacional-e-acelera-expansao-em-cobre/](https://www.infomoney.com.br/mercados/vale-base-metals-avanca-em-virada-operacional-e-acelera-expansao-em-cobre/)
- 5. Tiro durante confusão em bar com deputado atinge apresentador Fred Bruno, da TV Globo · [https://www.infomoney.com.br/politica/tiro-durante-confusao-em-bar-com-deputado-atinge-apresentador-fred-bruno-da-tv-globo/](https://www.infomoney.com.br/politica/tiro-durante-confusao-em-bar-com-deputado-atinge-apresentador-fred-bruno-da-tv-globo/)
- 6. Como buscar uma renda extra mensal sem mudar sua rotina de trabalho · [https://www.infomoney.com.br/onde-investir/como-buscar-uma-renda-extra-mensal-sem-mudar-sua-rotina-de-trabalho/](https://www.infomoney.com.br/onde-investir/como-buscar-uma-renda-extra-mensal-sem-mudar-sua-rotina-de-trabalho/)
- 7. Ações europeias caem à medida que distúrbios na França abalam o ânimo do mercado · [https://www.infomoney.com.br/mercados/acoes-europeias-caem-a-medida-que-disturbios-na-franca-abalam-o-animo-do-mercado/](https://www.infomoney.com.br/mercados/acoes-europeias-caem-a-medida-que-disturbios-na-franca-abalam-o-animo-do-mercado/)
- 8. Ibovespa Hoje Ao Vivo: Bolsa tem queda curta e se mantém nos 205 mil · [https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19102026/)
- 9. Automob (AMOB3): ações saltam após divulgação de dados operacionais do 3º tri · [https://www.infomoney.com.br/mercados/automob-amob3-acoes-saltam-apos-divulgacao-de-dados-operacionais-do-3o-tri/](https://www.infomoney.com.br/mercados/automob-amob3-acoes-saltam-apos-divulgacao-de-dados-operacionais-do-3o-tri/)
-10. Ministério da Agricultura confirma foco da doença de Newcastle em granja de perus em SC · [https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/ministerio-da-agricultura-confirma-foco-da-doenca-de-newcastle-em-sc.ghtml](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/ministerio-da-agricultura-confirma-foco-da-doenca-de-newcastle-em-sc.ghtml)
+ 1. A 5 dias do segundo turno, Flávio propõe devolver via PIX parte de gastos com contas e prestações, mas não detalha proposta · [https://g1.globo.com/economia/noticia/2026/10/20/a-5-dias-do-segundo-turno-flavio-propoe-devolver-via-pix-parte-de-gastos-com-contas-e-prestacoes-mas-nao-detalha-proposta.ghtml](https://g1.globo.com/economia/noticia/2026/10/20/a-5-dias-do-segundo-turno-flavio-propoe-devolver-via-pix-parte-de-gastos-com-contas-e-prestacoes-mas-nao-detalha-proposta.ghtml)
+ 2. Onde assistir a PSG x Barcelona pela Champions League? · [https://www.infomoney.com.br/esportes/onde-assistir-psg-barcelona-champions-league/](https://www.infomoney.com.br/esportes/onde-assistir-psg-barcelona-champions-league/)
+ 3. ‘Janones sai hoje do hospital, logo após as 13 horas’, diz médica do deputado · [https://www.infomoney.com.br/politica/janones-sai-hoje-do-hospital-logo-apos-as-13-horas-diz-medica-do-deputado/](https://www.infomoney.com.br/politica/janones-sai-hoje-do-hospital-logo-apos-as-13-horas-diz-medica-do-deputado/)
+ 4. Trade eleitoral voltou? Ibovespa sobe forte e vai a 208 mil com NY e pesquisas · [https://www.infomoney.com.br/mercados/trade-eleitoral-voltou-ibovespa-sobe-forte-e-vai-a-208-mil-com-ny-e-pesquisas/](https://www.infomoney.com.br/mercados/trade-eleitoral-voltou-ibovespa-sobe-forte-e-vai-a-208-mil-com-ny-e-pesquisas/)
+ 5. Ibovespa Hoje Ao Vivo: Bolsa sobe e ronda os 208 mil pontos com eleições em foco · [https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/)
+ 6. Wiz (WIZC3) desaba mais de 20% após vender sua participação na Inter Seguros; entenda · [https://www.infomoney.com.br/mercados/wiz-wizc3-desaba-mais-de-20-apos-vender-sua-participacao-na-inter-seguros-entenda/](https://www.infomoney.com.br/mercados/wiz-wizc3-desaba-mais-de-20-apos-vender-sua-participacao-na-inter-seguros-entenda/)
+ 7. Bugatti restaura único Veyron 'espelhado'; superesportivo foi visto com o piloto Fernando Alonso · [https://g1.globo.com/carros/noticia/2026/10/20/bugatti-restaura-veyron-espelhado.ghtml](https://g1.globo.com/carros/noticia/2026/10/20/bugatti-restaura-veyron-espelhado.ghtml)
+ 8. Apenas Santa Catarina vai deixar de exportar frango para a China, diz secretário do Ministério da Agricultura · [https://g1.globo.com/economia/agronegocios/noticia/2026/10/20/apenas-santa-catarina-vai-deixar-de-exportar-frango-para-china-diz-secretario-do-ministerio-da-agricultura.ghtml](https://g1.globo.com/economia/agronegocios/noticia/2026/10/20/apenas-santa-catarina-vai-deixar-de-exportar-frango-para-china-diz-secretario-do-ministerio-da-agricultura.ghtml)
+ 9. Preço do diesel dispara 6,67% e chega a R$ 7,20 por litro no Brasil, aponta pesquisa · [https://g1.globo.com/economia/noticia/2026/10/20/preco-do-diesel-dispara-667percent-e-chega-a-r-720-por-litro-no-brasil-aponta-pesquisa.ghtml](https://g1.globo.com/economia/noticia/2026/10/20/preco-do-diesel-dispara-667percent-e-chega-a-r-720-por-litro-no-brasil-aponta-pesquisa.ghtml)
+10. Nova geração do Dolphin Mini fica mais potente e carrega bateria em 9 minutos · [https://g1.globo.com/carros/noticia/2026/10/20/nova-geracao-do-dolphin-mini-fica-mais-potente-e-carrega-bateria-em-9-minutos.ghtml](https://g1.globo.com/carros/noticia/2026/10/20/nova-geracao-do-dolphin-mini-fica-mais-potente-e-carrega-bateria-em-9-minutos.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,29 +54,27 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 8
+#### 📺 YouTube (US) — Top 6
 
- 1. SURYAA: Ant Se Aarambh Tak - Official Teaser | Sunny Deol, Ravi Kishan | M Padmakumar| 20th Nov 2026 · [https://youtube.com/watch?v=UTgecrJoTZc](https://youtube.com/watch?v=UTgecrJoTZc)
- 2. I'm Getting Competitive Again · [https://youtube.com/watch?v=u5Im4E3myoM](https://youtube.com/watch?v=u5Im4E3myoM)
- 3. we're no longer friends.. · [https://youtube.com/watch?v=mIqVLAb54q8](https://youtube.com/watch?v=mIqVLAb54q8)
- 4. A$AP ROCKY - SHROOM CLOUDS (Official Video) · [https://youtube.com/watch?v=jnFVwpvlq4E](https://youtube.com/watch?v=jnFVwpvlq4E)
- 5. Orbital Drop | Trailer · [https://youtube.com/watch?v=uPOLtwCXjpc](https://youtube.com/watch?v=uPOLtwCXjpc)
- 6. Crusader Kings III: Silk and Silver | Official Announcement Trailer · [https://youtube.com/watch?v=GsIjU7vnIxg](https://youtube.com/watch?v=GsIjU7vnIxg)
- 7. Let’s Play: Wii Sports · [https://youtube.com/watch?v=_nd0JnjIA8E](https://youtube.com/watch?v=_nd0JnjIA8E)
- 8. FINAL DOOMSDAY TRAILER SOON?? Here's what Insiders are saying... (PLUS MORE NEWS!) · [https://youtube.com/watch?v=HIe3cOe5UR8](https://youtube.com/watch?v=HIe3cOe5UR8)
+ 1. WE LET YOUTUBERS CONTROL SIDEMEN GEOGUESSR · [https://youtube.com/watch?v=BRF1joRBVXE](https://youtube.com/watch?v=BRF1joRBVXE)
+ 2. MILEY - Orbit · [https://youtube.com/watch?v=RhMLe43hQYY](https://youtube.com/watch?v=RhMLe43hQYY)
+ 3. A$AP ROCKY - SHROOM CLOUDS (Official Video) · [https://youtube.com/watch?v=jnFVwpvlq4E](https://youtube.com/watch?v=jnFVwpvlq4E)
+ 4. Why Cash Ate Nico’s ENTIRE WORLD.. · [https://youtube.com/watch?v=c5hvoD9h0Wk](https://youtube.com/watch?v=c5hvoD9h0Wk)
+ 5. THE NEW DARKSEID TEASER · [https://youtube.com/watch?v=cw4DEgL6K_Y](https://youtube.com/watch?v=cw4DEgL6K_Y)
+ 6. Let’s Play: Wii Sports · [https://youtube.com/watch?v=_nd0JnjIA8E](https://youtube.com/watch?v=_nd0JnjIA8E)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Dimon says US economy 'booming,' but warns about 'inflationary' events · [https://thehill.com/business/6158409-jamie-dimon-economy-warning/](https://thehill.com/business/6158409-jamie-dimon-economy-warning/)
- 2. Klobuchar, Demuth face off in first Minnesota governor's debate · [https://thehill.com/homenews/campaign/6158330-klobuchar-demuth-minnesota-governor-debate/](https://thehill.com/homenews/campaign/6158330-klobuchar-demuth-minnesota-governor-debate/)
- 3. Live updates: Interior officials defend golf course takeover moves; Trump heads to Kansas · [https://thehill.com/homenews/administration/6156709-live-updates-trump-russia-sanctions-gop-midterms/](https://thehill.com/homenews/administration/6156709-live-updates-trump-russia-sanctions-gop-midterms/)
- 4. Could you soon make your own moonshine? SCOTUS takes up 160-year-old ban · [https://www.axios.com/2026/10/19/supreme-court-home-distilling-moonshine-ban](https://www.axios.com/2026/10/19/supreme-court-home-distilling-moonshine-ban)
- 5. Exclusive: Secret pay-for-play text rocks Trump White House · [https://www.axios.com/2026/10/19/kennedy-center-text-trump-grenell-habba](https://www.axios.com/2026/10/19/kennedy-center-text-trump-grenell-habba)
- 6. Supreme Court won't revive accused 9/11 mastermind's plea deal · [https://www.axios.com/2026/10/19/supreme-court-khalid-sheikh-mohammed-911-plea-deal](https://www.axios.com/2026/10/19/supreme-court-khalid-sheikh-mohammed-911-plea-deal)
- 7. The fallout from Trump's Russia energy moves · [https://www.axios.com/2026/10/19/fallout-trump-russia-energy](https://www.axios.com/2026/10/19/fallout-trump-russia-energy)
- 8. Virginia Democrat becomes latest lawmaker to receive suspicious white powder · [https://thehill.com/homenews/house/6158277-lawmakers-targeted-suspicious-white-powder/](https://thehill.com/homenews/house/6158277-lawmakers-targeted-suspicious-white-powder/)
- 9. Judge presses federal government on East Potomac takeover despite Trump attacks · [https://thehill.com/regulation/court-battles/6158276-judge-questions-trump-east-potomac-park/](https://thehill.com/regulation/court-battles/6158276-judge-questions-trump-east-potomac-park/)
-10. Amanpour announces CNN departure after 43 years · [https://thehill.com/media/6158178-amanpour-to-leave-cnn-june-2027/](https://thehill.com/media/6158178-amanpour-to-leave-cnn-june-2027/)
+ 1. Homebuilder sentiment is at a 14-year low · [https://www.axios.com/2026/10/20/housing-construction-ai-rates](https://www.axios.com/2026/10/20/housing-construction-ai-rates)
+ 2. France riots become Republican midterm boogeyman · [https://www.axios.com/2026/10/20/french-protests-trump-republicans-midterms](https://www.axios.com/2026/10/20/french-protests-trump-republicans-midterms)
+ 3. Hume on Trump's midterm campaigning: 'I'm not sure it's making any difference' · [https://thehill.com/homenews/campaign/6160396-hume-trumps-midterm-campaigning-ineffective/](https://thehill.com/homenews/campaign/6160396-hume-trumps-midterm-campaigning-ineffective/)
+ 4. China defends DeepSeek after US ban · [https://thehill.com/policy/technology/6160255-china-retaliation-deepseek-ban/](https://thehill.com/policy/technology/6160255-china-retaliation-deepseek-ban/)
+ 5. Abandoning racial justice won’t save our democracy — reimagining elections will · [https://thehill.com/opinion/civil-rights/6158354-restoring-voting-rights-act/](https://thehill.com/opinion/civil-rights/6158354-restoring-voting-rights-act/)
+ 6. Watch live: Trump, Vance announce Fraud Whistleblower Incentive Program · [https://thehill.com/video-clips/6159635-watch-live-trump-vance-announce-fraud-whistleblower-incentive-program/](https://thehill.com/video-clips/6159635-watch-live-trump-vance-announce-fraud-whistleblower-incentive-program/)
+ 7. 7 in 10 doubt Trump would accept GOP losses in midterms: Survey · [https://thehill.com/homenews/campaign/6160085-donald-trump-midterm-results-poll/](https://thehill.com/homenews/campaign/6160085-donald-trump-midterm-results-poll/)
+ 8. Former Minnesota GOP governor sees 'political layer' to Omar probe · [https://thehill.com/homenews/state-watch/6160385-pawlenty-omar-investigation-timing/](https://thehill.com/homenews/state-watch/6160385-pawlenty-omar-investigation-timing/)
+ 9. Former OpenAI worker accused of bugging conference room planned travel to Saudi Arabia: Prosecutors · [https://thehill.com/policy/technology/6159913-openai-engineer-arrested-bugging-accusations/](https://thehill.com/policy/technology/6159913-openai-engineer-arrested-bugging-accusations/)
+10. Farmers to get one-time payments from $8 billion program, Trump says: What to know · [https://thehill.com/business/agriculture/6160126-farmers-to-get-one-time-payments-from-8-billion-program-trump-says-what-to-know/](https://thehill.com/business/agriculture/6160126-farmers-to-get-one-time-payments-from-8-billion-program-trump-says-what-to-know/)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -98,13 +96,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **Renda Extra** | Como buscar uma renda extra mensal sem mudar sua rotina de trabalho | A busca por fontes alternativas de renda se intensifica à medida que a economia se torna mais desafiadora, com muitos pr |
-| 2 🟠 🎯 | **Trabalho e IA** | 3 formas de usar IA no trabalho e o que evitar | O uso de inteligência artificial está crescendo rapidamente em ambientes de trabalho, com profissionais buscando otimiza |
-| 3 🟡 🎬 | **Custo de Vida** | Quanto custa viver nos EUA em comparação com o Brasil | Com a inflação e o aumento do custo de vida, muitos brasileiros estão avaliando suas opções de migração e o que esperar  |
-| 4 🟡 🎬 | **Direito & Legal** | Suprema Corte dos EUA e suas implicações para imigrantes | Decisões recentes da Suprema Corte têm implicações diretas sobre direitos e regulamentações que afetam imigrantes. |
-| 5 🟡 🎯 | **Tecnologia** | Novidades sobre tecnologia que afetam o mercado de trabalho | Com a rápida evolução da tecnologia, as empresas estão se adaptando e buscando inovações para melhorar a eficiência. |
-| 6 🟡 🎬 | **Empreendedorismo** | O impacto da economia nos pequenos negócios | A economia dos EUA está em um momento delicado, e muitos pequenos empresários estão repensando suas estratégias. |
-| 7 🟡 🎬 | **Viagem** | Quanto custa viajar para os EUA | O turismo está se recuperando, e muitos brasileiros estão planejando viagens para os EUA, mas o custo pode ser uma preoc |
-| 8 🟡 🎯 | **Economia** | Efeitos da inflação na vida dos imigrantes | A inflação nos EUA está em alta, afetando diretamente o poder de compra dos imigrantes. |
-| 9 🟢 🎬 | **Lifestyle** | Rotina de trabalho home office nos EUA | O home office se tornou uma norma para muitos trabalhadores, e as pessoas estão buscando maneiras de otimizar suas rotin |
-| 10 🟢 ⚡ | **Entretenimento** | Tendências de memes sobre a vida nos EUA | Memes sobre a vida cotidiana nos EUA estão se tornando populares, refletindo a experiência dos imigrantes. |
+| 1 🟠 🎬 | **Visto** | Atualizações e dicas sobre visto americano | O interesse por vistos americanos aumentou significativamente devido às mudanças nas políticas de imigração e ao aumento |
+| 2 🟠 🎬 | **Custo de Vida** | Comparação de custo de vida entre os EUA e Brasil | O aumento do custo de vida nos EUA tem gerado debates sobre como isso afeta brasileiros que imigram para o país. |
+| 3 🟡 🎬 | **Empreendedorismo** | Como abrir uma empresa nos EUA | A demanda por informações sobre como abrir negócios nos EUA aumentou, especialmente em um cenário de crescimento de pequ |
+| 4 🟡 🎬 | **Tecnologia** | Impacto da IA nas pequenas empresas | O Google lançou novas ferramentas de IA que podem ajudar pequenas empresas, aumentando o interesse sobre tecnologia e em |
+| 5 🟡 🎬 | **Direito & Legal** | Direitos dos imigrantes nos EUA | Com as eleições se aproximando, questões sobre os direitos dos imigrantes estão em alta, especialmente em relação às leg |
+| 6 🟡 🎬 | **Economia & Mercado** | Impacto da inflação na vida dos imigrantes | A inflação nos EUA está afetando diretamente o poder de compra e a qualidade de vida dos imigrantes. |
+| 7 🟡 ⚡ | **Entretenimento** | Memes e humor sobre a vida nos EUA | Os memes relacionados à vida de imigrantes nos EUA estão ganhando popularidade nas redes sociais. |
+| 8 🟢 🎬 | **Viagem** | Dicas para viajar nos EUA | Com a recuperação das viagens pós-pandemia, há um aumento no interesse por dicas de viagem dentro dos EUA. |
+| 9 🟢 🎬 | **Comunidade & Opinião** | Debate sobre imigração | As questões de imigração estão em alta devido às eleições e às políticas que afetam diretamente os imigrantes. |

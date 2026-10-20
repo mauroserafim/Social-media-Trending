@@ -1,0 +1,915 @@
+{
+  "generated_at": "2026-10-20T16:29:56.188540",
+  "run_id": "39457820121",
+  "summary": {
+    "total_br": 30,
+    "total_us": 26,
+    "br_us_connections": 6,
+    "cross_platform_topics": 13,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "IVE 아이브 'Looks Can Kill' MV",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=rsNhWkC4neE",
+          "score": 34.01,
+          "region": "BR",
+          "views": 8144386
+        },
+        {
+          "title": "NMIXX(엔믹스) “긴 소원(Birthday Wish)” M/V",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=roHWN9fL2SM",
+          "score": 30.76,
+          "region": "BR",
+          "views": 7365284
+        },
+        {
+          "title": "FIRESTARTER",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=miIihGHZ_7A",
+          "score": 2.63,
+          "region": "BR",
+          "views": 284910
+        },
+        {
+          "title": "A PASSIVA DA AMBESSA CRIOU UM MONSTRO EM FORMA DE BUILD",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=U4ZWhmwcLj8",
+          "score": 1.39,
+          "region": "BR",
+          "views": 281330
+        },
+        {
+          "title": "Daniel e a Fornalha Ardente | Trailer Oficial Dublado",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=3oNKOALkL2o",
+          "score": 1.15,
+          "region": "BR",
+          "views": 234510
+        },
+        {
+          "title": "EM BUSCA DO FINAL BOM | 60 Seconds! Reatomized",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=EtYzQSaITNI",
+          "score": 1.08,
+          "region": "BR",
+          "views": 211745
+        },
+        {
+          "title": "7 Minutoz - ATÉ O FIM | Billy Bruto (The Boys)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=dg5PPCs_8Ls",
+          "score": 0.88,
+          "region": "BR",
+          "views": 263678
+        },
+        {
+          "title": "Dance Se Souber atualizadas 2026 {tiktok}🎶💜",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=vESJj4E1fpg",
+          "score": 0.62,
+          "region": "BR",
+          "views": 209167
+        },
+        {
+          "title": "Louvores de Adoração, As Melhores Músicas Gospel Mais Tocadas 2026 ,Top Gospel ,Evangélicos Gospel",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=MVXu0ZlkSe0",
+          "score": 0.55,
+          "region": "BR",
+          "views": 196037
+        },
+        {
+          "title": "سورة الممتحنة",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=l2OfH1H1hZw",
+          "score": 0.51,
+          "region": "BR",
+          "views": 374538
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "A 5 dias do segundo turno, Flávio propõe devolver via PIX parte de gastos com contas e prestações, mas não detalha proposta",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/10/20/a-5-dias-do-segundo-turno-flavio-propoe-devolver-via-pix-parte-de-gastos-com-contas-e-prestacoes-mas-nao-detalha-proposta.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Onde assistir a PSG x Barcelona pela Champions League?",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/onde-assistir-psg-barcelona-champions-league/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "‘Janones sai hoje do hospital, logo após as 13 horas’, diz médica do deputado",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/janones-sai-hoje-do-hospital-logo-apos-as-13-horas-diz-medica-do-deputado/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Trade eleitoral voltou? Ibovespa sobe forte e vai a 208 mil com NY e pesquisas",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/trade-eleitoral-voltou-ibovespa-sobe-forte-e-vai-a-208-mil-com-ny-e-pesquisas/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe e ronda os 208 mil pontos com eleições em foco",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Wiz (WIZC3) desaba mais de 20% após vender sua participação na Inter Seguros; entenda",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/wiz-wizc3-desaba-mais-de-20-apos-vender-sua-participacao-na-inter-seguros-entenda/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Bugatti restaura único Veyron 'espelhado'; superesportivo foi visto com o piloto Fernando Alonso",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/carros/noticia/2026/10/20/bugatti-restaura-veyron-espelhado.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Apenas Santa Catarina vai deixar de exportar frango para a China, diz secretário do Ministério da Agricultura",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/20/apenas-santa-catarina-vai-deixar-de-exportar-frango-para-china-diz-secretario-do-ministerio-da-agricultura.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Preço do diesel dispara 6,67% e chega a R$ 7,20 por litro no Brasil, aponta pesquisa",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/10/20/preco-do-diesel-dispara-667percent-e-chega-a-r-720-por-litro-no-brasil-aponta-pesquisa.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Nova geração do Dolphin Mini fica mais potente e carrega bateria em 9 minutos",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/carros/noticia/2026/10/20/nova-geracao-do-dolphin-mini-fica-mais-potente-e-carrega-bateria-em-9-minutos.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "WE LET YOUTUBERS CONTROL SIDEMEN GEOGUESSR",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=BRF1joRBVXE",
+          "score": 5.8,
+          "region": "US",
+          "views": 1092701
+        },
+        {
+          "title": "MILEY - Orbit",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=RhMLe43hQYY",
+          "score": 2.98,
+          "region": "US",
+          "views": 586824
+        },
+        {
+          "title": "A$AP ROCKY - SHROOM CLOUDS (Official Video)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=jnFVwpvlq4E",
+          "score": 2.7,
+          "region": "US",
+          "views": 565173
+        },
+        {
+          "title": "Why Cash Ate Nico’s ENTIRE WORLD..",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=c5hvoD9h0Wk",
+          "score": 2.62,
+          "region": "US",
+          "views": 531883
+        },
+        {
+          "title": "THE NEW DARKSEID TEASER",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=cw4DEgL6K_Y",
+          "score": 1.43,
+          "region": "US",
+          "views": 208367
+        },
+        {
+          "title": "Let’s Play: Wii Sports",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=_nd0JnjIA8E",
+          "score": 1.05,
+          "region": "US",
+          "views": 244670
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "Homebuilder sentiment is at a 14-year low",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/20/housing-construction-ai-rates",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "France riots become Republican midterm boogeyman",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/20/french-protests-trump-republicans-midterms",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Hume on Trump's midterm campaigning: 'I'm not sure it's making any difference'",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6160396-hume-trumps-midterm-campaigning-ineffective/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "China defends DeepSeek after US ban",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/technology/6160255-china-retaliation-deepseek-ban/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Abandoning racial justice won’t save our democracy — reimagining elections will",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/civil-rights/6158354-restoring-voting-rights-act/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Watch live: Trump, Vance announce Fraud Whistleblower Incentive Program",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/video-clips/6159635-watch-live-trump-vance-announce-fraud-whistleblower-incentive-program/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "7 in 10 doubt Trump would accept GOP losses in midterms: Survey",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6160085-donald-trump-midterm-results-poll/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Former Minnesota GOP governor sees 'political layer' to Omar probe",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/state-watch/6160385-pawlenty-omar-investigation-timing/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Former OpenAI worker accused of bugging conference room planned travel to Saudi Arabia: Prosecutors",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/technology/6159913-openai-engineer-arrested-bugging-accusations/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Farmers to get one-time payments from $8 billion program, Trump says: What to know",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/business/agriculture/6160126-farmers-to-get-one-time-payments-from-8-billion-program-trump-says-what-to-know/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 11,
+      "score": 70.0,
+      "sample_titles": [
+        "Trump anuncia pacote de US$ 8 bilhões para agricultores, às vésperas das eleições nos EUA",
+        "Aprovação de Trump atinge mínima histórica de 31%, mostra pesquisa",
+        "Trump diz que EUA vão 'queimar' como a França se democratas vencerem midterms; VÍDEO",
+        "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
+        "Rep. Don Beyer, D-Va., on Trump waiving sanctions on Russia"
+      ]
+    },
+    {
+      "topic": "china",
+      "count": 4,
+      "score": 85.0,
+      "sample_titles": [
+        "Apenas Santa Catarina vai deixar de exportar frango para a China, diz secretário do Ministério da Agricultura",
+        "Brasil deve suspender exportações de frango para a China após foco de doença de Newcastle em SC",
+        "Doença de Newcastle: China limita embargo a SC e México suspende compras do Brasil",
+        "China defends DeepSeek after US ban"
+      ]
+    },
+    {
+      "topic": "midterms",
+      "count": 3,
+      "score": 73.33,
+      "sample_titles": [
+        "Trump diz que EUA vão 'queimar' como a França se democratas vencerem midterms; VÍDEO",
+        "2026 midterms could be the most expensive on record. And, Macron condemns protests",
+        "7 in 10 doubt Trump would accept GOP losses in midterms: Survey"
+      ]
+    },
+    {
+      "topic": "tiktok",
+      "count": 3,
+      "score": 46.87,
+      "sample_titles": [
+        "Dance Se Souber atualizadas 2026 {tiktok}🎶💜",
+        "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+        "TikTok staff raised child safety alarms. Court records show executives failed to act"
+      ]
+    },
+    {
+      "topic": "zelensky",
+      "count": 2,
+      "score": 80.0,
+      "sample_titles": [
+        "Ataque aéreo russo mata sete pessoas na Ucrânia enquanto Zelensky se reúne com autoridades dos EUA e da Europa",
+        "Trump isn't out to hurt Ukraine, Rubio tells Zelensky"
+      ]
+    },
+    {
+      "topic": "online",
+      "count": 2,
+      "score": 10.0,
+      "sample_titles": [
+        "como ganhar dinheiro online",
+        "how to learn online"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "tiktok",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 46.87,
+      "sample_titles": [
+        "Dance Se Souber atualizadas 2026 {tiktok}🎶💜",
+        "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+        "TikTok staff raised child safety alarms. Court records show executives failed to act"
+      ]
+    },
+    {
+      "topic": "visto",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Bugatti restaura único Veyron 'espelhado'; superesportivo foi visto com o piloto Fernando Alonso",
+        "visto americano"
+      ]
+    },
+    {
+      "topic": "custo",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Flávio promete, se eleito, retomar benefício para eventos encerrado por Lula após suspeitas de irregularidades e alto custo",
+        "custo de vida EUA"
+      ]
+    },
+    {
+      "topic": "estados unidos",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Vice-presidente dos Estados Unidos evita declarar apoio à reeleição de Netanyahu e diz que está concentrado nas eleições legislativas dos EUA",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "unidos",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Vice-presidente dos Estados Unidos evita declarar apoio à reeleição de Netanyahu e diz que está concentrado nas eleições legislativas dos EUA",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "estados",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Vice-presidente dos Estados Unidos evita declarar apoio à reeleição de Netanyahu e diz que está concentrado nas eleições legislativas dos EUA",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "empresa",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Como fazer o site da sua empresa aparecer nas respostas da IA do Google",
+        "abrir empresa nos EUA"
+      ]
+    },
+    {
+      "topic": "outubro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.08,
+      "sample_titles": [
+        "Terça Feira 20 de Outubro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "REY VAQUEIRO 2026 🔥 PRÍNCIPE ENCANTADO feat. JOELMA | REPERTÓRIO NOVO PRA PAREDÃO | OUTUBRO 2026 TOP",
+        "Indicador de risco da dívida argentina atinge maior nível desde outubro de 2025",
+        "Bolsa ganha R$ 500 bi em outubro e tem 4ª maior alta mensal desde 2020, diz Elos Ayta"
+      ]
+    },
+    {
+      "topic": "príncipe",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.06,
+      "sample_titles": [
+        "REY VAQUEIRO 2026 🔥 PRÍNCIPE ENCANTADO feat. JOELMA | REPERTÓRIO NOVO PRA PAREDÃO | OUTUBRO 2026 TOP",
+        "Príncipe Harry diz que quer se reconciliar com a família"
+      ]
+    },
+    {
+      "topic": "vídeo",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.05,
+      "sample_titles": [
+        "VITINHO - Joguei a Toalha/ Insegurança (Vídeo Oficial)",
+        "Trump diz que EUA vão 'queimar' como a França se democratas vencerem midterms; VÍDEO"
+      ]
+    },
+    {
+      "topic": "world",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 31.31,
+      "sample_titles": [
+        "Why Cash Ate Nico’s ENTIRE WORLD..",
+        "Rays will face Brewers in World Series to produce a first-time champion"
+      ]
+    },
+    {
+      "topic": "inflation",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 15.0,
+      "sample_titles": [
+        "Inflation sizzled in September — and Social Security benefits will get a boost",
+        "inflation"
+      ]
+    },
+    {
+      "topic": "control",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 12.9,
+      "sample_titles": [
+        "WE LET YOUTUBERS CONTROL SIDEMEN GEOGUESSR",
+        "Inside the race between Elon Musk and Jeff Bezos for control of outer space"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "Visto",
+      "subtopic": "Atualizações e dicas sobre visto americano",
+      "why_trending": "O interesse por vistos americanos aumentou significativamente devido às mudanças nas políticas de imigração e ao aumento de processos de vistos negados.",
+      "niche_angle": "Explorar as nuances do processo de obtenção de visto americano para brasileiros, incluindo dicas práticas e erros comuns a evitar.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 7,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/10/20/flavio-promete-se-eleito-retomar-beneficio-para-eventos-encerrado-por-lula-apos-suspeitas-de-irregularidades-e-alto-custo.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-20T16:29:56.183963"
+    },
+    {
+      "main_topic": "Custo de Vida",
+      "subtopic": "Comparação de custo de vida entre os EUA e Brasil",
+      "why_trending": "O aumento do custo de vida nos EUA tem gerado debates sobre como isso afeta brasileiros que imigram para o país.",
+      "niche_angle": "Discutir as diferenças de custo de vida entre os estados americanos e cidades brasileiras, focando em como isso impacta a vida dos imigrantes.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "news",
+      "region": "GLOBAL",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/10/20/preco-do-diesel-dispara-667percent-e-chega-a-r-720-por-litro-no-brasil-aponta-pesquisa.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-20T16:29:56.183975"
+    },
+    {
+      "main_topic": "Empreendedorismo",
+      "subtopic": "Como abrir uma empresa nos EUA",
+      "why_trending": "A demanda por informações sobre como abrir negócios nos EUA aumentou, especialmente em um cenário de crescimento de pequenas e médias empresas.",
+      "niche_angle": "Fornecer um guia prático e direto sobre como brasileiros podem abrir e administrar uma empresa nos EUA, incluindo questões legais e fiscais.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 8,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://exame.com/bussola/como-fazer-o-site-da-sua-empresa-aparecer-nas-respostas-da-ia-do-google/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-20T16:29:56.183981"
+    },
+    {
+      "main_topic": "Tecnologia",
+      "subtopic": "Impacto da IA nas pequenas empresas",
+      "why_trending": "O Google lançou novas ferramentas de IA que podem ajudar pequenas empresas, aumentando o interesse sobre tecnologia e empreendimentos.",
+      "niche_angle": "Discutir como brasileiros podem utilizar ferramentas de IA para otimizar seus negócios e aumentar a competitividade no mercado americano.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://exame.com/inteligencia-artificial/do-anuncio-ao-fluxo-de-caixa-google-amplia-gemini-para-pequenas-e-medias-empresas/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-20T16:29:56.183986"
+    },
+    {
+      "main_topic": "Direito & Legal",
+      "subtopic": "Direitos dos imigrantes nos EUA",
+      "why_trending": "Com as eleições se aproximando, questões sobre os direitos dos imigrantes estão em alta, especialmente em relação às legislações propostas.",
+      "niche_angle": "Explorar os direitos legais dos imigrantes nos EUA, incluindo como se proteger legalmente e o que fazer em caso de problemas com a imigração.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://thehill.com/opinion/civil-rights/6158354-restoring-voting-rights-act/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-20T16:29:56.183991"
+    },
+    {
+      "main_topic": "Economia & Mercado",
+      "subtopic": "Impacto da inflação na vida dos imigrantes",
+      "why_trending": "A inflação nos EUA está afetando diretamente o poder de compra e a qualidade de vida dos imigrantes.",
+      "niche_angle": "Analisar como a inflação afeta as finanças dos brasileiros que vivem nos EUA e discutir estratégias para lidar com isso.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://thehill.com/homenews/campaign/6160396-hume-trump-midterm-campaigning-ineffective/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-20T16:29:56.183996"
+    },
+    {
+      "main_topic": "Entretenimento",
+      "subtopic": "Memes e humor sobre a vida nos EUA",
+      "why_trending": "Os memes relacionados à vida de imigrantes nos EUA estão ganhando popularidade nas redes sociais.",
+      "niche_angle": "Criar conteúdo de humor que retrate a experiência real dos brasileiros imigrantes, utilizando memes e trends atuais.",
+      "video_format": "short",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "tiktok",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/10/20/colisao-onibus-turistico-caminhao-deixa-mortos-feridos-egito.ghtml"
+      ],
+      "platforms": [
+        "tiktok",
+        "reddit"
+      ],
+      "collected_at": "2026-10-20T16:29:56.184000"
+    },
+    {
+      "main_topic": "Viagem",
+      "subtopic": "Dicas para viajar nos EUA",
+      "why_trending": "Com a recuperação das viagens pós-pandemia, há um aumento no interesse por dicas de viagem dentro dos EUA.",
+      "niche_angle": "Fornecer dicas práticas e acessíveis para brasileiros que desejam explorar os EUA, incluindo custos e melhores épocas para viajar.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/10/20/ataque-aereo-russo-mata-sete-pessoas-na-ucrania-enquanto-zelensky-se-reune-com-autoridades-dos-eua-e-da-europa.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-20T16:29:56.184009"
+    },
+    {
+      "main_topic": "Comunidade & Opinião",
+      "subtopic": "Debate sobre imigração",
+      "why_trending": "As questões de imigração estão em alta devido às eleições e às políticas que afetam diretamente os imigrantes.",
+      "niche_angle": "Promover um debate sobre as experiências de imigrantes brasileiros nos EUA e como as políticas atuais impactam suas vidas.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/10/20/trump-diz-que-eua-vao-queimar-como-a-franca-midterms.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-20T16:29:56.184015"
+    }
+  ]
+}
