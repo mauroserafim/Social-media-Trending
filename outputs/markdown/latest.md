@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 20/10/2026 16:29 UTC
+# 📊 Tendências em Alta — 21/10/2026 16:47 UTC
 
-**Run:** `39457820121` | **BR:** 30 trends | **US:** 26 trends | **Nicho:** 9 ideias
+**Run:** `39637773822` | **BR:** 30 trends | **US:** 26 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. IVE 아이브 'Looks Can Kill' MV · [https://youtube.com/watch?v=rsNhWkC4neE](https://youtube.com/watch?v=rsNhWkC4neE)
- 2. NMIXX(엔믹스) “긴 소원(Birthday Wish)” M/V · [https://youtube.com/watch?v=roHWN9fL2SM](https://youtube.com/watch?v=roHWN9fL2SM)
- 3. FIRESTARTER · [https://youtube.com/watch?v=miIihGHZ_7A](https://youtube.com/watch?v=miIihGHZ_7A)
- 4. A PASSIVA DA AMBESSA CRIOU UM MONSTRO EM FORMA DE BUILD · [https://youtube.com/watch?v=U4ZWhmwcLj8](https://youtube.com/watch?v=U4ZWhmwcLj8)
- 5. Daniel e a Fornalha Ardente | Trailer Oficial Dublado · [https://youtube.com/watch?v=3oNKOALkL2o](https://youtube.com/watch?v=3oNKOALkL2o)
- 6. EM BUSCA DO FINAL BOM | 60 Seconds! Reatomized · [https://youtube.com/watch?v=EtYzQSaITNI](https://youtube.com/watch?v=EtYzQSaITNI)
- 7. 7 Minutoz - ATÉ O FIM | Billy Bruto (The Boys) · [https://youtube.com/watch?v=dg5PPCs_8Ls](https://youtube.com/watch?v=dg5PPCs_8Ls)
- 8. Dance Se Souber atualizadas 2026 {tiktok}🎶💜 · [https://youtube.com/watch?v=vESJj4E1fpg](https://youtube.com/watch?v=vESJj4E1fpg)
- 9. Louvores de Adoração, As Melhores Músicas Gospel Mais Tocadas 2026 ,Top Gospel ,Evangélicos Gospel · [https://youtube.com/watch?v=MVXu0ZlkSe0](https://youtube.com/watch?v=MVXu0ZlkSe0)
-10. سورة الممتحنة · [https://youtube.com/watch?v=l2OfH1H1hZw](https://youtube.com/watch?v=l2OfH1H1hZw)
+ 1. LNGSHOT - 'Masterpiece' Official Music Video · [https://youtube.com/watch?v=Cu6JU-kNmOU](https://youtube.com/watch?v=Cu6JU-kNmOU)
+ 2. FIRESTARTER · [https://youtube.com/watch?v=miIihGHZ_7A](https://youtube.com/watch?v=miIihGHZ_7A)
+ 3. Daniel e a Fornalha Ardente | Trailer Oficial Dublado · [https://youtube.com/watch?v=3oNKOALkL2o](https://youtube.com/watch?v=3oNKOALkL2o)
+ 4. JULLIANY SOUZA, NÍVEA SOARES - JESUS É O CENTRO (AO VIVO) · [https://youtube.com/watch?v=tICXq7wcZRo](https://youtube.com/watch?v=tICXq7wcZRo)
+ 5. Alexandra Stan - Mr. Saxobeat (Sadrican 2026 Remix) · [https://youtube.com/watch?v=86p7SP34qSc](https://youtube.com/watch?v=86p7SP34qSc)
+ 6. 🔴 Madison AO VIVO | Final do Terror 👻 - PC 🔴 · [https://youtube.com/watch?v=Thv_TtxjPuw](https://youtube.com/watch?v=Thv_TtxjPuw)
+ 7. Se Deus é por nós | Irmã Kelly Patrícia na Festa de São Miguel - Instituto Hesed · [https://youtube.com/watch?v=e_jZQ_nNSCk](https://youtube.com/watch?v=e_jZQ_nNSCk)
+ 8. Louvores de Adoração 2026, Top 50 Músicas Gospel Mais Tocadas, Hinos Musica Gospel, HINOS 2026 · [https://youtube.com/watch?v=PpX24f4VW38](https://youtube.com/watch?v=PpX24f4VW38)
+ 9. VAI MATAR PAPAI - Diovane Severo (MÚSICA NOVA) Piseiro 2026 · [https://youtube.com/watch?v=EuQ0KGwPFXM](https://youtube.com/watch?v=EuQ0KGwPFXM)
+10. ADELINE - I Am The Rise (Official Remix) · [https://youtube.com/watch?v=ewZktVzBUlg](https://youtube.com/watch?v=ewZktVzBUlg)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. A 5 dias do segundo turno, Flávio propõe devolver via PIX parte de gastos com contas e prestações, mas não detalha proposta · [https://g1.globo.com/economia/noticia/2026/10/20/a-5-dias-do-segundo-turno-flavio-propoe-devolver-via-pix-parte-de-gastos-com-contas-e-prestacoes-mas-nao-detalha-proposta.ghtml](https://g1.globo.com/economia/noticia/2026/10/20/a-5-dias-do-segundo-turno-flavio-propoe-devolver-via-pix-parte-de-gastos-com-contas-e-prestacoes-mas-nao-detalha-proposta.ghtml)
- 2. Onde assistir a PSG x Barcelona pela Champions League? · [https://www.infomoney.com.br/esportes/onde-assistir-psg-barcelona-champions-league/](https://www.infomoney.com.br/esportes/onde-assistir-psg-barcelona-champions-league/)
- 3. ‘Janones sai hoje do hospital, logo após as 13 horas’, diz médica do deputado · [https://www.infomoney.com.br/politica/janones-sai-hoje-do-hospital-logo-apos-as-13-horas-diz-medica-do-deputado/](https://www.infomoney.com.br/politica/janones-sai-hoje-do-hospital-logo-apos-as-13-horas-diz-medica-do-deputado/)
- 4. Trade eleitoral voltou? Ibovespa sobe forte e vai a 208 mil com NY e pesquisas · [https://www.infomoney.com.br/mercados/trade-eleitoral-voltou-ibovespa-sobe-forte-e-vai-a-208-mil-com-ny-e-pesquisas/](https://www.infomoney.com.br/mercados/trade-eleitoral-voltou-ibovespa-sobe-forte-e-vai-a-208-mil-com-ny-e-pesquisas/)
- 5. Ibovespa Hoje Ao Vivo: Bolsa sobe e ronda os 208 mil pontos com eleições em foco · [https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/)
- 6. Wiz (WIZC3) desaba mais de 20% após vender sua participação na Inter Seguros; entenda · [https://www.infomoney.com.br/mercados/wiz-wizc3-desaba-mais-de-20-apos-vender-sua-participacao-na-inter-seguros-entenda/](https://www.infomoney.com.br/mercados/wiz-wizc3-desaba-mais-de-20-apos-vender-sua-participacao-na-inter-seguros-entenda/)
- 7. Bugatti restaura único Veyron 'espelhado'; superesportivo foi visto com o piloto Fernando Alonso · [https://g1.globo.com/carros/noticia/2026/10/20/bugatti-restaura-veyron-espelhado.ghtml](https://g1.globo.com/carros/noticia/2026/10/20/bugatti-restaura-veyron-espelhado.ghtml)
- 8. Apenas Santa Catarina vai deixar de exportar frango para a China, diz secretário do Ministério da Agricultura · [https://g1.globo.com/economia/agronegocios/noticia/2026/10/20/apenas-santa-catarina-vai-deixar-de-exportar-frango-para-china-diz-secretario-do-ministerio-da-agricultura.ghtml](https://g1.globo.com/economia/agronegocios/noticia/2026/10/20/apenas-santa-catarina-vai-deixar-de-exportar-frango-para-china-diz-secretario-do-ministerio-da-agricultura.ghtml)
- 9. Preço do diesel dispara 6,67% e chega a R$ 7,20 por litro no Brasil, aponta pesquisa · [https://g1.globo.com/economia/noticia/2026/10/20/preco-do-diesel-dispara-667percent-e-chega-a-r-720-por-litro-no-brasil-aponta-pesquisa.ghtml](https://g1.globo.com/economia/noticia/2026/10/20/preco-do-diesel-dispara-667percent-e-chega-a-r-720-por-litro-no-brasil-aponta-pesquisa.ghtml)
-10. Nova geração do Dolphin Mini fica mais potente e carrega bateria em 9 minutos · [https://g1.globo.com/carros/noticia/2026/10/20/nova-geracao-do-dolphin-mini-fica-mais-potente-e-carrega-bateria-em-9-minutos.ghtml](https://g1.globo.com/carros/noticia/2026/10/20/nova-geracao-do-dolphin-mini-fica-mais-potente-e-carrega-bateria-em-9-minutos.ghtml)
+ 1. Autoridades dos EUA temem interferência de Trump nas midterms; trumpistas do MAGA discutem lei marcial · [https://g1.globo.com/mundo/noticia/2026/10/21/autoridades-eua-temem-interferencia-de-trump-midterms-trumpistas-maga-discutem-lei-marcial.ghtml](https://g1.globo.com/mundo/noticia/2026/10/21/autoridades-eua-temem-interferencia-de-trump-midterms-trumpistas-maga-discutem-lei-marcial.ghtml)
+ 2. Especialistas da ONU questionam papel da Meta nas eleições no Brasil · [https://g1.globo.com/mundo/noticia/2026/10/21/especialistas-da-onu-questionam-papel-da-meta-nas-eleicoes-no-brasil.ghtml](https://g1.globo.com/mundo/noticia/2026/10/21/especialistas-da-onu-questionam-papel-da-meta-nas-eleicoes-no-brasil.ghtml)
+ 3. Pesquisa Quaest mostra que 69% dos brasileiros dizem que renda aumentou no último ano · [https://www.infomoney.com.br/brasil/pesquisa-quaest-mostra-que-69-dos-brasileiros-dizem-que-renda-aumentou-no-ultimo-ano/](https://www.infomoney.com.br/brasil/pesquisa-quaest-mostra-que-69-dos-brasileiros-dizem-que-renda-aumentou-no-ultimo-ano/)
+ 4. Pedimos à Globo que haja checagem em tempo real do debate, diz Edinho Silva · [https://www.infomoney.com.br/politica/pedimos-a-globo-que-haja-checagem-em-tempo-real-do-debate-diz-edinho-silva/](https://www.infomoney.com.br/politica/pedimos-a-globo-que-haja-checagem-em-tempo-real-do-debate-diz-edinho-silva/)
+ 5. Rio Tinto mantém meta de liberar até US$ 10 bilhões · [https://www.infomoney.com.br/mercados/rio-tinto-mantem-meta-de-liberar-ate-us-10-bilhoes/](https://www.infomoney.com.br/mercados/rio-tinto-mantem-meta-de-liberar-ate-us-10-bilhoes/)
+ 6. Lula sanciona lei complementar dos MEIs com perdão de dívidas · [https://www.infomoney.com.br/politica/lula-sanciona-lei-complementar-dos-meis-com-perdao-de-dividas/](https://www.infomoney.com.br/politica/lula-sanciona-lei-complementar-dos-meis-com-perdao-de-dividas/)
+ 7. PEC de Lula prevê uso de R$12 bi em emendas para custear tarifa zero no transporte · [https://www.infomoney.com.br/politica/pec-de-lula-preve-uso-de-r12-bi-em-emendas-para-custear-tarifa-zero-no-transporte/](https://www.infomoney.com.br/politica/pec-de-lula-preve-uso-de-r12-bi-em-emendas-para-custear-tarifa-zero-no-transporte/)
+ 8. Polícia inclui lesão corporal no BO contra deputado do PL em disparo que atingiu Fred · [https://www.infomoney.com.br/politica/policia-inclui-lesao-corporal-no-bo-contra-deputado-do-pl-em-disparo-que-atingiu-fred/](https://www.infomoney.com.br/politica/policia-inclui-lesao-corporal-no-bo-contra-deputado-do-pl-em-disparo-que-atingiu-fred/)
+ 9. Fachin defende “lealdade às regras do jogo” às vésperas do 2º turno · [https://www.infomoney.com.br/politica/fachin-defende-lealdade-as-regras-do-jogo-as-vesperas-do-2o-turno/](https://www.infomoney.com.br/politica/fachin-defende-lealdade-as-regras-do-jogo-as-vesperas-do-2o-turno/)
+10. Ibovespa Hoje Ao Vivo: Bolsa vira para queda com disputa eleitoral acirrada · [https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21102026/](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21102026/)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -56,25 +56,25 @@
 
 #### 📺 YouTube (US) — Top 6
 
- 1. WE LET YOUTUBERS CONTROL SIDEMEN GEOGUESSR · [https://youtube.com/watch?v=BRF1joRBVXE](https://youtube.com/watch?v=BRF1joRBVXE)
- 2. MILEY - Orbit · [https://youtube.com/watch?v=RhMLe43hQYY](https://youtube.com/watch?v=RhMLe43hQYY)
- 3. A$AP ROCKY - SHROOM CLOUDS (Official Video) · [https://youtube.com/watch?v=jnFVwpvlq4E](https://youtube.com/watch?v=jnFVwpvlq4E)
- 4. Why Cash Ate Nico’s ENTIRE WORLD.. · [https://youtube.com/watch?v=c5hvoD9h0Wk](https://youtube.com/watch?v=c5hvoD9h0Wk)
- 5. THE NEW DARKSEID TEASER · [https://youtube.com/watch?v=cw4DEgL6K_Y](https://youtube.com/watch?v=cw4DEgL6K_Y)
- 6. Let’s Play: Wii Sports · [https://youtube.com/watch?v=_nd0JnjIA8E](https://youtube.com/watch?v=_nd0JnjIA8E)
+ 1. PLAYING ELDEN RING DLC UNTIL I BEAT IT DAY 1 · [https://youtube.com/watch?v=EQ_14XV_v58](https://youtube.com/watch?v=EQ_14XV_v58)
+ 2. Honest Trailers | Spider-Man: Brand New Day · [https://youtube.com/watch?v=eQf6nDraYQg](https://youtube.com/watch?v=eQf6nDraYQg)
+ 3. Dune: Part Three - Official 'Tickets on Sale Now' Trailer · [https://youtube.com/watch?v=FzXx-QQTPu0](https://youtube.com/watch?v=FzXx-QQTPu0)
+ 4. THE NEW DARKSEID TEASER · [https://youtube.com/watch?v=cw4DEgL6K_Y](https://youtube.com/watch?v=cw4DEgL6K_Y)
+ 5. Godzilla Minus Zero - Official Final Trailer (2026) · [https://youtube.com/watch?v=JQXQ35IpTb8](https://youtube.com/watch?v=JQXQ35IpTb8)
+ 6. B2K - Lil Freak (Official Visualizer) · [https://youtube.com/watch?v=FyPg2TBufJc](https://youtube.com/watch?v=FyPg2TBufJc)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Homebuilder sentiment is at a 14-year low · [https://www.axios.com/2026/10/20/housing-construction-ai-rates](https://www.axios.com/2026/10/20/housing-construction-ai-rates)
- 2. France riots become Republican midterm boogeyman · [https://www.axios.com/2026/10/20/french-protests-trump-republicans-midterms](https://www.axios.com/2026/10/20/french-protests-trump-republicans-midterms)
- 3. Hume on Trump's midterm campaigning: 'I'm not sure it's making any difference' · [https://thehill.com/homenews/campaign/6160396-hume-trumps-midterm-campaigning-ineffective/](https://thehill.com/homenews/campaign/6160396-hume-trumps-midterm-campaigning-ineffective/)
- 4. China defends DeepSeek after US ban · [https://thehill.com/policy/technology/6160255-china-retaliation-deepseek-ban/](https://thehill.com/policy/technology/6160255-china-retaliation-deepseek-ban/)
- 5. Abandoning racial justice won’t save our democracy — reimagining elections will · [https://thehill.com/opinion/civil-rights/6158354-restoring-voting-rights-act/](https://thehill.com/opinion/civil-rights/6158354-restoring-voting-rights-act/)
- 6. Watch live: Trump, Vance announce Fraud Whistleblower Incentive Program · [https://thehill.com/video-clips/6159635-watch-live-trump-vance-announce-fraud-whistleblower-incentive-program/](https://thehill.com/video-clips/6159635-watch-live-trump-vance-announce-fraud-whistleblower-incentive-program/)
- 7. 7 in 10 doubt Trump would accept GOP losses in midterms: Survey · [https://thehill.com/homenews/campaign/6160085-donald-trump-midterm-results-poll/](https://thehill.com/homenews/campaign/6160085-donald-trump-midterm-results-poll/)
- 8. Former Minnesota GOP governor sees 'political layer' to Omar probe · [https://thehill.com/homenews/state-watch/6160385-pawlenty-omar-investigation-timing/](https://thehill.com/homenews/state-watch/6160385-pawlenty-omar-investigation-timing/)
- 9. Former OpenAI worker accused of bugging conference room planned travel to Saudi Arabia: Prosecutors · [https://thehill.com/policy/technology/6159913-openai-engineer-arrested-bugging-accusations/](https://thehill.com/policy/technology/6159913-openai-engineer-arrested-bugging-accusations/)
-10. Farmers to get one-time payments from $8 billion program, Trump says: What to know · [https://thehill.com/business/agriculture/6160126-farmers-to-get-one-time-payments-from-8-billion-program-trump-says-what-to-know/](https://thehill.com/business/agriculture/6160126-farmers-to-get-one-time-payments-from-8-billion-program-trump-says-what-to-know/)
+ 1. How Trump's attacks on voting system integrity might affect upcoming elections · [https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections](https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections)
+ 2. Why local officials are feeling 'on edge' as election day approaches · [https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches](https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches)
+ 3. The oil market's 2027 relief hopes are fading fast · [https://www.axios.com/2026/10/21/oil-prices-inflation-central-banking](https://www.axios.com/2026/10/21/oil-prices-inflation-central-banking)
+ 4. Live updates: Trump lauds Russia's release of American; Vance calls out Republicans 'whining' about Ramaswamy ad · [https://thehill.com/homenews/administration/6161584-trump-midterm-tour-clemson/](https://thehill.com/homenews/administration/6161584-trump-midterm-tour-clemson/)
+ 5. Amy Acton's estranged mother drags her in crazy attack ad · [https://thehill.com/opinion/robbys-radar/6163116-acton-mother-attack-ad-controversy/](https://thehill.com/opinion/robbys-radar/6163116-acton-mother-attack-ad-controversy/)
+ 6. Trump, Graham campaign on heels of Russian sanctions waiver · [https://thehill.com/newsletters/1230-report/6163034-trump-graham-campaign-on-heels-of-russian-sanctions-waiver/](https://thehill.com/newsletters/1230-report/6163034-trump-graham-campaign-on-heels-of-russian-sanctions-waiver/)
+ 7. FBI investigating possible incendiary device thrown at Atlanta ICE building · [https://thehill.com/homenews/state-watch/6162929-ice-atlanta-office-incendiary-device-fbi/](https://thehill.com/homenews/state-watch/6162929-ice-atlanta-office-incendiary-device-fbi/)
+ 8. Neil Bush, brother of George W. Bush, says he voted for Talarico · [https://thehill.com/homenews/campaign/6162954-neil-bush-voted-talarico/](https://thehill.com/homenews/campaign/6162954-neil-bush-voted-talarico/)
+ 9. China expresses 'firm opposition' to Trump administration sanctions tied to former Google engineer · [https://thehill.com/policy/technology/6162781-china-slams-us-ai-sanctions/](https://thehill.com/policy/technology/6162781-china-slams-us-ai-sanctions/)
+10. Trump ties Camp Lejeune toxic water settlements to GOP midterm results · [https://thehill.com/policy/defense/6163013-gop-midterm-water-settlements/](https://thehill.com/policy/defense/6163013-gop-midterm-water-settlements/)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -96,12 +96,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **Visto** | Atualizações e dicas sobre visto americano | O interesse por vistos americanos aumentou significativamente devido às mudanças nas políticas de imigração e ao aumento |
-| 2 🟠 🎬 | **Custo de Vida** | Comparação de custo de vida entre os EUA e Brasil | O aumento do custo de vida nos EUA tem gerado debates sobre como isso afeta brasileiros que imigram para o país. |
-| 3 🟡 🎬 | **Empreendedorismo** | Como abrir uma empresa nos EUA | A demanda por informações sobre como abrir negócios nos EUA aumentou, especialmente em um cenário de crescimento de pequ |
-| 4 🟡 🎬 | **Tecnologia** | Impacto da IA nas pequenas empresas | O Google lançou novas ferramentas de IA que podem ajudar pequenas empresas, aumentando o interesse sobre tecnologia e em |
-| 5 🟡 🎬 | **Direito & Legal** | Direitos dos imigrantes nos EUA | Com as eleições se aproximando, questões sobre os direitos dos imigrantes estão em alta, especialmente em relação às leg |
-| 6 🟡 🎬 | **Economia & Mercado** | Impacto da inflação na vida dos imigrantes | A inflação nos EUA está afetando diretamente o poder de compra e a qualidade de vida dos imigrantes. |
-| 7 🟡 ⚡ | **Entretenimento** | Memes e humor sobre a vida nos EUA | Os memes relacionados à vida de imigrantes nos EUA estão ganhando popularidade nas redes sociais. |
-| 8 🟢 🎬 | **Viagem** | Dicas para viajar nos EUA | Com a recuperação das viagens pós-pandemia, há um aumento no interesse por dicas de viagem dentro dos EUA. |
-| 9 🟢 🎬 | **Comunidade & Opinião** | Debate sobre imigração | As questões de imigração estão em alta devido às eleições e às políticas que afetam diretamente os imigrantes. |
+| 1 🟠 🎬 | **Renda** | Como aumentar sua renda nos EUA | 69% dos brasileiros afirmam que a renda aumentou, e há discussões sobre limitações de crédito baseadas na renda nos EUA. |
+| 2 🟠 🎯 | **Dólar** | Impacto da alta do dólar na vida do imigrante | O dólar está em alta, afetando diretamente os custos de vida e remessas para o Brasil. |
+| 3 🟠 🎬 | **Eleições nos EUA** | Como as eleições afetam imigrantes | As eleições midterm estão se aproximando, com discussões sobre a integridade do sistema de votação e seus impactos nos i |
+| 4 🟡 🎬 | **Empreendedorismo** | Oportunidades para MEIs nos EUA | A nova lei que perdoa dívidas de MEIs no Brasil pode inspirar e informar brasileiros que desejam empreender nos EUA. |
+| 5 🟡 🎯 | **Tecnologia** | Impacto das novas tecnologias no mercado de trabalho | Discussões sobre a fusão entre Tesla e SpaceX e suas possíveis implicações para o futuro do trabalho e inovações nos EUA |
+| 6 🟡 🎬 | **Economia** | Custo de vida nos EUA | A alta do dólar e os balanços corporativos estão afetando o custo de vida, especialmente em tempos de inflação crescente |
+| 7 🟡 🎬 | **Direito & Legal** | Implicações da imigração nas eleições | As autoridades estão preocupadas com a interferência nas eleições, o que pode afetar políticas de imigração futuras. |
+| 8 🟡 ⚡ | **Entretenimento** | Eleições e memes | A eleição nos EUA está gerando uma onda de memes e humor nas redes sociais. |
+| 9 🟢 🎬 | **Lifestyle** | Rotina de brasileiros imigrantes | A vida cotidiana de brasileiros nos EUA é um tema constante de interesse, especialmente em tempos de mudança política. |
