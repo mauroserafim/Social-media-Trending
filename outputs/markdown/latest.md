@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 21/10/2026 16:47 UTC
+# 📊 Tendências em Alta — 22/10/2026 16:47 UTC
 
-**Run:** `39637773822` | **BR:** 30 trends | **US:** 26 trends | **Nicho:** 9 ideias
+**Run:** `39816802411` | **BR:** 30 trends | **US:** 25 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -12,28 +12,28 @@
 #### 📺 YouTube (BR) — Top 10
 
  1. LNGSHOT - 'Masterpiece' Official Music Video · [https://youtube.com/watch?v=Cu6JU-kNmOU](https://youtube.com/watch?v=Cu6JU-kNmOU)
- 2. FIRESTARTER · [https://youtube.com/watch?v=miIihGHZ_7A](https://youtube.com/watch?v=miIihGHZ_7A)
- 3. Daniel e a Fornalha Ardente | Trailer Oficial Dublado · [https://youtube.com/watch?v=3oNKOALkL2o](https://youtube.com/watch?v=3oNKOALkL2o)
- 4. JULLIANY SOUZA, NÍVEA SOARES - JESUS É O CENTRO (AO VIVO) · [https://youtube.com/watch?v=tICXq7wcZRo](https://youtube.com/watch?v=tICXq7wcZRo)
- 5. Alexandra Stan - Mr. Saxobeat (Sadrican 2026 Remix) · [https://youtube.com/watch?v=86p7SP34qSc](https://youtube.com/watch?v=86p7SP34qSc)
- 6. 🔴 Madison AO VIVO | Final do Terror 👻 - PC 🔴 · [https://youtube.com/watch?v=Thv_TtxjPuw](https://youtube.com/watch?v=Thv_TtxjPuw)
- 7. Se Deus é por nós | Irmã Kelly Patrícia na Festa de São Miguel - Instituto Hesed · [https://youtube.com/watch?v=e_jZQ_nNSCk](https://youtube.com/watch?v=e_jZQ_nNSCk)
- 8. Louvores de Adoração 2026, Top 50 Músicas Gospel Mais Tocadas, Hinos Musica Gospel, HINOS 2026 · [https://youtube.com/watch?v=PpX24f4VW38](https://youtube.com/watch?v=PpX24f4VW38)
- 9. VAI MATAR PAPAI - Diovane Severo (MÚSICA NOVA) Piseiro 2026 · [https://youtube.com/watch?v=EuQ0KGwPFXM](https://youtube.com/watch?v=EuQ0KGwPFXM)
+ 2. Olivia Rodrigo - expectations (feat. Chappell Roan) (wheel of misfortune) · [https://youtube.com/watch?v=4N5ZVgU_WlE](https://youtube.com/watch?v=4N5ZVgU_WlE)
+ 3. SIMULADOR DE IGREJA! SIM, É ISSO MESMO - E VALE A PENA! · [https://youtube.com/watch?v=wBIkemdKryQ](https://youtube.com/watch?v=wBIkemdKryQ)
+ 4. GIRLS · [https://youtube.com/watch?v=yrCQpUhYjFg](https://youtube.com/watch?v=yrCQpUhYjFg)
+ 5. Tz da Coronel - Mundo Fashion ft. Matuê (Clipe Oficial) · [https://youtube.com/watch?v=QSU6uy7cx98](https://youtube.com/watch?v=QSU6uy7cx98)
+ 6. Alexandra Stan - Mr. Saxobeat (Sadrican 2026 Remix) · [https://youtube.com/watch?v=86p7SP34qSc](https://youtube.com/watch?v=86p7SP34qSc)
+ 7. JULLIANY SOUZA, NÍVEA SOARES - JESUS É O CENTRO (AO VIVO) · [https://youtube.com/watch?v=tICXq7wcZRo](https://youtube.com/watch?v=tICXq7wcZRo)
+ 8. Edson & Hudson e Mayck & Lyan - Love Of My Life · [https://youtube.com/watch?v=7QX8r-_PBLU](https://youtube.com/watch?v=7QX8r-_PBLU)
+ 9. Fazendo de TUDO para SOBREVIVER na CADEIRA! · [https://youtube.com/watch?v=NxCQwocugyM](https://youtube.com/watch?v=NxCQwocugyM)
 10. ADELINE - I Am The Rise (Official Remix) · [https://youtube.com/watch?v=ewZktVzBUlg](https://youtube.com/watch?v=ewZktVzBUlg)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Autoridades dos EUA temem interferência de Trump nas midterms; trumpistas do MAGA discutem lei marcial · [https://g1.globo.com/mundo/noticia/2026/10/21/autoridades-eua-temem-interferencia-de-trump-midterms-trumpistas-maga-discutem-lei-marcial.ghtml](https://g1.globo.com/mundo/noticia/2026/10/21/autoridades-eua-temem-interferencia-de-trump-midterms-trumpistas-maga-discutem-lei-marcial.ghtml)
- 2. Especialistas da ONU questionam papel da Meta nas eleições no Brasil · [https://g1.globo.com/mundo/noticia/2026/10/21/especialistas-da-onu-questionam-papel-da-meta-nas-eleicoes-no-brasil.ghtml](https://g1.globo.com/mundo/noticia/2026/10/21/especialistas-da-onu-questionam-papel-da-meta-nas-eleicoes-no-brasil.ghtml)
- 3. Pesquisa Quaest mostra que 69% dos brasileiros dizem que renda aumentou no último ano · [https://www.infomoney.com.br/brasil/pesquisa-quaest-mostra-que-69-dos-brasileiros-dizem-que-renda-aumentou-no-ultimo-ano/](https://www.infomoney.com.br/brasil/pesquisa-quaest-mostra-que-69-dos-brasileiros-dizem-que-renda-aumentou-no-ultimo-ano/)
- 4. Pedimos à Globo que haja checagem em tempo real do debate, diz Edinho Silva · [https://www.infomoney.com.br/politica/pedimos-a-globo-que-haja-checagem-em-tempo-real-do-debate-diz-edinho-silva/](https://www.infomoney.com.br/politica/pedimos-a-globo-que-haja-checagem-em-tempo-real-do-debate-diz-edinho-silva/)
- 5. Rio Tinto mantém meta de liberar até US$ 10 bilhões · [https://www.infomoney.com.br/mercados/rio-tinto-mantem-meta-de-liberar-ate-us-10-bilhoes/](https://www.infomoney.com.br/mercados/rio-tinto-mantem-meta-de-liberar-ate-us-10-bilhoes/)
- 6. Lula sanciona lei complementar dos MEIs com perdão de dívidas · [https://www.infomoney.com.br/politica/lula-sanciona-lei-complementar-dos-meis-com-perdao-de-dividas/](https://www.infomoney.com.br/politica/lula-sanciona-lei-complementar-dos-meis-com-perdao-de-dividas/)
- 7. PEC de Lula prevê uso de R$12 bi em emendas para custear tarifa zero no transporte · [https://www.infomoney.com.br/politica/pec-de-lula-preve-uso-de-r12-bi-em-emendas-para-custear-tarifa-zero-no-transporte/](https://www.infomoney.com.br/politica/pec-de-lula-preve-uso-de-r12-bi-em-emendas-para-custear-tarifa-zero-no-transporte/)
- 8. Polícia inclui lesão corporal no BO contra deputado do PL em disparo que atingiu Fred · [https://www.infomoney.com.br/politica/policia-inclui-lesao-corporal-no-bo-contra-deputado-do-pl-em-disparo-que-atingiu-fred/](https://www.infomoney.com.br/politica/policia-inclui-lesao-corporal-no-bo-contra-deputado-do-pl-em-disparo-que-atingiu-fred/)
- 9. Fachin defende “lealdade às regras do jogo” às vésperas do 2º turno · [https://www.infomoney.com.br/politica/fachin-defende-lealdade-as-regras-do-jogo-as-vesperas-do-2o-turno/](https://www.infomoney.com.br/politica/fachin-defende-lealdade-as-regras-do-jogo-as-vesperas-do-2o-turno/)
-10. Ibovespa Hoje Ao Vivo: Bolsa vira para queda com disputa eleitoral acirrada · [https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21102026/](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21102026/)
+ 1. Meta derruba vídeo de MC Cabelinho sobre Flávio Bolsonaro às vésperas do 2º turno · [https://g1.globo.com/tecnologia/noticia/2026/10/22/meta-derruba-video-de-mc-cabelinho-sobre-flavio-bolsonaro-as-vesperas-do-2o-turno.ghtml](https://g1.globo.com/tecnologia/noticia/2026/10/22/meta-derruba-video-de-mc-cabelinho-sobre-flavio-bolsonaro-as-vesperas-do-2o-turno.ghtml)
+ 2. Operação da PF mira grupos suspeitos de esquema fraudulento de investimentos · [https://www.infomoney.com.br/brasil/operacao-da-pf-mira-grupos-suspeitos-de-esquema-fraudulento-de-investimentos/](https://www.infomoney.com.br/brasil/operacao-da-pf-mira-grupos-suspeitos-de-esquema-fraudulento-de-investimentos/)
+ 3. CSN, Vale, Braskem e outras indústrias contratam gás em leilão inédito da PPSA · [https://www.infomoney.com.br/mercados/csn-gerdau-vale-e-mais-empresas-arrematam-lotes-em-1o-leilao-de-gas-da-uniao/](https://www.infomoney.com.br/mercados/csn-gerdau-vale-e-mais-empresas-arrematam-lotes-em-1o-leilao-de-gas-da-uniao/)
+ 4. Ânima (ANIM3): executivos explicam parceria com Einstein após queda de 9% das ações · [https://www.infomoney.com.br/mercados/anima-anim3-executivos-explicam-parceria-com-einstein-apos-queda-de-9-das-acoes/](https://www.infomoney.com.br/mercados/anima-anim3-executivos-explicam-parceria-com-einstein-apos-queda-de-9-das-acoes/)
+ 5. “Ciclone monstro”: onde vai passar o supertufão Champi? · [https://www.infomoney.com.br/mundo/ciclone-monstro-onde-vai-passar/](https://www.infomoney.com.br/mundo/ciclone-monstro-onde-vai-passar/)
+ 6. Entre memória e medo, idosos se tornam fator decisivo no 2º turno da eleição · [https://www.infomoney.com.br/politica/entre-memoria-e-medo-idosos-se-tornam-fator-decisivo-no-2o-turno-da-eleicao/](https://www.infomoney.com.br/politica/entre-memoria-e-medo-idosos-se-tornam-fator-decisivo-no-2o-turno-da-eleicao/)
+ 7. Motta libera cota parlamentar para deputados eleitos antes mesmo da posse · [https://www.infomoney.com.br/politica/motta-libera-cota-parlamentar-para-deputados-eleitos-antes-mesmo-da-posse/](https://www.infomoney.com.br/politica/motta-libera-cota-parlamentar-para-deputados-eleitos-antes-mesmo-da-posse/)
+ 8. Macron acusa grupos de extrema esquerda de tentar ‘derrubar a República’ em protestos · [https://www.infomoney.com.br/mundo/macron-acusa-grupos-de-extrema-esquerda-de-tentar-derrubar-a-republica-em-protestos/](https://www.infomoney.com.br/mundo/macron-acusa-grupos-de-extrema-esquerda-de-tentar-derrubar-a-republica-em-protestos/)
+ 9. Conta da IA dentro de casa dispara e vira nova dor de cabeça para Wall Street · [https://www.infomoney.com.br/business/conta-da-ia-dentro-de-casa-dispara-e-vira-nova-dor-de-cabeca-para-wall-street/](https://www.infomoney.com.br/business/conta-da-ia-dentro-de-casa-dispara-e-vira-nova-dor-de-cabeca-para-wall-street/)
+10. Motiva (MOTV3): Citi vê potencial de alta limitado após rali e corta ação para neutra · [https://www.infomoney.com.br/mercados/motiva-motv3-citi-ve-potencial-de-alta-limitado-apos-rali-e-corta-acao-para-neutra/](https://www.infomoney.com.br/mercados/motiva-motv3-citi-ve-potencial-de-alta-limitado-apos-rali-e-corta-acao-para-neutra/)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,27 +54,26 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 6
+#### 📺 YouTube (US) — Top 5
 
- 1. PLAYING ELDEN RING DLC UNTIL I BEAT IT DAY 1 · [https://youtube.com/watch?v=EQ_14XV_v58](https://youtube.com/watch?v=EQ_14XV_v58)
+ 1. PLAYING ELDEN RING DLC UNTIL I BEAT IT DAY 2 · [https://youtube.com/watch?v=IfMOa6Zsyjw](https://youtube.com/watch?v=IfMOa6Zsyjw)
  2. Honest Trailers | Spider-Man: Brand New Day · [https://youtube.com/watch?v=eQf6nDraYQg](https://youtube.com/watch?v=eQf6nDraYQg)
- 3. Dune: Part Three - Official 'Tickets on Sale Now' Trailer · [https://youtube.com/watch?v=FzXx-QQTPu0](https://youtube.com/watch?v=FzXx-QQTPu0)
- 4. THE NEW DARKSEID TEASER · [https://youtube.com/watch?v=cw4DEgL6K_Y](https://youtube.com/watch?v=cw4DEgL6K_Y)
- 5. Godzilla Minus Zero - Official Final Trailer (2026) · [https://youtube.com/watch?v=JQXQ35IpTb8](https://youtube.com/watch?v=JQXQ35IpTb8)
- 6. B2K - Lil Freak (Official Visualizer) · [https://youtube.com/watch?v=FyPg2TBufJc](https://youtube.com/watch?v=FyPg2TBufJc)
+ 3. A$AP ROCKY - SWAT TEAM (Official Video) · [https://youtube.com/watch?v=CG8_jqHjidc](https://youtube.com/watch?v=CG8_jqHjidc)
+ 4. BUNKER | Starring Javier Bardem & Penélope Cruz | Official US Trailer (2027) · [https://youtube.com/watch?v=fdkwGvMB5zQ](https://youtube.com/watch?v=fdkwGvMB5zQ)
+ 5. Dune 3 Sets IMAX Record, Clayface Reviews, Rings Of Power Trailer  - The John Campea Show · [https://youtube.com/watch?v=eA0HiFELcmo](https://youtube.com/watch?v=eA0HiFELcmo)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. How Trump's attacks on voting system integrity might affect upcoming elections · [https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections](https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections)
- 2. Why local officials are feeling 'on edge' as election day approaches · [https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches](https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches)
- 3. The oil market's 2027 relief hopes are fading fast · [https://www.axios.com/2026/10/21/oil-prices-inflation-central-banking](https://www.axios.com/2026/10/21/oil-prices-inflation-central-banking)
- 4. Live updates: Trump lauds Russia's release of American; Vance calls out Republicans 'whining' about Ramaswamy ad · [https://thehill.com/homenews/administration/6161584-trump-midterm-tour-clemson/](https://thehill.com/homenews/administration/6161584-trump-midterm-tour-clemson/)
- 5. Amy Acton's estranged mother drags her in crazy attack ad · [https://thehill.com/opinion/robbys-radar/6163116-acton-mother-attack-ad-controversy/](https://thehill.com/opinion/robbys-radar/6163116-acton-mother-attack-ad-controversy/)
- 6. Trump, Graham campaign on heels of Russian sanctions waiver · [https://thehill.com/newsletters/1230-report/6163034-trump-graham-campaign-on-heels-of-russian-sanctions-waiver/](https://thehill.com/newsletters/1230-report/6163034-trump-graham-campaign-on-heels-of-russian-sanctions-waiver/)
- 7. FBI investigating possible incendiary device thrown at Atlanta ICE building · [https://thehill.com/homenews/state-watch/6162929-ice-atlanta-office-incendiary-device-fbi/](https://thehill.com/homenews/state-watch/6162929-ice-atlanta-office-incendiary-device-fbi/)
- 8. Neil Bush, brother of George W. Bush, says he voted for Talarico · [https://thehill.com/homenews/campaign/6162954-neil-bush-voted-talarico/](https://thehill.com/homenews/campaign/6162954-neil-bush-voted-talarico/)
- 9. China expresses 'firm opposition' to Trump administration sanctions tied to former Google engineer · [https://thehill.com/policy/technology/6162781-china-slams-us-ai-sanctions/](https://thehill.com/policy/technology/6162781-china-slams-us-ai-sanctions/)
-10. Trump ties Camp Lejeune toxic water settlements to GOP midterm results · [https://thehill.com/policy/defense/6163013-gop-midterm-water-settlements/](https://thehill.com/policy/defense/6163013-gop-midterm-water-settlements/)
+ 1. Trump ordered to sit for deposition in $10 billion BBC lawsuit · [https://www.axios.com/2026/10/22/trump-bbc-lawsuit-december-deposition-deadline](https://www.axios.com/2026/10/22/trump-bbc-lawsuit-december-deposition-deadline)
+ 2. Sex education after Cornell · [https://thehill.com/opinion/education/6161705-beyond-consent-sex-education/](https://thehill.com/opinion/education/6161705-beyond-consent-sex-education/)
+ 3. Live updates: Vance stumps in Nebraska; DOJ indicts top Virginia Democrat on corruption charges · [https://thehill.com/homenews/administration/6164811-live-updates-donald-trump-iowa-midterm-elections/](https://thehill.com/homenews/administration/6164811-live-updates-donald-trump-iowa-midterm-elections/)
+ 4. Costco plans warehouse in a new state as others await their first store · [https://thehill.com/business/6165602-costco-plans-warehouse-in-a-new-state-as-others-await-their-first-store/](https://thehill.com/business/6165602-costco-plans-warehouse-in-a-new-state-as-others-await-their-first-store/)
+ 5. The debt blob will destroy America · [https://thehill.com/opinion/congress-blog/economy-budget/6159359-federal-debt-growth-threatens-economy/](https://thehill.com/opinion/congress-blog/economy-budget/6159359-federal-debt-growth-threatens-economy/)
+ 6. Judge orders Trump to be deposed in his BBC defamation suit · [https://thehill.com/homenews/media/6165621-trump-ordered-bbc-deposition/](https://thehill.com/homenews/media/6165621-trump-ordered-bbc-deposition/)
+ 7. Family of toddler found alive in hospital morgue to file lawsuit: 'I just want justice for my son' · [https://thehill.com/homenews/state-watch/6165628-arizona-toddler-alive-in-morgue/](https://thehill.com/homenews/state-watch/6165628-arizona-toddler-alive-in-morgue/)
+ 8. DeWine calls on Ramaswamy to take down ad featuring Acton's mother · [https://thehill.com/homenews/state-watch/6165615-dewine-urges-ramaswamy-ad-removal/](https://thehill.com/homenews/state-watch/6165615-dewine-urges-ramaswamy-ad-removal/)
+ 9. Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates · [https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino](https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino)
+10. U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging · [https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla](https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -96,12 +95,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **Renda** | Como aumentar sua renda nos EUA | 69% dos brasileiros afirmam que a renda aumentou, e há discussões sobre limitações de crédito baseadas na renda nos EUA. |
-| 2 🟠 🎯 | **Dólar** | Impacto da alta do dólar na vida do imigrante | O dólar está em alta, afetando diretamente os custos de vida e remessas para o Brasil. |
-| 3 🟠 🎬 | **Eleições nos EUA** | Como as eleições afetam imigrantes | As eleições midterm estão se aproximando, com discussões sobre a integridade do sistema de votação e seus impactos nos i |
-| 4 🟡 🎬 | **Empreendedorismo** | Oportunidades para MEIs nos EUA | A nova lei que perdoa dívidas de MEIs no Brasil pode inspirar e informar brasileiros que desejam empreender nos EUA. |
-| 5 🟡 🎯 | **Tecnologia** | Impacto das novas tecnologias no mercado de trabalho | Discussões sobre a fusão entre Tesla e SpaceX e suas possíveis implicações para o futuro do trabalho e inovações nos EUA |
-| 6 🟡 🎬 | **Economia** | Custo de vida nos EUA | A alta do dólar e os balanços corporativos estão afetando o custo de vida, especialmente em tempos de inflação crescente |
-| 7 🟡 🎬 | **Direito & Legal** | Implicações da imigração nas eleições | As autoridades estão preocupadas com a interferência nas eleições, o que pode afetar políticas de imigração futuras. |
-| 8 🟡 ⚡ | **Entretenimento** | Eleições e memes | A eleição nos EUA está gerando uma onda de memes e humor nas redes sociais. |
-| 9 🟢 🎬 | **Lifestyle** | Rotina de brasileiros imigrantes | A vida cotidiana de brasileiros nos EUA é um tema constante de interesse, especialmente em tempos de mudança política. |
+| 1 🟠 🎬 | **Dólar** | Impacto da alta do dólar nas finanças dos brasileiros nos EUA | O dólar está em alta devido ao aumento nos preços do petróleo e incertezas políticas, afetando diretamente a economia do |
+| 2 🟠 🎬 | **Renda Extra** | Como gerar renda extra nos EUA | O conceito de renda extra está em alta, especialmente com a inflação e o aumento do custo de vida. |
+| 3 🟡 🎬 | **Imigração** | Direitos dos imigrantes nos EUA durante eleições | As eleições nos EUA estão se aproximando e temas relacionados a imigração são frequentemente debatidos. |
+| 4 🟡 🎬 | **Tecnologia** | Falhas no PHP e segurança digital | Recentes falhas de segurança no PHP levaram a um alerta global, afetando muitas plataformas que utilizam esta tecnologia |
+| 5 🟡 🎬 | **Custo de Vida** | Comparação do custo de vida: Brasil vs EUA | Com a inflação crescente, muitos brasileiros estão comparando o custo de vida entre os dois países para decidir onde viv |
+| 6 🟡 🎬 | **Negócios** | Investimentos e fraudes no Brasil e nos EUA | Operações da polícia estão investigando fraudes de investimento, o que gera preocupação em ambos os países. |
+| 7 🟡 ⚡ | **Viagens** | Mudanças nas regras do Airbnb | Mudanças nas políticas do Airbnb estão afetando viajantes e anfitriões, especialmente com a nova regra de check-out. |
+| 8 🟡 🎬 | **Economia** | Crescimento da dívida federal nos EUA | A dívida federal nos EUA está crescendo e gerando preocupação entre economistas e cidadãos. |
+| 9 🟢 ⚡ | **Entretenimento** | Como o humor pode ajudar na adaptação nos EUA | Conteúdos de humor são sempre populares e ajudam a aliviar a pressão da vida cotidiana. |

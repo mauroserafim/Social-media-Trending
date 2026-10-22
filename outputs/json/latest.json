@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T16:47:16.571671",
-  "run_id": "39637773822",
+  "generated_at": "2026-10-22T16:47:43.625404",
+  "run_id": "39816802411",
   "summary": {
     "total_br": 30,
-    "total_us": 26,
-    "br_us_connections": 10,
-    "cross_platform_topics": 11,
+    "total_us": 25,
+    "br_us_connections": 8,
+    "cross_platform_topics": 10,
     "niche_ideas": 9
   },
   "sections_br": [
@@ -18,81 +18,81 @@
           "title": "LNGSHOT - 'Masterpiece' Official Music Video",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=Cu6JU-kNmOU",
-          "score": 13.36,
+          "score": 10.9,
           "region": "BR",
-          "views": 963670
+          "views": 2628316
         },
         {
-          "title": "FIRESTARTER",
+          "title": "Olivia Rodrigo - expectations (feat. Chappell Roan) (wheel of misfortune)",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=miIihGHZ_7A",
-          "score": 4.43,
+          "url": "https://youtube.com/watch?v=4N5ZVgU_WlE",
+          "score": 3.92,
           "region": "BR",
-          "views": 1184786
+          "views": 643564
         },
         {
-          "title": "Daniel e a Fornalha Ardente | Trailer Oficial Dublado",
+          "title": "SIMULADOR DE IGREJA! SIM, É ISSO MESMO - E VALE A PENA!",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=3oNKOALkL2o",
-          "score": 1.35,
+          "url": "https://youtube.com/watch?v=wBIkemdKryQ",
+          "score": 2.61,
           "region": "BR",
-          "views": 447665
+          "views": 535775
         },
         {
-          "title": "JULLIANY SOUZA, NÍVEA SOARES - JESUS É O CENTRO (AO VIVO)",
+          "title": "GIRLS",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=tICXq7wcZRo",
-          "score": 1.27,
+          "url": "https://youtube.com/watch?v=yrCQpUhYjFg",
+          "score": 2.57,
           "region": "BR",
-          "views": 267527
+          "views": 345837
+        },
+        {
+          "title": "Tz da Coronel - Mundo Fashion ft. Matuê (Clipe Oficial)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=QSU6uy7cx98",
+          "score": 1.55,
+          "region": "BR",
+          "views": 215062
         },
         {
           "title": "Alexandra Stan - Mr. Saxobeat (Sadrican 2026 Remix)",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=86p7SP34qSc",
-          "score": 1.01,
+          "score": 1.49,
           "region": "BR",
-          "views": 556706
+          "views": 885939
         },
         {
-          "title": "🔴 Madison AO VIVO | Final do Terror 👻 - PC 🔴",
+          "title": "JULLIANY SOUZA, NÍVEA SOARES - JESUS É O CENTRO (AO VIVO)",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=Thv_TtxjPuw",
-          "score": 0.91,
+          "url": "https://youtube.com/watch?v=tICXq7wcZRo",
+          "score": 1.13,
           "region": "BR",
-          "views": 32803
+          "views": 381346
         },
         {
-          "title": "Se Deus é por nós | Irmã Kelly Patrícia na Festa de São Miguel - Instituto Hesed",
+          "title": "Edson & Hudson e Mayck & Lyan - Love Of My Life",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=e_jZQ_nNSCk",
-          "score": 0.77,
+          "url": "https://youtube.com/watch?v=7QX8r-_PBLU",
+          "score": 0.49,
           "region": "BR",
-          "views": 53778
+          "views": 69755
         },
         {
-          "title": "Louvores de Adoração 2026, Top 50 Músicas Gospel Mais Tocadas, Hinos Musica Gospel, HINOS 2026",
+          "title": "Fazendo de TUDO para SOBREVIVER na CADEIRA!",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=PpX24f4VW38",
-          "score": 0.31,
+          "url": "https://youtube.com/watch?v=NxCQwocugyM",
+          "score": 0.48,
           "region": "BR",
-          "views": 75619
-        },
-        {
-          "title": "VAI MATAR PAPAI - Diovane Severo (MÚSICA NOVA) Piseiro 2026",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=EuQ0KGwPFXM",
-          "score": 0.23,
-          "region": "BR",
-          "views": 71624
+          "views": 76549
         },
         {
           "title": "ADELINE - I Am The Rise (Official Remix)",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=ewZktVzBUlg",
-          "score": 0.18,
+          "score": 0.44,
           "region": "BR",
-          "views": 100825
+          "views": 266998
         }
       ]
     },
@@ -102,81 +102,81 @@
       "label": "Notícias (BR)",
       "trends": [
         {
-          "title": "Autoridades dos EUA temem interferência de Trump nas midterms; trumpistas do MAGA discutem lei marcial",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/21/autoridades-eua-temem-interferencia-de-trump-midterms-trumpistas-maga-discutem-lei-marcial.ghtml",
+          "title": "Meta derruba vídeo de MC Cabelinho sobre Flávio Bolsonaro às vésperas do 2º turno",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/10/22/meta-derruba-video-de-mc-cabelinho-sobre-flavio-bolsonaro-as-vesperas-do-2o-turno.ghtml",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Especialistas da ONU questionam papel da Meta nas eleições no Brasil",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/21/especialistas-da-onu-questionam-papel-da-meta-nas-eleicoes-no-brasil.ghtml",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Pesquisa Quaest mostra que 69% dos brasileiros dizem que renda aumentou no último ano",
+          "title": "Operação da PF mira grupos suspeitos de esquema fraudulento de investimentos",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/brasil/pesquisa-quaest-mostra-que-69-dos-brasileiros-dizem-que-renda-aumentou-no-ultimo-ano/",
+          "url": "https://www.infomoney.com.br/brasil/operacao-da-pf-mira-grupos-suspeitos-de-esquema-fraudulento-de-investimentos/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Pedimos à Globo que haja checagem em tempo real do debate, diz Edinho Silva",
+          "title": "CSN, Vale, Braskem e outras indústrias contratam gás em leilão inédito da PPSA",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/pedimos-a-globo-que-haja-checagem-em-tempo-real-do-debate-diz-edinho-silva/",
+          "url": "https://www.infomoney.com.br/mercados/csn-gerdau-vale-e-mais-empresas-arrematam-lotes-em-1o-leilao-de-gas-da-uniao/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Rio Tinto mantém meta de liberar até US$ 10 bilhões",
+          "title": "Ânima (ANIM3): executivos explicam parceria com Einstein após queda de 9% das ações",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/rio-tinto-mantem-meta-de-liberar-ate-us-10-bilhoes/",
+          "url": "https://www.infomoney.com.br/mercados/anima-anim3-executivos-explicam-parceria-com-einstein-apos-queda-de-9-das-acoes/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Lula sanciona lei complementar dos MEIs com perdão de dívidas",
+          "title": "“Ciclone monstro”: onde vai passar o supertufão Champi?",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/lula-sanciona-lei-complementar-dos-meis-com-perdao-de-dividas/",
+          "url": "https://www.infomoney.com.br/mundo/ciclone-monstro-onde-vai-passar/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "PEC de Lula prevê uso de R$12 bi em emendas para custear tarifa zero no transporte",
+          "title": "Entre memória e medo, idosos se tornam fator decisivo no 2º turno da eleição",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/pec-de-lula-preve-uso-de-r12-bi-em-emendas-para-custear-tarifa-zero-no-transporte/",
+          "url": "https://www.infomoney.com.br/politica/entre-memoria-e-medo-idosos-se-tornam-fator-decisivo-no-2o-turno-da-eleicao/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Polícia inclui lesão corporal no BO contra deputado do PL em disparo que atingiu Fred",
+          "title": "Motta libera cota parlamentar para deputados eleitos antes mesmo da posse",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/policia-inclui-lesao-corporal-no-bo-contra-deputado-do-pl-em-disparo-que-atingiu-fred/",
+          "url": "https://www.infomoney.com.br/politica/motta-libera-cota-parlamentar-para-deputados-eleitos-antes-mesmo-da-posse/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Fachin defende “lealdade às regras do jogo” às vésperas do 2º turno",
+          "title": "Macron acusa grupos de extrema esquerda de tentar ‘derrubar a República’ em protestos",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/fachin-defende-lealdade-as-regras-do-jogo-as-vesperas-do-2o-turno/",
+          "url": "https://www.infomoney.com.br/mundo/macron-acusa-grupos-de-extrema-esquerda-de-tentar-derrubar-a-republica-em-protestos/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Ibovespa Hoje Ao Vivo: Bolsa vira para queda com disputa eleitoral acirrada",
+          "title": "Conta da IA dentro de casa dispara e vira nova dor de cabeça para Wall Street",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21102026/",
+          "url": "https://www.infomoney.com.br/business/conta-da-ia-dentro-de-casa-dispara-e-vira-nova-dor-de-cabeca-para-wall-street/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Motiva (MOTV3): Citi vê potencial de alta limitado após rali e corta ação para neutra",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/motiva-motv3-citi-ve-potencial-de-alta-limitado-apos-rali-e-corta-acao-para-neutra/",
           "score": 100.0,
           "region": "BR",
           "views": null
@@ -278,52 +278,44 @@
       "label": "YouTube (US)",
       "trends": [
         {
-          "title": "PLAYING ELDEN RING DLC UNTIL I BEAT IT DAY 1",
+          "title": "PLAYING ELDEN RING DLC UNTIL I BEAT IT DAY 2",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=EQ_14XV_v58",
-          "score": 7.01,
+          "url": "https://youtube.com/watch?v=IfMOa6Zsyjw",
+          "score": 8.72,
           "region": "US",
-          "views": 836984
+          "views": 1025738
         },
         {
           "title": "Honest Trailers | Spider-Man: Brand New Day",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=eQf6nDraYQg",
-          "score": 3.56,
+          "score": 3.03,
           "region": "US",
-          "views": 682846
+          "views": 978479
         },
         {
-          "title": "Dune: Part Three - Official 'Tickets on Sale Now' Trailer",
+          "title": "A$AP ROCKY - SWAT TEAM (Official Video)",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=FzXx-QQTPu0",
-          "score": 2.22,
+          "url": "https://youtube.com/watch?v=CG8_jqHjidc",
+          "score": 2.71,
           "region": "US",
-          "views": 382452
+          "views": 573291
         },
         {
-          "title": "THE NEW DARKSEID TEASER",
+          "title": "BUNKER | Starring Javier Bardem & Penélope Cruz | Official US Trailer (2027)",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=cw4DEgL6K_Y",
-          "score": 0.92,
+          "url": "https://youtube.com/watch?v=fdkwGvMB5zQ",
+          "score": 2.67,
           "region": "US",
-          "views": 269874
+          "views": 455994
         },
         {
-          "title": "Godzilla Minus Zero - Official Final Trailer (2026)",
+          "title": "Dune 3 Sets IMAX Record, Clayface Reviews, Rings Of Power Trailer  - The John Campea Show",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=JQXQ35IpTb8",
-          "score": 0.66,
+          "url": "https://youtube.com/watch?v=eA0HiFELcmo",
+          "score": 0.23,
           "region": "US",
-          "views": 130766
-        },
-        {
-          "title": "B2K - Lil Freak (Official Visualizer)",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=FyPg2TBufJc",
-          "score": 0.48,
-          "region": "US",
-          "views": 94438
+          "views": 38446
         }
       ]
     },
@@ -333,82 +325,82 @@
       "label": "Notícias (US)",
       "trends": [
         {
-          "title": "How Trump's attacks on voting system integrity might affect upcoming elections",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Why local officials are feeling 'on edge' as election day approaches",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "The oil market's 2027 relief hopes are fading fast",
+          "title": "Trump ordered to sit for deposition in $10 billion BBC lawsuit",
           "source": "news:Axios",
-          "url": "https://www.axios.com/2026/10/21/oil-prices-inflation-central-banking",
+          "url": "https://www.axios.com/2026/10/22/trump-bbc-lawsuit-december-deposition-deadline",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Live updates: Trump lauds Russia's release of American; Vance calls out Republicans 'whining' about Ramaswamy ad",
+          "title": "Sex education after Cornell",
           "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/administration/6161584-trump-midterm-tour-clemson/",
+          "url": "https://thehill.com/opinion/education/6161705-beyond-consent-sex-education/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Amy Acton's estranged mother drags her in crazy attack ad",
+          "title": "Live updates: Vance stumps in Nebraska; DOJ indicts top Virginia Democrat on corruption charges",
           "source": "news:The Hill",
-          "url": "https://thehill.com/opinion/robbys-radar/6163116-acton-mother-attack-ad-controversy/",
+          "url": "https://thehill.com/homenews/administration/6164811-live-updates-donald-trump-iowa-midterm-elections/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Trump, Graham campaign on heels of Russian sanctions waiver",
+          "title": "Costco plans warehouse in a new state as others await their first store",
           "source": "news:The Hill",
-          "url": "https://thehill.com/newsletters/1230-report/6163034-trump-graham-campaign-on-heels-of-russian-sanctions-waiver/",
+          "url": "https://thehill.com/business/6165602-costco-plans-warehouse-in-a-new-state-as-others-await-their-first-store/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "FBI investigating possible incendiary device thrown at Atlanta ICE building",
+          "title": "The debt blob will destroy America",
           "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/state-watch/6162929-ice-atlanta-office-incendiary-device-fbi/",
+          "url": "https://thehill.com/opinion/congress-blog/economy-budget/6159359-federal-debt-growth-threatens-economy/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Neil Bush, brother of George W. Bush, says he voted for Talarico",
+          "title": "Judge orders Trump to be deposed in his BBC defamation suit",
           "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/campaign/6162954-neil-bush-voted-talarico/",
+          "url": "https://thehill.com/homenews/media/6165621-trump-ordered-bbc-deposition/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "China expresses 'firm opposition' to Trump administration sanctions tied to former Google engineer",
+          "title": "Family of toddler found alive in hospital morgue to file lawsuit: 'I just want justice for my son'",
           "source": "news:The Hill",
-          "url": "https://thehill.com/policy/technology/6162781-china-slams-us-ai-sanctions/",
+          "url": "https://thehill.com/homenews/state-watch/6165628-arizona-toddler-alive-in-morgue/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Trump ties Camp Lejeune toxic water settlements to GOP midterm results",
+          "title": "DeWine calls on Ramaswamy to take down ad featuring Acton's mother",
           "source": "news:The Hill",
-          "url": "https://thehill.com/policy/defense/6163013-gop-midterm-water-settlements/",
+          "url": "https://thehill.com/homenews/state-watch/6165615-dewine-urges-ramaswamy-ad-removal/",
           "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+          "score": 80.0,
           "region": "US",
           "views": null
         }
@@ -505,130 +497,114 @@
   "br_us_connections": [
     {
       "topic": "trump",
-      "count": 16,
-      "score": 86.67,
+      "count": 10,
+      "score": 68.0,
       "sample_titles": [
-        "Autoridades dos EUA temem interferência de Trump nas midterms; trumpistas do MAGA discutem lei marcial",
-        "Reunião entre Trump, Xi e Putin está sendo preparada, diz Rússia",
-        "Trump importa o caos na França para a campanha nos Estados Unidos",
-        "How Trump's attacks on voting system integrity might affect upcoming elections",
-        "Supreme Court upholds pause on Trump's anti-trans prison policy"
-      ]
-    },
-    {
-      "topic": "official",
-      "count": 5,
-      "score": 3.38,
-      "sample_titles": [
-        "LNGSHOT - 'Masterpiece' Official Music Video",
-        "ADELINE - I Am The Rise (Official Remix)",
-        "Dune: Part Three - Official 'Tickets on Sale Now' Trailer",
-        "Godzilla Minus Zero - Official Final Trailer (2026)",
-        "B2K - Lil Freak (Official Visualizer)"
-      ]
-    },
-    {
-      "topic": "macron",
-      "count": 3,
-      "score": 93.33,
-      "sample_titles": [
-        "Macron repudia comentários 'estúpidos' de líderes estrangeiros sobre protestos na França",
-        "Macron critica Trump e acusa líderes estrangeiros de explorar crise na França",
-        "Macron assails 'unacceptable and even stupid' remarks from Trump, others on France riots"
-      ]
-    },
-    {
-      "topic": "final",
-      "count": 3,
-      "score": 10.52,
-      "sample_titles": [
-        "🔴 Madison AO VIVO | Final do Terror 👻 - PC 🔴",
-        "Espero que suspensão de canais na reta final pelo TSE não se concretize, diz Edinho Silva",
-        "Godzilla Minus Zero - Official Final Trailer (2026)"
+        "Democratas dizem que Rússia faz campanha de desinformação contra oposição de Trump nas midterms",
+        "Sob ataque do governo Trump, Tribunal Penal Internacional recebe prêmio de diretos humanos do Parlamento Europeu",
+        "Trump merchandise stores are closing: 'He has peaked'",
+        "Trump's redistricting gave Republicans a head start, now it goes to the voters",
+        "Farm country has beef with Trump as midterms approach"
       ]
     },
     {
       "topic": "trailer",
+      "count": 6,
+      "score": 0.78,
+      "sample_titles": [
+        "O Senhor dos Anéis: Os Anéis de Poder | Trailer Oficial da 3ª Temporada | Prime Video",
+        "Trailer Baywatch - S.O.S. SARADÕES!",
+        "O SENHOR DOS ANÉIS: Os Anéis de Poder Temporada 3 Trailer 2 Dublado (2026)",
+        "BUNKER | Starring Javier Bardem & Penélope Cruz | Official US Trailer (2027)",
+        "Dune 3 Sets IMAX Record, Clayface Reviews, Rings Of Power Trailer  - The John Campea Show"
+      ]
+    },
+    {
+      "topic": "official",
+      "count": 4,
+      "score": 4.18,
+      "sample_titles": [
+        "LNGSHOT - 'Masterpiece' Official Music Video",
+        "ADELINE - I Am The Rise (Official Remix)",
+        "BUNKER | Starring Javier Bardem & Penélope Cruz | Official US Trailer (2027)",
+        "A$AP ROCKY - SWAT TEAM (Official Video)"
+      ]
+    },
+    {
+      "topic": "video",
       "count": 3,
-      "score": 1.41,
+      "score": 4.66,
       "sample_titles": [
-        "Daniel e a Fornalha Ardente | Trailer Oficial Dublado",
-        "Dune: Part Three - Official 'Tickets on Sale Now' Trailer",
-        "Godzilla Minus Zero - Official Final Trailer (2026)"
+        "O Senhor dos Anéis: Os Anéis de Poder | Trailer Oficial da 3ª Temporada | Prime Video",
+        "LNGSHOT - 'Masterpiece' Official Music Video",
+        "A$AP ROCKY - SWAT TEAM (Official Video)"
       ]
     },
     {
-      "topic": "spacex",
+      "topic": "trump midterms",
       "count": 2,
-      "score": 90.0,
+      "score": 70.0,
       "sample_titles": [
-        "Tesla e SpaceX discutem possível fusão; ‘seria uma boa ideia’, diz Musk",
-        "Musk: SpaceX, Tesla merger a 'good idea'"
+        "Democratas dizem que Rússia faz campanha de desinformação contra oposição de Trump nas midterms",
+        "Farm country has beef with Trump as midterms approach"
       ]
     },
     {
-      "topic": "tesla",
+      "topic": "midterms",
       "count": 2,
-      "score": 90.0,
+      "score": 70.0,
       "sample_titles": [
-        "Tesla e SpaceX discutem possível fusão; ‘seria uma boa ideia’, diz Musk",
-        "Musk: SpaceX, Tesla merger a 'good idea'"
+        "Democratas dizem que Rússia faz campanha de desinformação contra oposição de Trump nas midterms",
+        "Farm country has beef with Trump as midterms approach"
       ]
     },
     {
-      "topic": "putin",
+      "topic": "netflix",
       "count": 2,
-      "score": 80.0,
+      "score": 30.14,
       "sample_titles": [
-        "Reunião entre Trump, Xi e Putin está sendo preparada, diz Rússia",
-        "Putin tells Witkoff he is ready to resume direct peace talks, Russia releases U.S. detainee"
+        "Os 12 Signos de Valentina | Trailer oficial | Netflix Brasil",
+        "Netflix holds quarterly earnings call following leadership shakeup and layoffs"
       ]
     },
     {
-      "topic": "openai",
+      "topic": "online",
       "count": 2,
-      "score": 80.0,
+      "score": 10.0,
       "sample_titles": [
-        "OpenAI diz que agentes de IA enfraqueceram sistemas criados para monitorá-los",
-        "OpenAI brings its frontier models to rival Google Cloud"
-      ]
-    },
-    {
-      "topic": "nvidia",
-      "count": 2,
-      "score": 55.0,
-      "sample_titles": [
-        "Diretor da Nvidia insta empresas europeias a apostar na IA",
-        "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI"
+        "como ganhar dinheiro online",
+        "how to learn online"
       ]
     }
   ],
   "cross_platform": [
     {
-      "topic": "renda",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 63.33,
-      "sample_titles": [
-        "BC estuda limitar crédito de acordo com a renda, diz agência",
-        "Pesquisa Quaest mostra que 69% dos brasileiros dizem que renda aumentou no último ano",
-        "renda extra"
-      ]
-    },
-    {
-      "topic": "video",
+      "topic": "brasil",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 46.68,
+      "score": 66.72,
       "sample_titles": [
-        "LNGSHOT - 'Masterpiece' Official Music Video",
-        "'Michael' chega ao Prime Video nesta sexta-feira; veja o horário"
+        "Os 12 Signos de Valentina | Trailer oficial | Netflix Brasil",
+        "Falhas no PHP levam tribunais no Brasil e Anatel a suspender sistemas; governo emite alerta",
+        "Dólar opera em alta, com avanço nos preços do petróleo e na reta final das eleições no Brasil; Ibovespa cai",
+        "U2 no Brasil: banda anuncia data extra em SP; veja como comprar ingressos",
+        "Brasil reduz emissões em 6%, mas não cumpre meta climática de 2025"
+      ]
+    },
+    {
+      "topic": "mesmo",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 51.3,
+      "sample_titles": [
+        "SIMULADOR DE IGREJA! SIM, É ISSO MESMO - E VALE A PENA!",
+        "Motta libera cota parlamentar para deputados eleitos antes mesmo da posse"
       ]
     },
     {
@@ -640,12 +616,12 @@
       "count": 2,
       "score": 45.0,
       "sample_titles": [
-        "Dólar opera em alta, com balanços corporativos e pesquisas eleitorais no foco; Ibovespa cai",
+        "Dólar opera em alta, com avanço nos preços do petróleo e na reta final das eleições no Brasil; Ibovespa cai",
         "dólar hoje"
       ]
     },
     {
-      "topic": "estados unidos",
+      "topic": "extra",
       "platforms": [
         "news",
         "google_trends"
@@ -653,47 +629,8 @@
       "count": 2,
       "score": 45.0,
       "sample_titles": [
-        "Trump importa o caos na França para a campanha nos Estados Unidos",
-        "vida nos Estados Unidos"
-      ]
-    },
-    {
-      "topic": "estados",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 45.0,
-      "sample_titles": [
-        "Trump importa o caos na França para a campanha nos Estados Unidos",
-        "vida nos Estados Unidos"
-      ]
-    },
-    {
-      "topic": "unidos",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 45.0,
-      "sample_titles": [
-        "Trump importa o caos na França para a campanha nos Estados Unidos",
-        "vida nos Estados Unidos"
-      ]
-    },
-    {
-      "topic": "country",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 40.04,
-      "sample_titles": [
-        "JÓ NÃO PERDEU A FÉ 🙏 | A História de Jó Que Emociona – Leonardo Diniz | Sertanejo Gospel Country",
-        "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI"
+        "U2 no Brasil: banda anuncia data extra em SP; veja como comprar ingressos",
+        "renda extra"
       ]
     },
     {
@@ -703,24 +640,63 @@
         "news"
       ],
       "count": 2,
-      "score": 40.02,
+      "score": 43.36,
       "sample_titles": [
         "Deus Entre Nós (Ao Vivo)",
-        "Reunião entre Trump, Xi e Putin está sendo preparada, diz Rússia"
+        "Entre memória e medo, idosos se tornam fator decisivo no 2º turno da eleição",
+        "Debate da Globo entre Lula e Flávio Bolsonaro não terá checagem ao vivo na TV; serviço será feito no g1"
       ]
     },
     {
-      "topic": "final",
+      "topic": "record",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 10.52,
+      "score": 40.12,
       "sample_titles": [
-        "🔴 Madison AO VIVO | Final do Terror 👻 - PC 🔴",
-        "Godzilla Minus Zero - Official Final Trailer (2026)",
-        "Espero que suspensão de canais na reta final pelo TSE não se concretize, diz Edinho Silva"
+        "Dune 3 Sets IMAX Record, Clayface Reviews, Rings Of Power Trailer  - The John Campea Show",
+        "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates"
+      ]
+    },
+    {
+      "topic": "fazenda",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.03,
+      "sample_titles": [
+        "Pergunta Boba / Alçapão | Cleber & Cauan [ Resenha na Fazenda ]",
+        "'A Fazenda 18': Catherine ou Tina? Enquete aponta quem será a mais votada e quem vai sair"
+      ]
+    },
+    {
+      "topic": "start",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Trump's redistricting gave Republicans a head start, now it goes to the voters",
+        "start a business USA"
+      ]
+    },
+    {
+      "topic": "netflix",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.14,
+      "sample_titles": [
+        "Os 12 Signos de Valentina | Trailer oficial | Netflix Brasil",
+        "Netflix holds quarterly earnings call following leadership shakeup and layoffs"
       ]
     },
     {
@@ -730,193 +706,184 @@
         "news"
       ],
       "count": 2,
-      "score": 10.06,
+      "score": 10.15,
       "sample_titles": [
         "MENOS FOCO MAIS ANSIEDADE - CÊ TÁ NERVOSA DESESTRESSA - MC Lele JP, MC Jacaré, MC Ryan SP e MC Luuky",
         "Jacaré de 2 metros é resgatado dentro do campus do Ifap em Macapá; é o 2º animal em 17 dias"
-      ]
-    },
-    {
-      "topic": "romântica",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 10.04,
-      "sample_titles": [
-        "💕ROBERTA MIRANDA SÓ AS MELHORES 💕 SELEÇÃO ESPECIAL ROMÂNTICA💕",
-        "Michele Maycoth interpreta sucessos de Maria Gadú em noite romântica no AP"
       ]
     }
   ],
   "niche_ideas": [
     {
-      "main_topic": "Renda",
-      "subtopic": "Como aumentar sua renda nos EUA",
-      "why_trending": "69% dos brasileiros afirmam que a renda aumentou, e há discussões sobre limitações de crédito baseadas na renda nos EUA.",
-      "niche_angle": "Abordar como brasileiros podem explorar oportunidades de renda extra e entender as implicações das políticas de crédito na vida financeira nos EUA.",
+      "main_topic": "Dólar",
+      "subtopic": "Impacto da alta do dólar nas finanças dos brasileiros nos EUA",
+      "why_trending": "O dólar está em alta devido ao aumento nos preços do petróleo e incertezas políticas, afetando diretamente a economia dos imigrantes.",
+      "niche_angle": "Explorar como a alta do dólar impacta o custo de vida e as remessas de brasileiros que vivem nos EUA, além de dicas práticas para lidar com isso.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "G1 Economia",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/10/22/dolar-ibovespa.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-22T16:47:43.621818"
+    },
+    {
+      "main_topic": "Renda Extra",
+      "subtopic": "Como gerar renda extra nos EUA",
+      "why_trending": "O conceito de renda extra está em alta, especialmente com a inflação e o aumento do custo de vida.",
+      "niche_angle": "Discutir oportunidades de renda extra para brasileiros nos EUA, como trabalho freelance e vendas online, e como se adaptar ao mercado americano.",
       "video_format": "long",
       "urgency": "high",
       "ease": 7,
-      "source": "news:InfoMoney",
-      "region": "BR",
-      "links": [
-        "https://www.infomoney.com.br/brasil/pesquisa-quaest-mostra-que-69-dos-brasileiros-dizem-que-renda-aumentou-no-ultimo-ano/"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-21T16:47:16.559622"
-    },
-    {
-      "main_topic": "Dólar",
-      "subtopic": "Impacto da alta do dólar na vida do imigrante",
-      "why_trending": "O dólar está em alta, afetando diretamente os custos de vida e remessas para o Brasil.",
-      "niche_angle": "Discutir como a flutuação do dólar impacta brasileiros que vivem nos EUA, incluindo custos de produtos e remessas para o Brasil.",
-      "video_format": "both",
-      "urgency": "high",
-      "ease": 6,
-      "source": "news:G1 Economia",
+      "source": "G1 Economia",
       "region": "US",
       "links": [
-        "https://g1.globo.com/economia/noticia/2026/10/21/dolar-ibovespa.ghtml"
+        "https://g1.globo.com/economia/noticia/2026/10/22/renda-extra.ghtml"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
-      "collected_at": "2026-10-21T16:47:16.559645"
+      "collected_at": "2026-10-22T16:47:43.621828"
     },
     {
-      "main_topic": "Eleições nos EUA",
-      "subtopic": "Como as eleições afetam imigrantes",
-      "why_trending": "As eleições midterm estão se aproximando, com discussões sobre a integridade do sistema de votação e seus impactos nos imigrantes.",
-      "niche_angle": "Explorar como as políticas eleitorais e as promessas de candidatos afetam diretamente a vida dos imigrantes brasileiros nos EUA.",
-      "video_format": "long",
-      "urgency": "high",
-      "ease": 5,
-      "source": "news:NPR News",
-      "region": "US",
-      "links": [
-        "https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-21T16:47:16.559649"
-    },
-    {
-      "main_topic": "Empreendedorismo",
-      "subtopic": "Oportunidades para MEIs nos EUA",
-      "why_trending": "A nova lei que perdoa dívidas de MEIs no Brasil pode inspirar e informar brasileiros que desejam empreender nos EUA.",
-      "niche_angle": "Mostrar como brasileiros podem se beneficiar de oportunidades de negócios e comparar com as leis e práticas de empreendedorismo nos EUA.",
+      "main_topic": "Imigração",
+      "subtopic": "Direitos dos imigrantes nos EUA durante eleições",
+      "why_trending": "As eleições nos EUA estão se aproximando e temas relacionados a imigração são frequentemente debatidos.",
+      "niche_angle": "Abordar como as eleições impactam os direitos dos imigrantes e como brasileiros podem se proteger legalmente.",
       "video_format": "long",
       "urgency": "medium",
-      "ease": 6,
-      "source": "news:G1 Economia",
-      "region": "BR",
+      "ease": 5,
+      "source": "The Hill",
+      "region": "US",
       "links": [
-        "https://g1.globo.com/empreendedorismo/noticia/2026/10/21/lula-perdao-dividas-mei.ghtml"
+        "https://thehill.com/homenews/administration/6164811-live-updates-donald-trump-iowa-midterm-elections/"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
-      "collected_at": "2026-10-21T16:47:16.559652"
+      "collected_at": "2026-10-22T16:47:43.621834"
     },
     {
       "main_topic": "Tecnologia",
-      "subtopic": "Impacto das novas tecnologias no mercado de trabalho",
-      "why_trending": "Discussões sobre a fusão entre Tesla e SpaceX e suas possíveis implicações para o futuro do trabalho e inovações nos EUA.",
-      "niche_angle": "Analisar como as inovações tecnológicas afetam o mercado de trabalho para brasileiros nos EUA, especialmente em setores como tecnologia e engenharia.",
-      "video_format": "both",
+      "subtopic": "Falhas no PHP e segurança digital",
+      "why_trending": "Recentes falhas de segurança no PHP levaram a um alerta global, afetando muitas plataformas que utilizam esta tecnologia.",
+      "niche_angle": "Explorar como essas falhas podem impactar brasileiros que trabalham com desenvolvimento web nos EUA e as melhores práticas de segurança.",
+      "video_format": "long",
       "urgency": "medium",
-      "ease": 5,
-      "source": "news:G1 Economia",
-      "region": "US",
+      "ease": 6,
+      "source": "G1 Economia",
+      "region": "BR",
       "links": [
-        "https://g1.globo.com/economia/noticia/2026/10/21/tesla-e-spacex-discutem-possivel-fusao.ghtml"
+        "https://g1.globo.com/tecnologia/noticia/2026/10/22/falhas-no-php-levam-tribunais-no-brasil-e-anatel-a-suspender-sistemas-governo-emite-alerta.ghtml"
       ],
       "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-22T16:47:43.621839"
+    },
+    {
+      "main_topic": "Custo de Vida",
+      "subtopic": "Comparação do custo de vida: Brasil vs EUA",
+      "why_trending": "Com a inflação crescente, muitos brasileiros estão comparando o custo de vida entre os dois países para decidir onde viver.",
+      "niche_angle": "Fazer uma análise prática sobre como o custo de vida nos EUA se compara ao Brasil e o que isso significa para os imigrantes.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "G1 Economia",
+      "region": "GLOBAL",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/10/22/arrecadacao-federal-sobe-para-r-239-bilhoes-em-setembro-novo-recorde-para-o-mes.ghtml"
+      ],
+      "platforms": [
+        "youtube",
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-10-21T16:47:16.559654"
+      "collected_at": "2026-10-22T16:47:43.621843"
     },
     {
-      "main_topic": "Economia",
-      "subtopic": "Custo de vida nos EUA",
-      "why_trending": "A alta do dólar e os balanços corporativos estão afetando o custo de vida, especialmente em tempos de inflação crescente.",
-      "niche_angle": "Comparar o custo de vida nos EUA com o Brasil e oferecer dicas práticas para brasileiros administrarem suas finanças no exterior.",
+      "main_topic": "Negócios",
+      "subtopic": "Investimentos e fraudes no Brasil e nos EUA",
+      "why_trending": "Operações da polícia estão investigando fraudes de investimento, o que gera preocupação em ambos os países.",
+      "niche_angle": "Informar brasileiros nos EUA sobre como identificar e evitar fraudes de investimento, especialmente em tempos de crise.",
       "video_format": "long",
       "urgency": "medium",
       "ease": 7,
-      "source": "news:G1 Economia",
-      "region": "US",
+      "source": "InfoMoney",
+      "region": "BR",
       "links": [
-        "https://g1.globo.com/economia/noticia/2026/10/21/dolar-ibovespa.ghtml"
+        "https://www.infomoney.com.br/brasil/operacao-da-pf-mira-grupos-suspeitos-de-esquema-fraudulento-de-investimentos/"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
-      "collected_at": "2026-10-21T16:47:16.559657"
+      "collected_at": "2026-10-22T16:47:43.621848"
     },
     {
-      "main_topic": "Direito & Legal",
-      "subtopic": "Implicações da imigração nas eleições",
-      "why_trending": "As autoridades estão preocupadas com a interferência nas eleições, o que pode afetar políticas de imigração futuras.",
-      "niche_angle": "Debater como as mudanças políticas e legais podem impactar brasileiros imigrantes e suas perspectivas de permanência nos EUA.",
-      "video_format": "long",
+      "main_topic": "Viagens",
+      "subtopic": "Mudanças nas regras do Airbnb",
+      "why_trending": "Mudanças nas políticas do Airbnb estão afetando viajantes e anfitriões, especialmente com a nova regra de check-out.",
+      "niche_angle": "Discutir como essas mudanças podem impactar brasileiros que usam o Airbnb para viajar ou alugar, e dicas para aproveitar melhor o serviço.",
+      "video_format": "short",
       "urgency": "medium",
       "ease": 5,
-      "source": "news:G1 Mundo",
-      "region": "US",
+      "source": "G1 Economia",
+      "region": "BR",
       "links": [
-        "https://g1.globo.com/mundo/noticia/2026/10/21/autoridades-eua-temem-interferencia-de-trump-midterms.ghtml"
+        "https://g1.globo.com/turismo-e-viagem/noticia/2026/10/22/hospede-de-airbnb-nao-sera-mais-obrigado-a-lavar-louca-e-tirar-lixo-no-check-out.ghtml"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
-      "collected_at": "2026-10-21T16:47:16.559660"
+      "collected_at": "2026-10-22T16:47:43.621852"
+    },
+    {
+      "main_topic": "Economia",
+      "subtopic": "Crescimento da dívida federal nos EUA",
+      "why_trending": "A dívida federal nos EUA está crescendo e gerando preocupação entre economistas e cidadãos.",
+      "niche_angle": "Analisar o impacto da dívida federal na vida dos imigrantes brasileiros e como isso pode afetar suas finanças.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "The Hill",
+      "region": "US",
+      "links": [
+        "https://thehill.com/opinion/congress-blog/economy-budget/6159359-federal-debt-growth-threatens-economy/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-22T16:47:43.621861"
     },
     {
       "main_topic": "Entretenimento",
-      "subtopic": "Eleições e memes",
-      "why_trending": "A eleição nos EUA está gerando uma onda de memes e humor nas redes sociais.",
-      "niche_angle": "Criar conteúdo leve e divertido que use memes e tendências para abordar a seriedade das eleições de forma acessível para brasileiros.",
+      "subtopic": "Como o humor pode ajudar na adaptação nos EUA",
+      "why_trending": "Conteúdos de humor são sempre populares e ajudam a aliviar a pressão da vida cotidiana.",
+      "niche_angle": "Criar uma série de vídeos divertidos que explore situações engraçadas que brasileiros enfrentam nos EUA.",
       "video_format": "short",
-      "urgency": "medium",
-      "ease": 8,
-      "source": "social media",
-      "region": "US",
-      "links": [],
-      "platforms": [
-        "tiktok",
-        "reddit"
-      ],
-      "collected_at": "2026-10-21T16:47:16.559666"
-    },
-    {
-      "main_topic": "Lifestyle",
-      "subtopic": "Rotina de brasileiros imigrantes",
-      "why_trending": "A vida cotidiana de brasileiros nos EUA é um tema constante de interesse, especialmente em tempos de mudança política.",
-      "niche_angle": "Mostrar um dia na vida de brasileiros nos EUA, destacando os desafios e conquistas em meio a um cenário político instável.",
-      "video_format": "long",
       "urgency": "low",
-      "ease": 6,
-      "source": "personal experiences",
+      "ease": 8,
+      "source": "Youtube, TikTok",
       "region": "US",
       "links": [],
       "platforms": [
         "youtube",
-        "reddit"
+        "tiktok"
       ],
-      "collected_at": "2026-10-21T16:47:16.559673"
+      "collected_at": "2026-10-22T16:47:43.621866"
     }
   ]
 }
