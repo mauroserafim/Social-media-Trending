@@ -1,0 +1,931 @@
+{
+  "generated_at": "2026-10-23T16:38:42.625310",
+  "run_id": "39988378943",
+  "summary": {
+    "total_br": 30,
+    "total_us": 23,
+    "br_us_connections": 8,
+    "cross_platform_topics": 15,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "LISA - Tarantino (Official Music Video)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=-5ZXrO_lYSA",
+          "score": 71.28,
+          "region": "BR",
+          "views": 21275952
+        },
+        {
+          "title": "BABYMONSTER - 'DESERVE' M/V",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=oC6brLXQe4I",
+          "score": 57.91,
+          "region": "BR",
+          "views": 7911320
+        },
+        {
+          "title": "ATEEZ(에이티즈) - 'Drip' Official MV",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=iqQWCYMlMw0",
+          "score": 29.66,
+          "region": "BR",
+          "views": 3327668
+        },
+        {
+          "title": "WATCH ME",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=VOCEZQSO3t4",
+          "score": 2.91,
+          "region": "BR",
+          "views": 821665
+        },
+        {
+          "title": "ENCONTREI O ANIMAL MAIS RARO E LINDO DO ROUBE UM OVO!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Imsc6ZNbrY4",
+          "score": 2.73,
+          "region": "BR",
+          "views": 557306
+        },
+        {
+          "title": "Tz da Coronel - Mundo Fashion ft. Matuê (Clipe Oficial)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=QSU6uy7cx98",
+          "score": 1.73,
+          "region": "BR",
+          "views": 495163
+        },
+        {
+          "title": "Poetas no Topo \"DEMOCRACIA\" - Don L | Xamã | Mago de Tarso | DK 47 | Rod Rizz | Major RD | Levinsk",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=pqp0xqzRQOs",
+          "score": 1.03,
+          "region": "BR",
+          "views": 107364
+        },
+        {
+          "title": "SENTIMENTO SEU NENHUM - Oldilla, MC Lele JP, MC Ryan SP, MC GP, MC Meno K",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=4Puo17P5X-k",
+          "score": 0.54,
+          "region": "BR",
+          "views": 110182
+        },
+        {
+          "title": "NOVO TRAILER Capítulo 6 de Poppy Playtime",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=V2b6aYv4C6Q",
+          "score": 0.49,
+          "region": "BR",
+          "views": 105476
+        },
+        {
+          "title": "Louvores de Adoração, Hinos Evangélicos ,Top 100 Músicas Gospel Mais Tocadas 2026 , Louvores #GOSPEL",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=dA0fMvqMjLw",
+          "score": 0.47,
+          "region": "BR",
+          "views": 113715
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/10/23/ia-da-anthropic-tentou-espalhar-virus-e-criou-perfis-falsos-para-enganar-desenvolvedores-em-teste.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ministro da Fazenda fala em ajuste das contas públicas sem 'dar cavalo de pau' ou 'fazer loucuras'; Flávio tem prometido 'tesouraço'",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/10/23/ministro-da-fazenda-fala-em-ajuste-das-contas-publicas-sem-dar-cavalo-de-pau-ou-fazer-loucuras-flavio-tem-prometido-tesouraco.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "A 2 semanas das midterms, Trump ataca candidato democrata ao Senado: 'Jihadista doentio e violento'",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/23/midterms-trump-ataque-democrata-senado.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Hapvida, SulAmérica e BradSaúde têm alívio na judicialização, mas risco persiste",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/hapvida-sulamerica-e-bradsaude-tem-alivio-na-judicializacao-mas-risco-persiste/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "“Rali Flávio” nos mercados enfrenta teste de fogo com Brasil indo às urnas",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/rali-flavio-nos-mercados-enfrenta-teste-de-fogo-com-brasil-indo-as-urnas/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "FIIs ALZR11, XPML11 e SNEL11 pagam dividendos nesta sexta-feira (23); veja valores",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/onde-investir/fiis-alzr11-xpml11-e-snel11-pagam-dividendos-nesta-sexta-feira-23-veja-valores/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Outubro Rosa: 5 dicas para as mulheres garantirem a saúde financeira no longo prazo",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/minhas-financas/outubro-rosa-5-dicas-para-as-mulheres-garantirem-a-saude-financeira-no-longo-prazo/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Petrobras: ações seguem com boa relação risco-retorno mesmo após disparada, diz BBI",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/petrobras-petr3petr4-acoes-seguem-com-boa-relacao-risco-retorno-mesmo-apos-disparada-diz-bradesco-bbi/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Da Argentina ao Sri Lanka, descontentamento cresce em economias em recuperação",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/da-argentina-ao-sri-lanka-descontentamento-cresce-em-economias-em-recuperacao/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ibovespa Hoje Ao Vivo: Bolsa oscila com eleição presidencial em foco",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23102026/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "PLAYING ELDEN RING DLC UNTIL I BEAT IT DAY 3",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=RoUqH_GrT-0",
+          "score": 7.72,
+          "region": "US",
+          "views": 930801
+        },
+        {
+          "title": "BUNKER | Starring Javier Bardem & Penélope Cruz | Official US Trailer (2027)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=fdkwGvMB5zQ",
+          "score": 3.12,
+          "region": "US",
+          "views": 961923
+        },
+        {
+          "title": "Fox BD - The Gov’t",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=RxXdm2T9jwo",
+          "score": 0.4,
+          "region": "US",
+          "views": 50969
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "DOJ sues to block Alaska election results if GOP incumbent loses",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Cognitive surrender: Artificial intelligence’s threat to democracy",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/technology/6166067-protecting-personal-agency-ai/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "New Florida counties report dengue cases as statewide total passes 400",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/healthcare/6168453-new-florida-counties-report-dengue-cases-as-statewide-total-passes-400/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump denies speaking to Musk about Starlink but says he will if it’s not fixed",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6168388-trump-discusses-starlink-restrictions-elon-musk/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Why Meta is charging to post more hyperlinks",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Mysterious \"flying triangle\" sighting leads new government release of UFO documents",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/23/new-ufo-documents-flying-triangle",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 11,
+      "score": 72.0,
+      "sample_titles": [
+        "A 2 semanas das midterms, Trump ataca candidato democrata ao Senado: 'Jihadista doentio e violento'",
+        "Melania Trump diz ter intermediado cessar-fogo em cidade da Ucrânia",
+        "Amid Trump's assaults on DEI, how one university is elevating Black students",
+        "Trump's midterm campaign tour stops in Iowa",
+        "Trump must sit for a deposition in his BBC defamation lawsuit, judge rules"
+      ]
+    },
+    {
+      "topic": "trailer",
+      "count": 5,
+      "score": 1.04,
+      "sample_titles": [
+        "NOVO TRAILER Capítulo 6 de Poppy Playtime",
+        "Apocalipse Z: Novo Mundo | Trailer Oficial | Prime Video",
+        "O SENHOR DOS ANÉIS: Os Anéis de Poder Temporada 3 Trailer 2 Dublado (2026)",
+        "BUNKER | Starring Javier Bardem & Penélope Cruz | Official US Trailer (2027)"
+      ]
+    },
+    {
+      "topic": "melania",
+      "count": 3,
+      "score": 80.0,
+      "sample_titles": [
+        "Melania consegue cessar-fogo para levar ajuda a cidade ucraniana ocupada pela Rússia, diz Casa Branca",
+        "Melania Trump diz ter intermediado cessar-fogo em cidade da Ucrânia",
+        "Melania Trump brokers localized Russia-Ukraine ceasefire, White House says"
+      ]
+    },
+    {
+      "topic": "israel",
+      "count": 3,
+      "score": 60.0,
+      "sample_titles": [
+        "Eleições em Israel fazem milhares de israelenses voltarem ao país apenas para votar",
+        "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+        "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging"
+      ]
+    },
+    {
+      "topic": "artificial",
+      "count": 3,
+      "score": 40.0,
+      "sample_titles": [
+        "inteligência artificial 2025",
+        "como usar inteligência artificial",
+        "Cognitive surrender: Artificial intelligence’s threat to democracy"
+      ]
+    },
+    {
+      "topic": "official",
+      "count": 3,
+      "score": 34.69,
+      "sample_titles": [
+        "LISA - Tarantino (Official Music Video)",
+        "ATEEZ(에이티즈) - 'Drip' Official MV",
+        "BUNKER | Starring Javier Bardem & Penélope Cruz | Official US Trailer (2027)"
+      ]
+    },
+    {
+      "topic": "melania trump",
+      "count": 2,
+      "score": 80.0,
+      "sample_titles": [
+        "Melania Trump diz ter intermediado cessar-fogo em cidade da Ucrânia",
+        "Melania Trump brokers localized Russia-Ukraine ceasefire, White House says"
+      ]
+    },
+    {
+      "topic": "online",
+      "count": 2,
+      "score": 10.0,
+      "sample_titles": [
+        "como ganhar dinheiro online",
+        "how to learn online"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "saúde",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "Outubro Rosa: 5 dicas para as mulheres garantirem a saúde financeira no longo prazo",
+        "saúde nos EUA"
+      ]
+    },
+    {
+      "topic": "sexta feira",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.05,
+      "sample_titles": [
+        "Sexta Feira 23 de Outubro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "FIIs ALZR11, XPML11 e SNEL11 pagam dividendos nesta sexta-feira (23); veja valores"
+      ]
+    },
+    {
+      "topic": "feira",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.05,
+      "sample_titles": [
+        "Sexta Feira 23 de Outubro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "FIIs ALZR11, XPML11 e SNEL11 pagam dividendos nesta sexta-feira (23); veja valores"
+      ]
+    },
+    {
+      "topic": "sexta",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.05,
+      "sample_titles": [
+        "Sexta Feira 23 de Outubro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "FIIs ALZR11, XPML11 e SNEL11 pagam dividendos nesta sexta-feira (23); veja valores"
+      ]
+    },
+    {
+      "topic": "outubro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.05,
+      "sample_titles": [
+        "Sexta Feira 23 de Outubro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Outubro Rosa: 5 dicas para as mulheres garantirem a saúde financeira no longo prazo"
+      ]
+    },
+    {
+      "topic": "fazenda",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.05,
+      "sample_titles": [
+        "Pergunta Boba / Alçapão | Cleber & Cauan [ Resenha na Fazenda ]",
+        "Ministro da Fazenda fala em ajuste das contas públicas sem 'dar cavalo de pau' ou 'fazer loucuras'; Flávio tem prometido 'tesouraço'"
+      ]
+    },
+    {
+      "topic": "estados unidos",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "GP dos Estados Unidos: veja horários e onde assistir aos treinos de Fórmula 1",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "unidos",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "GP dos Estados Unidos: veja horários e onde assistir aos treinos de Fórmula 1",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "estados",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "GP dos Estados Unidos: veja horários e onde assistir aos treinos de Fórmula 1",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "inflation",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Consumer confidence holds steady from September amid persistent inflation",
+        "inflation"
+      ]
+    },
+    {
+      "topic": "santos",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.22,
+      "sample_titles": [
+        "O Orgulho Apagou - Raphaela Santos ( Ao Vivo Em São Paulo )",
+        "Dia do Aviador: há 120 anos, Santos Dumont mudava a história da aviação com o 14-bis"
+      ]
+    },
+    {
+      "topic": "temporada",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.13,
+      "sample_titles": [
+        "O SENHOR DOS ANÉIS: Os Anéis de Poder Temporada 3 Trailer 2 Dublado (2026)",
+        "Quando estreia o último episódio da 13ª temporada de 'American Horror Story'?"
+      ]
+    },
+    {
+      "topic": "história",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.07,
+      "sample_titles": [
+        "Ferro na Boneca - Tá na cara / Jardim dos Animais / A desconhecida(DVD 25 ANOS DE HISTÓRIA, Parte.2)",
+        "Dia do Aviador: há 120 anos, Santos Dumont mudava a história da aviação com o 14-bis"
+      ]
+    },
+    {
+      "topic": "jeito",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.07,
+      "sample_titles": [
+        "DO JEITO QUE VOCÊ MEXE VAI MATAR PAPAI",
+        "O jeito de comprar pela internet está mudando. E a IA está por trás disso"
+      ]
+    },
+    {
+      "topic": "artificial",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 40.0,
+      "sample_titles": [
+        "Cognitive surrender: Artificial intelligence’s threat to democracy",
+        "inteligência artificial 2025",
+        "como usar inteligência artificial"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "inflação",
+      "subtopic": "como a inflação nos EUA afeta os imigrantes brasileiros",
+      "why_trending": "A inflação nos EUA continua alta, afetando o poder de compra e as decisões de consumo das famílias. Dados recentes mostram que a inflação está impactando diretamente o custo de vida.",
+      "niche_angle": "Vamos discutir como os imigrantes brasileiros podem se ajustar a essa realidade e quais estratégias financeiras podem ser adotadas para enfrentar a inflação.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 7,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-23T16:38:42.623076"
+    },
+    {
+      "main_topic": "educação financeira",
+      "subtopic": "5 dicas para garantir saúde financeira durante Outubro Rosa",
+      "why_trending": "Outubro Rosa traz à tona a importância da saúde das mulheres, mas também é uma oportunidade de discutir saúde financeira, especialmente em tempos de crise.",
+      "niche_angle": "Vamos conectar a conscientização do Outubro Rosa com dicas práticas de educação financeira para mulheres brasileiras nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news",
+      "region": "BR",
+      "links": [
+        "https://www.infomoney.com.br/minhas-financas/outubro-rosa-5-dicas-para-as-mulheres-garantirem-a-saude-financeira-no-longo-prazo/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-23T16:38:42.623088"
+    },
+    {
+      "main_topic": "mercado de trabalho",
+      "subtopic": "novas oportunidades em tecnologia e IA",
+      "why_trending": "A demanda por habilidades em tecnologia e inteligência artificial está crescendo, especialmente com as inovações recentes no setor. Estima-se que o investimento em IA vai dobrar nos próximos anos.",
+      "niche_angle": "Exploraremos como brasileiros nos EUA podem se beneficiar dessas novas oportunidades e quais cursos e treinamentos são recomendados para se destacar.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/tecnologia/noticia/2026/10/23/microsoft-diz-que-sua-ia-superou-medicos-em-testes-de-diagnostico.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-23T16:38:42.623093"
+    },
+    {
+      "main_topic": "direito & legal",
+      "subtopic": "como a política americana afeta imigrantes",
+      "why_trending": "As eleições midterms estão se aproximando e a retórica política está mudando rapidamente, o que pode ter implicações diretas para os imigrantes.",
+      "niche_angle": "Analisaremos como as políticas propostas impactam a vida dos imigrantes brasileiros nos EUA e o que esperar após as eleições.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/10/23/midterms-trump-ataque-democrata-senado.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-23T16:38:42.623098"
+    },
+    {
+      "main_topic": "economia",
+      "subtopic": "impacto da política econômica brasileira nos EUA",
+      "why_trending": "Com a instabilidade econômica no Brasil, muitos brasileiros estão repensando sua vida nos EUA e como isso afeta suas finanças.",
+      "niche_angle": "Vamos discutir como a economia brasileira impacta os imigrantes nos EUA e quais são as melhores estratégias de investimento nesse cenário.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "BR",
+      "links": [
+        "https://www.infomoney.com.br/mercados/rali-flavio-nos-mercados-enfrenta-teste-de-fogo-com-brasil-indo-as-urnas/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-23T16:38:42.623102"
+    },
+    {
+      "main_topic": "tecnologia",
+      "subtopic": "IA mudando o setor de compras online",
+      "why_trending": "A inteligência artificial está revolucionando como as pessoas compram online, o que pode afetar brasileiros que trabalham com e-commerce.",
+      "niche_angle": "Vamos explorar como brasileiros nos EUA podem se adaptar a essas mudanças e quais ferramentas de IA podem ajudar a otimizar vendas.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news",
+      "region": "BR",
+      "links": [
+        "https://exame.com/negocios/o-jeito-de-comprar-pela-internet-esta-mudando-e-a-ia-esta-por-tras-disso/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-23T16:38:42.623107"
+    },
+    {
+      "main_topic": "saúde",
+      "subtopic": "dengue em novos condados da Flórida",
+      "why_trending": "Casos de dengue estão aumentando em novos condados da Flórida, o que gera preocupação entre a população.",
+      "niche_angle": "Vamos discutir como isso afeta a comunidade brasileira e quais precauções devem ser tomadas para evitar doenças.",
+      "video_format": "short",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://thehill.com/policy/healthcare/6168453-new-florida-counties-report-dengue-cases-as-statewide-total-passes-400/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-23T16:38:42.623112"
+    },
+    {
+      "main_topic": "estilo de vida",
+      "subtopic": "rotina de imigrante na Flórida",
+      "why_trending": "A vida na Flórida é uma realidade para muitos brasileiros, e entender como é a rotina pode ajudar novos imigrantes.",
+      "niche_angle": "Vamos compartilhar um dia na vida de um imigrante brasileiro na Flórida, incluindo desafios e conquistas.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "youtube",
+        "reddit"
+      ],
+      "collected_at": "2026-10-23T16:38:42.623124"
+    },
+    {
+      "main_topic": "negócios",
+      "subtopic": "abrindo um negócio nos EUA",
+      "why_trending": "Com a economia se recuperando, muitos brasileiros estão pensando em abrir suas próprias empresas nos EUA.",
+      "niche_angle": "Vamos discutir os passos práticos para abrir um negócio nos EUA, desde o registro até o marketing.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 8,
+      "source": "news",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "youtube",
+        "reddit"
+      ],
+      "collected_at": "2026-10-23T16:38:42.623129"
+    }
+  ]
+}
