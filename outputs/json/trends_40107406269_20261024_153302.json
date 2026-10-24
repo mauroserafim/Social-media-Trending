@@ -1,0 +1,912 @@
+{
+  "generated_at": "2026-10-24T15:33:02.277253",
+  "run_id": "40107406269",
+  "summary": {
+    "total_br": 30,
+    "total_us": 27,
+    "br_us_connections": 10,
+    "cross_platform_topics": 9,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "LISA - Tarantino (Official Music Video)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=-5ZXrO_lYSA",
+          "score": 98.98,
+          "region": "BR",
+          "views": 48975569
+        },
+        {
+          "title": "ATEEZ(에이티즈) - 'Drip' Official MV",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=iqQWCYMlMw0",
+          "score": 28.37,
+          "region": "BR",
+          "views": 7439140
+        },
+        {
+          "title": "EXCLUSIVE PREVIEW ⚾ MLB Crosses Over Into Avengers: Doomsday 🤯",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=oLJFJSNFklU",
+          "score": 13.54,
+          "region": "BR",
+          "views": 1730666
+        },
+        {
+          "title": "Belo - Você Mudou (Clipe Oficial)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=sJgKq74jFrs",
+          "score": 5.1,
+          "region": "BR",
+          "views": 1037444
+        },
+        {
+          "title": "Avengers: Doomsday \"Steve Rogers Con Los Vengadores\" Tráiler Subtitulado",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=IVxkMLTBzoI",
+          "score": 3.98,
+          "region": "BR",
+          "views": 456731
+        },
+        {
+          "title": "Primavera - Jorge e Mateus",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=A5vdK_kbjCU",
+          "score": 3.44,
+          "region": "BR",
+          "views": 679244
+        },
+        {
+          "title": "AMADO BATISTA – AS 20 MELHORES 🎶 SÓ AS ANTIGAS | GRANDES SUCESSOS ROMÂNTICOS",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=IQbNzg42iTg",
+          "score": 2.99,
+          "region": "BR",
+          "views": 29564
+        },
+        {
+          "title": "AVENGERS 5 DOOMSDAY \"Steve Rogers Meets New Avengers\" Trailer (NEW 2026)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=C4Ze4XN-A6A",
+          "score": 2.26,
+          "region": "BR",
+          "views": 259412
+        },
+        {
+          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=CcCiaZodoAo",
+          "score": 2.08,
+          "region": "BR",
+          "views": 245840
+        },
+        {
+          "title": "Poetas no Topo \"DEMOCRACIA\" - Don L | Xamã | Mago de Tarso | DK 47 | Rod Rizz | Major RD | Levinsk",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=pqp0xqzRQOs",
+          "score": 1.82,
+          "region": "BR",
+          "views": 468282
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Protestos na Bélgica e na Albânia têm confronto entre manifestantes e policiais",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/24/protestos-na-belgica-e-na-albania-tem-confronto-entre-manifestantes-e-policiais.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Incêndio atinge 'Ninho da Águia', construção usada por Hitler na Alemanha; veja FOTOS",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/24/incendio-atinge-ninho-da-aguia-construcao-usada-por-hitler-na-alemanha.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Como a imprensa internacional repercutiu o último debate entre Flávio Bolsonaro e Lula",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/24/como-a-imprensa-internacional-repercutiu-o-ultimo-debate-flavio-lula.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Rebeca Andrade é ouro no salto e conquista o tricampeonato mundial",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/rebeca-andrade-e-ouro-no-salto-e-conquista-o-tricampeonato-mundial/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Trump diz que pode mudar equipe de imprensa da Casa Branca de lugar",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/trump-diz-que-pode-mudar-equipe-de-imprensa-da-casa-branca-de-lugar/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Adido do USDA prevê safra de soja brasileira de 184 mi t para 2026/27",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/business/adido-do-usda-preve-safra-de-soja-brasileira-de-184-mi-t-para-2026-27/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Azul anuncia financiamento de até R$2 bi para combustível de aviação",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/azul-anuncia-financiamento-de-ate-r2-bi-para-combustivel-de-aviacao/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Fornecedora de lanchinhos de companhias aéreas fatura milhões e mira o varejo",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/business/fornecedora-de-lanchinhos-de-companhias-aereas-fatura-milhoes-e-mira-o-varejo/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Quem paga a conta? Economistas analisam promessas de Lula e Flávio diante de Orçamento apertado",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/10/24/quem-paga-a-conta-economistas-analisam-promessas-de-lula-e-flavio-diante-de-orcamento-apertado.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Protestos na França: polícia usa gás lacrimogêneo em Lyon e Pau; VÍDEO",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/24/protestos-na-franca-policia-usa-gas-lacrimogeneo-em-lyon-e-pau-video.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "JYNXZI vs PROMISED CONSORT RADAHN",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=OT-gVk8hfUI",
+          "score": 9.3,
+          "region": "US",
+          "views": 1046640
+        },
+        {
+          "title": "Forrest Frank - THE JESUS GENERATION (Official Movie Teaser)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=6E3dQIAR-mE",
+          "score": 2.57,
+          "region": "US",
+          "views": 419028
+        },
+        {
+          "title": "Yung Miami - Dear JT (Official Visualizer)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=tAg4Fa1JtPo",
+          "score": 2.5,
+          "region": "US",
+          "views": 476316
+        },
+        {
+          "title": "Avengers Doomsday New Special Look | Doctor Doom Trailer",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=-w-Io69hmV8",
+          "score": 1.31,
+          "region": "US",
+          "views": 199436
+        },
+        {
+          "title": "This Zombies Map Took Us 4 HOURS To Beat! (Uncut Footage)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=5xCwwVGYGmM",
+          "score": 0.97,
+          "region": "US",
+          "views": 148038
+        },
+        {
+          "title": "Avengers Doomsday Special Look Hides A Big Secret",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=p02m-AcvrVc",
+          "score": 0.74,
+          "region": "US",
+          "views": 78095
+        },
+        {
+          "title": "Fox BD - The Gov’t",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=RxXdm2T9jwo",
+          "score": 0.48,
+          "region": "US",
+          "views": 131680
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "How to navigate AI manipulation this election season",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/campaign/6168673-ai-election-disinformation-threats/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "José Andrés joins fight against proposed DC foie gras ban",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6170033-jose-andres-dc-foie-gras-ban/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Perspective: The next James Bond",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "U.S. birth rate drops to record low, but older women are having more babies",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "A consultant is going viral for exposing the cringe-worthy DMs bosses send employees",
+          "source": "news:NPR Economy",
+          "url": "https://www.npr.org/2026/10/24/nx-s1-6012795/a-consultant-is-going-viral-for-exposing-the-cringe-worthy-dms-bosses-send-employees",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "The rise of the economic populist: What voters want from both parties this year",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Week in Politics: Ramaswamy's Ohio ad; Trump greenlights DOJ to sue over Alaska Senate",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/10/24/nx-s1-6012100/week-in-politics-ramaswamys-ohio-ad-trump-greenlights-doj-to-sue-over-alaska-senate",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/24/israel-election-trump-netanyahu-advisers",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 8,
+      "score": 76.0,
+      "sample_titles": [
+        "Trump retira tarifa de 50% sobre alguns produtos do Canadá, incluindo madeira e alimentos",
+        "Trump diz que pode mudar equipe de imprensa da Casa Branca de lugar",
+        "Week in Politics: Ramaswamy's Ohio ad; Trump greenlights DOJ to sue over Alaska Senate",
+        "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
+        "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu"
+      ]
+    },
+    {
+      "topic": "doomsday",
+      "count": 7,
+      "score": 4.33,
+      "sample_titles": [
+        "EXCLUSIVE PREVIEW ⚾ MLB Crosses Over Into Avengers: Doomsday 🤯",
+        "AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+        "Avengers: Doomsday \"Steve Rogers Con Los Vengadores\" Tráiler Subtitulado",
+        "Avengers Doomsday Special Look Hides A Big Secret",
+        "Avengers Doomsday New Special Look | Doctor Doom Trailer"
+      ]
+    },
+    {
+      "topic": "avengers",
+      "count": 6,
+      "score": 4.33,
+      "sample_titles": [
+        "EXCLUSIVE PREVIEW ⚾ MLB Crosses Over Into Avengers: Doomsday 🤯",
+        "AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+        "Avengers: Doomsday \"Steve Rogers Con Los Vengadores\" Tráiler Subtitulado",
+        "Avengers Doomsday Special Look Hides A Big Secret",
+        "Avengers Doomsday New Special Look | Doctor Doom Trailer"
+      ]
+    },
+    {
+      "topic": "avengers doomsday",
+      "count": 6,
+      "score": 4.33,
+      "sample_titles": [
+        "EXCLUSIVE PREVIEW ⚾ MLB Crosses Over Into Avengers: Doomsday 🤯",
+        "AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+        "Avengers: Doomsday \"Steve Rogers Con Los Vengadores\" Tráiler Subtitulado",
+        "Avengers Doomsday Special Look Hides A Big Secret",
+        "Avengers Doomsday New Special Look | Doctor Doom Trailer"
+      ]
+    },
+    {
+      "topic": "official",
+      "count": 5,
+      "score": 26.9,
+      "sample_titles": [
+        "LISA - Tarantino (Official Music Video)",
+        "AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+        "ATEEZ(에이티즈) - 'Drip' Official MV",
+        "Yung Miami - Dear JT (Official Visualizer)",
+        "Forrest Frank - THE JESUS GENERATION (Official Movie Teaser)"
+      ]
+    },
+    {
+      "topic": "trailer",
+      "count": 4,
+      "score": 1.47,
+      "sample_titles": [
+        "AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+        "🚨 AO VIVO! É HOJE? ESPERANDO O POSSÍVEL TRAILER DE VINGADORES: DOOMSDAY! 👀",
+        "AVENGERS 5 DOOMSDAY \"Steve Rogers Meets New Avengers\" Trailer (NEW 2026)",
+        "Avengers Doomsday New Special Look | Doctor Doom Trailer"
+      ]
+    },
+    {
+      "topic": "teaser",
+      "count": 3,
+      "score": 1.94,
+      "sample_titles": [
+        "AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+        "VINGADORES DOUTOR DESTINO: Teaser Oficial \"Capitão América (Marvel Studios, 2026)",
+        "Forrest Frank - THE JESUS GENERATION (Official Movie Teaser)"
+      ]
+    },
+    {
+      "topic": "biden",
+      "count": 2,
+      "score": 70.0,
+      "sample_titles": [
+        "Ex-funcionários do FBI são acusados de mentir em caso envolvendo filho de Biden",
+        "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries"
+      ]
+    },
+    {
+      "topic": "miami",
+      "count": 2,
+      "score": 41.25,
+      "sample_titles": [
+        "Larry Page gasta US$ 173 milhões em Miami e lidera êxodo de bilionários da Califórnia",
+        "Yung Miami - Dear JT (Official Visualizer)"
+      ]
+    },
+    {
+      "topic": "change",
+      "count": 2,
+      "score": 30.5,
+      "sample_titles": [
+        "Winds of Change - Music Travel Love ft. Dan Lagroma",
+        "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "viral",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "A consultant is going viral for exposing the cringe-worthy DMs bosses send employees",
+        "viral trends"
+      ]
+    },
+    {
+      "topic": "miami",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 41.25,
+      "sample_titles": [
+        "Yung Miami - Dear JT (Official Visualizer)",
+        "Larry Page gasta US$ 173 milhões em Miami e lidera êxodo de bilionários da Califórnia"
+      ]
+    },
+    {
+      "topic": "destino",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.59,
+      "sample_titles": [
+        "VINGADORES DOUTOR DESTINO: Teaser Oficial \"Capitão América (Marvel Studios, 2026)",
+        "Rio Manso aposta em parceria com a Geisse e prepara novo destino de enoturismo na Mantiqueira"
+      ]
+    },
+    {
+      "topic": "presidente",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.13,
+      "sample_titles": [
+        "22 é Meu Cacete (Eu Tô Com o 13) Lula Presidente",
+        "Pesquisa para presidente CNT/MDA: Flávio Bolsonaro tem 50,7% e Lula, 49,3%, dos votos válidos"
+      ]
+    },
+    {
+      "topic": "inteligência",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 33.33,
+      "sample_titles": [
+        "Chefe de inteligência dos EUA alerta para aumento de ameaças iranianas contra americanos",
+        "inteligência artificial 2025",
+        "como usar inteligência artificial"
+      ]
+    },
+    {
+      "topic": "change",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.5,
+      "sample_titles": [
+        "Winds of Change - Music Travel Love ft. Dan Lagroma",
+        "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that"
+      ]
+    },
+    {
+      "topic": "sábado",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.04,
+      "sample_titles": [
+        "Sábado 24 de Outubro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Mega-Sena pode pagar R$ 230 milhões neste sábado; g1 transmite ao vivo",
+        "Datafolha divulgará análise de propensão ao voto neste sábado"
+      ]
+    },
+    {
+      "topic": "sucessos",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 11.5,
+      "sample_titles": [
+        "AMADO BATISTA – AS 20 MELHORES 🎶 SÓ AS ANTIGAS | GRANDES SUCESSOS ROMÂNTICOS",
+        "Michele Maycoth interpreta sucessos de Maria Gadú em noite romântica no AP"
+      ]
+    },
+    {
+      "topic": "grupo",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 10.06,
+      "sample_titles": [
+        "Grupo Benzadeus, @cantorfarias - Quem Será / Para Tudo/ 1 Metro e 65 (Ao Vivo em Itacimirim)",
+        "Grupo empresarial deve pagar quase R$ 21 milhões por desvio de recursos da Cidade das Águas em Frutal"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "Inteligência Artificial",
+      "subtopic": "Como usar IA para otimizar sua carreira nos EUA",
+      "why_trending": "A IA está se tornando uma ferramenta essencial no ambiente de trabalho, com empresas buscando formas de integrar essa tecnologia para aumentar a produtividade.",
+      "niche_angle": "Explorar como brasileiros nos EUA podem aprender e aplicar ferramentas de IA em seus empregos ou negócios para se destacar no mercado.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 5,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://thehill.com/opinion/campaign/6168673-ai-election-disinformation-threats/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-24T15:33:02.272862"
+    },
+    {
+      "main_topic": "Miami",
+      "subtopic": "O êxodo de bilionários e o impacto na economia local",
+      "why_trending": "Larry Page gastou US$ 173 milhões em Miami, marcando uma tendência de transferência de riqueza da Califórnia para a Flórida.",
+      "niche_angle": "Analisar como esse movimento afeta o mercado imobiliário e as oportunidades de negócios para brasileiros que vivem na área.",
+      "video_format": "both",
+      "urgency": "high",
+      "ease": 6,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://exame.com/mercado-imobiliario/larry-page-gasta-us-173-milhoes-em-miami-e-lidera-exodo-de-bilionarios-da-california/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-24T15:33:02.272875"
+    },
+    {
+      "main_topic": "Economia e Mercado",
+      "subtopic": "Como as promessas dos candidatos impactam sua vida financeira",
+      "why_trending": "Economistas analisam as promessas de Lula e Flávio Bolsonaro diante de um orçamento apertado, que pode ter consequências diretas na economia do Brasil e nos imigrantes.",
+      "niche_angle": "Discutir como as mudanças políticas no Brasil podem afetar brasileiros nos EUA, especialmente em termos de remessas e investimentos.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 7,
+      "source": "news:G1 Economia",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/10/24/quem-paga-a-conta-economistas-analisam-promessas-de-lula-e-flavio-diante-de-orcamento-apertado.ghtml"
+      ],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-10-24T15:33:02.272880"
+    },
+    {
+      "main_topic": "Direito & Legal",
+      "subtopic": "Desinformação nas eleições e como se proteger",
+      "why_trending": "Com as eleições se aproximando, há um aumento nas preocupações sobre a manipulação da informação, especialmente em relação ao uso de IA.",
+      "niche_angle": "Oferecer dicas práticas para brasileiros nos EUA sobre como identificar e evitar desinformação durante a temporada eleitoral.",
+      "video_format": "short",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "news:NPR Politics",
+      "region": "US",
+      "links": [
+        "https://thehill.com/opinion/campaign/6168673-ai-election-disinformation-threats/"
+      ],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-10-24T15:33:02.272885"
+    },
+    {
+      "main_topic": "Viagem",
+      "subtopic": "Custo de viajar para Miami durante a alta demanda",
+      "why_trending": "Com o aumento de investimentos e a popularidade de Miami, muitos brasileiros estão planejando viagens, gerando uma demanda crescente por informações sobre custos.",
+      "niche_angle": "Analisar os custos de viajar para Miami e as melhores épocas para visitar, considerando a alta demanda e as oportunidades de negócios.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://exame.com/pop/halloween-em-sp-e-no-rio-veja-festas-passeios-e-eventos-para-criancas/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-24T15:33:02.272890"
+    },
+    {
+      "main_topic": "Entretenimento",
+      "subtopic": "Viral da DM cringe e a cultura do trabalho nos EUA",
+      "why_trending": "Uma consultora viralizou ao expor mensagens de texto embaraçosas que os chefes enviam aos funcionários, levantando a discussão sobre a cultura no ambiente de trabalho.",
+      "niche_angle": "Refletir sobre as experiências de brasileiros nos EUA com a cultura corporativa e como lidar com situações difíceis no trabalho.",
+      "video_format": "short",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:NPR Economy",
+      "region": "US",
+      "links": [
+        "https://www.npr.org/2026/10/24/nx-s1-6012795/a-consultant-is-going-viral-for-exposing-the-cringe-worthy-dms-bosses-send-employees"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-24T15:33:02.272895"
+    },
+    {
+      "main_topic": "Lifestyle",
+      "subtopic": "Técnicas de oratória para brasileiros na América",
+      "why_trending": "Atriz da Broadway revela técnicas para vencer o nervosismo ao falar em público, algo crucial para os imigrantes que buscam se integrar.",
+      "niche_angle": "Oferecer dicas práticas para brasileiros que precisam melhorar suas habilidades de comunicação em ambientes profissionais e sociais nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://exame.com/carreira/tem-medo-de-falar-em-publico-atriz-da-broadway-revela-tecnicas-para-vencer-o-nervosismo/"
+      ],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-10-24T15:33:02.272899"
+    },
+    {
+      "main_topic": "Economia & Mercado",
+      "subtopic": "Venda de precatórios e seus riscos",
+      "why_trending": "A venda de precatórios disparou em SP, e economistas estão discutindo quando vale a pena e quais são os riscos envolvidos.",
+      "niche_angle": "Explorar como brasileiros nos EUA podem se beneficiar ou evitar armadilhas relacionadas a precatórios e investimentos no Brasil.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news:Exame",
+      "region": "BR",
+      "links": [
+        "https://exame.com/invest/minhas-financas/venda-de-precatorios-dispara-em-sp-veja-quando-vale-a-pena-e-quais-sao-os-riscos/"
+      ],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-10-24T15:33:02.272907"
+    },
+    {
+      "main_topic": "Grupos e Comunidade",
+      "subtopic": "Impacto do êxodo de bilionários na comunidade local",
+      "why_trending": "O movimento de bilionários para Miami está mudando o cenário econômico e social da cidade, impactando a comunidade local.",
+      "niche_angle": "Discutir como a presença de bilionários pode afetar a vida dos brasileiros que vivem em Miami, desde o custo de vida até oportunidades de empregos.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://exame.com/mercado-imobiliario/larry-page-gasta-us-173-milhoes-em-miami-e-lidera-exodo-de-bilionarios-da-california/"
+      ],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-10-24T15:33:02.272913"
+    }
+  ]
+}

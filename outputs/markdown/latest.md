@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 23/10/2026 16:38 UTC
+# 📊 Tendências em Alta — 24/10/2026 15:33 UTC
 
-**Run:** `39988378943` | **BR:** 30 trends | **US:** 23 trends | **Nicho:** 9 ideias
+**Run:** `40107406269` | **BR:** 30 trends | **US:** 27 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -12,28 +12,28 @@
 #### 📺 YouTube (BR) — Top 10
 
  1. LISA - Tarantino (Official Music Video) · [https://youtube.com/watch?v=-5ZXrO_lYSA](https://youtube.com/watch?v=-5ZXrO_lYSA)
- 2. BABYMONSTER - 'DESERVE' M/V · [https://youtube.com/watch?v=oC6brLXQe4I](https://youtube.com/watch?v=oC6brLXQe4I)
- 3. ATEEZ(에이티즈) - 'Drip' Official MV · [https://youtube.com/watch?v=iqQWCYMlMw0](https://youtube.com/watch?v=iqQWCYMlMw0)
- 4. WATCH ME · [https://youtube.com/watch?v=VOCEZQSO3t4](https://youtube.com/watch?v=VOCEZQSO3t4)
- 5. ENCONTREI O ANIMAL MAIS RARO E LINDO DO ROUBE UM OVO! · [https://youtube.com/watch?v=Imsc6ZNbrY4](https://youtube.com/watch?v=Imsc6ZNbrY4)
- 6. Tz da Coronel - Mundo Fashion ft. Matuê (Clipe Oficial) · [https://youtube.com/watch?v=QSU6uy7cx98](https://youtube.com/watch?v=QSU6uy7cx98)
- 7. Poetas no Topo "DEMOCRACIA" - Don L | Xamã | Mago de Tarso | DK 47 | Rod Rizz | Major RD | Levinsk · [https://youtube.com/watch?v=pqp0xqzRQOs](https://youtube.com/watch?v=pqp0xqzRQOs)
- 8. SENTIMENTO SEU NENHUM - Oldilla, MC Lele JP, MC Ryan SP, MC GP, MC Meno K · [https://youtube.com/watch?v=4Puo17P5X-k](https://youtube.com/watch?v=4Puo17P5X-k)
- 9. NOVO TRAILER Capítulo 6 de Poppy Playtime · [https://youtube.com/watch?v=V2b6aYv4C6Q](https://youtube.com/watch?v=V2b6aYv4C6Q)
-10. Louvores de Adoração, Hinos Evangélicos ,Top 100 Músicas Gospel Mais Tocadas 2026 , Louvores #GOSPEL · [https://youtube.com/watch?v=dA0fMvqMjLw](https://youtube.com/watch?v=dA0fMvqMjLw)
+ 2. ATEEZ(에이티즈) - 'Drip' Official MV · [https://youtube.com/watch?v=iqQWCYMlMw0](https://youtube.com/watch?v=iqQWCYMlMw0)
+ 3. EXCLUSIVE PREVIEW ⚾ MLB Crosses Over Into Avengers: Doomsday 🤯 · [https://youtube.com/watch?v=oLJFJSNFklU](https://youtube.com/watch?v=oLJFJSNFklU)
+ 4. Belo - Você Mudou (Clipe Oficial) · [https://youtube.com/watch?v=sJgKq74jFrs](https://youtube.com/watch?v=sJgKq74jFrs)
+ 5. Avengers: Doomsday "Steve Rogers Con Los Vengadores" Tráiler Subtitulado · [https://youtube.com/watch?v=IVxkMLTBzoI](https://youtube.com/watch?v=IVxkMLTBzoI)
+ 6. Primavera - Jorge e Mateus · [https://youtube.com/watch?v=A5vdK_kbjCU](https://youtube.com/watch?v=A5vdK_kbjCU)
+ 7. AMADO BATISTA – AS 20 MELHORES 🎶 SÓ AS ANTIGAS | GRANDES SUCESSOS ROMÂNTICOS · [https://youtube.com/watch?v=IQbNzg42iTg](https://youtube.com/watch?v=IQbNzg42iTg)
+ 8. AVENGERS 5 DOOMSDAY "Steve Rogers Meets New Avengers" Trailer (NEW 2026) · [https://youtube.com/watch?v=C4Ze4XN-A6A](https://youtube.com/watch?v=C4Ze4XN-A6A)
+ 9. AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026) · [https://youtube.com/watch?v=CcCiaZodoAo](https://youtube.com/watch?v=CcCiaZodoAo)
+10. Poetas no Topo "DEMOCRACIA" - Don L | Xamã | Mago de Tarso | DK 47 | Rod Rizz | Major RD | Levinsk · [https://youtube.com/watch?v=pqp0xqzRQOs](https://youtube.com/watch?v=pqp0xqzRQOs)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Claude Mythos 5 tentou espalhar vírus e criou perfis falsos para enganar desenvolvedores em teste · [https://g1.globo.com/tecnologia/noticia/2026/10/23/ia-da-anthropic-tentou-espalhar-virus-e-criou-perfis-falsos-para-enganar-desenvolvedores-em-teste.ghtml](https://g1.globo.com/tecnologia/noticia/2026/10/23/ia-da-anthropic-tentou-espalhar-virus-e-criou-perfis-falsos-para-enganar-desenvolvedores-em-teste.ghtml)
- 2. Ministro da Fazenda fala em ajuste das contas públicas sem 'dar cavalo de pau' ou 'fazer loucuras'; Flávio tem prometido 'tesouraço' · [https://g1.globo.com/economia/noticia/2026/10/23/ministro-da-fazenda-fala-em-ajuste-das-contas-publicas-sem-dar-cavalo-de-pau-ou-fazer-loucuras-flavio-tem-prometido-tesouraco.ghtml](https://g1.globo.com/economia/noticia/2026/10/23/ministro-da-fazenda-fala-em-ajuste-das-contas-publicas-sem-dar-cavalo-de-pau-ou-fazer-loucuras-flavio-tem-prometido-tesouraco.ghtml)
- 3. A 2 semanas das midterms, Trump ataca candidato democrata ao Senado: 'Jihadista doentio e violento' · [https://g1.globo.com/mundo/noticia/2026/10/23/midterms-trump-ataque-democrata-senado.ghtml](https://g1.globo.com/mundo/noticia/2026/10/23/midterms-trump-ataque-democrata-senado.ghtml)
- 4. Hapvida, SulAmérica e BradSaúde têm alívio na judicialização, mas risco persiste · [https://www.infomoney.com.br/mercados/hapvida-sulamerica-e-bradsaude-tem-alivio-na-judicializacao-mas-risco-persiste/](https://www.infomoney.com.br/mercados/hapvida-sulamerica-e-bradsaude-tem-alivio-na-judicializacao-mas-risco-persiste/)
- 5. “Rali Flávio” nos mercados enfrenta teste de fogo com Brasil indo às urnas · [https://www.infomoney.com.br/mercados/rali-flavio-nos-mercados-enfrenta-teste-de-fogo-com-brasil-indo-as-urnas/](https://www.infomoney.com.br/mercados/rali-flavio-nos-mercados-enfrenta-teste-de-fogo-com-brasil-indo-as-urnas/)
- 6. FIIs ALZR11, XPML11 e SNEL11 pagam dividendos nesta sexta-feira (23); veja valores · [https://www.infomoney.com.br/onde-investir/fiis-alzr11-xpml11-e-snel11-pagam-dividendos-nesta-sexta-feira-23-veja-valores/](https://www.infomoney.com.br/onde-investir/fiis-alzr11-xpml11-e-snel11-pagam-dividendos-nesta-sexta-feira-23-veja-valores/)
- 7. Outubro Rosa: 5 dicas para as mulheres garantirem a saúde financeira no longo prazo · [https://www.infomoney.com.br/minhas-financas/outubro-rosa-5-dicas-para-as-mulheres-garantirem-a-saude-financeira-no-longo-prazo/](https://www.infomoney.com.br/minhas-financas/outubro-rosa-5-dicas-para-as-mulheres-garantirem-a-saude-financeira-no-longo-prazo/)
- 8. Petrobras: ações seguem com boa relação risco-retorno mesmo após disparada, diz BBI · [https://www.infomoney.com.br/mercados/petrobras-petr3petr4-acoes-seguem-com-boa-relacao-risco-retorno-mesmo-apos-disparada-diz-bradesco-bbi/](https://www.infomoney.com.br/mercados/petrobras-petr3petr4-acoes-seguem-com-boa-relacao-risco-retorno-mesmo-apos-disparada-diz-bradesco-bbi/)
- 9. Da Argentina ao Sri Lanka, descontentamento cresce em economias em recuperação · [https://www.infomoney.com.br/mundo/da-argentina-ao-sri-lanka-descontentamento-cresce-em-economias-em-recuperacao/](https://www.infomoney.com.br/mundo/da-argentina-ao-sri-lanka-descontentamento-cresce-em-economias-em-recuperacao/)
-10. Ibovespa Hoje Ao Vivo: Bolsa oscila com eleição presidencial em foco · [https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23102026/](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23102026/)
+ 1. Protestos na Bélgica e na Albânia têm confronto entre manifestantes e policiais · [https://g1.globo.com/mundo/noticia/2026/10/24/protestos-na-belgica-e-na-albania-tem-confronto-entre-manifestantes-e-policiais.ghtml](https://g1.globo.com/mundo/noticia/2026/10/24/protestos-na-belgica-e-na-albania-tem-confronto-entre-manifestantes-e-policiais.ghtml)
+ 2. Incêndio atinge 'Ninho da Águia', construção usada por Hitler na Alemanha; veja FOTOS · [https://g1.globo.com/mundo/noticia/2026/10/24/incendio-atinge-ninho-da-aguia-construcao-usada-por-hitler-na-alemanha.ghtml](https://g1.globo.com/mundo/noticia/2026/10/24/incendio-atinge-ninho-da-aguia-construcao-usada-por-hitler-na-alemanha.ghtml)
+ 3. Como a imprensa internacional repercutiu o último debate entre Flávio Bolsonaro e Lula · [https://g1.globo.com/mundo/noticia/2026/10/24/como-a-imprensa-internacional-repercutiu-o-ultimo-debate-flavio-lula.ghtml](https://g1.globo.com/mundo/noticia/2026/10/24/como-a-imprensa-internacional-repercutiu-o-ultimo-debate-flavio-lula.ghtml)
+ 4. Rebeca Andrade é ouro no salto e conquista o tricampeonato mundial · [https://www.infomoney.com.br/esportes/rebeca-andrade-e-ouro-no-salto-e-conquista-o-tricampeonato-mundial/](https://www.infomoney.com.br/esportes/rebeca-andrade-e-ouro-no-salto-e-conquista-o-tricampeonato-mundial/)
+ 5. Trump diz que pode mudar equipe de imprensa da Casa Branca de lugar · [https://www.infomoney.com.br/mundo/trump-diz-que-pode-mudar-equipe-de-imprensa-da-casa-branca-de-lugar/](https://www.infomoney.com.br/mundo/trump-diz-que-pode-mudar-equipe-de-imprensa-da-casa-branca-de-lugar/)
+ 6. Adido do USDA prevê safra de soja brasileira de 184 mi t para 2026/27 · [https://www.infomoney.com.br/business/adido-do-usda-preve-safra-de-soja-brasileira-de-184-mi-t-para-2026-27/](https://www.infomoney.com.br/business/adido-do-usda-preve-safra-de-soja-brasileira-de-184-mi-t-para-2026-27/)
+ 7. Azul anuncia financiamento de até R$2 bi para combustível de aviação · [https://www.infomoney.com.br/mercados/azul-anuncia-financiamento-de-ate-r2-bi-para-combustivel-de-aviacao/](https://www.infomoney.com.br/mercados/azul-anuncia-financiamento-de-ate-r2-bi-para-combustivel-de-aviacao/)
+ 8. Fornecedora de lanchinhos de companhias aéreas fatura milhões e mira o varejo · [https://www.infomoney.com.br/business/fornecedora-de-lanchinhos-de-companhias-aereas-fatura-milhoes-e-mira-o-varejo/](https://www.infomoney.com.br/business/fornecedora-de-lanchinhos-de-companhias-aereas-fatura-milhoes-e-mira-o-varejo/)
+ 9. Quem paga a conta? Economistas analisam promessas de Lula e Flávio diante de Orçamento apertado · [https://g1.globo.com/economia/noticia/2026/10/24/quem-paga-a-conta-economistas-analisam-promessas-de-lula-e-flavio-diante-de-orcamento-apertado.ghtml](https://g1.globo.com/economia/noticia/2026/10/24/quem-paga-a-conta-economistas-analisam-promessas-de-lula-e-flavio-diante-de-orcamento-apertado.ghtml)
+10. Protestos na França: polícia usa gás lacrimogêneo em Lyon e Pau; VÍDEO · [https://g1.globo.com/mundo/noticia/2026/10/24/protestos-na-franca-policia-usa-gas-lacrimogeneo-em-lyon-e-pau-video.ghtml](https://g1.globo.com/mundo/noticia/2026/10/24/protestos-na-franca-policia-usa-gas-lacrimogeneo-em-lyon-e-pau-video.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,24 +54,28 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 3
+#### 📺 YouTube (US) — Top 7
 
- 1. PLAYING ELDEN RING DLC UNTIL I BEAT IT DAY 3 · [https://youtube.com/watch?v=RoUqH_GrT-0](https://youtube.com/watch?v=RoUqH_GrT-0)
- 2. BUNKER | Starring Javier Bardem & Penélope Cruz | Official US Trailer (2027) · [https://youtube.com/watch?v=fdkwGvMB5zQ](https://youtube.com/watch?v=fdkwGvMB5zQ)
- 3. Fox BD - The Gov’t · [https://youtube.com/watch?v=RxXdm2T9jwo](https://youtube.com/watch?v=RxXdm2T9jwo)
+ 1. JYNXZI vs PROMISED CONSORT RADAHN · [https://youtube.com/watch?v=OT-gVk8hfUI](https://youtube.com/watch?v=OT-gVk8hfUI)
+ 2. Forrest Frank - THE JESUS GENERATION (Official Movie Teaser) · [https://youtube.com/watch?v=6E3dQIAR-mE](https://youtube.com/watch?v=6E3dQIAR-mE)
+ 3. Yung Miami - Dear JT (Official Visualizer) · [https://youtube.com/watch?v=tAg4Fa1JtPo](https://youtube.com/watch?v=tAg4Fa1JtPo)
+ 4. Avengers Doomsday New Special Look | Doctor Doom Trailer · [https://youtube.com/watch?v=-w-Io69hmV8](https://youtube.com/watch?v=-w-Io69hmV8)
+ 5. This Zombies Map Took Us 4 HOURS To Beat! (Uncut Footage) · [https://youtube.com/watch?v=5xCwwVGYGmM](https://youtube.com/watch?v=5xCwwVGYGmM)
+ 6. Avengers Doomsday Special Look Hides A Big Secret · [https://youtube.com/watch?v=p02m-AcvrVc](https://youtube.com/watch?v=p02m-AcvrVc)
+ 7. Fox BD - The Gov’t · [https://youtube.com/watch?v=RxXdm2T9jwo](https://youtube.com/watch?v=RxXdm2T9jwo)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries · [https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop](https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop)
- 2. DOJ sues to block Alaska election results if GOP incumbent loses · [https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan](https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan)
- 3. Cognitive surrender: Artificial intelligence’s threat to democracy · [https://thehill.com/opinion/technology/6166067-protecting-personal-agency-ai/](https://thehill.com/opinion/technology/6166067-protecting-personal-agency-ai/)
- 4. New Florida counties report dengue cases as statewide total passes 400 · [https://thehill.com/policy/healthcare/6168453-new-florida-counties-report-dengue-cases-as-statewide-total-passes-400/](https://thehill.com/policy/healthcare/6168453-new-florida-counties-report-dengue-cases-as-statewide-total-passes-400/)
- 5. Trump denies speaking to Musk about Starlink but says he will if it’s not fixed · [https://thehill.com/homenews/administration/6168388-trump-discusses-starlink-restrictions-elon-musk/](https://thehill.com/homenews/administration/6168388-trump-discusses-starlink-restrictions-elon-musk/)
- 6. Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia · [https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak](https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak)
- 7. Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths · [https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak](https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak)
- 8. Military reinforcements move to Mideast. And, millions of Americans vote early · [https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc](https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc)
- 9. Why Meta is charging to post more hyperlinks · [https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks](https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks)
-10. Mysterious "flying triangle" sighting leads new government release of UFO documents · [https://www.axios.com/2026/10/23/new-ufo-documents-flying-triangle](https://www.axios.com/2026/10/23/new-ufo-documents-flying-triangle)
+ 1. How to navigate AI manipulation this election season · [https://thehill.com/opinion/campaign/6168673-ai-election-disinformation-threats/](https://thehill.com/opinion/campaign/6168673-ai-election-disinformation-threats/)
+ 2. José Andrés joins fight against proposed DC foie gras ban · [https://thehill.com/homenews/campaign/6170033-jose-andres-dc-foie-gras-ban/](https://thehill.com/homenews/campaign/6170033-jose-andres-dc-foie-gras-ban/)
+ 3. Perspective: The next James Bond · [https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond](https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond)
+ 4. Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40 · [https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan](https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan)
+ 5. U.S. birth rate drops to record low, but older women are having more babies · [https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc](https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc)
+ 6. Is your Medicare Advantage plan ending next year? Here's what to know · [https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan](https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan)
+ 7. A consultant is going viral for exposing the cringe-worthy DMs bosses send employees · [https://www.npr.org/2026/10/24/nx-s1-6012795/a-consultant-is-going-viral-for-exposing-the-cringe-worthy-dms-bosses-send-employees](https://www.npr.org/2026/10/24/nx-s1-6012795/a-consultant-is-going-viral-for-exposing-the-cringe-worthy-dms-bosses-send-employees)
+ 8. The rise of the economic populist: What voters want from both parties this year · [https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year](https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year)
+ 9. Week in Politics: Ramaswamy's Ohio ad; Trump greenlights DOJ to sue over Alaska Senate · [https://www.npr.org/2026/10/24/nx-s1-6012100/week-in-politics-ramaswamys-ohio-ad-trump-greenlights-doj-to-sue-over-alaska-senate](https://www.npr.org/2026/10/24/nx-s1-6012100/week-in-politics-ramaswamys-ohio-ad-trump-greenlights-doj-to-sue-over-alaska-senate)
+10. As Israeli election looms, Trump advisers see opportunity beyond Netanyahu · [https://www.axios.com/2026/10/24/israel-election-trump-netanyahu-advisers](https://www.axios.com/2026/10/24/israel-election-trump-netanyahu-advisers)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -93,12 +97,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **inflação** | como a inflação nos EUA afeta os imigrantes brasileiros | A inflação nos EUA continua alta, afetando o poder de compra e as decisões de consumo das famílias. Dados recentes mostr |
-| 2 🟡 🎬 | **educação financeira** | 5 dicas para garantir saúde financeira durante Outubro Rosa | Outubro Rosa traz à tona a importância da saúde das mulheres, mas também é uma oportunidade de discutir saúde financeira |
-| 3 🟡 🎬 | **mercado de trabalho** | novas oportunidades em tecnologia e IA | A demanda por habilidades em tecnologia e inteligência artificial está crescendo, especialmente com as inovações recente |
-| 4 🟡 🎬 | **direito & legal** | como a política americana afeta imigrantes | As eleições midterms estão se aproximando e a retórica política está mudando rapidamente, o que pode ter implicações dir |
-| 5 🟡 🎬 | **economia** | impacto da política econômica brasileira nos EUA | Com a instabilidade econômica no Brasil, muitos brasileiros estão repensando sua vida nos EUA e como isso afeta suas fin |
-| 6 🟡 🎬 | **tecnologia** | IA mudando o setor de compras online | A inteligência artificial está revolucionando como as pessoas compram online, o que pode afetar brasileiros que trabalha |
-| 7 🟡 ⚡ | **saúde** | dengue em novos condados da Flórida | Casos de dengue estão aumentando em novos condados da Flórida, o que gera preocupação entre a população. |
-| 8 🟡 🎬 | **estilo de vida** | rotina de imigrante na Flórida | A vida na Flórida é uma realidade para muitos brasileiros, e entender como é a rotina pode ajudar novos imigrantes. |
-| 9 🟢 🎬 | **negócios** | abrindo um negócio nos EUA | Com a economia se recuperando, muitos brasileiros estão pensando em abrir suas próprias empresas nos EUA. |
+| 1 🟠 🎬 | **Inteligência Artificial** | Como usar IA para otimizar sua carreira nos EUA | A IA está se tornando uma ferramenta essencial no ambiente de trabalho, com empresas buscando formas de integrar essa te |
+| 2 🟠 🎯 | **Miami** | O êxodo de bilionários e o impacto na economia local | Larry Page gastou US$ 173 milhões em Miami, marcando uma tendência de transferência de riqueza da Califórnia para a Flór |
+| 3 🟠 🎬 | **Economia e Mercado** | Como as promessas dos candidatos impactam sua vida financeira | Economistas analisam as promessas de Lula e Flávio Bolsonaro diante de um orçamento apertado, que pode ter consequências |
+| 4 🟡 ⚡ | **Direito & Legal** | Desinformação nas eleições e como se proteger | Com as eleições se aproximando, há um aumento nas preocupações sobre a manipulação da informação, especialmente em relaç |
+| 5 🟡 🎬 | **Viagem** | Custo de viajar para Miami durante a alta demanda | Com o aumento de investimentos e a popularidade de Miami, muitos brasileiros estão planejando viagens, gerando uma deman |
+| 6 🟡 ⚡ | **Entretenimento** | Viral da DM cringe e a cultura do trabalho nos EUA | Uma consultora viralizou ao expor mensagens de texto embaraçosas que os chefes enviam aos funcionários, levantando a dis |
+| 7 🟡 🎬 | **Lifestyle** | Técnicas de oratória para brasileiros na América | Atriz da Broadway revela técnicas para vencer o nervosismo ao falar em público, algo crucial para os imigrantes que busc |
+| 8 🟡 🎬 | **Economia & Mercado** | Venda de precatórios e seus riscos | A venda de precatórios disparou em SP, e economistas estão discutindo quando vale a pena e quais são os riscos envolvido |
+| 9 🟡 🎬 | **Grupos e Comunidade** | Impacto do êxodo de bilionários na comunidade local | O movimento de bilionários para Miami está mudando o cenário econômico e social da cidade, impactando a comunidade local |
