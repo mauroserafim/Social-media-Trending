@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 24/10/2026 15:33 UTC
+# 📊 Tendências em Alta — 25/10/2026 15:42 UTC
 
-**Run:** `40107406269` | **BR:** 30 trends | **US:** 27 trends | **Nicho:** 9 ideias
+**Run:** `40208144481` | **BR:** 30 trends | **US:** 25 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. LISA - Tarantino (Official Music Video) · [https://youtube.com/watch?v=-5ZXrO_lYSA](https://youtube.com/watch?v=-5ZXrO_lYSA)
- 2. ATEEZ(에이티즈) - 'Drip' Official MV · [https://youtube.com/watch?v=iqQWCYMlMw0](https://youtube.com/watch?v=iqQWCYMlMw0)
- 3. EXCLUSIVE PREVIEW ⚾ MLB Crosses Over Into Avengers: Doomsday 🤯 · [https://youtube.com/watch?v=oLJFJSNFklU](https://youtube.com/watch?v=oLJFJSNFklU)
- 4. Belo - Você Mudou (Clipe Oficial) · [https://youtube.com/watch?v=sJgKq74jFrs](https://youtube.com/watch?v=sJgKq74jFrs)
- 5. Avengers: Doomsday "Steve Rogers Con Los Vengadores" Tráiler Subtitulado · [https://youtube.com/watch?v=IVxkMLTBzoI](https://youtube.com/watch?v=IVxkMLTBzoI)
- 6. Primavera - Jorge e Mateus · [https://youtube.com/watch?v=A5vdK_kbjCU](https://youtube.com/watch?v=A5vdK_kbjCU)
- 7. AMADO BATISTA – AS 20 MELHORES 🎶 SÓ AS ANTIGAS | GRANDES SUCESSOS ROMÂNTICOS · [https://youtube.com/watch?v=IQbNzg42iTg](https://youtube.com/watch?v=IQbNzg42iTg)
- 8. AVENGERS 5 DOOMSDAY "Steve Rogers Meets New Avengers" Trailer (NEW 2026) · [https://youtube.com/watch?v=C4Ze4XN-A6A](https://youtube.com/watch?v=C4Ze4XN-A6A)
- 9. AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026) · [https://youtube.com/watch?v=CcCiaZodoAo](https://youtube.com/watch?v=CcCiaZodoAo)
-10. Poetas no Topo "DEMOCRACIA" - Don L | Xamã | Mago de Tarso | DK 47 | Rod Rizz | Major RD | Levinsk · [https://youtube.com/watch?v=pqp0xqzRQOs](https://youtube.com/watch?v=pqp0xqzRQOs)
+ 1. Avengers: Doomsday | In Theaters December 18 · [https://youtube.com/watch?v=UfNu7pcR0e8](https://youtube.com/watch?v=UfNu7pcR0e8)
+ 2. AVENGERS: DOOMSDAY New Trailer (2026) Extended · [https://youtube.com/watch?v=7bU4ojt7WGU](https://youtube.com/watch?v=7bU4ojt7WGU)
+ 3. Calling All Villains - Official Trailer · [https://youtube.com/watch?v=3lEUqM5ondI](https://youtube.com/watch?v=3lEUqM5ondI)
+ 4. Avengers: Doomsday "Steve Rogers Con Los Vengadores" Tráiler Subtitulado · [https://youtube.com/watch?v=IVxkMLTBzoI](https://youtube.com/watch?v=IVxkMLTBzoI)
+ 5. ANÁLISE DO NOVO TEASER DE VINGADORES: DOOMSDAY · [https://youtube.com/watch?v=ZHgFpODpRg8](https://youtube.com/watch?v=ZHgFpODpRg8)
+ 6. AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026) · [https://youtube.com/watch?v=CcCiaZodoAo](https://youtube.com/watch?v=CcCiaZodoAo)
+ 7. CONHECEMOS A FAMÍLIA DO CLÓVIS, MAS DEU TUDO ERRADO! My Child Lebensborn #4 · [https://youtube.com/watch?v=VmHEWEJVmYw](https://youtube.com/watch?v=VmHEWEJVmYw)
+ 8. Mistery - Almas Infernais | ft.Enygma · [https://youtube.com/watch?v=juKYnMY514g](https://youtube.com/watch?v=juKYnMY514g)
+ 9. Dance Se Souber atualizadas 2026 {tiktok}🎶💜 · [https://youtube.com/watch?v=UnVL7qd9uK8](https://youtube.com/watch?v=UnVL7qd9uK8)
+10. PERDEU, PERDEU • MÚSICA PRA VITÓRIA • FLÁVIO BOLSONARO • DJ TAYRONE & ALLÊ NO BEAT · [https://youtube.com/watch?v=4oI3xH-2l3c](https://youtube.com/watch?v=4oI3xH-2l3c)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Protestos na Bélgica e na Albânia têm confronto entre manifestantes e policiais · [https://g1.globo.com/mundo/noticia/2026/10/24/protestos-na-belgica-e-na-albania-tem-confronto-entre-manifestantes-e-policiais.ghtml](https://g1.globo.com/mundo/noticia/2026/10/24/protestos-na-belgica-e-na-albania-tem-confronto-entre-manifestantes-e-policiais.ghtml)
- 2. Incêndio atinge 'Ninho da Águia', construção usada por Hitler na Alemanha; veja FOTOS · [https://g1.globo.com/mundo/noticia/2026/10/24/incendio-atinge-ninho-da-aguia-construcao-usada-por-hitler-na-alemanha.ghtml](https://g1.globo.com/mundo/noticia/2026/10/24/incendio-atinge-ninho-da-aguia-construcao-usada-por-hitler-na-alemanha.ghtml)
- 3. Como a imprensa internacional repercutiu o último debate entre Flávio Bolsonaro e Lula · [https://g1.globo.com/mundo/noticia/2026/10/24/como-a-imprensa-internacional-repercutiu-o-ultimo-debate-flavio-lula.ghtml](https://g1.globo.com/mundo/noticia/2026/10/24/como-a-imprensa-internacional-repercutiu-o-ultimo-debate-flavio-lula.ghtml)
- 4. Rebeca Andrade é ouro no salto e conquista o tricampeonato mundial · [https://www.infomoney.com.br/esportes/rebeca-andrade-e-ouro-no-salto-e-conquista-o-tricampeonato-mundial/](https://www.infomoney.com.br/esportes/rebeca-andrade-e-ouro-no-salto-e-conquista-o-tricampeonato-mundial/)
- 5. Trump diz que pode mudar equipe de imprensa da Casa Branca de lugar · [https://www.infomoney.com.br/mundo/trump-diz-que-pode-mudar-equipe-de-imprensa-da-casa-branca-de-lugar/](https://www.infomoney.com.br/mundo/trump-diz-que-pode-mudar-equipe-de-imprensa-da-casa-branca-de-lugar/)
- 6. Adido do USDA prevê safra de soja brasileira de 184 mi t para 2026/27 · [https://www.infomoney.com.br/business/adido-do-usda-preve-safra-de-soja-brasileira-de-184-mi-t-para-2026-27/](https://www.infomoney.com.br/business/adido-do-usda-preve-safra-de-soja-brasileira-de-184-mi-t-para-2026-27/)
- 7. Azul anuncia financiamento de até R$2 bi para combustível de aviação · [https://www.infomoney.com.br/mercados/azul-anuncia-financiamento-de-ate-r2-bi-para-combustivel-de-aviacao/](https://www.infomoney.com.br/mercados/azul-anuncia-financiamento-de-ate-r2-bi-para-combustivel-de-aviacao/)
- 8. Fornecedora de lanchinhos de companhias aéreas fatura milhões e mira o varejo · [https://www.infomoney.com.br/business/fornecedora-de-lanchinhos-de-companhias-aereas-fatura-milhoes-e-mira-o-varejo/](https://www.infomoney.com.br/business/fornecedora-de-lanchinhos-de-companhias-aereas-fatura-milhoes-e-mira-o-varejo/)
- 9. Quem paga a conta? Economistas analisam promessas de Lula e Flávio diante de Orçamento apertado · [https://g1.globo.com/economia/noticia/2026/10/24/quem-paga-a-conta-economistas-analisam-promessas-de-lula-e-flavio-diante-de-orcamento-apertado.ghtml](https://g1.globo.com/economia/noticia/2026/10/24/quem-paga-a-conta-economistas-analisam-promessas-de-lula-e-flavio-diante-de-orcamento-apertado.ghtml)
-10. Protestos na França: polícia usa gás lacrimogêneo em Lyon e Pau; VÍDEO · [https://g1.globo.com/mundo/noticia/2026/10/24/protestos-na-franca-policia-usa-gas-lacrimogeneo-em-lyon-e-pau-video.ghtml](https://g1.globo.com/mundo/noticia/2026/10/24/protestos-na-franca-policia-usa-gas-lacrimogeneo-em-lyon-e-pau-video.ghtml)
+ 1. Fachin diz que eleito terá desafios e ‘deveres constitucionais’ pela frente · [https://www.infomoney.com.br/mercados/fachin-diz-que-eleito-tera-desafios-e-deveres-constitucionais-pela-frente/](https://www.infomoney.com.br/mercados/fachin-diz-que-eleito-tera-desafios-e-deveres-constitucionais-pela-frente/)
+ 2. Lula critica Flávio, fala em “livros ou armas” e diz que aceitará resultado · [https://www.infomoney.com.br/mercados/lula-flavio-bolsonaro-livros-armas-resultado-eleicao/](https://www.infomoney.com.br/mercados/lula-flavio-bolsonaro-livros-armas-resultado-eleicao/)
+ 3. Mega-Sena acumulada: prêmio estimado de R$ 300 milhões pode ser o 2º maior da história dos sorteios regulares · [https://g1.globo.com/loterias/mega-sena/noticia/2026/10/25/mega-sena-acumulada-premio-estimado-de-r-300-milhoes-maiores-historia-sorteios-regulares.ghtml](https://g1.globo.com/loterias/mega-sena/noticia/2026/10/25/mega-sena-acumulada-premio-estimado-de-r-300-milhoes-maiores-historia-sorteios-regulares.ghtml)
+ 4. ‘Entregar todo o poder aos Bolsonaro ou dar última vitória a Lula’: imprensa mundial repercute votação no 2º turno · [https://g1.globo.com/mundo/noticia/2026/10/25/repercute-internacional-votacao-2o-turno-eleicoes-lula-flavio-bolsonaro.ghtml](https://g1.globo.com/mundo/noticia/2026/10/25/repercute-internacional-votacao-2o-turno-eleicoes-lula-flavio-bolsonaro.ghtml)
+ 5. Votação no exterior: quem ganhou no Japão no 2º turno das eleições 2026? · [https://g1.globo.com/mundo/noticia/2026/10/25/eleicoes-2026-quem-ganhou-no-japao.ghtml](https://g1.globo.com/mundo/noticia/2026/10/25/eleicoes-2026-quem-ganhou-no-japao.ghtml)
+ 6. Votação no exterior: quem ganhou na China no 2º turno das eleições 2026? · [https://g1.globo.com/mundo/noticia/2026/10/25/eleicoes-2026-quem-ganhou-na-china.ghtml](https://g1.globo.com/mundo/noticia/2026/10/25/eleicoes-2026-quem-ganhou-na-china.ghtml)
+ 7. Resultado do 2º turno na Ásia: Flávio Bolsonaro ganha no Japão e Lula na China · [https://exame.com/brasil/resultado-do-2o-turno-na-asia-flavio-bolsonaro-ganha-no-japao-e-lula-na-china/](https://exame.com/brasil/resultado-do-2o-turno-na-asia-flavio-bolsonaro-ganha-no-japao-e-lula-na-china/)
+ 8. Que horas acaba a votação do 2º turno neste domingo? Veja quando começa apuração · [https://exame.com/brasil/que-horas-acaba-a-votacao-do-2o-turno-neste-domingo/](https://exame.com/brasil/que-horas-acaba-a-votacao-do-2o-turno-neste-domingo/)
+ 9. Que horas o TSE vai anunciar o novo presidente? Veja o histórico de 2018 e 2022 · [https://exame.com/brasil/que-horas-o-tse-vai-anunciar-o-novo-presidente-veja-o-historico-de-2018-e-2022/](https://exame.com/brasil/que-horas-o-tse-vai-anunciar-o-novo-presidente-veja-o-historico-de-2018-e-2022/)
+10. Qual valor da multa por não votar no 2º turno das eleições em 2026? · [https://exame.com/brasil/qual-valor-da-multa-por-nao-votar-nas-eleicoes-em-2026/](https://exame.com/brasil/qual-valor-da-multa-por-nao-votar-nas-eleicoes-em-2026/)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,28 +54,26 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 7
+#### 📺 YouTube (US) — Top 5
 
- 1. JYNXZI vs PROMISED CONSORT RADAHN · [https://youtube.com/watch?v=OT-gVk8hfUI](https://youtube.com/watch?v=OT-gVk8hfUI)
- 2. Forrest Frank - THE JESUS GENERATION (Official Movie Teaser) · [https://youtube.com/watch?v=6E3dQIAR-mE](https://youtube.com/watch?v=6E3dQIAR-mE)
+ 1. AVENGERS DOOMSDAY SPECIAL LOOK BREAKDOWN! Easter Eggs & Details You Missed! · [https://youtube.com/watch?v=JNSFV75NpaU](https://youtube.com/watch?v=JNSFV75NpaU)
+ 2. Shakira & Maluma - Agua (Live from LMYNL World Tour) · [https://youtube.com/watch?v=ziZZt1ajf-Y](https://youtube.com/watch?v=ziZZt1ajf-Y)
  3. Yung Miami - Dear JT (Official Visualizer) · [https://youtube.com/watch?v=tAg4Fa1JtPo](https://youtube.com/watch?v=tAg4Fa1JtPo)
- 4. Avengers Doomsday New Special Look | Doctor Doom Trailer · [https://youtube.com/watch?v=-w-Io69hmV8](https://youtube.com/watch?v=-w-Io69hmV8)
- 5. This Zombies Map Took Us 4 HOURS To Beat! (Uncut Footage) · [https://youtube.com/watch?v=5xCwwVGYGmM](https://youtube.com/watch?v=5xCwwVGYGmM)
- 6. Avengers Doomsday Special Look Hides A Big Secret · [https://youtube.com/watch?v=p02m-AcvrVc](https://youtube.com/watch?v=p02m-AcvrVc)
- 7. Fox BD - The Gov’t · [https://youtube.com/watch?v=RxXdm2T9jwo](https://youtube.com/watch?v=RxXdm2T9jwo)
+ 4. Avengers Doomsday Trailer Doctor Doom Destroys The MCU · [https://youtube.com/watch?v=WiyOKZPDirE](https://youtube.com/watch?v=WiyOKZPDirE)
+ 5. There's More To This New Doomsday Trailer Than You Realize · [https://youtube.com/watch?v=ANhhgApTe3Q](https://youtube.com/watch?v=ANhhgApTe3Q)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. How to navigate AI manipulation this election season · [https://thehill.com/opinion/campaign/6168673-ai-election-disinformation-threats/](https://thehill.com/opinion/campaign/6168673-ai-election-disinformation-threats/)
- 2. José Andrés joins fight against proposed DC foie gras ban · [https://thehill.com/homenews/campaign/6170033-jose-andres-dc-foie-gras-ban/](https://thehill.com/homenews/campaign/6170033-jose-andres-dc-foie-gras-ban/)
- 3. Perspective: The next James Bond · [https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond](https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond)
- 4. Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40 · [https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan](https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan)
- 5. U.S. birth rate drops to record low, but older women are having more babies · [https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc](https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc)
- 6. Is your Medicare Advantage plan ending next year? Here's what to know · [https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan](https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan)
- 7. A consultant is going viral for exposing the cringe-worthy DMs bosses send employees · [https://www.npr.org/2026/10/24/nx-s1-6012795/a-consultant-is-going-viral-for-exposing-the-cringe-worthy-dms-bosses-send-employees](https://www.npr.org/2026/10/24/nx-s1-6012795/a-consultant-is-going-viral-for-exposing-the-cringe-worthy-dms-bosses-send-employees)
- 8. The rise of the economic populist: What voters want from both parties this year · [https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year](https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year)
- 9. Week in Politics: Ramaswamy's Ohio ad; Trump greenlights DOJ to sue over Alaska Senate · [https://www.npr.org/2026/10/24/nx-s1-6012100/week-in-politics-ramaswamys-ohio-ad-trump-greenlights-doj-to-sue-over-alaska-senate](https://www.npr.org/2026/10/24/nx-s1-6012100/week-in-politics-ramaswamys-ohio-ad-trump-greenlights-doj-to-sue-over-alaska-senate)
-10. As Israeli election looms, Trump advisers see opportunity beyond Netanyahu · [https://www.axios.com/2026/10/24/israel-election-trump-netanyahu-advisers](https://www.axios.com/2026/10/24/israel-election-trump-netanyahu-advisers)
+ 1. What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending · [https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending](https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending)
+ 2. Scoop: Netanyahu presses Trump for more support ahead of tight Tuesday election · [https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections](https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections)
+ 3. Scaramucci compares Ramaswamy to pigs in ‘Animal Farm,' predicts loss · [https://thehill.com/homenews/state-watch/6170719-scaramucci-animal-farm-ramaswamy/](https://thehill.com/homenews/state-watch/6170719-scaramucci-animal-farm-ramaswamy/)
+ 4. SNAP winners and losers: Which states are facing possible funding cuts? · [https://thehill.com/homenews/state-watch/6067157-snap-winners-and-losers-which-states-are-facing-possible-funding-cuts/](https://thehill.com/homenews/state-watch/6067157-snap-winners-and-losers-which-states-are-facing-possible-funding-cuts/)
+ 5. How America can bring film and television production home · [https://thehill.com/opinion/finance/6169628-federal-film-tax-incentive/](https://thehill.com/opinion/finance/6169628-federal-film-tax-incentive/)
+ 6. Blanche: Alaska Senate race is 'not a fair fight' to Trump · [https://thehill.com/homenews/state-watch/6170732-trump-alaska-senate-lawsuit/](https://thehill.com/homenews/state-watch/6170732-trump-alaska-senate-lawsuit/)
+ 7. The College of Magic turns ordinary kids into confident, top-hat wearing magicians · [https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students](https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students)
+ 8. When a teen posts a selfie, how much filter is 'too much' filter? · [https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai](https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai)
+ 9. Netflix lays off 6% of workforce amidst slowing growth · [https://www.npr.org/2026/10/25/nx-s1-6009274/netflix-lays-off-6-of-workforce-amidst-slowing-growth](https://www.npr.org/2026/10/25/nx-s1-6009274/netflix-lays-off-6-of-workforce-amidst-slowing-growth)
+10. Politics chat: The polls show a Democratic sweep in the midterms. Can you trust them? · [https://www.npr.org/2026/10/25/nx-s1-6014525/politics-chat-the-polls-show-a-democratic-sweep-in-the-midterms-can-you-trust-them](https://www.npr.org/2026/10/25/nx-s1-6014525/politics-chat-the-polls-show-a-democratic-sweep-in-the-midterms-can-you-trust-them)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -97,12 +95,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **Inteligência Artificial** | Como usar IA para otimizar sua carreira nos EUA | A IA está se tornando uma ferramenta essencial no ambiente de trabalho, com empresas buscando formas de integrar essa te |
-| 2 🟠 🎯 | **Miami** | O êxodo de bilionários e o impacto na economia local | Larry Page gastou US$ 173 milhões em Miami, marcando uma tendência de transferência de riqueza da Califórnia para a Flór |
-| 3 🟠 🎬 | **Economia e Mercado** | Como as promessas dos candidatos impactam sua vida financeira | Economistas analisam as promessas de Lula e Flávio Bolsonaro diante de um orçamento apertado, que pode ter consequências |
-| 4 🟡 ⚡ | **Direito & Legal** | Desinformação nas eleições e como se proteger | Com as eleições se aproximando, há um aumento nas preocupações sobre a manipulação da informação, especialmente em relaç |
-| 5 🟡 🎬 | **Viagem** | Custo de viajar para Miami durante a alta demanda | Com o aumento de investimentos e a popularidade de Miami, muitos brasileiros estão planejando viagens, gerando uma deman |
-| 6 🟡 ⚡ | **Entretenimento** | Viral da DM cringe e a cultura do trabalho nos EUA | Uma consultora viralizou ao expor mensagens de texto embaraçosas que os chefes enviam aos funcionários, levantando a dis |
-| 7 🟡 🎬 | **Lifestyle** | Técnicas de oratória para brasileiros na América | Atriz da Broadway revela técnicas para vencer o nervosismo ao falar em público, algo crucial para os imigrantes que busc |
-| 8 🟡 🎬 | **Economia & Mercado** | Venda de precatórios e seus riscos | A venda de precatórios disparou em SP, e economistas estão discutindo quando vale a pena e quais são os riscos envolvido |
-| 9 🟡 🎬 | **Grupos e Comunidade** | Impacto do êxodo de bilionários na comunidade local | O movimento de bilionários para Miami está mudando o cenário econômico e social da cidade, impactando a comunidade local |
+| 1 🟠 🎬 | **Eleições nos EUA** | Como a eleição americana afeta imigrantes brasileiros | As eleições americanas estão se aproximando e as políticas de imigração são um tópico quente. Muitos imigrantes brasilei |
+| 2 🟠 🎬 | **Custo de vida nos EUA** | Impacto das mudanças nas políticas de imigração | Com o aumento do custo de vida, as mudanças nas políticas de imigração podem afetar diretamente a situação financeira do |
+| 3 🟡 🎬 | **Eleições no Brasil** | Resultados das eleições no exterior | As eleições brasileiras estão em destaque, especialmente com foco nos votos de brasileiros no exterior, incluindo os EUA |
+| 4 🟡 🎬 | **Empreendedorismo** | Oportunidades de negócios para imigrantes | Com a economia em constante mudança, muitos brasileiros estão buscando novas oportunidades de renda nos EUA. |
+| 5 🟡 🎯 | **Inteligência Artificial** | Como a IA está mudando o mercado de trabalho | O uso de IA está crescendo rapidamente, o que pode levar a mudanças significativas no mercado de trabalho. |
+| 6 🟡 🎬 | **Direitos dos imigrantes** | Alterações nas leis de imigração | Com a mudança de administrações, os direitos dos imigrantes estão sob constante revisão e debate. |
+| 7 🟡 🎬 | **Custo de vida** | Como o custo de vida nos EUA se compara ao Brasil | O aumento dos preços nos EUA está gerando debates sobre o custo de vida em comparação ao Brasil. |
+| 8 🟡 🎬 | **Voto no exterior** | Como votar do exterior nas eleições brasileiras | Com as eleições se aproximando, muitos brasileiros no exterior estão buscando informações sobre como exercer seu direito |
+| 9 🟡 🎬 | **Economia dos EUA** | Impacto da inflação na vida dos imigrantes | A inflação nos EUA está em alta, e isso afeta diretamente o poder de compra dos imigrantes. |

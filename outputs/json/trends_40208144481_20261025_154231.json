@@ -1,0 +1,963 @@
+{
+  "generated_at": "2026-10-25T15:42:31.879712",
+  "run_id": "40208144481",
+  "summary": {
+    "total_br": 30,
+    "total_us": 25,
+    "br_us_connections": 10,
+    "cross_platform_topics": 13,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "Avengers: Doomsday | In Theaters December 18",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=UfNu7pcR0e8",
+          "score": 58.36,
+          "region": "BR",
+          "views": 8364067
+        },
+        {
+          "title": "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=7bU4ojt7WGU",
+          "score": 12.87,
+          "region": "BR",
+          "views": 1943110
+        },
+        {
+          "title": "Calling All Villains - Official Trailer",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=3lEUqM5ondI",
+          "score": 6.67,
+          "region": "BR",
+          "views": 1320589
+        },
+        {
+          "title": "Avengers: Doomsday \"Steve Rogers Con Los Vengadores\" Tráiler Subtitulado",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=IVxkMLTBzoI",
+          "score": 3.34,
+          "region": "BR",
+          "views": 905652
+        },
+        {
+          "title": "ANÁLISE DO NOVO TEASER DE VINGADORES: DOOMSDAY",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=ZHgFpODpRg8",
+          "score": 2.65,
+          "region": "BR",
+          "views": 349052
+        },
+        {
+          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=CcCiaZodoAo",
+          "score": 2.45,
+          "region": "BR",
+          "views": 669394
+        },
+        {
+          "title": "CONHECEMOS A FAMÍLIA DO CLÓVIS, MAS DEU TUDO ERRADO! My Child Lebensborn #4",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=VmHEWEJVmYw",
+          "score": 1.8,
+          "region": "BR",
+          "views": 355702
+        },
+        {
+          "title": "Mistery - Almas Infernais | ft.Enygma",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=juKYnMY514g",
+          "score": 0.83,
+          "region": "BR",
+          "views": 125318
+        },
+        {
+          "title": "Dance Se Souber atualizadas 2026 {tiktok}🎶💜",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=UnVL7qd9uK8",
+          "score": 0.82,
+          "region": "BR",
+          "views": 162785
+        },
+        {
+          "title": "PERDEU, PERDEU • MÚSICA PRA VITÓRIA • FLÁVIO BOLSONARO • DJ TAYRONE & ALLÊ NO BEAT",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=4oI3xH-2l3c",
+          "score": 0.62,
+          "region": "BR",
+          "views": 133107
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Fachin diz que eleito terá desafios e ‘deveres constitucionais’ pela frente",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/fachin-diz-que-eleito-tera-desafios-e-deveres-constitucionais-pela-frente/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Lula critica Flávio, fala em “livros ou armas” e diz que aceitará resultado",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/lula-flavio-bolsonaro-livros-armas-resultado-eleicao/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Mega-Sena acumulada: prêmio estimado de R$ 300 milhões pode ser o 2º maior da história dos sorteios regulares",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/25/mega-sena-acumulada-premio-estimado-de-r-300-milhoes-maiores-historia-sorteios-regulares.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "‘Entregar todo o poder aos Bolsonaro ou dar última vitória a Lula’: imprensa mundial repercute votação no 2º turno",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/25/repercute-internacional-votacao-2o-turno-eleicoes-lula-flavio-bolsonaro.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Votação no exterior: quem ganhou no Japão no 2º turno das eleições 2026?",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/25/eleicoes-2026-quem-ganhou-no-japao.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Votação no exterior: quem ganhou na China no 2º turno das eleições 2026?",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/25/eleicoes-2026-quem-ganhou-na-china.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Resultado do 2º turno na Ásia: Flávio Bolsonaro ganha no Japão e Lula na China",
+          "source": "news:Exame",
+          "url": "https://exame.com/brasil/resultado-do-2o-turno-na-asia-flavio-bolsonaro-ganha-no-japao-e-lula-na-china/",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Que horas acaba a votação do 2º turno neste domingo? Veja quando começa apuração",
+          "source": "news:Exame",
+          "url": "https://exame.com/brasil/que-horas-acaba-a-votacao-do-2o-turno-neste-domingo/",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Que horas o TSE vai anunciar o novo presidente? Veja o histórico de 2018 e 2022",
+          "source": "news:Exame",
+          "url": "https://exame.com/brasil/que-horas-o-tse-vai-anunciar-o-novo-presidente-veja-o-historico-de-2018-e-2022/",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Qual valor da multa por não votar no 2º turno das eleições em 2026?",
+          "source": "news:Exame",
+          "url": "https://exame.com/brasil/qual-valor-da-multa-por-nao-votar-nas-eleicoes-em-2026/",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "AVENGERS DOOMSDAY SPECIAL LOOK BREAKDOWN! Easter Eggs & Details You Missed!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=JNSFV75NpaU",
+          "score": 3.82,
+          "region": "US",
+          "views": 608194
+        },
+        {
+          "title": "Shakira & Maluma - Agua (Live from LMYNL World Tour)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=ziZZt1ajf-Y",
+          "score": 3.19,
+          "region": "US",
+          "views": 2313092
+        },
+        {
+          "title": "Yung Miami - Dear JT (Official Visualizer)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=tAg4Fa1JtPo",
+          "score": 2.14,
+          "region": "US",
+          "views": 690221
+        },
+        {
+          "title": "Avengers Doomsday Trailer Doctor Doom Destroys The MCU",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=WiyOKZPDirE",
+          "score": 1.58,
+          "region": "US",
+          "views": 242884
+        },
+        {
+          "title": "There's More To This New Doomsday Trailer Than You Realize",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=ANhhgApTe3Q",
+          "score": 0.47,
+          "region": "US",
+          "views": 63184
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Scoop: Netanyahu presses Trump for more support ahead of tight Tuesday election",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Scaramucci compares Ramaswamy to pigs in ‘Animal Farm,' predicts loss",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/state-watch/6170719-scaramucci-animal-farm-ramaswamy/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "SNAP winners and losers: Which states are facing possible funding cuts?",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/state-watch/6067157-snap-winners-and-losers-which-states-are-facing-possible-funding-cuts/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "How America can bring film and television production home",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/finance/6169628-federal-film-tax-incentive/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Blanche: Alaska Senate race is 'not a fair fight' to Trump",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/state-watch/6170732-trump-alaska-senate-lawsuit/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Netflix lays off 6% of workforce amidst slowing growth",
+          "source": "news:NPR Economy",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6009274/netflix-lays-off-6-of-workforce-amidst-slowing-growth",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Politics chat: The polls show a Democratic sweep in the midterms. Can you trust them?",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6014525/politics-chat-the-polls-show-a-democratic-sweep-in-the-midterms-can-you-trust-them",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 11,
+      "score": 65.0,
+      "sample_titles": [
+        "Trump retira tarifa de 50% sobre alguns produtos do Canadá, incluindo madeira e alimentos",
+        "Week in Politics: Ramaswamy's Ohio ad; Trump greenlights DOJ to sue over Alaska Senate",
+        "Scoop: Netanyahu presses Trump for more support ahead of tight Tuesday election",
+        "Trump's DOJ barrels into midterms with lawsuits, raids and arrests"
+      ]
+    },
+    {
+      "topic": "doomsday",
+      "count": 9,
+      "score": 13.29,
+      "sample_titles": [
+        "Avengers: Doomsday | In Theaters December 18",
+        "ANÁLISE DO NOVO TEASER DE VINGADORES: DOOMSDAY",
+        "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
+        "AVENGERS DOOMSDAY SPECIAL LOOK BREAKDOWN! Easter Eggs & Details You Missed!",
+        "Avengers Doomsday Trailer Doctor Doom Destroys The MCU"
+      ]
+    },
+    {
+      "topic": "avengers doomsday",
+      "count": 7,
+      "score": 15.41,
+      "sample_titles": [
+        "Avengers: Doomsday | In Theaters December 18",
+        "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
+        "Prévia de Avengers: Doomsday (MLB) - Legendado",
+        "AVENGERS DOOMSDAY SPECIAL LOOK BREAKDOWN! Easter Eggs & Details You Missed!",
+        "Avengers Doomsday Trailer Doctor Doom Destroys The MCU"
+      ]
+    },
+    {
+      "topic": "avengers",
+      "count": 7,
+      "score": 15.41,
+      "sample_titles": [
+        "Avengers: Doomsday | In Theaters December 18",
+        "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
+        "Prévia de Avengers: Doomsday (MLB) - Legendado",
+        "AVENGERS DOOMSDAY SPECIAL LOOK BREAKDOWN! Easter Eggs & Details You Missed!",
+        "Avengers Doomsday Trailer Doctor Doom Destroys The MCU"
+      ]
+    },
+    {
+      "topic": "trailer",
+      "count": 6,
+      "score": 3.54,
+      "sample_titles": [
+        "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
+        "AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+        "🚨NOVO TRAILER de VINGADORES DOUTOR DESTINO! Capitão América, Loki e Doom",
+        "Avengers Doomsday Trailer Doctor Doom Destroys The MCU",
+        "There's More To This New Doomsday Trailer Than You Realize"
+      ]
+    },
+    {
+      "topic": "official",
+      "count": 4,
+      "score": 2.97,
+      "sample_titles": [
+        "AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+        "Calling All Villains - Official Trailer",
+        "Slow GM Ft. Lucas A.R.T. - Cicatrizes (Hollow Knight: Silksong) Official Music Video",
+        "Yung Miami - Dear JT (Official Visualizer)"
+      ]
+    },
+    {
+      "topic": "doomsday trailer",
+      "count": 3,
+      "score": 4.97,
+      "sample_titles": [
+        "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
+        "Avengers Doomsday Trailer Doctor Doom Destroys The MCU",
+        "There's More To This New Doomsday Trailer Than You Realize"
+      ]
+    },
+    {
+      "topic": "sexual",
+      "count": 2,
+      "score": 60.0,
+      "sample_titles": [
+        "Vítimas de abuso sexual aprovam acordo de US$ 800 milhões com a Arquidiocese de Nova York",
+        "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims"
+      ]
+    },
+    {
+      "topic": "animal",
+      "count": 2,
+      "score": 60.0,
+      "sample_titles": [
+        "Jacaré de 2 metros é resgatado dentro do campus do Ifap em Macapá; é o 2º animal em 17 dias",
+        "Scaramucci compares Ramaswamy to pigs in ‘Animal Farm,' predicts loss"
+      ]
+    },
+    {
+      "topic": "starlink",
+      "count": 2,
+      "score": 50.0,
+      "sample_titles": [
+        "Ucrânia diz que Starlink voltou a funcionar; Elon Musk acusa país de usar sistema para ataques",
+        "Speed restrictions on Musk's Starlink lifted in Ukraine, defense ministry says"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "domingo",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 53.37,
+      "sample_titles": [
+        "Domingo 25 de Outubro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Que horas acaba a votação do 2º turno neste domingo? Veja quando começa apuração",
+        "Campanha de Lula tem a expectativa de que 300 mil indígenas votem neste domingo"
+      ]
+    },
+    {
+      "topic": "flávio",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 52.56,
+      "sample_titles": [
+        "PERDEU, PERDEU • MÚSICA PRA VITÓRIA • FLÁVIO BOLSONARO • DJ TAYRONE & ALLÊ NO BEAT",
+        "Virou, Virou! O Brasil Agora é Flávio",
+        "Quem paga a conta? Economistas analisam promessas de Lula e Flávio diante de Orçamento apertado",
+        "As propostas de Lula e Flávio Bolsonaro sobre CLT e relações trabalhistas",
+        "Após Flávio citar volta do Perse, governo fala em projeto para perdoar dívidas de bares, restaurantes e empresas de eventos do Simples"
+      ]
+    },
+    {
+      "topic": "vitória",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 47.66,
+      "sample_titles": [
+        "PERDEU, PERDEU • MÚSICA PRA VITÓRIA • FLÁVIO BOLSONARO • DJ TAYRONE & ALLÊ NO BEAT",
+        "‘Entregar todo o poder aos Bolsonaro ou dar última vitória a Lula’: imprensa mundial repercute votação no 2º turno",
+        "Tarcísio vota e diz estar confiante com vitória de Flávio",
+        "Rafael Fonteles: Nordeste será responsável pela vitória de Lula"
+      ]
+    },
+    {
+      "topic": "flávio bolsonaro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 42.12,
+      "sample_titles": [
+        "PERDEU, PERDEU • MÚSICA PRA VITÓRIA • FLÁVIO BOLSONARO • DJ TAYRONE & ALLÊ NO BEAT",
+        "As propostas de Lula e Flávio Bolsonaro sobre CLT e relações trabalhistas",
+        "Votação no exterior: Lula vence na Nova Zelândia e Austrália; Flávio Bolsonaro vence no Japão e no Catar",
+        "Resultado do 2º turno na Ásia: Flávio Bolsonaro ganha no Japão e Lula na China",
+        "Homem morre e outro fica ferido a tiros após carreata de Flávio Bolsonaro em MS"
+      ]
+    },
+    {
+      "topic": "world",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 41.59,
+      "sample_titles": [
+        "Shakira & Maluma - Agua (Live from LMYNL World Tour)",
+        "Chain-reaction chaos threatens to unleash new risks on the world"
+      ]
+    },
+    {
+      "topic": "bolsonaro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 41.53,
+      "sample_titles": [
+        "PERDEU, PERDEU • MÚSICA PRA VITÓRIA • FLÁVIO BOLSONARO • DJ TAYRONE & ALLÊ NO BEAT",
+        "MEGA FUNK - ESPECIAL BOLSONARO 22",
+        "As propostas de Lula e Flávio Bolsonaro sobre CLT e relações trabalhistas",
+        "‘Entregar todo o poder aos Bolsonaro ou dar última vitória a Lula’: imprensa mundial repercute votação no 2º turno",
+        "Votação no exterior: Lula vence na Nova Zelândia e Austrália; Flávio Bolsonaro vence no Japão e no Catar"
+      ]
+    },
+    {
+      "topic": "vitória flávio",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.31,
+      "sample_titles": [
+        "PERDEU, PERDEU • MÚSICA PRA VITÓRIA • FLÁVIO BOLSONARO • DJ TAYRONE & ALLÊ NO BEAT",
+        "Tarcísio vota e diz estar confiante com vitória de Flávio"
+      ]
+    },
+    {
+      "topic": "agora",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.06,
+      "sample_titles": [
+        "Virou, Virou! O Brasil Agora é Flávio",
+        "Síria dá a Lula 90% dos votos, maior percentual do 2º turno no exterior até agora"
+      ]
+    },
+    {
+      "topic": "presidente",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 26.72,
+      "sample_titles": [
+        "22 É Meu Cacete (Eu Tô Com o 13) Lula Presidente",
+        "OLÊ, OLÊ, OLÊ OLÁ (LULA, LULA) - MÚSICA OFICIAL - LULA PRESIDENTE 2026! 🇧🇷",
+        "Que horas o TSE vai anunciar o novo presidente? Veja o histórico de 2018 e 2022"
+      ]
+    },
+    {
+      "topic": "viral",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "A consultant is going viral for exposing the cringe-worthy DMs bosses send employees",
+        "viral trends"
+      ]
+    },
+    {
+      "topic": "prévia",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 20.2,
+      "sample_titles": [
+        "Prévia de Avengers: Doomsday (MLB) - Legendado",
+        "BC passa a exigir autorização prévia para oferecer crédito a clientes com risco de endividamento"
+      ]
+    },
+    {
+      "topic": "brasil",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 15.06,
+      "sample_titles": [
+        "Virou, Virou! O Brasil Agora é Flávio",
+        "Mudanças climáticas já causam aumento de doenças infecciosas no Brasil"
+      ]
+    },
+    {
+      "topic": "minha",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 10.12,
+      "sample_titles": [
+        "MEGA FORA LULA - ESPECIAL CADE MINHA PICANHA? @FI_DO_VIRSO",
+        "Exposição 'Minha Aldeia' reúne fotografias inspiradas no cotidiano amapaense"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "Eleições nos EUA",
+      "subtopic": "Como a eleição americana afeta imigrantes brasileiros",
+      "why_trending": "As eleições americanas estão se aproximando e as políticas de imigração são um tópico quente. Muitos imigrantes brasileiros estão preocupados com as mudanças que podem ocorrer.",
+      "niche_angle": "Explorar como as políticas dos candidatos impactam os direitos e a vida dos imigrantes brasileiros nos EUA, especialmente em relação a vistos e cidadania.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 7,
+      "source": "news:NPR Politics",
+      "region": "US",
+      "links": [
+        "https://www.npr.org/2026/10/25/politics-chat-the-polls-show-a-democratic-sweep-in-the-midterms-can-you-trust-them"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-25T15:42:31.877634"
+    },
+    {
+      "main_topic": "Custo de vida nos EUA",
+      "subtopic": "Impacto das mudanças nas políticas de imigração",
+      "why_trending": "Com o aumento do custo de vida, as mudanças nas políticas de imigração podem afetar diretamente a situação financeira dos imigrantes.",
+      "niche_angle": "Analisar como as recentes decisões políticas impactam o custo de vida dos brasileiros imigrantes e quais medidas eles podem tomar para se proteger.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "news:Axios",
+      "region": "US",
+      "links": [
+        "https://www.axios.com/2026/10/25/ai-cybersecurity-politics-risks-2028"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-25T15:42:31.877647"
+    },
+    {
+      "main_topic": "Eleições no Brasil",
+      "subtopic": "Resultados das eleições no exterior",
+      "why_trending": "As eleições brasileiras estão em destaque, especialmente com foco nos votos de brasileiros no exterior, incluindo os EUA.",
+      "niche_angle": "Discutir como os resultados das eleições brasileiras afetam a comunidade brasileira nos EUA e as implicações para quem deseja retornar ao Brasil.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:G1 Mundo",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/10/25/eleicoes-2026-quem-ganhou-no-japao.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-25T15:42:31.877653"
+    },
+    {
+      "main_topic": "Empreendedorismo",
+      "subtopic": "Oportunidades de negócios para imigrantes",
+      "why_trending": "Com a economia em constante mudança, muitos brasileiros estão buscando novas oportunidades de renda nos EUA.",
+      "niche_angle": "Explorar as melhores áreas para abrir negócios e as dificuldades específicas que imigrantes enfrentam ao empreender nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news:InfoMoney",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mercados/lula-flavio-bolsonaro-livros-armas-resultado-eleicao/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-25T15:42:31.877658"
+    },
+    {
+      "main_topic": "Inteligência Artificial",
+      "subtopic": "Como a IA está mudando o mercado de trabalho",
+      "why_trending": "O uso de IA está crescendo rapidamente, o que pode levar a mudanças significativas no mercado de trabalho.",
+      "niche_angle": "Discutir como imigrantes brasileiros podem se adaptar e tirar vantagem das novas tecnologias em suas carreiras nos EUA.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "news:Exame",
+      "region": "GLOBAL",
+      "links": [
+        "https://exame.com/inteligencia-artificial/ia-ainda-nao-mostra-ganhos-claros-fora-das-gigantes-diz-consultoria/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-25T15:42:31.877663"
+    },
+    {
+      "main_topic": "Direitos dos imigrantes",
+      "subtopic": "Alterações nas leis de imigração",
+      "why_trending": "Com a mudança de administrações, os direitos dos imigrantes estão sob constante revisão e debate.",
+      "niche_angle": "Informar os brasileiros sobre seus direitos e como as novas leis podem afetá-los diretamente nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:InfoMoney",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mercados/flavio-e-lula-disputam-presidencia-em-eleicao-que-pode-ser-definida-pela-abstencao/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-25T15:42:31.877672"
+    },
+    {
+      "main_topic": "Custo de vida",
+      "subtopic": "Como o custo de vida nos EUA se compara ao Brasil",
+      "why_trending": "O aumento dos preços nos EUA está gerando debates sobre o custo de vida em comparação ao Brasil.",
+      "niche_angle": "Analisar os custos de vida e como os brasileiros podem se planejar financeiramente para viver nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news:G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/25/mega-sena-acumulada-premio-estimado-de-r-300-milhoes-maiores-historia-sorteios-regulares.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-25T15:42:31.877677"
+    },
+    {
+      "main_topic": "Voto no exterior",
+      "subtopic": "Como votar do exterior nas eleições brasileiras",
+      "why_trending": "Com as eleições se aproximando, muitos brasileiros no exterior estão buscando informações sobre como exercer seu direito de voto.",
+      "niche_angle": "Criar um guia prático para brasileiros nos EUA sobre os procedimentos de votação do exterior e suas implicações.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:InfoMoney",
+      "region": "BR",
+      "links": [
+        "https://www.infomoney.com.br/politica/o-voto-dos-candidatos-flavio-pede-mudanca-e-lula-agradece-mobilizacao/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-25T15:42:31.877686"
+    },
+    {
+      "main_topic": "Economia dos EUA",
+      "subtopic": "Impacto da inflação na vida dos imigrantes",
+      "why_trending": "A inflação nos EUA está em alta, e isso afeta diretamente o poder de compra dos imigrantes.",
+      "niche_angle": "Debater como os imigrantes brasileiros podem se preparar financeiramente para enfrentar esses desafios.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:Axios",
+      "region": "US",
+      "links": [
+        "https://thehill.com/policy/international/6170670-israel-ackman-ben-gvir-smotrich/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-25T15:42:31.877691"
+    }
+  ]
+}
