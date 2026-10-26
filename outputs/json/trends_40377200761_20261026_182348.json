@@ -1,0 +1,999 @@
+{
+  "generated_at": "2026-10-26T18:23:48.176904",
+  "run_id": "40377200761",
+  "summary": {
+    "total_br": 30,
+    "total_us": 25,
+    "br_us_connections": 10,
+    "cross_platform_topics": 15,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "Avengers: Doomsday | In Theaters December 18",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=UfNu7pcR0e8",
+          "score": 43.54,
+          "region": "BR",
+          "views": 12960770
+        },
+        {
+          "title": "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=7bU4ojt7WGU",
+          "score": 13.46,
+          "region": "BR",
+          "views": 4143781
+        },
+        {
+          "title": "ANÁLISE DO NOVO TEASER DE VINGADORES: DOOMSDAY",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=ZHgFpODpRg8",
+          "score": 2.73,
+          "region": "BR",
+          "views": 806297
+        },
+        {
+          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=CcCiaZodoAo",
+          "score": 1.86,
+          "region": "BR",
+          "views": 728235
+        },
+        {
+          "title": "Tipo Narutin V2 🦊 Kurama Mode | (Naruto) Style Trap | MHRAP",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=wNEMyQNLUQg",
+          "score": 1.16,
+          "region": "BR",
+          "views": 183507
+        },
+        {
+          "title": "PERDEU, PERDEU • MÚSICA PRA VITÓRIA • FLÁVIO BOLSONARO • DJ TAYRONE & ALLÊ NO BEAT",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=4oI3xH-2l3c",
+          "score": 0.8,
+          "region": "BR",
+          "views": 282298
+        },
+        {
+          "title": "Dan - Entreguei meu Coração (Obito Uchiha) | Naruto Shippuden",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=lzgRKEcG6AU",
+          "score": 0.68,
+          "region": "BR",
+          "views": 119483
+        },
+        {
+          "title": "Prévia de Avengers: Doomsday (MLB) - Legendado",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=B9VLl53OXro",
+          "score": 0.4,
+          "region": "BR",
+          "views": 153565
+        },
+        {
+          "title": "MEGA FORA LULA - ESPECIAL CADE MINHA PICANHA? @FI_DO_VIRSO",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=_OziXuh3L5A",
+          "score": 0.31,
+          "region": "BR",
+          "views": 265992
+        },
+        {
+          "title": "22 É Meu Cacete (Eu Tô Com o 13) Lula Presidente",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=lazbfn_mK90",
+          "score": 0.29,
+          "region": "BR",
+          "views": 180348
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Presidente do México faz o L para comemorar vitória de Lula; VÍDEO",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/26/presidente-do-mexico-faz-o-l-para-comemorar-vitoria-de-lula-sopro-de-esperanca.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Daniella Marques cobra respostas sobre eleição ‘conturbada’ e pede paz no País",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/daniella-marques-cobra-respostas-sobre-eleicao-conturbada-e-pede-paz-no-pais/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Firjan pede reformas e vê consolidação fiscal como caminho para o desenvolvimento",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/firjan-pede-reformas-e-ve-consolidacao-fiscal-como-caminho-para-o-desenvolvimento/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Quais foram os nomes fundamentais para a vitória de Lula sobre Flávio Bolsonaro",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/quais-foram-os-nomes-fundamentais-para-a-vitoria-de-lula-sobre-flavio-bolsonaro/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Fundador da Apple é um dos destaques do G4 Valley, que começa na quinta",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/business/fundador-da-apple-e-um-dos-destaques-do-g4-valley-que-comeca-na-quinta/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "O que Lula já disse sobre ajuste fiscal e o que falta esclarecer para o 4º mandato",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/o-que-lula-ja-disse-sobre-ajuste-fiscal-e-o-que-falta-esclarecer-para-o-4o-mandato/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Microsoft oferece demissão voluntária para 60 mil funcionários, em corte de custos",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/microsoft-oferece-demissao-voluntaria-para-60-mil-funcionarios-em-corte-de-custos/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Banco vê 2 fatores capazes de impedir uma correção mais profunda no Brasil",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/ubs-fatores-limitar-correcao-ativos-brasileiros/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Soja, café e açúcar caem nas bolsas globais com alta do dólar após eleição no Brasil",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/soja-cafe-e-acucar-caem-nas-bolsas-globais-com-alta-do-dolar-apos-eleicao-no-brasil/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Dólar hoje sobe mais de 10% e chega a ultrapassar os R$ 5,50 com reeleição de Lula",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-26102026-2/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "Boys vs Girls: POOR to RICH Chunk Battle!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=UZfAbp3nlVQ",
+          "score": 3.53,
+          "region": "US",
+          "views": 758862
+        },
+        {
+          "title": "Shakira & Maluma - Agua (Live from LMYNL World Tour)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=ziZZt1ajf-Y",
+          "score": 3.36,
+          "region": "US",
+          "views": 2499950
+        },
+        {
+          "title": "AVENGERS DOOMSDAY SPECIAL LOOK BREAKDOWN! Easter Eggs & Details You Missed!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=JNSFV75NpaU",
+          "score": 3.11,
+          "region": "US",
+          "views": 973224
+        },
+        {
+          "title": "Yung Miami - Dear JT (Official Visualizer)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=tAg4Fa1JtPo",
+          "score": 2.06,
+          "region": "US",
+          "views": 880344
+        },
+        {
+          "title": "Avengers Doomsday Trailer Thor & God Loki",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=0BxnSQeWonA",
+          "score": 1.64,
+          "region": "US",
+          "views": 292189
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "Vance, Harris top early 2028 White House race polling",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6173025-vance-harris-white-house-polling/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Six citizens sue Trump over White House bans on news outlets",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/regulation/court-battles/6172985-citizens-sue-trump-white-house-bans/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Massie says he'll move to impeach Hegseth if he's not gone after midterms",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/house/6172957-massie-hegseth-impeachment-midterms/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Pulte vows action against ‘abusive monopolies’ in mortgage market",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/business/6172844-fhfa-director-challenges-fico-monopoly/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI giant Anthropic files for an IPO that could break records",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Australian judge rejects prisoner's human rights challenge to Vegemite ban",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/26/g-s1-149923/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "What to know about China's plenum as Xi seeks stronger party discipline",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump allies fall in two elections as Netanyahu faces next test",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/26/trump-allies-brazil-serbia-elections-netanyahu-israel",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "The anti-Bibi candidate who has Netanyahu on his heels",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/26/eisenkot-netanyahu-israel-elections",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Economic policy vets see risks in AI overreliance",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/26/ai-economists-furman-policy",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 13,
+      "score": 76.67,
+      "sample_titles": [
+        "Presidente da Audi é acusado de violar regras da empresa ao aparecer com Trump em comício eleitoral",
+        "Trump chama Noruega de 'lixo' durante comício e mostra irritação por não ter recebido o Nobel da Paz",
+        "O que silêncio de Trump sobre vitória de Lula diz sobre relação entre Brasil e EUA",
+        "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+        "Trump allies fall in two elections as Netanyahu faces next test"
+      ]
+    },
+    {
+      "topic": "doomsday",
+      "count": 7,
+      "score": 12.9,
+      "sample_titles": [
+        "Avengers: Doomsday | In Theaters December 18",
+        "ANÁLISE DO NOVO TEASER DE VINGADORES: DOOMSDAY",
+        "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
+        "AVENGERS DOOMSDAY SPECIAL LOOK BREAKDOWN! Easter Eggs & Details You Missed!",
+        "Avengers Doomsday Trailer Thor & God Loki"
+      ]
+    },
+    {
+      "topic": "avengers doomsday",
+      "count": 6,
+      "score": 12.43,
+      "sample_titles": [
+        "Avengers: Doomsday | In Theaters December 18",
+        "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
+        "Prévia de Avengers: Doomsday (MLB) - Legendado",
+        "AVENGERS DOOMSDAY SPECIAL LOOK BREAKDOWN! Easter Eggs & Details You Missed!",
+        "Avengers Doomsday Trailer Thor & God Loki"
+      ]
+    },
+    {
+      "topic": "avengers",
+      "count": 6,
+      "score": 12.43,
+      "sample_titles": [
+        "Avengers: Doomsday | In Theaters December 18",
+        "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
+        "Prévia de Avengers: Doomsday (MLB) - Legendado",
+        "AVENGERS DOOMSDAY SPECIAL LOOK BREAKDOWN! Easter Eggs & Details You Missed!",
+        "Avengers Doomsday Trailer Thor & God Loki"
+      ]
+    },
+    {
+      "topic": "bolsonaro",
+      "count": 5,
+      "score": 35.24,
+      "sample_titles": [
+        "PERDEU, PERDEU • MÚSICA PRA VITÓRIA • FLÁVIO BOLSONARO • DJ TAYRONE & ALLÊ NO BEAT",
+        "AQUI É LULA , BOLSONARO É O C4R@LHO ( ROCK DOIDO ) MC CAROL",
+        "Lula venceu em 62 países; Flávio Bolsonaro, em 38: MAPA mostra como foi a eleição no exterior",
+        "Lula beats Bolsonaro to win Brazil presidential election"
+      ]
+    },
+    {
+      "topic": "anthropic",
+      "count": 4,
+      "score": 75.0,
+      "sample_titles": [
+        "Anthropic, dona do Claude, divulga pedido de IPO nos EUA e revela prejuízo bilionário",
+        "Modelo de IA da Anthropic acessou dados de eleitores dos EUA",
+        "AI giant Anthropic files for an IPO that could break records",
+        "Anthropic's IPO outlines AI's extraordinary risks"
+      ]
+    },
+    {
+      "topic": "trailer",
+      "count": 4,
+      "score": 4.3,
+      "sample_titles": [
+        "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
+        "AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+        "🚨NOVO TRAILER de VINGADORES DOUTOR DESTINO! Capitão América, Loki e Doom",
+        "Avengers Doomsday Trailer Thor & God Loki"
+      ]
+    },
+    {
+      "topic": "viral",
+      "count": 3,
+      "score": 16.71,
+      "sample_titles": [
+        "MUSICA DO PRESIDENTE LULA | É 13 É 13 É 13 | VOLTA E CONFIRMA- LULA, NEYMAR, VILAO NO BEAT ( VIRAL )",
+        "A consultant is going viral for exposing the cringe-worthy DMs bosses send employees",
+        "viral trends"
+      ]
+    },
+    {
+      "topic": "china",
+      "count": 2,
+      "score": 80.0,
+      "sample_titles": [
+        "Após reeleição de Lula, China quer aprofundar parceria com o Brasil",
+        "What to know about China's plenum as Xi seeks stronger party discipline"
+      ]
+    },
+    {
+      "topic": "marketing",
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "6 tendências incontornáveis de marketing para 2027",
+        "digital marketing tips"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "viral",
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "count": 3,
+      "score": 16.71,
+      "sample_titles": [
+        "MUSICA DO PRESIDENTE LULA | É 13 É 13 É 13 | VOLTA E CONFIRMA- LULA, NEYMAR, VILAO NO BEAT ( VIRAL )",
+        "A consultant is going viral for exposing the cringe-worthy DMs bosses send employees",
+        "viral trends"
+      ]
+    },
+    {
+      "topic": "vitória",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 72.16,
+      "sample_titles": [
+        "PERDEU, PERDEU • MÚSICA PRA VITÓRIA • FLÁVIO BOLSONARO • DJ TAYRONE & ALLÊ NO BEAT",
+        "Presidente do México faz o L para comemorar vitória de Lula; VÍDEO",
+        "O que silêncio de Trump sobre vitória de Lula diz sobre relação entre Brasil e EUA",
+        "Esquerda da França vê vitória de Lula como sinal de esperança para eleições de 2027",
+        "Quais foram os nomes fundamentais para a vitória de Lula sobre Flávio Bolsonaro"
+      ]
+    },
+    {
+      "topic": "flávio",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 70.13,
+      "sample_titles": [
+        "PERDEU, PERDEU • MÚSICA PRA VITÓRIA • FLÁVIO BOLSONARO • DJ TAYRONE & ALLÊ NO BEAT",
+        "Eleições 2026: Flávio vira sobre Lula na Venezuela no 2º turno",
+        "Eleições 2026: onde Lula e Flávio viraram votos no exterior?",
+        "Lula venceu em 62 países; Flávio Bolsonaro, em 38: MAPA mostra como foi a eleição no exterior",
+        "Veja a cronologia dos pedidos de Lula e Flávio para prorrogar a votação no 2º turno"
+      ]
+    },
+    {
+      "topic": "dólar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 70.0,
+      "sample_titles": [
+        "Por que as eleições mexem tanto com dólar e bolsa?",
+        "Ibovespa cai mais de 15% após 'circuit breaker'; dólar sobe e bate R$ 5,60",
+        "Soja, café e açúcar caem nas bolsas globais com alta do dólar após eleição no Brasil",
+        "Dólar hoje sobe mais de 10% e chega a ultrapassar os R$ 5,50 com reeleição de Lula",
+        "dólar hoje"
+      ]
+    },
+    {
+      "topic": "flávio bolsonaro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 60.27,
+      "sample_titles": [
+        "PERDEU, PERDEU • MÚSICA PRA VITÓRIA • FLÁVIO BOLSONARO • DJ TAYRONE & ALLÊ NO BEAT",
+        "Lula venceu em 62 países; Flávio Bolsonaro, em 38: MAPA mostra como foi a eleição no exterior",
+        "Quais foram os nomes fundamentais para a vitória de Lula sobre Flávio Bolsonaro"
+      ]
+    },
+    {
+      "topic": "dólar hoje",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "Dólar hoje sobe mais de 10% e chega a ultrapassar os R$ 5,50 com reeleição de Lula",
+        "dólar hoje"
+      ]
+    },
+    {
+      "topic": "eleições",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.03,
+      "sample_titles": [
+        "VAI CAIR NA MARETA DO 13 - ELEIÇÕES 2026 - LULA 13 - MÚSICA MARETA DO 13 - POLÍTICA 2026",
+        "PERDEU PERDEU ALLE NO BEAT FORROZINHO DAS ELEIÇÕES 2026 ((DJ JHONATHAN)) ",
+        "Por que as eleições mexem tanto com dólar e bolsa?",
+        "Eleições 2026: Flávio vira sobre Lula na Venezuela no 2º turno",
+        "Eleições 2026: onde Lula e Flávio viraram votos no exterior?"
+      ]
+    },
+    {
+      "topic": "segundo",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.02,
+      "sample_titles": [
+        "VAI DAR PT NO SEGUNDO TURNO X OLHA O LULA AI",
+        "Os 3 testes fiscais que Lula terá de passar para recuperar o mercado, segundo UBS"
+      ]
+    },
+    {
+      "topic": "bolsonaro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 48.19,
+      "sample_titles": [
+        "PERDEU, PERDEU • MÚSICA PRA VITÓRIA • FLÁVIO BOLSONARO • DJ TAYRONE & ALLÊ NO BEAT",
+        "AQUI É LULA , BOLSONARO É O C4R@LHO ( ROCK DOIDO ) MC CAROL",
+        "Lula venceu em 62 países; Flávio Bolsonaro, em 38: MAPA mostra como foi a eleição no exterior",
+        "Quais foram os nomes fundamentais para a vitória de Lula sobre Flávio Bolsonaro",
+        "Lula beats Bolsonaro to win Brazil presidential election"
+      ]
+    },
+    {
+      "topic": "special",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 47.7,
+      "sample_titles": [
+        "AVENGERS DOOMSDAY SPECIAL LOOK BREAKDOWN! Easter Eggs & Details You Missed!",
+        "Special ed diaries: Teachers tell NPR about their most joyous, most difficult moments",
+        "House Democrats call for special counsel to investigate Trump's ties to Epstein"
+      ]
+    },
+    {
+      "topic": "turno",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 47.51,
+      "sample_titles": [
+        "VAI DAR PT NO SEGUNDO TURNO X OLHA O LULA AI",
+        "Eleições 2026: Flávio vira sobre Lula na Venezuela no 2º turno",
+        "Veja a cronologia dos pedidos de Lula e Flávio para prorrogar a votação no 2º turno",
+        "Rafael Fonteles: presidente Lula conseguiu se conectar mais com população no 2º turno"
+      ]
+    },
+    {
+      "topic": "empresa",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Presidente da Audi é acusado de violar regras da empresa ao aparecer com Trump em comício eleitoral",
+        "abrir empresa nos EUA"
+      ]
+    },
+    {
+      "topic": "estados",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Por que Kimi Antonelli não foi campeão no GP dos Estados Unidos?",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "unidos",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Por que Kimi Antonelli não foi campeão no GP dos Estados Unidos?",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "estados unidos",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Por que Kimi Antonelli não foi campeão no GP dos Estados Unidos?",
+        "vida nos Estados Unidos"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "Dólar",
+      "subtopic": "Como a alta do dólar afeta brasileiros nos EUA",
+      "why_trending": "O dólar subiu significativamente após a reeleição de Lula, ultrapassando R$ 5,50, impactando os mercados e o custo de vida.",
+      "niche_angle": "Explorar como a variação do dólar impacta a vida dos brasileiros nos EUA, especialmente em termos de remessas e compras.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 7,
+      "source": "InfoMoney",
+      "region": "GLOBAL",
+      "links": [
+        "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-26102026-2/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-26T18:23:48.172338"
+    },
+    {
+      "main_topic": "Eleições",
+      "subtopic": "Impacto das eleições brasileiras nos EUA",
+      "why_trending": "As eleições no Brasil continuam a gerar discussões sobre o impacto econômico e político nas relações com os EUA.",
+      "niche_angle": "Debater como as eleições brasileiras afetam a vida dos imigrantes brasileiros nos EUA, principalmente em relação a investimentos e política.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "G1 Mundo",
+      "region": "GLOBAL",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/10/26/o-que-silencio-de-trump-sobre-vitoria-de-lula-diz-sobre-relacao-entre-brasil-e-eua.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "youtube"
+      ],
+      "collected_at": "2026-10-26T18:23:48.172352"
+    },
+    {
+      "main_topic": "Negócios & Dinheiro",
+      "subtopic": "Abrindo uma empresa nos EUA após a eleição",
+      "why_trending": "Com as mudanças políticas e econômicas, muitos brasileiros estão considerando abrir negócios nos EUA.",
+      "niche_angle": "Oferecer um guia prático sobre como abrir uma empresa nos EUA e quais são os desafios atuais após as eleições.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "InfoMoney",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/10/26/pf-prende-coronel-uruguaio-condenado-ditadura.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-26T18:23:48.172356"
+    },
+    {
+      "main_topic": "Economia & Mercado",
+      "subtopic": "O que é circuit breaker e quando ocorre?",
+      "why_trending": "O conceito de circuit breaker está em alta após as recentes quedas de mercado, com muitos buscando entender como isso funciona.",
+      "niche_angle": "Explicar o que é circuit breaker e como isso pode afetar investimentos para brasileiros nos EUA, especialmente em tempos de volatilidade.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "G1 Economia",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/10/26/o-que-e-circuit-breaker-entenda-o-mecanismo-que-suspende-negociacoes-quando-a-bolsa-despenca.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-26T18:23:48.172360"
+    },
+    {
+      "main_topic": "Tecnologia",
+      "subtopic": "Demissões em massa na tecnologia",
+      "why_trending": "Grandes empresas como Microsoft estão demitindo funcionários, impactando o mercado de trabalho tecnológico.",
+      "niche_angle": "Discutir como essas demissões afetam brasileiros que trabalham em tecnologia nos EUA e as oportunidades que podem surgir.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "InfoMoney",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mercados/microsoft-oferece-demissao-voluntaria-para-60-mil-funcionarios-em-corte-de-custos/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-26T18:23:48.172363"
+    },
+    {
+      "main_topic": "Viagem",
+      "subtopic": "Custos de viajar para os EUA em 2023",
+      "why_trending": "Os preços de voos e hospedagens estão mudando rapidamente, afetando planos de viagem de brasileiros.",
+      "niche_angle": "Oferecer uma análise detalhada de quanto custa viajar para os EUA e dicas para economizar, considerando o cenário atual.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "G1 Mundo",
+      "region": "GLOBAL",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/10/26/lula-venceu-em-62-paises-flavio-bolsonaro-em-38-mapa-mostra-como-foi-a-eleicao-no-exterior.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "youtube"
+      ],
+      "collected_at": "2026-10-26T18:23:48.172367"
+    },
+    {
+      "main_topic": "Direito & Legal",
+      "subtopic": "Imigração e mudanças políticas",
+      "why_trending": "Mudanças nas políticas de imigração estão sendo discutidas após as eleições, impactando brasileiros nos EUA.",
+      "niche_angle": "Explorar como as recentes mudanças políticas no Brasil podem afetar a imigração e os direitos dos brasileiros nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "G1 Mundo",
+      "region": "GLOBAL",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/10/26/esquerda-x-direita-veja-mapa-america-do-sul-reeleicao-lula.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "youtube"
+      ],
+      "collected_at": "2026-10-26T18:23:48.172371"
+    },
+    {
+      "main_topic": "Memes & Viral",
+      "subtopic": "Memes sobre a reeleição de Lula",
+      "why_trending": "Os memes relacionados às eleições e à reeleição de Lula estão viralizando nas redes sociais.",
+      "niche_angle": "Compilar e analisar os memes mais engraçados sobre a eleição e o que eles dizem sobre a percepção dos brasileiros nos EUA.",
+      "video_format": "short",
+      "urgency": "medium",
+      "ease": 3,
+      "source": "G1 Mundo",
+      "region": "GLOBAL",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/10/26/o-que-silencio-de-trump-sobre-vitoria-de-lula-diz-sobre-relacao-entre-brasil-e-eua.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "tiktok"
+      ],
+      "collected_at": "2026-10-26T18:23:48.172378"
+    },
+    {
+      "main_topic": "Lifestyle",
+      "subtopic": "Como brasileiros nos EUA reagem às eleições",
+      "why_trending": "As eleições no Brasil têm gerado muita discussão entre a comunidade brasileira nos EUA.",
+      "niche_angle": "Entrevistar brasileiros que vivem nos EUA sobre suas opiniões e reações às eleições no Brasil.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 5,
+      "source": "G1 Mundo",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/10/26/lula-venceu-em-62-paises-flavio-bolsonaro-em-38-mapa-mostra-como-foi-a-eleicao-no-exterior.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "youtube"
+      ],
+      "collected_at": "2026-10-26T18:23:48.172384"
+    }
+  ]
+}
