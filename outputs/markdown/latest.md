@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 26/10/2026 18:23 UTC
+# 📊 Tendências em Alta — 27/10/2026 17:38 UTC
 
-**Run:** `40377200761` | **BR:** 30 trends | **US:** 25 trends | **Nicho:** 9 ideias
+**Run:** `40552290412` | **BR:** 30 trends | **US:** 27 trends | **Nicho:** 8 ideias
 
 
 ---
@@ -12,28 +12,28 @@
 #### 📺 YouTube (BR) — Top 10
 
  1. Avengers: Doomsday | In Theaters December 18 · [https://youtube.com/watch?v=UfNu7pcR0e8](https://youtube.com/watch?v=UfNu7pcR0e8)
- 2. AVENGERS: DOOMSDAY New Trailer (2026) Extended · [https://youtube.com/watch?v=7bU4ojt7WGU](https://youtube.com/watch?v=7bU4ojt7WGU)
- 3. ANÁLISE DO NOVO TEASER DE VINGADORES: DOOMSDAY · [https://youtube.com/watch?v=ZHgFpODpRg8](https://youtube.com/watch?v=ZHgFpODpRg8)
- 4. AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026) · [https://youtube.com/watch?v=CcCiaZodoAo](https://youtube.com/watch?v=CcCiaZodoAo)
- 5. Tipo Narutin V2 🦊 Kurama Mode | (Naruto) Style Trap | MHRAP · [https://youtube.com/watch?v=wNEMyQNLUQg](https://youtube.com/watch?v=wNEMyQNLUQg)
- 6. PERDEU, PERDEU • MÚSICA PRA VITÓRIA • FLÁVIO BOLSONARO • DJ TAYRONE & ALLÊ NO BEAT · [https://youtube.com/watch?v=4oI3xH-2l3c](https://youtube.com/watch?v=4oI3xH-2l3c)
- 7. Dan - Entreguei meu Coração (Obito Uchiha) | Naruto Shippuden · [https://youtube.com/watch?v=lzgRKEcG6AU](https://youtube.com/watch?v=lzgRKEcG6AU)
- 8. Prévia de Avengers: Doomsday (MLB) - Legendado · [https://youtube.com/watch?v=B9VLl53OXro](https://youtube.com/watch?v=B9VLl53OXro)
- 9. MEGA FORA LULA - ESPECIAL CADE MINHA PICANHA? @FI_DO_VIRSO · [https://youtube.com/watch?v=_OziXuh3L5A](https://youtube.com/watch?v=_OziXuh3L5A)
-10. 22 É Meu Cacete (Eu Tô Com o 13) Lula Presidente · [https://youtube.com/watch?v=lazbfn_mK90](https://youtube.com/watch?v=lazbfn_mK90)
+ 2. ILLIT (아일릿) '체포하겠어 (You’re Under Arrest)’ Official MV · [https://youtube.com/watch?v=V2V9-9VhYJo](https://youtube.com/watch?v=V2V9-9VhYJo)
+ 3. AVENGERS: DOOMSDAY New Trailer (2026) Extended · [https://youtube.com/watch?v=7bU4ojt7WGU](https://youtube.com/watch?v=7bU4ojt7WGU)
+ 4. Harry Styles - Coming Up Roses (Official Video) · [https://youtube.com/watch?v=M4qX5wzx-wY](https://youtube.com/watch?v=M4qX5wzx-wY)
+ 5. Pop · [https://youtube.com/watch?v=M2Tb2kjzzxo](https://youtube.com/watch?v=M2Tb2kjzzxo)
+ 6. ずっと真夜中でいいのに。『あかねさす頃』MV (ZUTOMAYO - akanesasu) · [https://youtube.com/watch?v=Z_k0hvdXYjM](https://youtube.com/watch?v=Z_k0hvdXYjM)
+ 7. Kesha - Backstabber (Official Video) · [https://youtube.com/watch?v=d02bibFGMp0](https://youtube.com/watch?v=d02bibFGMp0)
+ 8. Avengers: Doomsday Teaser -  In Theaters December 18 · [https://youtube.com/watch?v=LYRmPlm6oV0](https://youtube.com/watch?v=LYRmPlm6oV0)
+ 9. JOGO MAIS ENGRAÇADO DE 2026! ENSINANDO A DIRIGIR COM O MICROFONE (ELA ME XINGA) · [https://youtube.com/watch?v=7Mh9fey4Zrc](https://youtube.com/watch?v=7Mh9fey4Zrc)
+10. ANÁLISE DO NOVO TEASER DE VINGADORES: DOOMSDAY · [https://youtube.com/watch?v=ZHgFpODpRg8](https://youtube.com/watch?v=ZHgFpODpRg8)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Presidente do México faz o L para comemorar vitória de Lula; VÍDEO · [https://g1.globo.com/mundo/noticia/2026/10/26/presidente-do-mexico-faz-o-l-para-comemorar-vitoria-de-lula-sopro-de-esperanca.ghtml](https://g1.globo.com/mundo/noticia/2026/10/26/presidente-do-mexico-faz-o-l-para-comemorar-vitoria-de-lula-sopro-de-esperanca.ghtml)
- 2. Daniella Marques cobra respostas sobre eleição ‘conturbada’ e pede paz no País · [https://www.infomoney.com.br/politica/daniella-marques-cobra-respostas-sobre-eleicao-conturbada-e-pede-paz-no-pais/](https://www.infomoney.com.br/politica/daniella-marques-cobra-respostas-sobre-eleicao-conturbada-e-pede-paz-no-pais/)
- 3. Firjan pede reformas e vê consolidação fiscal como caminho para o desenvolvimento · [https://www.infomoney.com.br/mercados/firjan-pede-reformas-e-ve-consolidacao-fiscal-como-caminho-para-o-desenvolvimento/](https://www.infomoney.com.br/mercados/firjan-pede-reformas-e-ve-consolidacao-fiscal-como-caminho-para-o-desenvolvimento/)
- 4. Quais foram os nomes fundamentais para a vitória de Lula sobre Flávio Bolsonaro · [https://www.infomoney.com.br/politica/quais-foram-os-nomes-fundamentais-para-a-vitoria-de-lula-sobre-flavio-bolsonaro/](https://www.infomoney.com.br/politica/quais-foram-os-nomes-fundamentais-para-a-vitoria-de-lula-sobre-flavio-bolsonaro/)
- 5. Fundador da Apple é um dos destaques do G4 Valley, que começa na quinta · [https://www.infomoney.com.br/business/fundador-da-apple-e-um-dos-destaques-do-g4-valley-que-comeca-na-quinta/](https://www.infomoney.com.br/business/fundador-da-apple-e-um-dos-destaques-do-g4-valley-que-comeca-na-quinta/)
- 6. O que Lula já disse sobre ajuste fiscal e o que falta esclarecer para o 4º mandato · [https://www.infomoney.com.br/politica/o-que-lula-ja-disse-sobre-ajuste-fiscal-e-o-que-falta-esclarecer-para-o-4o-mandato/](https://www.infomoney.com.br/politica/o-que-lula-ja-disse-sobre-ajuste-fiscal-e-o-que-falta-esclarecer-para-o-4o-mandato/)
- 7. Microsoft oferece demissão voluntária para 60 mil funcionários, em corte de custos · [https://www.infomoney.com.br/mercados/microsoft-oferece-demissao-voluntaria-para-60-mil-funcionarios-em-corte-de-custos/](https://www.infomoney.com.br/mercados/microsoft-oferece-demissao-voluntaria-para-60-mil-funcionarios-em-corte-de-custos/)
- 8. Banco vê 2 fatores capazes de impedir uma correção mais profunda no Brasil · [https://www.infomoney.com.br/mercados/ubs-fatores-limitar-correcao-ativos-brasileiros/](https://www.infomoney.com.br/mercados/ubs-fatores-limitar-correcao-ativos-brasileiros/)
- 9. Soja, café e açúcar caem nas bolsas globais com alta do dólar após eleição no Brasil · [https://www.infomoney.com.br/mercados/soja-cafe-e-acucar-caem-nas-bolsas-globais-com-alta-do-dolar-apos-eleicao-no-brasil/](https://www.infomoney.com.br/mercados/soja-cafe-e-acucar-caem-nas-bolsas-globais-com-alta-do-dolar-apos-eleicao-no-brasil/)
-10. Dólar hoje sobe mais de 10% e chega a ultrapassar os R$ 5,50 com reeleição de Lula · [https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-26102026-2/](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-26102026-2/)
+ 1. Suspeita de fuga de Flávio Bolsonaro repercute na imprensa internacional · [https://g1.globo.com/mundo/noticia/2026/10/27/suspeita-de-fuga-de-flavio-bolsonaro-repercute-na-imprensa-internacional.ghtml](https://g1.globo.com/mundo/noticia/2026/10/27/suspeita-de-fuga-de-flavio-bolsonaro-repercute-na-imprensa-internacional.ghtml)
+ 2. Jay-Z vai comandar show do Super Bowl 2027 após anos escolhendo as atrações · [https://www.infomoney.com.br/esportes/jay-z-show-super-bowl-2027/](https://www.infomoney.com.br/esportes/jay-z-show-super-bowl-2027/)
+ 3. Suzano (SUZB3) sobe com dólar alto, mas o que esperar das ações daqui para frente? · [https://www.infomoney.com.br/mercados/suzano-suzb3-sobe-com-dolar-alto-mas-o-que-esperar-das-acoes-daqui-para-frente/](https://www.infomoney.com.br/mercados/suzano-suzb3-sobe-com-dolar-alto-mas-o-que-esperar-das-acoes-daqui-para-frente/)
+ 4. Período de restrição à prisão de eleitores termina nesta terça (27) · [https://www.infomoney.com.br/politica/periodo-de-restricao-a-prisao-de-eleitores-termina-nesta-terca-27/](https://www.infomoney.com.br/politica/periodo-de-restricao-a-prisao-de-eleitores-termina-nesta-terca-27/)
+ 5. El Niño pode provocar perdas de R$ 33 bilhões na safra de soja do Brasil; entenda os riscos · [https://g1.globo.com/economia/agronegocios/noticia/2026/10/27/el-nino-pode-reduzir-safra-de-soja-do-brasil-em-10percent-projeta-serasa.ghtml](https://g1.globo.com/economia/agronegocios/noticia/2026/10/27/el-nino-pode-reduzir-safra-de-soja-do-brasil-em-10percent-projeta-serasa.ghtml)
+ 6. Esportivo usado por Tony Stark no filme 'Os Vingadores' vai a leilão; lances já passam de R$ 520 mil · [https://g1.globo.com/carros/noticia/2026/10/27/nsx-vingadores-leilao.ghtml](https://g1.globo.com/carros/noticia/2026/10/27/nsx-vingadores-leilao.ghtml)
+ 7. 'Imposto do pecado': governo deve enviar regras ao Congresso nesta semana, diz Durigan · [https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-diz-que-deve-enviar-nesta-semana-projeto-do-imposto-do-pecado.ghtml](https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-diz-que-deve-enviar-nesta-semana-projeto-do-imposto-do-pecado.ghtml)
+ 8. Durigan anuncia projeto para cumprir centro da meta fiscal e pede 'racionalidade' do mercado · [https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-anuncia-projeto-para-mirar-centro-da-meta-fiscal-e-diz-que-espera-racionalidade-do-mercado.ghtml](https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-anuncia-projeto-para-mirar-centro-da-meta-fiscal-e-diz-que-espera-racionalidade-do-mercado.ghtml)
+ 9. Bilionários brasileiros perdem R$ 75 bilhões em um dia após tombo da bolsa; veja os mais afetados · [https://g1.globo.com/economia/noticia/2026/10/27/bilionarios-brasileiros-perdem-us-14-bilhoes-apos-tombo-do-ibovespa.ghtml](https://g1.globo.com/economia/noticia/2026/10/27/bilionarios-brasileiros-perdem-us-14-bilhoes-apos-tombo-do-ibovespa.ghtml)
+10. Ibovespa passa a cair, com pós-eleições e à espera do Fed; dólar recua a R$ 5,30 · [https://g1.globo.com/economia/noticia/2026/10/27/dolar-ibovespa.ghtml](https://g1.globo.com/economia/noticia/2026/10/27/dolar-ibovespa.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,26 +54,28 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 5
+#### 📺 YouTube (US) — Top 7
 
- 1. Boys vs Girls: POOR to RICH Chunk Battle! · [https://youtube.com/watch?v=UZfAbp3nlVQ](https://youtube.com/watch?v=UZfAbp3nlVQ)
- 2. Shakira & Maluma - Agua (Live from LMYNL World Tour) · [https://youtube.com/watch?v=ziZZt1ajf-Y](https://youtube.com/watch?v=ziZZt1ajf-Y)
+ 1. WATCHING FNCS GRAND-FINALS w/ JYNXZI 🏆 BACK FROM BABY BREAK ❤️ · [https://youtube.com/watch?v=QgwbRx2G7l4](https://youtube.com/watch?v=QgwbRx2G7l4)
+ 2. ADELANTO de Avengers Doomsday confirmó que Thor y Steve van con LOKI, proyecciones de la película! · [https://youtube.com/watch?v=TuCLo55CzzU](https://youtube.com/watch?v=TuCLo55CzzU)
  3. AVENGERS DOOMSDAY SPECIAL LOOK BREAKDOWN! Easter Eggs & Details You Missed! · [https://youtube.com/watch?v=JNSFV75NpaU](https://youtube.com/watch?v=JNSFV75NpaU)
- 4. Yung Miami - Dear JT (Official Visualizer) · [https://youtube.com/watch?v=tAg4Fa1JtPo](https://youtube.com/watch?v=tAg4Fa1JtPo)
- 5. Avengers Doomsday Trailer Thor & God Loki · [https://youtube.com/watch?v=0BxnSQeWonA](https://youtube.com/watch?v=0BxnSQeWonA)
+ 4. X-MEN 2028 · [https://youtube.com/watch?v=rQnvm5c2r3o](https://youtube.com/watch?v=rQnvm5c2r3o)
+ 5. AVENGERS: DOOMSDAY Trailer 2 (2026) Marvel · [https://youtube.com/watch?v=xsw7dJbcwU0](https://youtube.com/watch?v=xsw7dJbcwU0)
+ 6. New Avengers Teaser, Street Fighter's Massive Drop - The John Campea Show · [https://youtube.com/watch?v=qPESnb8I-hE](https://youtube.com/watch?v=qPESnb8I-hE)
+ 7. CRYSTAL LAKE - Review · [https://youtube.com/watch?v=9QV0fp0mNR8](https://youtube.com/watch?v=9QV0fp0mNR8)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Vance, Harris top early 2028 White House race polling · [https://thehill.com/homenews/campaign/6173025-vance-harris-white-house-polling/](https://thehill.com/homenews/campaign/6173025-vance-harris-white-house-polling/)
- 2. Six citizens sue Trump over White House bans on news outlets · [https://thehill.com/regulation/court-battles/6172985-citizens-sue-trump-white-house-bans/](https://thehill.com/regulation/court-battles/6172985-citizens-sue-trump-white-house-bans/)
- 3. Massie says he'll move to impeach Hegseth if he's not gone after midterms · [https://thehill.com/homenews/house/6172957-massie-hegseth-impeachment-midterms/](https://thehill.com/homenews/house/6172957-massie-hegseth-impeachment-midterms/)
- 4. Pulte vows action against ‘abusive monopolies’ in mortgage market · [https://thehill.com/business/6172844-fhfa-director-challenges-fico-monopoly/](https://thehill.com/business/6172844-fhfa-director-challenges-fico-monopoly/)
- 5. AI giant Anthropic files for an IPO that could break records · [https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records](https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records)
- 6. Australian judge rejects prisoner's human rights challenge to Vegemite ban · [https://www.npr.org/2026/10/26/g-s1-149923/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban](https://www.npr.org/2026/10/26/g-s1-149923/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban)
- 7. What to know about China's plenum as Xi seeks stronger party discipline · [https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline](https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline)
- 8. Trump allies fall in two elections as Netanyahu faces next test · [https://www.axios.com/2026/10/26/trump-allies-brazil-serbia-elections-netanyahu-israel](https://www.axios.com/2026/10/26/trump-allies-brazil-serbia-elections-netanyahu-israel)
- 9. The anti-Bibi candidate who has Netanyahu on his heels · [https://www.axios.com/2026/10/26/eisenkot-netanyahu-israel-elections](https://www.axios.com/2026/10/26/eisenkot-netanyahu-israel-elections)
-10. Economic policy vets see risks in AI overreliance · [https://www.axios.com/2026/10/26/ai-economists-furman-policy](https://www.axios.com/2026/10/26/ai-economists-furman-policy)
+ 1. A judge halted D.C. golf course renovations. Trump says they'll still start next month · [https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal](https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal)
+ 2. Israeli turnout hits 53-year high in warning sign for Netanyahu · [https://www.axios.com/2026/10/27/israel-election-turnout-netanyahu](https://www.axios.com/2026/10/27/israel-election-turnout-netanyahu)
+ 3. Haley Stevens slams Cenk Uygur's anti-Israel ad: 'Fearmongering' · [https://thehill.com/opinion/robbys-radar/6175385-israel-foreign-aid-ad/](https://thehill.com/opinion/robbys-radar/6175385-israel-foreign-aid-ad/)
+ 4. Justice for Camp Lejeune families cannot depend on an election · [https://thehill.com/opinion/6173968-trump-threatens-veteran-benefits/](https://thehill.com/opinion/6173968-trump-threatens-veteran-benefits/)
+ 5. Bolsonaro's party recognizes Brazil election result. But he hasn't conceded · [https://thehill.com/policy/international/6175232-liberal-party-recognizes-election-results/](https://thehill.com/policy/international/6175232-liberal-party-recognizes-election-results/)
+ 6. Trump says he will respect midterm results 'if they're honest elections' · [https://thehill.com/homenews/administration/6175318-trump-midterm-election-interference-honest/](https://thehill.com/homenews/administration/6175318-trump-midterm-election-interference-honest/)
+ 7. Bolsonaro's party accepts Brazil election defeat, but he refuses to concede · [https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump](https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump)
+ 8. Discursive Verses: Jay-Z, the Super Bowl and playing with house money · [https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl](https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl)
+ 9. A 'Green Army' is out to thwart El Niño flooding · [https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army](https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army)
+10. Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election · [https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections](https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -95,12 +97,11 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **Dólar** | Como a alta do dólar afeta brasileiros nos EUA | O dólar subiu significativamente após a reeleição de Lula, ultrapassando R$ 5,50, impactando os mercados e o custo de vi |
-| 2 🟠 🎬 | **Eleições** | Impacto das eleições brasileiras nos EUA | As eleições no Brasil continuam a gerar discussões sobre o impacto econômico e político nas relações com os EUA. |
-| 3 🟡 🎬 | **Negócios & Dinheiro** | Abrindo uma empresa nos EUA após a eleição | Com as mudanças políticas e econômicas, muitos brasileiros estão considerando abrir negócios nos EUA. |
-| 4 🟡 🎬 | **Economia & Mercado** | O que é circuit breaker e quando ocorre? | O conceito de circuit breaker está em alta após as recentes quedas de mercado, com muitos buscando entender como isso fu |
-| 5 🟡 🎬 | **Tecnologia** | Demissões em massa na tecnologia | Grandes empresas como Microsoft estão demitindo funcionários, impactando o mercado de trabalho tecnológico. |
-| 6 🟡 🎯 | **Viagem** | Custos de viajar para os EUA em 2023 | Os preços de voos e hospedagens estão mudando rapidamente, afetando planos de viagem de brasileiros. |
-| 7 🟡 🎬 | **Direito & Legal** | Imigração e mudanças políticas | Mudanças nas políticas de imigração estão sendo discutidas após as eleições, impactando brasileiros nos EUA. |
-| 8 🟡 ⚡ | **Memes & Viral** | Memes sobre a reeleição de Lula | Os memes relacionados às eleições e à reeleição de Lula estão viralizando nas redes sociais. |
-| 9 🟢 🎬 | **Lifestyle** | Como brasileiros nos EUA reagem às eleições | As eleições no Brasil têm gerado muita discussão entre a comunidade brasileira nos EUA. |
+| 1 🟠 🎬 | **dólar** | Impacto do dólar alto na vida dos brasileiros nos EUA | O dólar está em alta, impactando a economia e as finanças pessoais. Recentemente, recuou a R$ 5,30, mas ainda assim afet |
+| 2 🟠 🎯 | **imigração** | Mudanças nas leis de imigração nos EUA | As discussões sobre imigração estão em alta, especialmente com as recentes reformas e políticas de controle de imigração |
+| 3 🟡 🎬 | **imposto** | Impostos nos EUA: o que os brasileiros precisam saber | Discussões sobre novos impostos estão em alta, com propostas como o 'imposto do pecado' ganhando atenção. |
+| 4 🟡 🎯 | **ganhar** | Como ganhar dinheiro online nos EUA | A busca por formas de renda extra e trabalho remoto está crescendo, especialmente entre imigrantes. |
+| 5 🟡 🎬 | **economia** | Impacto do El Niño na economia e no custo de vida | O fenômeno El Niño pode causar perdas significativas na agricultura, afetando a economia e o custo de vida. |
+| 6 🟡 🎯 | **start** | Como abrir um negócio nos EUA como brasileiro | A criação de negócios nos EUA está em alta, com muitos brasileiros buscando empreender. |
+| 7 🟡 🎬 | **brasil** | Impacto das eleições brasileiras para imigrantes | As eleições no Brasil estão afetando a percepção internacional e a economia brasileira. |
+| 8 🟢 🎯 | **super** | Super Bowl 2027: o que esperar e como assistir | A expectativa em torno do Super Bowl 2027 está crescendo, com grandes eventos programados. |
