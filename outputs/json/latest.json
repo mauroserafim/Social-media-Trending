@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T17:38:00.384695",
-  "run_id": "40552290412",
+  "generated_at": "2026-10-28T18:00:10.369439",
+  "run_id": "40740852498",
   "summary": {
     "total_br": 30,
-    "total_us": 27,
+    "total_us": 24,
     "br_us_connections": 10,
     "cross_platform_topics": 15,
-    "niche_ideas": 8
+    "niche_ideas": 9
   },
   "sections_br": [
     {
@@ -15,84 +15,84 @@
       "label": "YouTube (BR)",
       "trends": [
         {
-          "title": "Avengers: Doomsday | In Theaters December 18",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=UfNu7pcR0e8",
-          "score": 38.11,
-          "region": "BR",
-          "views": 15101189
-        },
-        {
           "title": "ILLIT (아일릿) '체포하겠어 (You’re Under Arrest)’ Official MV",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=V2V9-9VhYJo",
-          "score": 32.75,
+          "score": 26.77,
           "region": "BR",
-          "views": 8063035
-        },
-        {
-          "title": "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=7bU4ojt7WGU",
-          "score": 13.47,
-          "region": "BR",
-          "views": 5439253
+          "views": 9721021
         },
         {
           "title": "Harry Styles - Coming Up Roses (Official Video)",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=M4qX5wzx-wY",
-          "score": 12.58,
+          "score": 11.68,
           "region": "BR",
-          "views": 2564977
-        },
-        {
-          "title": "Pop",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=M2Tb2kjzzxo",
-          "score": 5.54,
-          "region": "BR",
-          "views": 1362837
-        },
-        {
-          "title": "ずっと真夜中でいいのに。『あかねさす頃』MV (ZUTOMAYO - akanesasu)",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=Z_k0hvdXYjM",
-          "score": 5.07,
-          "region": "BR",
-          "views": 4164296
-        },
-        {
-          "title": "Kesha - Backstabber (Official Video)",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=d02bibFGMp0",
-          "score": 4.73,
-          "region": "BR",
-          "views": 933520
-        },
-        {
-          "title": "Avengers: Doomsday Teaser -  In Theaters December 18",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=LYRmPlm6oV0",
-          "score": 3.84,
-          "region": "BR",
-          "views": 810344
+          "views": 3893478
         },
         {
           "title": "JOGO MAIS ENGRAÇADO DE 2026! ENSINANDO A DIRIGIR COM O MICROFONE (ELA ME XINGA)",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=7Mh9fey4Zrc",
-          "score": 3.35,
+          "score": 2.87,
           "region": "BR",
-          "views": 703516
+          "views": 970534
         },
         {
-          "title": "ANÁLISE DO NOVO TEASER DE VINGADORES: DOOMSDAY",
+          "title": "Avengers: Doomsday Teaser -  In Theaters December 18",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=ZHgFpODpRg8",
-          "score": 2.54,
+          "url": "https://youtube.com/watch?v=LYRmPlm6oV0",
+          "score": 2.68,
           "region": "BR",
-          "views": 1000131
+          "views": 906451
+        },
+        {
+          "title": "Eduardo Costa – Cada Dia Eu Te Quero Mais (Ao Vivo) | Eduardo Costa do Velho Testamento",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=XwgafAZCNiI",
+          "score": 2.51,
+          "region": "BR",
+          "views": 533319
+        },
+        {
+          "title": "Duna: Parte Três l Trailer Final",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=vRq6txB8Ifo",
+          "score": 1.61,
+          "region": "BR",
+          "views": 331864
+        },
+        {
+          "title": "COMO SER O SETT QUE SÓ PRECISA DE UM SOCO!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=aAkJeXzX__c",
+          "score": 1.38,
+          "region": "BR",
+          "views": 294073
+        },
+        {
+          "title": "LULA É 13 NA CABEÇA VITÓRIA DE LULA",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=DKP8MF7_780",
+          "score": 1.36,
+          "region": "BR",
+          "views": 576556
+        },
+        {
+          "title": "MAMACO JOGA #1 : ROUBE O OVO 🥚🦖",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=5JqN2NCP4sk",
+          "score": 1.06,
+          "region": "BR",
+          "views": 226449
+        },
+        {
+          "title": "Too Little Too Late",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=18bXYKPkJ-E",
+          "score": 0.78,
+          "region": "BR",
+          "views": 471872
         }
       ]
     },
@@ -102,82 +102,82 @@
       "label": "Notícias (BR)",
       "trends": [
         {
-          "title": "Suspeita de fuga de Flávio Bolsonaro repercute na imprensa internacional",
+          "title": "'PixMEI' de até R$ 5 mil: o que é, como funciona e quem pode receber",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/28/pixmei-de-ate-r-5-mil-como-funciona.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Apple lança seu primeiro notebook com tela sensível ao toque; versão mais cara custa R$ 180 mil",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/10/28/apple-apresenta-seu-primeiro-notebook-com-tela-sensivel-ao-toque.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Reforma tributária: TCU propôs alíquota de 11,3% para o imposto federal sobre consumo; veja o que muda para empresas em 2027",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/10/28/reforma-tributaria-tcu-propos-aliquota-de-113percent-para-o-imposto-federal-sobre-consumo-veja-o-que-muda-para-empresas-em-2027.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Dona de jatinho usado por Flávio Bolsonaro em fuga é investigada por suposto esquema de propina envolvendo irmã de Javier Milei, diz imprensa local",
           "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/27/suspeita-de-fuga-de-flavio-bolsonaro-repercute-na-imprensa-internacional.ghtml",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/28/empresa-dona-de-jatinho-usado-por-flavio-bolsonaro-e-investigada-na-argentina-por-supeita-de-propina-diz-imprensa-local.ghtml",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Jay-Z vai comandar show do Super Bowl 2027 após anos escolhendo as atrações",
+          "title": "Em sequência de alta, vendas em bares e restaurantes crescem 9,9% no 3º trimestre",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/esportes/jay-z-show-super-bowl-2027/",
+          "url": "https://www.infomoney.com.br/business/em-sequencia-de-alta-vendas-em-bares-e-restaurantes-crescem-99-no-3o-trimestre/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Suzano (SUZB3) sobe com dólar alto, mas o que esperar das ações daqui para frente?",
+          "title": "Guerra e El Niño devem elevar preços de commodities em 23% no ano, diz Banco Mundial",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/suzano-suzb3-sobe-com-dolar-alto-mas-o-que-esperar-das-acoes-daqui-para-frente/",
+          "url": "https://www.infomoney.com.br/economia/guerra-e-el-nino-devem-elevar-precos-de-commodities-em-23-no-ano-diz-banco-mundial/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Período de restrição à prisão de eleitores termina nesta terça (27)",
+          "title": "Paris tenta apagar da paisagem seu prédio mais odiado, mas enfrenta impasse: o custo",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/periodo-de-restricao-a-prisao-de-eleitores-termina-nesta-terca-27/",
+          "url": "https://www.infomoney.com.br/business/paris-tenta-apagar-da-paisagem-seu-predio-mais-odiado-mas-enfrenta-impasse-o-custo/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "El Niño pode provocar perdas de R$ 33 bilhões na safra de soja do Brasil; entenda os riscos",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/27/el-nino-pode-reduzir-safra-de-soja-do-brasil-em-10percent-projeta-serasa.ghtml",
-          "score": 80.0,
+          "title": "Inmet prevê El Niño mais intenso em novembro e lista riscos para a agricultura",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/inmet-preve-el-nino-mais-intenso-em-novembro-e-lista-riscos-para-a-agricultura/",
+          "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Esportivo usado por Tony Stark no filme 'Os Vingadores' vai a leilão; lances já passam de R$ 520 mil",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/carros/noticia/2026/10/27/nsx-vingadores-leilao.ghtml",
-          "score": 80.0,
+          "title": "Estados aprovam aumento do ICMS sobre gasolina, diesel e gás de cozinha",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/economia/estados-aprovam-aumento-do-icms-sobre-gasolina-diesel-e-gas-de-cozinha/",
+          "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "'Imposto do pecado': governo deve enviar regras ao Congresso nesta semana, diz Durigan",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-diz-que-deve-enviar-nesta-semana-projeto-do-imposto-do-pecado.ghtml",
-          "score": 80.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Durigan anuncia projeto para cumprir centro da meta fiscal e pede 'racionalidade' do mercado",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-anuncia-projeto-para-mirar-centro-da-meta-fiscal-e-diz-que-espera-racionalidade-do-mercado.ghtml",
-          "score": 80.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Bilionários brasileiros perdem R$ 75 bilhões em um dia após tombo da bolsa; veja os mais afetados",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/economia/noticia/2026/10/27/bilionarios-brasileiros-perdem-us-14-bilhoes-apos-tombo-do-ibovespa.ghtml",
-          "score": 80.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Ibovespa passa a cair, com pós-eleições e à espera do Fed; dólar recua a R$ 5,30",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/economia/noticia/2026/10/27/dolar-ibovespa.ghtml",
-          "score": 80.0,
+          "title": "Fim dos puxadores de votos? Entenda a reforma eleitoral discutida por Hugo Motta",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/fim-dos-puxadores-de-votos-entenda-a-reforma-eleitoral-discutida-por-hugo-motta/",
+          "score": 100.0,
           "region": "BR",
           "views": null
         }
@@ -278,60 +278,36 @@
       "label": "YouTube (US)",
       "trends": [
         {
-          "title": "WATCHING FNCS GRAND-FINALS w/ JYNXZI 🏆 BACK FROM BABY BREAK ❤️",
+          "title": "ADELINE - I Am The Rise (Official Remix)",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=QgwbRx2G7l4",
-          "score": 3.95,
+          "url": "https://youtube.com/watch?v=ewZktVzBUlg",
+          "score": 2.64,
           "region": "US",
-          "views": 494952
+          "views": 1974854
         },
         {
-          "title": "ADELANTO de Avengers Doomsday confirmó que Thor y Steve van con LOKI, proyecciones de la película!",
+          "title": "Honest Trailers | Training Day",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=TuCLo55CzzU",
-          "score": 2.87,
+          "url": "https://youtube.com/watch?v=bI45ptyfBVE",
+          "score": 2.17,
           "region": "US",
-          "views": 409419
-        },
-        {
-          "title": "AVENGERS DOOMSDAY SPECIAL LOOK BREAKDOWN! Easter Eggs & Details You Missed!",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=JNSFV75NpaU",
-          "score": 2.78,
-          "region": "US",
-          "views": 1132480
+          "views": 433135
         },
         {
           "title": "X-MEN 2028",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=rQnvm5c2r3o",
-          "score": 1.44,
+          "score": 0.95,
           "region": "US",
-          "views": 228927
+          "views": 288586
         },
         {
-          "title": "AVENGERS: DOOMSDAY Trailer 2 (2026) Marvel",
+          "title": "Dune 3 Final Trailer, Original X-Men In Secret Wars - The John Campea Show",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=xsw7dJbcwU0",
-          "score": 1.09,
+          "url": "https://youtube.com/watch?v=Y-02jDLhQjM",
+          "score": 0.3,
           "region": "US",
-          "views": 301571
-        },
-        {
-          "title": "New Avengers Teaser, Street Fighter's Massive Drop - The John Campea Show",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=qPESnb8I-hE",
-          "score": 0.29,
-          "region": "US",
-          "views": 49903
-        },
-        {
-          "title": "CRYSTAL LAKE - Review",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=9QV0fp0mNR8",
-          "score": 0.21,
-          "region": "US",
-          "views": 43939
+          "views": 52033
         }
       ]
     },
@@ -341,81 +317,81 @@
       "label": "Notícias (US)",
       "trends": [
         {
-          "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Israeli turnout hits 53-year high in warning sign for Netanyahu",
+          "title": "Exclusive: Controversial ad backfiring on Ramaswamy, GOP poll finds",
           "source": "news:Axios",
-          "url": "https://www.axios.com/2026/10/27/israel-election-turnout-netanyahu",
+          "url": "https://www.axios.com/2026/10/28/gop-poll-ramaswamy-ad-damage",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Haley Stevens slams Cenk Uygur's anti-Israel ad: 'Fearmongering'",
+          "title": "Meta, Snap head back to LA court for social media addiction trial: What to know",
           "source": "news:The Hill",
-          "url": "https://thehill.com/opinion/robbys-radar/6175385-israel-foreign-aid-ad/",
+          "url": "https://thehill.com/policy/technology/6178703-meta-snap-social-media-addiction-trial/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Justice for Camp Lejeune families cannot depend on an election",
+          "title": "Watch live: Vance rallies North Carolina voters as Election Day looms",
           "source": "news:The Hill",
-          "url": "https://thehill.com/opinion/6173968-trump-threatens-veteran-benefits/",
+          "url": "https://thehill.com/video-clips/6178673-watch-live-jd-vance-north-carolina-midterms-2026/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Bolsonaro's party recognizes Brazil election result. But he hasn't conceded",
+          "title": "Ex-Google CEO: China is 6 months behind US on AI and has 'infinite energy'",
           "source": "news:The Hill",
-          "url": "https://thehill.com/policy/international/6175232-liberal-party-recognizes-election-results/",
+          "url": "https://thehill.com/policy/technology/6178666-schmidt-china-ai-gap/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Trump says he will respect midterm results 'if they're honest elections'",
+          "title": "Judge overseeing Maduro trial dies",
           "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/administration/6175318-trump-midterm-election-interference-honest/",
+          "url": "https://thehill.com/regulation/court-battles/6178639-judge-alvin-hellerstein-dies/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
-          "score": 80.0,
+          "title": "Live updates: Trump, Obama, Vance hit key states in midterm sprint",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/",
+          "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
-          "score": 80.0,
+          "title": "Alex Pretti's family demands answers, says DOJ withholding info",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/lindseys-lens/6178650-pretti-family-demands-justice/",
+          "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "A 'Green Army' is out to thwart El Niño flooding",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
-          "score": 80.0,
+          "title": "Far-left DC Council member proposes insane rent scheme to reward thieves",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/robbys-radar/6178494-robert-white-rent-mediation-proposal/",
+          "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
+          "title": "A bipartisan watchdog on China may go dark — that would be a mistake.",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/national-security/6176747-house-select-china-committee-fate/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
+          "url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
           "score": 80.0,
           "region": "US",
           "views": null
@@ -512,190 +488,108 @@
   ],
   "br_us_connections": [
     {
-      "topic": "trump",
-      "count": 11,
-      "score": 75.0,
+      "topic": "flávio",
+      "count": 9,
+      "score": 80.0,
       "sample_titles": [
-        "Midterms: Trump diz que vai respeitar resultado das eleições nos EUA 'se votação for honesta'",
-        "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-        "Can Black voting power and Trump fatigue break Mississippi's red wall?",
-        "How congressional Democrats are preparing for claims of election fraud by Trump"
-      ]
-    },
-    {
-      "topic": "doomsday",
-      "count": 8,
-      "score": 8.18,
-      "sample_titles": [
-        "Avengers: Doomsday Teaser -  In Theaters December 18",
-        "EXPLICADO! VINGADORES DOOMSDAY NOVO TEASER (DETALHES + REFERÊNCIAS + EASTER EGGS)",
-        "Avengers: Doomsday | In Theaters December 18",
-        "AVENGERS DOOMSDAY SPECIAL LOOK BREAKDOWN! Easter Eggs & Details You Missed!",
-        "AVENGERS: DOOMSDAY Trailer 2 (2026) Marvel"
+        "Dona de jatinho usado por Flávio Bolsonaro em fuga é investigada por suposto esquema de propina envolvendo irmã de Javier Milei, diz imprensa local",
+        "Flávio Bolsonaro chega aos EUA; ACOMPANHE",
+        "VÍDEO mostra momento em que Flávio Bolsonaro e família desembarcam nos EUA",
+        "U.S. granting visas to Flávio Bolsonaro and family"
       ]
     },
     {
       "topic": "bolsonaro",
-      "count": 7,
-      "score": 88.0,
+      "count": 9,
+      "score": 80.0,
       "sample_titles": [
-        "Suspeita de fuga de Flávio Bolsonaro repercute na imprensa internacional",
-        "Controle de imigração da Argentina diz que não tem registro da entrada de Flávio Bolsonaro no país",
-        "Flávio Bolsonaro descumpre prazo de 24h para entregar passaportes à PF",
-        "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
-        "Bolsonaro's party recognizes Brazil election result. But he hasn't conceded"
+        "Dona de jatinho usado por Flávio Bolsonaro em fuga é investigada por suposto esquema de propina envolvendo irmã de Javier Milei, diz imprensa local",
+        "Flávio Bolsonaro chega aos EUA; ACOMPANHE",
+        "VÍDEO mostra momento em que Flávio Bolsonaro e família desembarcam nos EUA",
+        "U.S. granting visas to Flávio Bolsonaro and family"
       ]
     },
     {
-      "topic": "avengers",
-      "count": 7,
-      "score": 9.93,
+      "topic": "flávio bolsonaro",
+      "count": 9,
+      "score": 80.0,
       "sample_titles": [
-        "Avengers: Doomsday Teaser -  In Theaters December 18",
-        "Avengers: Doomsday | In Theaters December 18",
-        "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
-        "New Avengers Teaser, Street Fighter's Massive Drop - The John Campea Show",
-        "AVENGERS DOOMSDAY SPECIAL LOOK BREAKDOWN! Easter Eggs & Details You Missed!"
-      ]
-    },
-    {
-      "topic": "avengers doomsday",
-      "count": 6,
-      "score": 10.36,
-      "sample_titles": [
-        "Avengers: Doomsday Teaser -  In Theaters December 18",
-        "Avengers: Doomsday | In Theaters December 18",
-        "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
-        "AVENGERS DOOMSDAY SPECIAL LOOK BREAKDOWN! Easter Eggs & Details You Missed!",
-        "AVENGERS: DOOMSDAY Trailer 2 (2026) Marvel"
+        "Dona de jatinho usado por Flávio Bolsonaro em fuga é investigada por suposto esquema de propina envolvendo irmã de Javier Milei, diz imprensa local",
+        "Flávio Bolsonaro chega aos EUA; ACOMPANHE",
+        "VÍDEO mostra momento em que Flávio Bolsonaro e família desembarcam nos EUA",
+        "U.S. granting visas to Flávio Bolsonaro and family"
       ]
     },
     {
       "topic": "trailer",
-      "count": 5,
-      "score": 3.81,
-      "sample_titles": [
-        "THE TERMINAL LIST, DRAGON BALL SUPER BEERUS, NOVO TRAILER DE VINGADORES | ESQUADRÃO NERDOLA #216",
-        "FLOW GAMES REAGE: trailer de FAVELA, o NOVO jogo de TERROR BRASILEIRO!! #FGN",
-        "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
-        "AVENGERS: DOOMSDAY Trailer 2 (2026) Marvel"
-      ]
-    },
-    {
-      "topic": "teaser",
       "count": 4,
-      "score": 1.76,
+      "score": 0.59,
       "sample_titles": [
-        "Avengers: Doomsday Teaser -  In Theaters December 18",
-        "EXPLICADO! VINGADORES DOOMSDAY NOVO TEASER (DETALHES + REFERÊNCIAS + EASTER EGGS)",
-        "ANÁLISE DO NOVO TEASER DE VINGADORES: DOOMSDAY",
-        "New Avengers Teaser, Street Fighter's Massive Drop - The John Campea Show"
+        "Duna: Parte Três l Trailer Final",
+        "BAYWATCH Trailer Oficial (2026)",
+        "THE TERMINAL LIST, DRAGON BALL SUPER BEERUS, NOVO TRAILER DE VINGADORES | ESQUADRÃO NERDOLA #216",
+        "Dune 3 Final Trailer, Original X-Men In Secret Wars - The John Campea Show"
       ]
     },
     {
-      "topic": "israel",
+      "topic": "china",
       "count": 3,
-      "score": 73.33,
+      "score": 100.0,
       "sample_titles": [
-        "Quem é Gadi Eisenkot, principal adversário de Benjamin Netanyahu nas eleições legislativas de Israel",
-        "Israel braces for an election each side warns could bring ruin",
-        "Haley Stevens slams Cenk Uygur's anti-Israel ad: 'Fearmongering'"
+        "Como piada de Mbappé gerou crise com China e ameaça negócios do Real Madrid? Entenda",
+        "Ex-Google CEO: China is 6 months behind US on AI and has 'infinite energy'",
+        "A bipartisan watchdog on China may go dark — that would be a mistake."
       ]
     },
     {
-      "topic": "black",
+      "topic": "trump",
       "count": 3,
       "score": 73.33,
       "sample_titles": [
-        "Shopee investe R$ 23 milhões na Black Friday e em novos centros de distribuição na guerra do varejo",
-        "Dia dos Solteiros já supera Black Friday no mundo, e AliExpress agora mira o Brasil",
-        "Can Black voting power and Trump fatigue break Mississippi's red wall?"
+        "Viera se reúne com Marco Rubio nesta semana, após Trump não reconhecer resultado das eleições",
+        "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
+        "Live updates: Trump, Obama, Vance hit key states in midterm sprint"
       ]
     },
     {
-      "topic": "midterms",
+      "topic": "official",
       "count": 3,
-      "score": 73.33,
+      "score": 13.7,
       "sample_titles": [
-        "Midterms: Trump diz que vai respeitar resultado das eleições nos EUA 'se votação for honesta'",
-        "Eleições nos EUA 2026: acompanhe as últimas notícias sobre as midterms",
-        "Data centers are a hot-button issue for Ohioans as midterms near"
+        "Harry Styles - Coming Up Roses (Official Video)",
+        "ILLIT (아일릿) '체포하겠어 (You’re Under Arrest)’ Official MV",
+        "ADELINE - I Am The Rise (Official Remix)"
+      ]
+    },
+    {
+      "topic": "obama",
+      "count": 2,
+      "score": 90.0,
+      "sample_titles": [
+        "Morre ativista americana que inspirou o “Yes, we can” de Obama",
+        "Live updates: Trump, Obama, Vance hit key states in midterm sprint"
+      ]
+    },
+    {
+      "topic": "google",
+      "count": 2,
+      "score": 90.0,
+      "sample_titles": [
+        "Uma técnica de 5 minutos do Google transforma líderes procrastinadores em produtivos",
+        "Ex-Google CEO: China is 6 months behind US on AI and has 'infinite energy'"
+      ]
+    },
+    {
+      "topic": "local",
+      "count": 2,
+      "score": 80.0,
+      "sample_titles": [
+        "Dona de jatinho usado por Flávio Bolsonaro em fuga é investigada por suposto esquema de propina envolvendo irmã de Javier Milei, diz imprensa local",
+        "Partnerships between ICE and local police surge, report finds"
       ]
     }
   ],
   "cross_platform": [
-    {
-      "topic": "dólar",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 70.0,
-      "sample_titles": [
-        "Ibovespa passa a cair, com pós-eleições e à espera do Fed; dólar recua a R$ 5,30",
-        "Por que a Vale ficou fora das apostas pós-eleição do UBS, mesmo com o dólar em alta",
-        "Suzano (SUZB3) sobe com dólar alto, mas o que esperar das ações daqui para frente?",
-        "Suzano (SUZB3) ou Klabin (KLBN11): qual ação pode ganhar mais com dólar em alta?",
-        "dólar hoje"
-      ]
-    },
-    {
-      "topic": "super",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 60.1,
-      "sample_titles": [
-        "THE TERMINAL LIST, DRAGON BALL SUPER BEERUS, NOVO TRAILER DE VINGADORES | ESQUADRÃO NERDOLA #216",
-        "Jay-Z vai comandar show do Super Bowl 2027 após anos escolhendo as atrações",
-        "Discursive Verses: Jay-Z, the Super Bowl and playing with house money"
-      ]
-    },
-    {
-      "topic": "start",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 55.0,
-      "sample_titles": [
-        "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-        "start a business USA"
-      ]
-    },
-    {
-      "topic": "terça",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 50.06,
-      "sample_titles": [
-        "Terça Feira 27 de Outubro - Izael Lopes | Bom dia Deus 🙏🏻",
-        "Período de restrição à prisão de eleitores termina nesta terça (27)"
-      ]
-    },
-    {
-      "topic": "brasil",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 50.05,
-      "sample_titles": [
-        "Quero Mergulhar | Ir Kelly Patrícia no Misericórdia Brasil - Instituto Hesed",
-        "El Niño pode provocar perdas de R$ 33 bilhões na safra de soja do Brasil; entenda os riscos",
-        "Xi Jinping, da China, parabeniza Lula por reeleição e fala em 'relação mais proeminente' com Brasil",
-        "Dia dos Solteiros já supera Black Friday no mundo, e AliExpress agora mira o Brasil",
-        "Tim Brasil será usado de maneira tática nos próximos meses, diz CEO da Poste"
-      ]
-    },
     {
       "topic": "imposto",
       "platforms": [
@@ -703,23 +597,11 @@
         "google_trends"
       ],
       "count": 2,
-      "score": 45.0,
+      "score": 63.33,
       "sample_titles": [
-        "'Imposto do pecado': governo deve enviar regras ao Congresso nesta semana, diz Durigan",
+        "Reforma tributária: TCU propôs alíquota de 11,3% para o imposto federal sobre consumo; veja o que muda para empresas em 2027",
+        "TCU propõe alíquota de 11,3% para o futuro imposto sobre consumo do governo federal em 2027; Senado tem que aprovar valor",
         "imposto nos EUA"
-      ]
-    },
-    {
-      "topic": "imigração",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 45.0,
-      "sample_titles": [
-        "Controle de imigração da Argentina diz que não tem registro da entrada de Flávio Bolsonaro no país",
-        "imigração EUA"
       ]
     },
     {
@@ -729,14 +611,69 @@
         "google_trends"
       ],
       "count": 2,
-      "score": 45.0,
+      "score": 63.33,
       "sample_titles": [
-        "Santander coloca à leilão 200 imóveis em 22 estados com descontos de até 80%",
+        "Flávio Bolsonaro chega aos Estados Unidos",
+        "Estados aprovam aumento do ICMS sobre gasolina, diesel e gás de cozinha",
         "vida nos Estados Unidos"
       ]
     },
     {
-      "topic": "ganhar",
+      "topic": "empresa",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 56.67,
+      "sample_titles": [
+        "Dropbox anuncia demissões em todo o mundo; diretor de tecnologia também deixará a empresa",
+        "Ela foi a primeira funcionária e hoje é CEO de uma empresa de US$ 1 bi: ‘Você vai errar’",
+        "abrir empresa nos EUA"
+      ]
+    },
+    {
+      "topic": "custa",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "Apple lança seu primeiro notebook com tela sensível ao toque; versão mais cara custa R$ 180 mil",
+        "quanto custa viajar para os EUA"
+      ]
+    },
+    {
+      "topic": "custo",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "Paris tenta apagar da paisagem seu prédio mais odiado, mas enfrenta impasse: o custo",
+        "custo de vida EUA"
+      ]
+    },
+    {
+      "topic": "vídeo",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 53.45,
+      "sample_titles": [
+        "Marília Mendonça - DVD \"Realidade (Ao Vivo Em Manaus)\" Completo (Vídeo Oficial)",
+        "VÍDEO mostra momento em que Flávio Bolsonaro e família desembarcam nos EUA",
+        "VÍDEO: imagens aéreas mostram dimensão do acidente com trens na Espanha"
+      ]
+    },
+    {
+      "topic": "unidos",
       "platforms": [
         "news",
         "google_trends"
@@ -744,12 +681,12 @@
       "count": 2,
       "score": 45.0,
       "sample_titles": [
-        "Suzano (SUZB3) ou Klabin (KLBN11): qual ação pode ganhar mais com dólar em alta?",
-        "como ganhar dinheiro online"
+        "Flávio Bolsonaro chega aos Estados Unidos",
+        "vida nos Estados Unidos"
       ]
     },
     {
-      "topic": "green",
+      "topic": "estados unidos",
       "platforms": [
         "news",
         "google_trends"
@@ -757,47 +694,34 @@
       "count": 2,
       "score": 45.0,
       "sample_titles": [
-        "A 'Green Army' is out to thwart El Niño flooding",
-        "green card"
+        "Flávio Bolsonaro chega aos Estados Unidos",
+        "vida nos Estados Unidos"
       ]
     },
     {
-      "topic": "vitória lula",
+      "topic": "dólar",
       "platforms": [
-        "youtube",
-        "news"
+        "news",
+        "google_trends"
       ],
       "count": 2,
-      "score": 40.84,
+      "score": 45.0,
       "sample_titles": [
-        "LULA É 13 NA CABEÇA VITÓRIA DE LULA",
-        "Governo Milei diz que não comentará vitória de Lula"
+        "Ibovespa em dólar tem 5ª maior queda diária da história após eleição, aponta estudo",
+        "dólar hoje"
       ]
     },
     {
-      "topic": "detalhes",
+      "topic": "start",
       "platforms": [
-        "youtube",
-        "news"
+        "news",
+        "google_trends"
       ],
       "count": 2,
-      "score": 40.18,
+      "score": 25.0,
       "sample_titles": [
-        "EXPLICADO! VINGADORES DOOMSDAY NOVO TEASER (DETALHES + REFERÊNCIAS + EASTER EGGS)",
-        "'Duna: Parte Três' revela novos detalhes do confronto de Paul Atreides; assista ao novo trailer"
-      ]
-    },
-    {
-      "topic": "novo trailer",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 40.15,
-      "sample_titles": [
-        "THE TERMINAL LIST, DRAGON BALL SUPER BEERUS, NOVO TRAILER DE VINGADORES | ESQUADRÃO NERDOLA #216",
-        "'Duna: Parte Três' revela novos detalhes do confronto de Paul Atreides; assista ao novo trailer"
+        "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
+        "start a business USA"
       ]
     },
     {
@@ -807,179 +731,236 @@
         "news"
       ],
       "count": 2,
-      "score": 37.22,
+      "score": 15.68,
       "sample_titles": [
         "LULA É 13 NA CABEÇA VITÓRIA DE LULA",
-        "Governo Milei diz que não comentará vitória de Lula",
-        "Uma vitória construída a milhões de mãos"
+        "Governo contabiliza 45 casos de violência política com 10 mortos desde a vitória de Lula"
       ]
     },
     {
-      "topic": "trabalho",
+      "topic": "vitória lula",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 15.68,
+      "sample_titles": [
+        "LULA É 13 NA CABEÇA VITÓRIA DE LULA",
+        "Governo contabiliza 45 casos de violência política com 10 mortos desde a vitória de Lula"
+      ]
+    },
+    {
+      "topic": "viral",
       "platforms": [
         "news",
         "google_trends"
       ],
       "count": 2,
-      "score": 35.0,
+      "score": 15.0,
       "sample_titles": [
-        "Denúncias de assédio eleitoral no trabalho mais que dobram em outubro; veja como denunciar",
-        "trabalho home office"
+        "A consultant is going viral for exposing the cringe-worthy DMs bosses send employees",
+        "viral trends"
+      ]
+    },
+    {
+      "topic": "dentro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 10.37,
+      "sample_titles": [
+        "EU INSTALEI FNAF DENTRO DE POPPY PLAYTIME E FICOU...",
+        "Jacaré de 2 metros é resgatado dentro do campus do Ifap em Macapá; é o 2º animal em 17 dias"
+      ]
+    },
+    {
+      "topic": "pereira",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 10.04,
+      "sample_titles": [
+        "ALTOS FLASHBACK, MÓ SAUDADE NÉ - Netto Brito e Luan Pereira",
+        "Justiça determina o afastamento de Sydnei Pereira da Prefeitura de Anajatuba"
       ]
     }
   ],
   "niche_ideas": [
     {
-      "main_topic": "dólar",
-      "subtopic": "Impacto do dólar alto na vida dos brasileiros nos EUA",
-      "why_trending": "O dólar está em alta, impactando a economia e as finanças pessoais. Recentemente, recuou a R$ 5,30, mas ainda assim afeta investimentos e custos.",
-      "niche_angle": "Explorar como a variação do dólar impacta a vida financeira dos brasileiros imigrantes, desde remessas até investimentos.",
+      "main_topic": "imposto",
+      "subtopic": "Mudanças na reforma tributária e seu impacto nos negócios",
+      "why_trending": "O TCU propôs uma nova alíquota de imposto federal sobre consumo que pode afetar empresas em 2027. Isso é relevante, pois mudanças fiscais impactam diretamente os custos operacionais.",
+      "niche_angle": "Explorar como essa reforma tributária pode afetar os brasileiros que têm ou planejam abrir empresas nos EUA, comparando com o sistema tributário americano.",
       "video_format": "long",
       "urgency": "high",
-      "ease": 5,
+      "ease": 7,
       "source": "G1 Economia",
-      "region": "GLOBAL",
+      "region": "BR",
       "links": [
-        "https://g1.globo.com/economia/noticia/2026/10/27/dolar-ibovespa.ghtml"
+        "https://g1.globo.com/economia/noticia/2026/10/28/reforma-tributaria-tcu-propos-aliquota-de-113percent-para-o-imposto-federal-sobre-consumo-veja-o-que-muda-para-empresas-em-2027.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-10-27T17:38:00.376291"
+      "collected_at": "2026-10-28T18:00:10.312779"
     },
     {
-      "main_topic": "imigração",
-      "subtopic": "Mudanças nas leis de imigração nos EUA",
-      "why_trending": "As discussões sobre imigração estão em alta, especialmente com as recentes reformas e políticas de controle de imigração.",
-      "niche_angle": "Analisar como as novas políticas de imigração nos EUA afetam os brasileiros que desejam ou já vivem aqui.",
-      "video_format": "both",
+      "main_topic": "empresa",
+      "subtopic": "Demissões em empresas e o que isso significa para o mercado",
+      "why_trending": "O Dropbox anunciou demissões em todo o mundo, refletindo um cenário econômico desafiador que pode influenciar o mercado de trabalho.",
+      "niche_angle": "Analisar como essas demissões podem impactar brasileiros que trabalham em tecnologia nos EUA e quais oportunidades podem surgir neste cenário.",
+      "video_format": "long",
       "urgency": "high",
       "ease": 6,
-      "source": "news",
+      "source": "G1 Economia",
       "region": "US",
       "links": [
-        "https://g1.globo.com/mundo/noticia/2026/10/27/controle-de-imigracao-da-argentina-diz-que-nao-tem-registro-da-entrada-de-flavio-bolsonaro-no-pais.ghtml"
+        "https://g1.globo.com/tecnologia/noticia/2026/10/28/dropbox-anuncia-demissoes-em-todo-o-mundo-diretor-de-tecnologia-tambem-deixara-a-empresa.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-10-27T17:38:00.376302"
+      "collected_at": "2026-10-28T18:00:10.312797"
     },
     {
-      "main_topic": "imposto",
-      "subtopic": "Impostos nos EUA: o que os brasileiros precisam saber",
-      "why_trending": "Discussões sobre novos impostos estão em alta, com propostas como o 'imposto do pecado' ganhando atenção.",
-      "niche_angle": "Educar brasileiros sobre como os impostos nos EUA funcionam, comparando com o Brasil e o que podem esperar.",
+      "main_topic": "custo",
+      "subtopic": "Custo de vida nos EUA e comparação com o Brasil",
+      "why_trending": "A alta inflação e mudanças econômicas estão elevando o custo de vida nos EUA, o que preocupa muitos imigrantes.",
+      "niche_angle": "Fazer uma comparação detalhada dos custos de vida em diferentes estados dos EUA em relação ao Brasil, ajudando brasileiros a planejarem melhor suas finanças.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 8,
+      "source": "InfoMoney",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/economia/guerra-e-el-nino-devem-elevar-precos-de-commodities-em-23-no-ano-diz-banco-mundial/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-28T18:00:10.312804"
+    },
+    {
+      "main_topic": "custa",
+      "subtopic": "Quanto custa morar e estudar nos EUA?",
+      "why_trending": "A demanda por informações sobre custos de vida e educação nos EUA está crescendo entre os brasileiros que planejam se mudar.",
+      "niche_angle": "Criar um vídeo detalhando os principais custos que brasileiros enfrentam ao se mudarem para os EUA, incluindo matrícula escolar e custos de moradia.",
       "video_format": "long",
       "urgency": "medium",
       "ease": 7,
       "source": "G1 Economia",
       "region": "US",
       "links": [
-        "https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-diz-que-deve-enviar-nesta-semana-projeto-do-imposto-do-pecado.ghtml"
+        "https://g1.globo.com/economia/noticia/2026/10/28/quanto-custa-para-viver-nos-eua.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-10-27T17:38:00.376313"
+      "collected_at": "2026-10-28T18:00:10.312810"
     },
     {
-      "main_topic": "ganhar",
-      "subtopic": "Como ganhar dinheiro online nos EUA",
-      "why_trending": "A busca por formas de renda extra e trabalho remoto está crescendo, especialmente entre imigrantes.",
-      "niche_angle": "Explorar oportunidades de ganhar dinheiro online nos EUA, focando em freelancers e empreendedores brasileiros.",
+      "main_topic": "dólar",
+      "subtopic": "Impacto das flutuações do dólar na vida do imigrante",
+      "why_trending": "As recentes flutuações no dólar estão afetando diretamente os brasileiros que vivem ou fazem negócios nos EUA.",
+      "niche_angle": "Discutir como a variação do dólar pode impactar os brasileiros, desde remessas até compras e investimentos.",
       "video_format": "both",
-      "urgency": "medium",
-      "ease": 6,
-      "source": "news",
-      "region": "US",
-      "links": [
-        "https://g1.globo.com/economia/noticia/2026/10/27/como-ganhar-dinheiro-online.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-27T17:38:00.376318"
-    },
-    {
-      "main_topic": "economia",
-      "subtopic": "Impacto do El Niño na economia e no custo de vida",
-      "why_trending": "O fenômeno El Niño pode causar perdas significativas na agricultura, afetando a economia e o custo de vida.",
-      "niche_angle": "Analisar como o El Niño pode impactar o custo de vida e o mercado de trabalho nos EUA, especialmente para brasileiros.",
-      "video_format": "long",
       "urgency": "medium",
       "ease": 5,
       "source": "G1 Economia",
-      "region": "GLOBAL",
+      "region": "US",
       "links": [
-        "https://g1.globo.com/economia/agronegocios/noticia/2026/10/27/el-nino-pode-reduzir-safra-de-soja-do-brasil-em-10percent-projeta-serasa.ghtml"
+        "https://g1.globo.com/economia/noticia/2026/10/28/dolar-hoje.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-10-27T17:38:00.376323"
+      "collected_at": "2026-10-28T18:00:10.312817"
     },
     {
       "main_topic": "start",
-      "subtopic": "Como abrir um negócio nos EUA como brasileiro",
-      "why_trending": "A criação de negócios nos EUA está em alta, com muitos brasileiros buscando empreender.",
-      "niche_angle": "Fornecer um guia prático para brasileiros que desejam abrir negócios nos EUA, incluindo burocracia e oportunidades.",
-      "video_format": "both",
-      "urgency": "medium",
-      "ease": 7,
-      "source": "news",
-      "region": "US",
-      "links": [
-        "https://g1.globo.com/mundo/noticia/2026/10/27/start-a-business-usa.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-27T17:38:00.376341"
-    },
-    {
-      "main_topic": "brasil",
-      "subtopic": "Impacto das eleições brasileiras para imigrantes",
-      "why_trending": "As eleições no Brasil estão afetando a percepção internacional e a economia brasileira.",
-      "niche_angle": "Discutir como os resultados das eleições brasileiras impactam os brasileiros que vivem nos EUA, especialmente em relação a remessas.",
+      "subtopic": "Como começar um negócio nos EUA?",
+      "why_trending": "Novas oportunidades de negócios surgem com as mudanças econômicas e demissões em grandes empresas.",
+      "niche_angle": "Oferecer um guia prático sobre como abrir um negócio nos EUA, aproveitando o cenário atual de demissões e incertezas no mercado.",
       "video_format": "long",
       "urgency": "medium",
       "ease": 6,
-      "source": "news",
-      "region": "GLOBAL",
+      "source": "G1 Economia",
+      "region": "US",
       "links": [
-        "https://g1.globo.com/mundo/noticia/2026/10/27/governo-milei-diz-que-nao-comentara-vitoria-de-lula.ghtml"
+        "https://g1.globo.com/economia/noticia/2026/10/28/como-abrir-uma-empresa-nos-eua.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-10-27T17:38:00.376346"
+      "collected_at": "2026-10-28T18:00:10.312823"
     },
     {
-      "main_topic": "super",
-      "subtopic": "Super Bowl 2027: o que esperar e como assistir",
-      "why_trending": "A expectativa em torno do Super Bowl 2027 está crescendo, com grandes eventos programados.",
-      "niche_angle": "Explorar como brasileiros podem participar ou assistir ao Super Bowl, incluindo custos e opções de entretenimento.",
-      "video_format": "both",
-      "urgency": "low",
-      "ease": 4,
-      "source": "news",
+      "main_topic": "estados",
+      "subtopic": "Como a política dos EUA afeta os imigrantes",
+      "why_trending": "Com a chegada de Flávio Bolsonaro aos EUA, há um aumento no interesse sobre como a política americana afeta a vida dos imigrantes.",
+      "niche_angle": "Explorar o impacto das políticas atuais sobre os imigrantes brasileiros nos EUA, discutindo como eventos políticos podem afetar a imigração.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "G1 Mundo",
       "region": "US",
       "links": [
-        "https://www.infomoney.com.br/esportes/jay-z-show-super-bowl-2027/"
+        "https://g1.globo.com/mundo/noticia/2026/10/28/flavio-bolsonaro-chega-aos-eua.ghtml"
       ],
       "platforms": [
         "news",
-        "youtube"
+        "google_trends"
       ],
-      "collected_at": "2026-10-27T17:38:00.376355"
+      "collected_at": "2026-10-28T18:00:10.312829"
+    },
+    {
+      "main_topic": "memes",
+      "subtopic": "Memes políticos e sua repercussão nos EUA",
+      "why_trending": "A repercussão das ações políticas gera uma onda de memes que rapidamente viralizam nas redes sociais.",
+      "niche_angle": "Criar um vídeo divertido sobre como os memes políticos estão afetando a percepção dos brasileiros sobre a política americana.",
+      "video_format": "short",
+      "urgency": "low",
+      "ease": 5,
+      "source": "G1 Mundo",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/10/28/confusao-paradeiro-de-flavio-bolsonaro.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "tiktok"
+      ],
+      "collected_at": "2026-10-28T18:00:10.312840"
+    },
+    {
+      "main_topic": "tecnologia",
+      "subtopic": "Inovações tecnológicas e seu impacto na vida cotidiana",
+      "why_trending": "A apresentação de novos gadgets e tecnologias, como notebooks com tela sensível ao toque, está em alta.",
+      "niche_angle": "Discutir como essas inovações impactam a vida dos brasileiros nos EUA, incluindo oportunidades de trabalho nas áreas de tecnologia.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 6,
+      "source": "G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/tecnologia/noticia/2026/10/28/apple-apresenta-seu-primeiro-notebook-com-tela-sensivel-ao-toque.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-28T18:00:10.312847"
     }
   ]
 }
