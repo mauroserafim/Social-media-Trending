@@ -1,0 +1,878 @@
+{
+  "generated_at": "2026-10-29T18:09:29.172402",
+  "run_id": "40927979344",
+  "summary": {
+    "total_br": 30,
+    "total_us": 25,
+    "br_us_connections": 9,
+    "cross_platform_topics": 10,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "CHASE Was LEFT ALONE on His Birthday… DON'T CRY! 😭🎂 But His Friends Had a SURPRISE! 💙 garry's mod",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=AdrETIvY7j0",
+          "score": 14.77,
+          "region": "BR",
+          "views": 1113117
+        },
+        {
+          "title": "Jumanji: Mundo Real | Novo Trailer | Dublado",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=k02hVjlAQjg",
+          "score": 3.98,
+          "region": "BR",
+          "views": 899200
+        },
+        {
+          "title": "Baby ❤️❤️ - MC Paiva (Clipe Oficial)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=mi-aoQ41K4Y",
+          "score": 2.93,
+          "region": "BR",
+          "views": 860729
+        },
+        {
+          "title": "MUNDO TORAJO em ESCONDE-ESCONDE...... MAS É ALGORITHOMUS 3!!! 🟩🟥",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=sXGxhdG-EeM",
+          "score": 2.25,
+          "region": "BR",
+          "views": 363587
+        },
+        {
+          "title": "FUI DESCANSAR NUMA CABANA E UM STALKER DECIDIU IR ATRÁS - QUEM É?",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=ifiDfpXMKE0",
+          "score": 2.08,
+          "region": "BR",
+          "views": 443262
+        },
+        {
+          "title": "OZZY OSBOURNE - \"Mr Crowley\" Live from Back to the Beginning",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=UzIv-eIF6HE",
+          "score": 1.96,
+          "region": "BR",
+          "views": 417416
+        },
+        {
+          "title": "Duna: Parte Três l Trailer Final",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=vRq6txB8Ifo",
+          "score": 1.81,
+          "region": "BR",
+          "views": 604165
+        },
+        {
+          "title": "XLOV 엑스러브 ‘Hush’ Dance Practice",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=hfDrBfGmzqo",
+          "score": 1.4,
+          "region": "BR",
+          "views": 117256
+        },
+        {
+          "title": "O RACHADINHA FUGIU (CLIPE OFICIAL) FORRÓ 100 PRECONCEITO 2026",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=j4Q2AUK_s6A",
+          "score": 0.79,
+          "region": "BR",
+          "views": 137703
+        },
+        {
+          "title": "Tempo Perdido",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=M4uG1MmZVl0",
+          "score": 0.54,
+          "region": "BR",
+          "views": 125039
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Exportações beneficiadas por acordo com a União Europeia crescem 21% em cinco meses; mel e abacate são destaques",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/29/exportacoes-beneficiadas-por-acordo-com-a-uniao-europeia-crescem-21percent-em-cinco-meses-mel-e-abacate-sao-destaques.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Déficit das estatais federais sobe para R$ 8,5 bilhões até setembro e bate novo recorde",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/10/29/deficit-das-estatais-federais-sobe-para-r-85-bilhoes-ate-setembro-e-bate-novo-recorde.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Eleições nos EUA: grupo de produtores rurais financia campanha contra republicanos",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/29/eleicoes-nos-eua-grupo-de-produtores-rurais-financia-campanha-contra-republicanos.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Contas públicas têm déficit de R$ 5,5 bilhões em setembro; dívida soma 82,9% do PIB, maior nível em cinco anos e meio",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/10/29/contas-publicas-tem-deficit-de-r-55-bilhoes-em-setembro-divida-segue-em-829percent-do-pib-maior-nivel-desde-2021.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Eleições nos EUA 2026: acompanhe as últimas notícias sobre as midterms",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/ao-vivo/eleicoes-nos-eua-2026-acompanhe-as-ultimas-noticias-sobre-as-midterms.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Vale divulga balanço do 3º trimestre de 2026; acompanhe ao vivo",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/vale-vale3-balanco-3t26/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Taxas do Tesouro aceleram ao maior nível desde o pós-eleição, com exterior e fiscal",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-29102026/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ações de varejo desabam após as eleições – queda abriu oportunidades na Bolsa?",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/acoes-de-varejo-desabam-apos-as-eleicoes-queda-abriu-oportunidades-na-bolsa/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Inadimplência e endividamento das famílias são recorde em setembro, informa Banco Central",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/10/29/inadimplencia-e-endividamento-das-familias-sao-recorde-em-setembro-informa-banco-central.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "'Em dois anos, toda a indústria será robôs': marcas de roupa querem substituir modelos por imagens de IA",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/10/29/em-dois-anos-toda-a-industria-sera-robos-marcas-de-roupa-querem-substituir-modelos-por-imagens-de-ia.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "JUMANJI: OPEN WORLD - New Trailer (4K)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=nIw1O3zvOfE",
+          "score": 35.06,
+          "region": "US",
+          "views": 7909722
+        },
+        {
+          "title": "XLOV 'Hush' MV",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=ae9Xvl-eln8",
+          "score": 3.71,
+          "region": "US",
+          "views": 924279
+        },
+        {
+          "title": "GIRLSET Mean Girls Special Halloween Video",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=eVHHc4_bqM0",
+          "score": 2.14,
+          "region": "US",
+          "views": 328481
+        },
+        {
+          "title": "Winnie The Pooh 3 Trailer, Ghost Rider Update, Smile 3 & MORE!!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=td6pEXs2YRE",
+          "score": 0.92,
+          "region": "US",
+          "views": 124840
+        },
+        {
+          "title": "El Piloto y Su Estilo - San Judas Tadeo (Video Oficial)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=vIlB8h93eIw",
+          "score": 0.48,
+          "region": "US",
+          "views": 228579
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "Even birds get jet lagged, study shows",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Fishing is a key issue in Alaska's tight U.S. Senate race",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/29/nx-s1-6018248/fishing-is-a-key-issue-in-alaskas-tight-u-s-senate-race",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "After losing his majority, Netanyahu tries to delegitimize election results",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/10/29/netanyahu-election-likud-delegitimize-results",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Make some medications more affordable by cutting one piece of red tape",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/healthcare/6180216-lower-biologic-drug-prices/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump blasts Democrats over Hegseth impeachment chatter",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6181651-trump-blasts-democrats-hegseth-impeachment/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Newsom warns Trump as California deploys election lawyers to battleground districts",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/state-watch/6181622-newsom-trump-california-election-observers-battleground-districts/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Who benefits when massive AI data centers come to town?",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 8,
+      "score": 80.0,
+      "sample_titles": [
+        "Governo Trump aponta plano de espionagem chinês contra CEO da Nvidia, diz jornal",
+        "Trump diz que não tomou partido nas eleições no Brasil a pedido de Lula",
+        "Trump diz que conversará com Lula e que petista pediu para não interferir na disputa",
+        "Support for Trump among white evangelicals has plummeted, polls reveal",
+        "Trump accuses Dems of perjury in Dan Sullivan race, governor orders probe"
+      ]
+    },
+    {
+      "topic": "oficial",
+      "count": 6,
+      "score": 0.97,
+      "sample_titles": [
+        "Jorge Ben Jor - Me Chamando de Paixão (Sonsual) (Áudio Oficial)",
+        "Orgulho e Preconceito | Trailer oficial | Netflix",
+        "Baby ❤️❤️ - MC Paiva (Clipe Oficial)",
+        "El Piloto y Su Estilo - San Judas Tadeo (Video Oficial)"
+      ]
+    },
+    {
+      "topic": "trailer",
+      "count": 5,
+      "score": 8.43,
+      "sample_titles": [
+        "Jumanji: Mundo Real | Novo Trailer | Dublado",
+        "Orgulho e Preconceito | Trailer oficial | Netflix",
+        "Duna: Parte Três l Trailer Final",
+        "JUMANJI: OPEN WORLD - New Trailer (4K)",
+        "Winnie The Pooh 3 Trailer, Ghost Rider Update, Smile 3 & MORE!!"
+      ]
+    },
+    {
+      "topic": "israel",
+      "count": 4,
+      "score": 60.0,
+      "sample_titles": [
+        "Por que as eleições nos EUA e em Israel têm consequências globais",
+        "Eleição em Israel tem impasse sobre maioria — 4 cenários possíveis para o futuro do país",
+        "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+        "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone"
+      ]
+    },
+    {
+      "topic": "midterms",
+      "count": 3,
+      "score": 73.33,
+      "sample_titles": [
+        "Eleições nos EUA 2026: acompanhe as últimas notícias sobre as midterms",
+        "With days to go before the midterms, data shows the U.S. economy is doing well",
+        "Iran pressed to make nuke concessions as massive post-midterms strikes loom"
+      ]
+    },
+    {
+      "topic": "china",
+      "count": 2,
+      "score": 80.0,
+      "sample_titles": [
+        "Tensões entre Filipinas e China ressurgem em reunião de defesa da Asean",
+        "China elevates a military general to the Politburo and seeks to strengthen party discipline"
+      ]
+    },
+    {
+      "topic": "diesel",
+      "count": 2,
+      "score": 70.0,
+      "sample_titles": [
+        "Gasolina, diesel e gás de cozinha mais caro em 2027; veja qual será a alta e impacto no IPCA",
+        "Tariffs, diesel and computer chips are driving up costs for automakers"
+      ]
+    },
+    {
+      "topic": "jumanji",
+      "count": 2,
+      "score": 19.52,
+      "sample_titles": [
+        "Jumanji: Mundo Real | Novo Trailer | Dublado",
+        "JUMANJI: OPEN WORLD - New Trailer (4K)"
+      ]
+    },
+    {
+      "topic": "online",
+      "count": 2,
+      "score": 10.0,
+      "sample_titles": [
+        "como ganhar dinheiro online",
+        "how to learn online"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "trabalho",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Governo anuncia medidas contra assédio eleitoral no trabalho",
+        "trabalho home office"
+      ]
+    },
+    {
+      "topic": "dinheiro",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Operação que apura lavagem de dinheiro mira endereços ligados ao pastor Márcio Poncio",
+        "como ganhar dinheiro online"
+      ]
+    },
+    {
+      "topic": "dólar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Dólar forte após eleição coloca exportadoras no radar: quais são as ações preferidas?",
+        "dólar hoje"
+      ]
+    },
+    {
+      "topic": "bolsonaro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.23,
+      "sample_titles": [
+        "AO VIVO! BOLSONARO CAPTURADO?",
+        "Deputado italiano pede investigação sobre processo de cidadania dos irmãos Bolsonaro"
+      ]
+    },
+    {
+      "topic": "paixão",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.05,
+      "sample_titles": [
+        "Jorge Ben Jor - Me Chamando de Paixão (Sonsual) (Áudio Oficial)",
+        "'A Paixão de Cristo' retorna aos cinemas em dezembro com versão em 4K"
+      ]
+    },
+    {
+      "topic": "business",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Business as a liberal art? Some high schools say yes",
+        "start a business USA"
+      ]
+    },
+    {
+      "topic": "inflation",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "Fed holds interest rates steady even as inflation remains stubborn",
+        "inflation"
+      ]
+    },
+    {
+      "topic": "renda",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 20.0,
+      "sample_titles": [
+        "Mãe de Deolane movimentou R$ 7 mi e comprou Land Rover com renda mensal de R$ 800, diz Coaf",
+        "renda extra"
+      ]
+    },
+    {
+      "topic": "quando",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 15.12,
+      "sample_titles": [
+        "QUANDO CÊ VOLTA | MC GP, MC PAIVA, KAYBLACK, AARON MODESTO | WEY | PEDRO LOTTO |",
+        "Presidente do Parlamento diz que só será possível avançar quando as sete condições do Irã forem atendidas"
+      ]
+    },
+    {
+      "topic": "maria",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 10.06,
+      "sample_titles": [
+        "Inevitável - Guilherme de Sá feat. Irmã Maria Joana",
+        "Michele Maycoth interpreta sucessos de Maria Gadú em noite romântica no AP"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "trabalho",
+      "subtopic": "home office nos EUA: oportunidades e desafios",
+      "why_trending": "Com o aumento do trabalho remoto, muitas empresas estão ajustando suas políticas. Além disso, as novas regulamentações sobre assédio eleitoral impactam o ambiente de trabalho.",
+      "niche_angle": "Explorar como brasileiros nos EUA estão lidando com o trabalho remoto e as novas leis que afetam a dinâmica do home office.",
+      "video_format": "both",
+      "urgency": "high",
+      "ease": 7,
+      "source": "news",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "youtube",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-29T18:09:29.168844"
+    },
+    {
+      "main_topic": "dinheiro",
+      "subtopic": "como ganhar dinheiro online nos EUA",
+      "why_trending": "A busca por renda extra e oportunidades online está crescendo, especialmente após a pandemia, levando muitos a procurar alternativas para aumentar sua renda.",
+      "niche_angle": "Oferecer dicas práticas e métodos para brasileiros que vivem nos EUA, mostrando plataformas e estratégias que realmente funcionam.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "google_trends",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "youtube",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-29T18:09:29.168855"
+    },
+    {
+      "main_topic": "dólar",
+      "subtopic": "impactos do dólar forte nas finanças dos imigrantes",
+      "why_trending": "Com o dólar valorizado, muitos brasileiros estão sentindo o impacto na remessa de dinheiro e nos custos de vida nos EUA.",
+      "niche_angle": "Discutir como o valor do dólar afeta o orçamento familiar dos brasileiros nos EUA, incluindo dicas sobre como se proteger financeiramente.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-29T18:09:29.168860"
+    },
+    {
+      "main_topic": "economia",
+      "subtopic": "como a inflação nos EUA afeta os brasileiros",
+      "why_trending": "A inflação nos EUA tem aumentado, afetando preços de bens essenciais e o custo de vida.",
+      "niche_angle": "Analisar como a inflação impacta os brasileiros, abordando estratégias para gerenciar finanças pessoais em tempos de alta inflação.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "news",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "youtube",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-29T18:09:29.168865"
+    },
+    {
+      "main_topic": "business",
+      "subtopic": "abrindo um negócio nos EUA: o que você precisa saber",
+      "why_trending": "Com a recuperação econômica, muitos brasileiros estão procurando abrir seus próprios negócios nos EUA.",
+      "niche_angle": "Fornecer um guia prático sobre os passos e desafios para brasileiros que desejam empreender nos EUA, incluindo informações legais e financeiras.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "youtube",
+        "google_trends"
+      ],
+      "collected_at": "2026-10-29T18:09:29.168872"
+    },
+    {
+      "main_topic": "direito & legal",
+      "subtopic": "novas leis de imigração e seu impacto nos brasileiros",
+      "why_trending": "Mudanças nas leis de imigração estão sendo discutidas nos EUA, afetando muitos imigrantes, incluindo brasileiros.",
+      "niche_angle": "Explicar como as novas leis impactam a comunidade brasileira, incluindo direitos e deveres dos imigrantes.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-29T18:09:29.168877"
+    },
+    {
+      "main_topic": "entretenimento",
+      "subtopic": "memes sobre a vida de imigrantes nos EUA",
+      "why_trending": "Os memes sobre a vida de imigrantes estão se tornando cada vez mais populares nas redes sociais.",
+      "niche_angle": "Criar uma compilação de memes que retratam a experiência dos brasileiros nos EUA, trazendo humor e identificação.",
+      "video_format": "short",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "tiktok",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "tiktok",
+        "youtube"
+      ],
+      "collected_at": "2026-10-29T18:09:29.168883"
+    },
+    {
+      "main_topic": "viagem",
+      "subtopic": "quanto custa viver e viajar nos EUA",
+      "why_trending": "Com a alta dos custos de vida, muitos brasileiros estão se perguntando sobre o custo de viver e viajar nos EUA.",
+      "niche_angle": "Comparar custos de vida e viagem em diferentes estados dos EUA, ajudando brasileiros a planejar melhor suas finanças.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-29T18:09:29.168893"
+    },
+    {
+      "main_topic": "tecnologia",
+      "subtopic": "como a IA está mudando o mercado de trabalho",
+      "why_trending": "A tecnologia de IA está em alta, com muitas empresas buscando automação e eficiência.",
+      "niche_angle": "Explorar como brasileiros nos EUA podem se adaptar a essas mudanças e quais habilidades são necessárias para o futuro do trabalho.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-29T18:09:29.168899"
+    }
+  ]
+}
