@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-30T17:48:36.164773",
-  "run_id": "41101560410",
+  "generated_at": "2026-10-31T16:57:23.778597",
+  "run_id": "41222081727",
   "summary": {
     "total_br": 30,
-    "total_us": 26,
-    "br_us_connections": 8,
-    "cross_platform_topics": 14,
+    "total_us": 21,
+    "br_us_connections": 7,
+    "cross_platform_topics": 11,
     "niche_ideas": 9
   },
   "sections_br": [
@@ -15,84 +15,84 @@
       "label": "YouTube (BR)",
       "trends": [
         {
-          "title": "JISOO - ADDICTED (Official MV)",
+          "title": "OH MY GOD! CHASE is SERIOUSLY INJURED! PAW PATROL, SAVE HIM! | PAW PATROL in garry's mod",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=Pksr9T8m_aA",
-          "score": 47.0,
+          "url": "https://youtube.com/watch?v=yLp-82cd29s",
+          "score": 17.65,
           "region": "BR",
-          "views": 7436489
-        },
-        {
-          "title": "skibidi toilet 83 (part 1)",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=m4n2XDiIz-M",
-          "score": 39.62,
-          "region": "BR",
-          "views": 1632392
+          "views": 1068066
         },
         {
           "title": "MILKSHAKE - EMILLY VICK E VOID (clipe oficial)",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=XMPVhbO2YaE",
-          "score": 10.75,
+          "score": 10.04,
           "region": "BR",
-          "views": 2272448
+          "views": 3344614
         },
         {
-          "title": "Annoying Uncle,Save Prisoner,Hide Ball,Relaxing Puzzle,Draw To Smash,Number Master,Going Balls ",
+          "title": "Hugo e Guilherme - Meu Celular Te Ama | Colecionando Momentos 💠",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=_ClHMliGnkQ",
-          "score": 3.76,
+          "url": "https://youtube.com/watch?v=d-dWkPaCUuk",
+          "score": 1.82,
           "region": "BR",
-          "views": 206331
+          "views": 373918
         },
         {
-          "title": "VIREI COSTUREIRA E QUE JOGO MARAVILHOSO! Dressmaker",
+          "title": "Eduardo Costa – Passou (Ao Vivo) | Eduardo Costa do Velho Testamento",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=jzjVWZfjDh8",
-          "score": 2.36,
+          "url": "https://youtube.com/watch?v=ERFlRnHk9P8",
+          "score": 1.46,
           "region": "BR",
-          "views": 498041
+          "views": 301584
         },
         {
-          "title": "...Baby One More Time",
+          "title": "🎃CHEGOU A NOVA ATUALIZAÇÃO DE HALLOWEEN NO BLOX FRUITS AO VIVO!",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=HwAmG_iZ3cY",
-          "score": 1.11,
+          "url": "https://youtube.com/watch?v=C5soJcR0HRs",
+          "score": 1.2,
           "region": "BR",
-          "views": 254686
+          "views": 46122
         },
         {
-          "title": "Dance Se Souber Musicas Atualizadas ~ 2026 {tiktok}🎶💜",
+          "title": "Quasímodo: A Alma de Paris | Trailer oficial | Netflix",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=0BKYenNJmFw",
-          "score": 0.56,
+          "url": "https://youtube.com/watch?v=ybAyHq1-EtY",
+          "score": 0.83,
           "region": "BR",
-          "views": 120804
+          "views": 166172
         },
         {
-          "title": "MC's Lele JP, Meno K, Ryan SP, Aaron Modesto & Nego Trufa - O Amor Me Rejeitou (DJ Gordinho Da VF)",
+          "title": "Israel & Rodolffo - Conto de Fadas",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=OCq91MSkD7s",
-          "score": 0.55,
+          "url": "https://youtube.com/watch?v=C51rj1HJmpU",
+          "score": 0.75,
           "region": "BR",
-          "views": 87551
+          "views": 154801
         },
         {
-          "title": "Geme Baixo - MC Jvila, Menor MC e G.A (DJ Dael, DJ Galdino, Honaiser e DJ João Pereira)",
+          "title": "Tu me Bastas | Ir Kelly Patrícia na Festa de São Miguel - Instituto Hesed",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=Y4nJWY4FXd0",
-          "score": 0.41,
+          "url": "https://youtube.com/watch?v=g3Oiexvd53Y",
+          "score": 0.58,
           "region": "BR",
-          "views": 71715
+          "views": 41408
         },
         {
-          "title": "ANALISANDO *TODOS* OS TRAILERS DA 7 TEMPORADA DE MIRACULOUS! (não, não estou pronta)",
+          "title": "Xand Avião e Léo Foguete - Conexão | A Mais Amada do Brasil",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=nG7p6rTw8WQ",
-          "score": 0.16,
+          "url": "https://youtube.com/watch?v=d6E_qh4nh_g",
+          "score": 0.47,
           "region": "BR",
-          "views": 33965
+          "views": 153163
+        },
+        {
+          "title": "ISSO É LOUCURA OU GENIAL! O PROBLEMA do TRAILER HOMEM do AMANHÃ - JAMES GUNN LOUCO?",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=VRhlsMsJguY",
+          "score": 0.38,
+          "region": "BR",
+          "views": 24353
         }
       ]
     },
@@ -102,82 +102,82 @@
       "label": "Notícias (BR)",
       "trends": [
         {
-          "title": "Após ataque hacker bilionário, Binance diz que investimentos de brasileiros estão seguros",
+          "title": "Simone Tebet estaria entre nomes considerados por Lula para o STF, diz colunista",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/simone-tebet-estaria-entre-nomes-considerados-por-lula-para-o-stf-diz-colunista/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Binance repõe 90% após hack de US$ 6,3 bi e prevê saques no domingo",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/onde-investir/binance-repoe-90-ativos-hack-us-63-bi-saques/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Binance diz ter coberto 90% das perdas após ataque hacker de mais de US$ 6 bilhões",
           "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/apos-ataque-hacker-bilionario-binance-diz-que-investimentos-de-brasileiros-estao-seguros.ghtml",
-          "score": 100.0,
+          "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/31/binance-diz-ter-coberto-90percent-das-perdas-apos-ataque-hacker-de-mais-de-us-6-bilhoes.ghtml",
+          "score": 80.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Jornal britânico denuncia ao FBI material de abuso sexual infantil encontrado em depósito do pai de Meghan Markle",
+          "title": "Alemanha mobiliza polícia antes de protestos de jovens em mais de 30 Cidades",
           "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/30/jornal-britanico-denuncia-ao-fbi-material-de-abuso-sexual-infantil-encontrado-em-deposito-do-pai-de-meghan-markle.ghtml",
-          "score": 100.0,
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/31/alemanha-mobiliza-a-policia-antes-de-um-grande-dia-de-protestos-juvenis.ghtml",
+          "score": 80.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Ibovespa Hoje Ao Vivo: Bolsa desce com exterior e fiscal, apesar de VALE3 e PETR4",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30102026/",
-          "score": 100.0,
+          "title": "Irã promete resposta 'imediata e contundente' a novos ataques dos EUA",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/31/lider-supremo-iraniano-adverte-estados-unidos-contra-novos-ataques.ghtml",
+          "score": 80.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "FII ALZR11 vende imóvel locado à Coca-Cola FEMSA por R$ 140 mi; veja lucro estimado",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/onde-investir/fii-alzr11-vende-imovel-locado-a-coca-cola-femsa-por-r-140-mi-veja-lucro-estimado/",
-          "score": 100.0,
+          "title": "A história de como uma sobrevivente de violência sexual do século 15 buscou justiça",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/31/a-historia-de-como-uma-sobrevivente-de-violencia-sexual-do-seculo-15-buscou-justica.ghtml",
+          "score": 80.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Veja como a Cimed transformou CEO em influenciador e conquistou 13 mi de seguidores",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/business/veja-como-a-cimed-transformou-ceo-em-influenciador-e-conquistou-13-mi-de-seguidores/",
-          "score": 100.0,
+          "title": "Ataque armado em loja de Halloween deixa um morto e seis feridos na Califórnia",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/31/ataque-armado-california.ghtml",
+          "score": 80.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Brasil ganha 2.635 novos assessores de investimentos em 2026",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/advisor/brasil-ganha-2-635-novos-assessores-de-investimentos-em-2026/",
-          "score": 100.0,
+          "title": "Premiê britânico diz estar aberto a pedido de desculpas pela escravidão, mas descarta reparações financeiras",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/31/primeiro-ministro-britanico-diz-estar-aberto-a-pedido-formal-de-desculpas-pela-escravidao-mas-descarta-reparacoes-financeiras.ghtml",
+          "score": 80.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Binance Brasil diz que fundos de clientes estão seguros, mas mantém saques suspensos",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/onde-investir/bitcoin-hoje-cai-ataque-hacker-binance-30102026-2/",
-          "score": 100.0,
+          "title": "Artur Grynbaum, do Grupo Boticário, defende adiar reforma tributária: 'É mais sensato postergar'",
+          "source": "news:Exame",
+          "url": "https://exame.com/negocios/artur-grynbaum-do-grupo-boticario-defende-adiar-reforma-tributaria-e-mais-sensato-postergar/",
+          "score": 80.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Moraes arquiva investigação contra juiz que concedeu semiaberto a condenado do 8/1",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/moraes-arquiva-investigacao-contra-juiz-que-concedeu-semiaberto-a-condenado-do-8-1/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Após eleição, o que mudou na tese de petroleiras? Petrobras e PRIO são as preferidas",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/apos-eleicao-o-que-mudou-na-tese-de-petroleiras-petrobras-e-prio-sao-as-preferidas/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Nova regra eleitoral pode mudar força de candidatos como Nikolas e Pavanato",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/nova-regra-eleitoral-pode-mudar-forca-de-candidatos-como-nikolas-e-pavanato/",
-          "score": 100.0,
+          "title": "O brasileiro vive mais, mas adoece por mais tempo. E a conta chega às empresas",
+          "source": "news:Exame",
+          "url": "https://exame.com/esg/o-brasileiro-vive-mais-mas-adoece-por-mais-tempo-e-a-conta-chega-as-empresas/",
+          "score": 80.0,
           "region": "BR",
           "views": null
         }
@@ -278,52 +278,12 @@
       "label": "YouTube (US)",
       "trends": [
         {
-          "title": "JUMANJI: OPEN WORLD - New Trailer (4K)",
+          "title": "skibidi toilet 83 (part 1)",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=nIw1O3zvOfE",
-          "score": 30.22,
+          "url": "https://youtube.com/watch?v=m4n2XDiIz-M",
+          "score": 21.89,
           "region": "US",
-          "views": 10440875
-        },
-        {
-          "title": "Honkai: Star Rail Version 4.7 \"Now, Lay Laughter to All Stars\" Special Program",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=psifFhA2QAA",
-          "score": 9.8,
-          "region": "US",
-          "views": 495604
-        },
-        {
-          "title": "Winnie The Pooh 3 Trailer, Ghost Rider Update, Smile 3 & MORE!!",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=td6pEXs2YRE",
-          "score": 0.65,
-          "region": "US",
-          "views": 184391
-        },
-        {
-          "title": "The 65th Trailer",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=dl5A8EJLuMg",
-          "score": 0.55,
-          "region": "US",
-          "views": 113013
-        },
-        {
-          "title": "Pokémon Monomyth | Launch Trailer",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=gOJTs-UBnRc",
-          "score": 0.36,
-          "region": "US",
-          "views": 13013
-        },
-        {
-          "title": "Relaxing & Spooky Halloween Music Playlist 🎃 Haunted Halloween Ambience 👻 Best Spooky Music",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=DktpmHY2Mxk",
-          "score": 0.19,
-          "region": "US",
-          "views": 44810
+          "views": 4713406
         }
       ]
     },
@@ -333,81 +293,81 @@
       "label": "Notícias (US)",
       "trends": [
         {
-          "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
+          "title": "Olivia Rodrigo gives Amy Acton flowers at Columbus concert",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6186144-olivia-rodrigo-amy-acton-ohio/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Will Tuesday be a a blue wave or just an anti-Trump surge?",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/campaign/6184763-democrats-house-senate-polls/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "The 6 races that could decide Senate control",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6185470-senate-control-midterm-six-tossups/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Meta settles with second plaintiff during trial over social media addiction",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/policy/technology/6184364-meta-snap-social-media-addiction-trial/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Watch live: Trump officials announce new anti-fraud measures in Minnesota",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/video-clips/6184399-watch-live-bessent-oz-patel-fraud-crackdown-minnesota/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Charlamagne rips Nicki Minaj for bashing Kathy Hochul, but not Trump",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/opinion/lindseys-lens/6184518-charlemagne-nicki-minaj-trump-morals/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Hold the rate. The Fed can't pump oil.",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/opinion/finance/6183258-fed-maintains-interest-rate-target/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Where does push to end daylight saving time stand in Congress?",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/state-watch/6184483-end-daylight-saving-time-congress/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "NPR special: 5 takeaways from a year of listening to swing voters",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups",
+          "url": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+          "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+          "url": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Why is the Cheesecake Factory at the center of the latest culture war?",
+          "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama",
+          "url": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Pope Leo XIV becomes first pope to vote in U.S. election",
+          "title": "The Healthcare Election: Florida",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/10/31/nx-s1-5995422/the-healthcare-election-florida",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Politics, norms and the DOJ's unprecedented pre-election headlines",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/10/31/nx-s1-6020974/politics-norms-and-the-dojs-unprecedented-pre-election-headlines",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Week in Politics: Trump's Midwest pivot; sharper Democratic messaging",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/10/31/nx-s1-6019280/week-in-politics-trumps-midwest-pivot-sharper-democratic-messaging",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "D.C., Virginia sue to block Trump's 250-foot arch",
           "source": "news:Axios",
-          "url": "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
+          "url": "https://www.axios.com/2026/10/31/trump-arch-dc-virginia",
           "score": 80.0,
           "region": "US",
           "views": null
@@ -504,56 +464,65 @@
   ],
   "br_us_connections": [
     {
-      "topic": "binance",
-      "count": 7,
-      "score": 76.67,
-      "sample_titles": [
-        "Após ataque hacker bilionário, Binance diz que investimentos de brasileiros estão seguros",
-        "Binance sofre ataque de US$ 6,3 bilhões: o que se sabe sobre o possível maior roubo da história das criptomoedas",
-        "Após roubo bilionário na Binance, entenda o que são criptomoedas e os riscos de investir",
-        "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-        "Binance flags 'potential security issue,' says approximately $6.3 billion impacted"
-      ]
-    },
-    {
       "topic": "trump",
+      "count": 9,
+      "score": 68.0,
+      "sample_titles": [
+        "Dois candidatos com o mesmo nome: por que a disputa pelo Senado no Alasca irritou Trump",
+        "Reeleição de Lula frustra planos de Trump, que deve acelerar pressão sobre a América Latina",
+        "Week in Politics: Trump's Midwest pivot; sharper Democratic messaging",
+        "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+        "D.C., Virginia sue to block Trump's 250-foot arch"
+      ]
+    },
+    {
+      "topic": "binance",
       "count": 6,
-      "score": 75.0,
+      "score": 66.67,
       "sample_titles": [
-        "Em carta, deputados dos EUA questionam papel de Trump na fuga de Flávio Bolsonaro e emissão de visto",
-        "Corporate America's Trump trap",
-        "Scoop: Trump blesses El Salvador strongman's troop surge in Haiti",
-        "Watch live: Trump officials announce new anti-fraud measures in Minnesota"
+        "Binance diz ter coberto 90% das perdas após ataque hacker de mais de US$ 6 bilhões",
+        "Binance repõe 90% após hack de US$ 6,3 bi e prevê saques no domingo",
+        "Hack de US$ 6,3 bi na Binance mobilizou ‘sala de guerra’ com 100 pessoas",
+        "Hackers steal over $6 billion from crypto exchange Binance in staggering heist",
+        "Blockchain intelligence firms link North Korea to $6.3B hack on Binance"
       ]
     },
     {
-      "topic": "trailer",
+      "topic": "halloween",
       "count": 5,
-      "score": 7.84,
+      "score": 50.3,
       "sample_titles": [
-        "BOIÚNA: TERROR NO AMAZONAS Trailer Dublado Oficial (2026) Serpente Gigante",
-        "Pokémon Monomyth | Launch Trailer",
-        "Winnie The Pooh 3 Trailer, Ghost Rider Update, Smile 3 & MORE!!",
-        "JUMANJI: OPEN WORLD - New Trailer (4K)"
+        "🎃CHEGOU A NOVA ATUALIZAÇÃO DE HALLOWEEN NO BLOX FRUITS AO VIVO!",
+        "Ataque armado em loja de Halloween deixa um morto e seis feridos na Califórnia",
+        "Geração Z se torna principal público-alvo do Halloween no Brasil",
+        "Candy prices got you scared stiff? What to know about the cost of Halloween this year"
       ]
     },
     {
-      "topic": "midterms",
-      "count": 3,
-      "score": 73.33,
-      "sample_titles": [
-        "Eleições nos EUA 2026: acompanhe as últimas notícias sobre as midterms",
-        "ICE activity is surging ahead of midterms. So is voter turnout.",
-        "With days to go before the midterms, data shows the U.S. economy is doing well"
-      ]
-    },
-    {
-      "topic": "decide",
+      "topic": "hack binance",
       "count": 2,
-      "score": 70.0,
+      "score": 60.0,
       "sample_titles": [
-        "Júri dos EUA decide a favor da Bayer em ação sobre câncer ligado a agrotóxico",
-        "'Affordability? For who?' Voters decide between helping homeowners or public services"
+        "Hack de US$ 6,3 bi na Binance mobilizou ‘sala de guerra’ com 100 pessoas",
+        "Blockchain intelligence firms link North Korea to $6.3B hack on Binance"
+      ]
+    },
+    {
+      "topic": "drone",
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "PM apreende arsenal com fuzil, submetralhadora, drone e explosivos no Guarujá (SP)",
+        "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!"
+      ]
+    },
+    {
+      "topic": "hackers",
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Hackers invadem site oficial do Corinthians e publicam falso anúncio de contratação de Messi",
+        "Hackers steal over $6 billion from crypto exchange Binance in staggering heist"
       ]
     },
     {
@@ -564,134 +533,9 @@
         "como ganhar dinheiro online",
         "how to learn online"
       ]
-    },
-    {
-      "topic": "relaxing",
-      "count": 2,
-      "score": 1.97,
-      "sample_titles": [
-        "Annoying Uncle,Save Prisoner,Hide Ball,Relaxing Puzzle,Draw To Smash,Number Master,Going Balls ",
-        "Relaxing & Spooky Halloween Music Playlist 🎃 Haunted Halloween Ambience 👻 Best Spooky Music"
-      ]
-    },
-    {
-      "topic": "music",
-      "count": 2,
-      "score": 0.13,
-      "sample_titles": [
-        "Ritmo Era Uma Vez - MC VN Cria, MC BFP, DJ Oreia, Fortuna Music Group",
-        "Relaxing & Spooky Halloween Music Playlist 🎃 Haunted Halloween Ambience 👻 Best Spooky Music"
-      ]
     }
   ],
   "cross_platform": [
-    {
-      "topic": "brasil",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 72.03,
-      "sample_titles": [
-        "A Mais Amada Do Brasil",
-        "Desemprego cai no Brasil e atinge menor taxa para o 3º trimestre em 14 anos",
-        "Ela ergueu 1,2 milhão de m² de galpões e foi a 1ª de real estate da Amazon no Brasil: ‘É um silo’",
-        "Brasil ganha 2.635 novos assessores de investimentos em 2026",
-        "Binance Brasil diz que fundos de clientes estão seguros, mas mantém saques suspensos"
-      ]
-    },
-    {
-      "topic": "dólar",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 45.0,
-      "sample_titles": [
-        "Ibovespa opera em queda e chega aos 167 mil pontos; dólar opera em alta, de olho em novos dados econômicos",
-        "dólar hoje"
-      ]
-    },
-    {
-      "topic": "visto",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 45.0,
-      "sample_titles": [
-        "Em carta, deputados dos EUA questionam papel de Trump na fuga de Flávio Bolsonaro e emissão de visto",
-        "visto americano"
-      ]
-    },
-    {
-      "topic": "trabalho",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 45.0,
-      "sample_titles": [
-        "Ministério do Trabalho descarta prorrogar prazo para mudanças no VA e VR",
-        "trabalho home office"
-      ]
-    },
-    {
-      "topic": "ganhar",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 45.0,
-      "sample_titles": [
-        "Hypera (HYPE3): XP vê janela favorável para Semavy antes de concorrência ganhar força",
-        "como ganhar dinheiro online"
-      ]
-    },
-    {
-      "topic": "special",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 44.9,
-      "sample_titles": [
-        "Honkai: Star Rail Version 4.7 \"Now, Lay Laughter to All Stars\" Special Program",
-        "NPR special: 5 takeaways from a year of listening to swing voters"
-      ]
-    },
-    {
-      "topic": "master",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 41.88,
-      "sample_titles": [
-        "Annoying Uncle,Save Prisoner,Hide Ball,Relaxing Puzzle,Draw To Smash,Number Master,Going Balls ",
-        "TVs de 98 polegadas, cadeiras de alto padrão e mais: veja itens do Banco Master que vão a leilão"
-      ]
-    },
-    {
-      "topic": "menor",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 40.2,
-      "sample_titles": [
-        "Geme Baixo - MC Jvila, Menor MC e G.A (DJ Dael, DJ Galdino, Honaiser e DJ João Pereira)",
-        "Desemprego cai no Brasil e atinge menor taxa para o 3º trimestre em 14 anos"
-      ]
-    },
     {
       "topic": "halloween",
       "platforms": [
@@ -699,249 +543,322 @@
         "news"
       ],
       "count": 2,
-      "score": 30.09,
+      "score": 56.24,
       "sample_titles": [
-        "Relaxing & Spooky Halloween Music Playlist 🎃 Haunted Halloween Ambience 👻 Best Spooky Music",
+        "🎃CHEGOU A NOVA ATUALIZAÇÃO DE HALLOWEEN NO BLOX FRUITS AO VIVO!",
+        "Ataque armado em loja de Halloween deixa um morto e seis feridos na Califórnia",
+        "Geração Z se torna principal público-alvo do Halloween no Brasil",
+        "5 campanhas para conferir — especial Halloween",
         "Candy prices got you scared stiff? What to know about the cost of Halloween this year"
       ]
     },
     {
-      "topic": "business",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 25.0,
-      "sample_titles": [
-        "Business as a liberal art? Some high schools say yes",
-        "start a business USA"
-      ]
-    },
-    {
-      "topic": "inflation",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 25.0,
-      "sample_titles": [
-        "Fed holds interest rates steady even as inflation remains stubborn",
-        "inflation"
-      ]
-    },
-    {
-      "topic": "empresa",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 20.0,
-      "sample_titles": [
-        "Ibama multa em R$ 50 mi empresa que exportaria 17 t de barbatana de tubarão",
-        "abrir empresa nos EUA"
-      ]
-    },
-    {
-      "topic": "pereira",
+      "topic": "brasil",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 10.21,
+      "score": 53.49,
       "sample_titles": [
-        "Geme Baixo - MC Jvila, Menor MC e G.A (DJ Dael, DJ Galdino, Honaiser e DJ João Pereira)",
-        "Justiça determina o afastamento de Sydnei Pereira da Prefeitura de Anajatuba"
+        "Xand Avião e Léo Foguete - Conexão | A Mais Amada do Brasil",
+        "Geração Z se torna principal público-alvo do Halloween no Brasil",
+        "Sinal em qualquer lugar? Conheça as operadoras com internet via satélite no Brasil"
       ]
     },
     {
-      "topic": "águas",
+      "topic": "brasileiro",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "O brasileiro vive mais, mas adoece por mais tempo. E a conta chega às empresas",
+        "brasileiro nos EUA"
+      ]
+    },
+    {
+      "topic": "healthcare",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "The Healthcare Election: Florida",
+        "healthcare cost"
+      ]
+    },
+    {
+      "topic": "especial",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 10.04,
+      "score": 40.03,
       "sample_titles": [
-        "Águas Purificadoras / Ao Cheiro das Águas - Nai Lopes",
-        "Grupo empresarial deve pagar quase R$ 21 milhões por desvio de recursos da Cidade das Águas em Frutal"
+        "Especial Rádio Mania Ao Vivo - Matheusinho | Retratos e Canções - Ainda Bem",
+        "5 campanhas para conferir — especial Halloween"
+      ]
+    },
+    {
+      "topic": "estados",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Aborto, armas, direitos trans, taxa para bilionários: eleições nos EUA tem referendos em 39 estados",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "amanhã",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.19,
+      "sample_titles": [
+        "ISSO É LOUCURA OU GENIAL! O PROBLEMA do TRAILER HOMEM do AMANHÃ - JAMES GUNN LOUCO?",
+        "Vale-refeição e alimentação: novas regras começam a valer amanhã; veja perguntas e respostas"
+      ]
+    },
+    {
+      "topic": "novas",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.05,
+      "sample_titles": [
+        "PISEIRO ATUALIZADO 2026 - PISEIRO 2026 - PISEIRO PRA PAREDÃO MUSICAS NOVAS PRA PAREDÃO",
+        "Vale-refeição e alimentação: novas regras começam a valer amanhã; veja perguntas e respostas"
+      ]
+    },
+    {
+      "topic": "quando",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.02,
+      "sample_titles": [
+        "QUANDO TODOS TE ABANDONAREM, JESUS ESTARÁ COM VOCÊ! 🙏❤️ | Leon Ortiz",
+        "Quando é a Black Friday em 2026? Veja data e dicas para não cair em ciladas"
+      ]
+    },
+    {
+      "topic": "paris",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 20.28,
+      "sample_titles": [
+        "Quasímodo: A Alma de Paris | Trailer oficial | Netflix",
+        "Policiais e manifestantes entram em confronto em Paris",
+        "Policiais e manifestantes entram em confronto em Paris (AFP)"
+      ]
+    },
+    {
+      "topic": "oficial",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 8.24,
+      "sample_titles": [
+        "MILKSHAKE - EMILLY VICK E VOID (clipe oficial)",
+        "Quasímodo: A Alma de Paris | Trailer oficial | Netflix",
+        "Mangueira 2027 I Rio Carnaval (Clipe Oficial)",
+        "Gerson Rufino - Foi Jesus (Clipe Oficial)",
+        "Hackers invadem site oficial do Corinthians e publicam falso anúncio de contratação de Messi"
       ]
     }
   ],
   "niche_ideas": [
     {
-      "main_topic": "visto",
-      "subtopic": "novas regras de visto e imigração nos EUA",
-      "why_trending": "Deputados dos EUA questionam o papel de Trump na emissão de vistos, aumentando o debate sobre imigração.",
-      "niche_angle": "Explorar como as novas políticas de visto podem afetar brasileiros que desejam morar ou trabalhar nos EUA.",
+      "main_topic": "Halloween",
+      "subtopic": "Custo do Halloween nos EUA: o que esperar para 2026?",
+      "why_trending": "O Halloween se tornou um dos feriados mais celebrados nos EUA, com gastos médios que ultrapassam US$ 100 por pessoa. Com a Geração Z se tornando o público-alvo, as expectativas de gastos estão em alta.",
+      "niche_angle": "Vamos explorar o que os brasileiros nos EUA podem esperar em termos de gastos e como se preparar financeiramente para as festividades de Halloween.",
       "video_format": "long",
-      "urgency": "high",
-      "ease": 6,
-      "source": "G1 Mundo",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:Exame",
       "region": "US",
       "links": [
-        "https://g1.globo.com/mundo/noticia/2026/10/30/em-carta-democratas-eua-questionam-papel-governo-trump-fuga-flavio-bolsonaro.ghtml"
+        "https://exame.com/bussola/halloween-no-brasil-ganha-sotaque-proprio-com-a-geracao-z-e-com-as-marcas/"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
-      "collected_at": "2026-10-30T17:48:36.163053"
+      "collected_at": "2026-10-31T16:57:23.761602"
     },
     {
-      "main_topic": "ganhar",
-      "subtopic": "como ganhar dinheiro online",
-      "why_trending": "A demanda por renda extra e trabalho remoto continua crescendo, refletindo as mudanças no mercado de trabalho.",
-      "niche_angle": "Dicas práticas e estratégias para brasileiros nos EUA sobre como gerar renda online e as melhores plataformas para isso.",
-      "video_format": "both",
+      "main_topic": "Healthcare",
+      "subtopic": "O impacto do custo da saúde nas eleições americanas",
+      "why_trending": "As eleições nos EUA estão destacando a saúde como uma questão crucial, com custos crescentes que impactam milhões de americanos e imigrantes.",
+      "niche_angle": "Analisar como o sistema de saúde nos EUA afeta a vida dos brasileiros imigrantes e como eles podem se preparar para as questões de saúde durante a eleição.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 7,
+      "source": "news:NPR Politics",
+      "region": "US",
+      "links": [
+        "https://www.npr.org/2026/10/31/nx-s1-5995422/the-healthcare-election-florida"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-31T16:57:23.761610"
+    },
+    {
+      "main_topic": "Eleições Americanas",
+      "subtopic": "Como as eleições impactam os imigrantes brasileiros nos EUA",
+      "why_trending": "Com mais de 49 milhões de votos antecipados, o interesse pelas eleições está em alta, especialmente entre comunidades imigrantes.",
+      "niche_angle": "Explorar como as políticas propostas nas eleições afetam diretamente os direitos e a vida dos imigrantes brasileiros nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://exame.com/mundo/eleicoes-nos-eua-voto-antecipado-bate-recorde-e-supera-49-milhoes/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-31T16:57:23.761614"
+    },
+    {
+      "main_topic": "Negócios & Dinheiro",
+      "subtopic": "O que o hack da Binance significa para investidores brasileiros?",
+      "why_trending": "Após um hack de US$ 6,3 bilhões, a Binance se destacou no noticiário financeiro, levantando preocupações sobre segurança e investimentos.",
+      "niche_angle": "Discutir como brasileiros nos EUA podem se proteger e o que isso significa para seus investimentos no mercado cripto.",
+      "video_format": "long",
       "urgency": "high",
       "ease": 5,
-      "source": "G1 Economia",
+      "source": "news:InfoMoney",
       "region": "BR",
       "links": [
-        "https://g1.globo.com/economia/noticia/2026/10/30/ganhar-dinheiro-online.ghtml"
+        "https://www.infomoney.com.br/onde-investir/binance-repoe-90-ativos-hack-us-63-bi-saques/"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
-      "collected_at": "2026-10-30T17:48:36.163062"
+      "collected_at": "2026-10-31T16:57:23.761618"
     },
     {
-      "main_topic": "dólar",
-      "subtopic": "impacto da alta do dólar no custo de vida nos EUA",
-      "why_trending": "O dólar opera em alta, influenciando diretamente o mercado financeiro e a economia.",
-      "niche_angle": "Analisar como a alta do dólar afeta os brasileiros que vivem nos EUA em termos de compras e remessas para o Brasil.",
+      "main_topic": "Direito & Legal",
+      "subtopic": "Visto e imigração: o que esperar após as eleições?",
+      "why_trending": "Com mudanças nas políticas de imigração sendo discutidas nas eleições, é crucial entender o que isso pode significar para os brasileiros.",
+      "niche_angle": "Analisar como as eleições podem impactar as leis de imigração e o que brasileiros nos EUA precisam considerar para o futuro.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://exame.com/mundo/eleicoes-nos-eua-voto-antecipado-bate-recorde-e-supera-49-milhoes/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-31T16:57:23.761624"
+    },
+    {
+      "main_topic": "Economia & Mercado",
+      "subtopic": "O que a inflação nos EUA significa para brasileiros?",
+      "why_trending": "Com a inflação atingindo níveis altos, muitos brasileiros estão preocupados com o custo de vida e como isso afeta suas finanças.",
+      "niche_angle": "Discutir como a inflação nos EUA impacta o dia a dia dos brasileiros, desde o custo de alimentos até aluguel.",
       "video_format": "long",
       "urgency": "medium",
       "ease": 7,
-      "source": "G1 Economia",
-      "region": "BR",
-      "links": [
-        "https://g1.globo.com/economia/noticia/2026/10/30/dolar-ibovespa.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-30T17:48:36.163067"
-    },
-    {
-      "main_topic": "trabalho",
-      "subtopic": "trabalho remoto e tendências de emprego",
-      "why_trending": "Mudanças nas práticas de trabalho aumentam a busca por posições remotas e flexíveis.",
-      "niche_angle": "Discutir as melhores práticas e oportunidades de trabalho remoto para brasileiros nos EUA e como se destacar no mercado.",
-      "video_format": "both",
-      "urgency": "medium",
-      "ease": 6,
-      "source": "G1 Economia",
-      "region": "BR",
-      "links": [
-        "https://g1.globo.com/economia/noticia/2026/10/30/trabalho-home-office.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-30T17:48:36.163070"
-    },
-    {
-      "main_topic": "inflation",
-      "subtopic": "como a inflação afeta os imigrantes nos EUA",
-      "why_trending": "A inflação nos EUA continua sendo uma preocupação, impactando o custo de vida e os salários.",
-      "niche_angle": "Explorar como a inflação afeta o cotidiano dos brasileiros nos EUA, desde o custo de alimentos até o aluguel.",
-      "video_format": "long",
-      "urgency": "medium",
-      "ease": 5,
-      "source": "The Hill",
+      "source": "news:Exame",
       "region": "US",
       "links": [
-        "https://thehill.com/opinion/finance/6183258-fed-maintains-interest-rate-target/"
+        "https://exame.com/mundo/eleicoes-nos-eua-voto-antecipado-bate-recorde-e-supera-49-milhoes/"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
-      "collected_at": "2026-10-30T17:48:36.163076"
+      "collected_at": "2026-10-31T16:57:23.761630"
     },
     {
-      "main_topic": "business",
-      "subtopic": "abrindo um negócio nos EUA",
-      "why_trending": "A crescente taxa de empreendedorismo entre imigrantes está chamando a atenção de investidores e do governo.",
-      "niche_angle": "Guiar brasileiros sobre como abrir e gerenciar um negócio nos EUA, destacando os desafios e oportunidades.",
-      "video_format": "long",
-      "urgency": "medium",
-      "ease": 7,
-      "source": "G1 Economia",
-      "region": "US",
-      "links": [
-        "https://g1.globo.com/mundo/noticia/2026/10/30/abrir-empresa-nos-eua.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-30T17:48:36.163080"
-    },
-    {
-      "main_topic": "tecnologia",
-      "subtopic": "cibersegurança e criptomoedas",
-      "why_trending": "Recentes ataques cibernéticos em plataformas de criptomoedas aumentam a conscientização sobre segurança digital.",
-      "niche_angle": "Analisar os riscos de investir em criptomoedas e como brasileiros nos EUA podem se proteger contra fraudes.",
-      "video_format": "long",
-      "urgency": "medium",
-      "ease": 5,
-      "source": "G1 Economia",
-      "region": "BR",
-      "links": [
-        "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/apos-roubo-bilionario-na-binance-entenda-o-que-sao-criptomoedas-e-os-riscos-de-investir.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-30T17:48:36.163084"
-    },
-    {
-      "main_topic": "custo de vida",
-      "subtopic": "comparação entre o custo de vida nos EUA e Brasil",
-      "why_trending": "O aumento do dólar e a inflação nos EUA geram discussão sobre o custo de vida comparativo.",
-      "niche_angle": "Criar um comparativo prático sobre como o custo de vida nos EUA se compara ao Brasil, focando em despesas comuns.",
+      "main_topic": "Lifestyle",
+      "subtopic": "Rotina de Halloween: Como os brasileiros celebram nos EUA?",
+      "why_trending": "O Halloween está se tornando cada vez mais popular entre brasileiros nos EUA, criando novas tradições e costumes.",
+      "niche_angle": "Explorar como os brasileiros adaptam suas tradições culturais ao Halloween e o que isso significa para a comunidade.",
       "video_format": "both",
-      "urgency": "medium",
-      "ease": 6,
-      "source": "G1 Economia",
-      "region": "BR",
-      "links": [
-        "https://g1.globo.com/economia/noticia/2026/10/30/desemprego-cai-no-brasil-e-atinge-menor-taxa-para-o-3-trimestre-em-14-anos.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-10-30T17:48:36.163091"
-    },
-    {
-      "main_topic": "halloween",
-      "subtopic": "custo de Halloween nos EUA",
-      "why_trending": "O aumento dos preços de produtos de Halloween está gerando preocupações entre os consumidores.",
-      "niche_angle": "Explorar quanto custa celebrar o Halloween nos EUA e como os brasileiros podem se preparar para a festa.",
-      "video_format": "short",
       "urgency": "low",
       "ease": 4,
-      "source": "G1 Economia",
+      "source": "news:Exame",
       "region": "US",
       "links": [
-        "https://g1.globo.com/mundo/noticia/2026/10/30/candy-prices-got-you-scared-stiff-what-to-know-about-the-cost-of-halloween-this-year.ghtml"
+        "https://exame.com/bussola/halloween-no-brasil-ganha-sotaque-proprio-com-a-geracao-z-e-com-as-marcas/"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
-      "collected_at": "2026-10-30T17:48:36.163096"
+      "collected_at": "2026-10-31T16:57:23.761634"
+    },
+    {
+      "main_topic": "Tecnologia",
+      "subtopic": "O futuro da IA: o que brasileiros devem saber?",
+      "why_trending": "Com grandes empresas prometendo mudanças no treinamento de IA, o futuro da tecnologia está mudando rapidamente.",
+      "niche_angle": "Discutir como as novas regras de IA impactam brasileiros que trabalham em tecnologia ou desejam entrar nesse setor.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:Exame",
+      "region": "BR",
+      "links": [
+        "https://exame.com/tecnologia/openai-google-e-microsoft-prometem-novo-bloqueio-para-treinamento-de-ia/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-31T16:57:23.761641"
+    },
+    {
+      "main_topic": "Memes & Viral",
+      "subtopic": "Os melhores memes do Halloween 2026",
+      "why_trending": "O Halloween gera uma onda de conteúdo viral e memes nas redes sociais, especialmente entre a Geração Z.",
+      "niche_angle": "Compilar e comentar sobre os memes mais engraçados e virais que surgem durante o Halloween, focando no que ressoa com a cultura brasileira.",
+      "video_format": "short",
+      "urgency": "low",
+      "ease": 3,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://exame.com/bussola/halloween-no-brasil-ganha-sotaque-proprio-com-a-geracao-z-e-com-as-marcas/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-10-31T16:57:23.761648"
     }
   ]
 }
