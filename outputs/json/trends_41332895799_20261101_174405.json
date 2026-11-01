@@ -1,0 +1,874 @@
+{
+  "generated_at": "2026-11-01T17:44:05.171414",
+  "run_id": "41332895799",
+  "summary": {
+    "total_br": 30,
+    "total_us": 25,
+    "br_us_connections": 9,
+    "cross_platform_topics": 8,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "7 Minutoz - CIRCO DOS HORRORES 3 | Coringa, Batman Que Ri, Buggy, Caim, Circus Baby e Art The Clown",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=yd9oaRFJcMA",
+          "score": 2.77,
+          "region": "BR",
+          "views": 455679
+        },
+        {
+          "title": "ALIMENTEI UM BEBÊ E DESCOBRI O PIOR JOGO DO MUNDO!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=akjhY59tNXI",
+          "score": 1.64,
+          "region": "BR",
+          "views": 346106
+        },
+        {
+          "title": "Kokushibo (Demon Slayer) - A Sonata da Lua | Henrique Mendonça",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=3ArQfNiyvkE",
+          "score": 1.18,
+          "region": "BR",
+          "views": 185002
+        },
+        {
+          "title": "Queen - Bohemian Rhapsody (Musikbox, February 11, 1979)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=RPqE_YhDH6o",
+          "score": 0.88,
+          "region": "BR",
+          "views": 190562
+        },
+        {
+          "title": "ESPADACHIM DESCOLADO ⚔️ | (Animes) | Style Trap | MHRAP",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=8FWKsDzVZo8",
+          "score": 0.7,
+          "region": "BR",
+          "views": 115461
+        },
+        {
+          "title": "Zezé Di Camargo & Luciano – Só as Antigas",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=k7nCrW6K_8Y",
+          "score": 0.37,
+          "region": "BR",
+          "views": 50167
+        },
+        {
+          "title": "✦ RAÇA NEGRA ✦ SÓ RECORDAÇÕES ANTIGAS 🎶 AS MELHORES MÚSICAS ROMÂNTICAS",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=cL9A6ekYD6o",
+          "score": 0.36,
+          "region": "BR",
+          "views": 44227
+        },
+        {
+          "title": "Tu me Bastas | Ir Kelly Patrícia na Festa de São Miguel - Instituto Hesed",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=g3Oiexvd53Y",
+          "score": 0.28,
+          "region": "BR",
+          "views": 69304
+        },
+        {
+          "title": "RAÇA NEGRA - So As Melhores - Enganchados - É Tarde Demais, Nao Me Deixe So",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=68GJJClu09A",
+          "score": 0.27,
+          "region": "BR",
+          "views": 53364
+        },
+        {
+          "title": "DENTRO DO COROLLA CROSS - MC Leozinho ZS, MC Murilo MT, MC DR, MC RN do Capão e MC Pelourinho",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=EqVrMjjOKHE",
+          "score": 0.22,
+          "region": "BR",
+          "views": 46171
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Binance registra saídas líquidas de US$3,64 bi após retomada de saques",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/binance-registra-saidas-liquidas-de-us364-bi-apos-retomada-de-saques/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/sp-500-pode-cair-9-com-eleicoes-nos-eua-morgan-stanley-ve-potencial-de-compra/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Justiça libera documentos sobre morte de Tancredo Neves após 41 anos; entenda",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/brasil/justica-libera-documentos-sobre-morte-de-tancredo-neves-apos-41-anos-entenda/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "CEO da bolsa de valores de Istanbul é detido em investigação sobre fundos",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/ceo-da-bolsa-de-valores-de-istanbul-e-detido-em-investigacao-sobre-fundos/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Funcionários da Disney e Universal são presos em operação contra tráfico humano",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/funcionarios-da-disney-e-universal-sao-presos-em-operacao-contra-trafico-humano/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Grêmio x Atlético-MG: veja onde assistir à Copa do Brasil",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/gremio-x-atletico-mg-veja-onde-assistir-a-copa-do-brasil/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Petrobras aumenta preço do querosene de aviação em novembro",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/01/petrobras-querosene-aviacao-novembro.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/01/por-que-trump-enfrenta-o-mesmo-problema-economico-que-derrubou-biden.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Mega-Sena 3080 acumula e prêmio vai a R$ 46 milhões; confira os números sorteados",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/01/mega-sena-concurso-3080-confira-os-numeros-sorteados.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Midterms 2026: Trump não está nas urnas, mas por que essa eleição é crucial para ele?",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/01/midterms-2026-trump-nao-esta-nas-urnas-mas-por-que-essa-eleicao-e-crucial-para-ele.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "Why This Gas Station Is So Terrifying",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=UcTlPUR5s4w",
+          "score": 4.63,
+          "region": "US",
+          "views": 666661
+        },
+        {
+          "title": "The Cher Witch Project - Halloween Trailer | SNL UK",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=yS8bZlE-sA8",
+          "score": 1.44,
+          "region": "US",
+          "views": 285595
+        },
+        {
+          "title": "AVENGERS DOOMSDAY Countdown | Final Trailer Date | Patrick Stewart Thoughts | NR Podcast",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=gJ7Enjyd1oQ",
+          "score": 0.73,
+          "region": "US",
+          "views": 12358
+        },
+        {
+          "title": "Best Halloween Spooky Music 🎃 Relaxing Halloween Music 2026 👻 Magical Halloween Ambience",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=tRnMJ_q0kI8",
+          "score": 0.72,
+          "region": "US",
+          "views": 172651
+        },
+        {
+          "title": " 2 Hour Christmas Songs Of All Time🎄 Best Christmas Music Playlist 2027 🎅",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=9n0PwHlv6CA",
+          "score": 0.05,
+          "region": "US",
+          "views": 4400
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "New York marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Haley Stevens endorses Mike Rogers amid Michigan Democratic feud",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "The dangerous illusion of ‘a little Epic Fury’",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/national-security/6184776-economic-threat-epic-fury/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Billionaire tax divides California Democrats, draws myriad questions",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/business/6184949-california-billionaire-wealth-tax/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Living with high prices in Virginia's 1st Congressional District",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Politics chat: Data centers are on everyone's minds going into Election Day",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6023270/politics-chat-data-centers-are-on-everyones-minds-going-into-election-day",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "What NPR's senior political correspondent is watching for on Election Night",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6019709/what-nprs-senior-political-correspondent-is-watching-for-on-election-night",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Behind the Curtain: OpenAI's post-election power play",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Why Florida Republicans are \"white-knuckled\" about Tuesday",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/01/florida-republicans-anxiety-election",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 15,
+      "score": 73.33,
+      "sample_titles": [
+        "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
+        "Midterms 2026: Trump não está nas urnas, mas por que essa eleição é crucial para ele?",
+        "'Nova guerra pode ser mais longa', alerta Irã após novas ameaças de Trump",
+        "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+        "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter"
+      ]
+    },
+    {
+      "topic": "binance",
+      "count": 6,
+      "score": 60.0,
+      "sample_titles": [
+        "Binance retoma saques de bitcoin e ether após roubo de US$ 6,3 bilhões",
+        "Binance registra saídas líquidas de US$3,64 bi após retomada de saques",
+        "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+        "Hackers steal over $6 billion from crypto exchange Binance in staggering heist",
+        "Blockchain intelligence firms link North Korea to $6.3B hack on Binance"
+      ]
+    },
+    {
+      "topic": "midterms",
+      "count": 4,
+      "score": 60.0,
+      "sample_titles": [
+        "Midterms 2026: Trump não está nas urnas, mas por que essa eleição é crucial para ele?",
+        "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+        "Mixed economic forecast weighs heavy ahead of midterms",
+        "Election cheat sheet: These early races could tell us where the midterms are headed"
+      ]
+    },
+    {
+      "topic": "universal",
+      "count": 2,
+      "score": 80.0,
+      "sample_titles": [
+        "Funcionários da Disney e Universal são presos em operação contra tráfico humano",
+        "Supreme Court hears religious freedom case centered on universal pre-K program"
+      ]
+    },
+    {
+      "topic": "sullivan",
+      "count": 2,
+      "score": 80.0,
+      "sample_titles": [
+        "Dan Sullivan contra Dan Sullivan: a disputa no Alasca que levou o governo Trump à Justiça",
+        "Sullivan: 'I’m going to accept the election results'"
+      ]
+    },
+    {
+      "topic": "almgren",
+      "count": 2,
+      "score": 65.0,
+      "sample_titles": [
+        "Sueco Andreas Almgren e queniana Sheila Chepkirui vencem a Maratona de Nova York",
+        "New York marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part"
+      ]
+    },
+    {
+      "topic": "chepkirui",
+      "count": 2,
+      "score": 65.0,
+      "sample_titles": [
+        "Sueco Andreas Almgren e queniana Sheila Chepkirui vencem a Maratona de Nova York",
+        "New York marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part"
+      ]
+    },
+    {
+      "topic": "online",
+      "count": 2,
+      "score": 10.0,
+      "sample_titles": [
+        "como ganhar dinheiro online",
+        "how to learn online"
+      ]
+    },
+    {
+      "topic": "playlist",
+      "count": 2,
+      "score": 0.04,
+      "sample_titles": [
+        "PABLO 💖 SÓ AS ANTIGAS PLAYLIST 💝 ANTIGAS AS MELHORES",
+        " 2 Hour Christmas Songs Of All Time🎄 Best Christmas Music Playlist 2027 🎅"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "living",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Living with high prices in Virginia's 1st Congressional District",
+        "cost of living"
+      ]
+    },
+    {
+      "topic": "novembro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 43.35,
+      "sample_titles": [
+        "FLAGUIM MORAL - REPERTÓRIO NOVO | OH BAGAÇO BOM COM O PISEIRO DE NOVEMBRO",
+        "Chegamos em Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Petrobras aumenta preço do querosene de aviação em novembro",
+        "Calendário BPC/Loas novembro 2026: veja datas de pagamento",
+        "Bolsa Família 2026: veja calendário de pagamentos em novembro"
+      ]
+    },
+    {
+      "topic": "mudou",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.03,
+      "sample_titles": [
+        "Especial Rádio Mania Ao Vivo - Matheusinho | Tudo Mudou / Valeu Esperar / Razão da Minha Vida",
+        "Auxílio-reclusão: entenda o que é o benefício e o que mudou com a Lei Antifacção"
+      ]
+    },
+    {
+      "topic": "final",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.36,
+      "sample_titles": [
+        "AVENGERS DOOMSDAY Countdown | Final Trailer Date | Patrick Stewart Thoughts | NR Podcast",
+        "Trump thanks supporters for the memories in final campaign stops for 2026 midterms"
+      ]
+    },
+    {
+      "topic": "dentro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 16.74,
+      "sample_titles": [
+        "DENTRO DO COROLLA CROSS - MC Leozinho ZS, MC Murilo MT, MC DR, MC RN do Capão e MC Pelourinho",
+        "Jacaré de 2 metros é resgatado dentro do campus do Ifap em Macapá; é o 2º animal em 17 dias",
+        "Homem mata irmão baleado dentro de casa após discussão na zona oeste de SP"
+      ]
+    },
+    {
+      "topic": "halloween",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 14.05,
+      "sample_titles": [
+        "The Cher Witch Project - Halloween Trailer | SNL UK",
+        "Best Halloween Spooky Music 🎃 Relaxing Halloween Music 2026 👻 Magical Halloween Ambience",
+        "Candy prices got you scared stiff? What to know about the cost of Halloween this year"
+      ]
+    },
+    {
+      "topic": "noite",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 10.02,
+      "sample_titles": [
+        "FOLHA DE URTIGA / ADRIANO BATIDÃO O REI DA NOITE / TBT 2027",
+        "Michele Maycoth interpreta sucessos de Maria Gadú em noite romântica no AP"
+      ]
+    },
+    {
+      "topic": "minha",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 5.04,
+      "sample_titles": [
+        "10.Minha Vez Vai Chegar",
+        "Especial Rádio Mania Ao Vivo - Matheusinho | Tudo Mudou / Valeu Esperar / Razão da Minha Vida",
+        "Ela Quer Bagunçar Minha Mente",
+        "Exposição 'Minha Aldeia' reúne fotografias inspiradas no cotidiano amapaense"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "Custo de vida",
+      "subtopic": "Viver com preços altos na Virgínia",
+      "why_trending": "Recentemente, houve um aumento significativo nos preços em várias áreas dos EUA, especialmente na Virgínia, o que está gerando discussões sobre o custo de vida.",
+      "niche_angle": "Explorar como os brasileiros imigrantes podem se adaptar a essas mudanças de preços e dicas práticas para economizar dinheiro.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 5,
+      "source": "NPR News",
+      "region": "US",
+      "links": [
+        "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-01T17:44:05.160321"
+    },
+    {
+      "main_topic": "Eleições nos EUA",
+      "subtopic": "Impacto das eleições de meio de mandato na economia",
+      "why_trending": "As eleições de meio de mandato estão se aproximando e as previsões indicam uma possível queda de 9% no S&P 500.",
+      "niche_angle": "Analisar como as mudanças políticas podem afetar os imigrantes brasileiros em termos de oportunidades de trabalho e investimento nos EUA.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "InfoMoney",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mercados/sp-500-pode-cair-9-com-eleicoes-nos-eua-morgan-stanley-ve-potencial-de-compra/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-01T17:44:05.160332"
+    },
+    {
+      "main_topic": "Saúde",
+      "subtopic": "Mudanças no seguro de saúde com a ACA",
+      "why_trending": "Está ocorrendo a abertura de inscrições para o seguro de saúde ACA, com mudanças significativas que podem impactar muitos imigrantes.",
+      "niche_angle": "Explicar as novas opções de seguro de saúde e como os brasileiros podem escolher a melhor cobertura para suas necessidades.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "NPR News",
+      "region": "US",
+      "links": [
+        "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-01T17:44:05.160337"
+    },
+    {
+      "main_topic": "Negócios e Finanças",
+      "subtopic": "Saídas líquidas de criptomoedas na Binance",
+      "why_trending": "A Binance registrou saídas líquidas significativas, refletindo a insegurança dos investidores em um mercado volátil.",
+      "niche_angle": "Discutir como os brasileiros que investem ou pensam em investir em criptomoedas devem se preparar e quais alternativas considerar.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "InfoMoney",
+      "region": "BR",
+      "links": [
+        "https://www.infomoney.com.br/mercados/binance-registra-saidas-liquidas-de-us364-bi-apos-retomada-de-saques/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-01T17:44:05.160341"
+    },
+    {
+      "main_topic": "Direito e Legal",
+      "subtopic": "Deportações de brasileiros dos EUA",
+      "why_trending": "Um voo recente trouxe 85 brasileiros deportados dos EUA de volta ao Brasil, destacando questões de imigração.",
+      "niche_angle": "Explorar o processo de deportação e os direitos dos imigrantes brasileiros, além de dicas sobre como evitar problemas legais.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "Exame",
+      "region": "BR",
+      "links": [
+        "https://exame.com/brasil/voo-com-85-brasileiros-deportados-dos-eua-chega-a-minas-gerais/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-01T17:44:05.160346"
+    },
+    {
+      "main_topic": "Empreendedorismo",
+      "subtopic": "IA no pequeno varejo",
+      "why_trending": "Novas tecnologias de IA estão ajudando pequenos varejistas a se adaptarem às mudanças do mercado.",
+      "niche_angle": "Discutir como brasileiros empreendedores podem usar IA para otimizar seus negócios e gerar mais receita.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "Exame",
+      "region": "BR",
+      "links": [
+        "https://exame.com/bussola/como-pequeno-varejista-pode-utilizar-a-ia-para-se-adaptar-ao-fim-da-6x1/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-01T17:44:05.160351"
+    },
+    {
+      "main_topic": "Economia e Mercado",
+      "subtopic": "Aumento no preço do querosene de aviação",
+      "why_trending": "A Petrobras anunciou aumento no preço do querosene de aviação, o que pode impactar viagens e turismo.",
+      "niche_angle": "Analisar como esse aumento afeta brasileiros que viajam ou desejam viajar para e dentro dos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "G1 Economia",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/01/petrobras-querosene-aviacao-novembro.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-01T17:44:05.160357"
+    },
+    {
+      "main_topic": "Direito e Legal",
+      "subtopic": "Eleições e imigração",
+      "why_trending": "As eleições de meio de mandato nos EUA podem ter um impacto significativo nas políticas de imigração.",
+      "niche_angle": "Explorar como os resultados dessas eleições podem afetar a vida de imigrantes brasileiros nos EUA, incluindo possíveis mudanças em políticas de visto.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "G1 Mundo",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/01/o-que-sao-as-eleicoes-de-meio-de-mandato-dos-eua-e-por-que-elas-podem-selar-futuro-de-trump.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-01T17:44:05.160381"
+    },
+    {
+      "main_topic": "Entretenimento",
+      "subtopic": "Halloween e preços de doces",
+      "why_trending": "Com a proximidade do Halloween, as discussões sobre os altos preços dos doces estão em alta, refletindo preocupações com inflação.",
+      "niche_angle": "Criar um conteúdo divertido sobre como brasileiros celebram o Halloween nos EUA e dicas para economizar nas compras.",
+      "video_format": "short",
+      "urgency": "low",
+      "ease": 5,
+      "source": "NPR News",
+      "region": "US",
+      "links": [
+        "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-01T17:44:05.160391"
+    }
+  ]
+}
