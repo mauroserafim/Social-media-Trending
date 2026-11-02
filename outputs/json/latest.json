@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T17:44:05.171414",
-  "run_id": "41332895799",
+  "generated_at": "2026-11-02T21:29:41.648978",
+  "run_id": "41528701528",
   "summary": {
     "total_br": 30,
-    "total_us": 25,
+    "total_us": 27,
     "br_us_connections": 9,
-    "cross_platform_topics": 8,
-    "niche_ideas": 9
+    "cross_platform_topics": 15,
+    "niche_ideas": 10
   },
   "sections_br": [
     {
@@ -15,20 +15,44 @@
       "label": "YouTube (BR)",
       "trends": [
         {
+          "title": "GÊNIO QUIZ 5 - SÓ ABRA O VÍDEO SE VOCÊ FOR UM GÊNIO",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=uheytVGZexU",
+          "score": 4.37,
+          "region": "BR",
+          "views": 266019
+        },
+        {
           "title": "7 Minutoz - CIRCO DOS HORRORES 3 | Coringa, Batman Que Ri, Buggy, Caim, Circus Baby e Art The Clown",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=yd9oaRFJcMA",
-          "score": 2.77,
+          "score": 2.39,
           "region": "BR",
-          "views": 455679
+          "views": 768217
         },
         {
-          "title": "ALIMENTEI UM BEBÊ E DESCOBRI O PIOR JOGO DO MUNDO!",
+          "title": "♪ Homem de Ferro Superior (Marvel) | UPGRADE | AniRap",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=akjhY59tNXI",
-          "score": 1.64,
+          "url": "https://youtube.com/watch?v=y29RnvDIgX4",
+          "score": 1.82,
           "region": "BR",
-          "views": 346106
+          "views": 358918
+        },
+        {
+          "title": "M4rkim - VERDADEIRA ZANGETSU (Ichigo)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=TRlZ1NXKYV0",
+          "score": 1.66,
+          "region": "BR",
+          "views": 326808
+        },
+        {
+          "title": "Queen - Bohemian Rhapsody (Musikbox, February 11, 1979)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=RPqE_YhDH6o",
+          "score": 1.23,
+          "region": "BR",
+          "views": 439191
         },
         {
           "title": "Kokushibo (Demon Slayer) - A Sonata da Lua | Henrique Mendonça",
@@ -36,63 +60,39 @@
           "url": "https://youtube.com/watch?v=3ArQfNiyvkE",
           "score": 1.18,
           "region": "BR",
-          "views": 185002
+          "views": 373515
         },
         {
-          "title": "Queen - Bohemian Rhapsody (Musikbox, February 11, 1979)",
+          "title": "I Want To Know What Love Is - Foreigner (Boyce Avenue acoustic cover)",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=RPqE_YhDH6o",
-          "score": 0.88,
+          "url": "https://youtube.com/watch?v=1mqW-8p1Gic",
+          "score": 1.01,
           "region": "BR",
-          "views": 190562
+          "views": 247534
         },
         {
-          "title": "ESPADACHIM DESCOLADO ⚔️ | (Animes) | Style Trap | MHRAP",
+          "title": "Percy Jackson e os Olimpianos | Trailer Oficial Dublado| Disney+",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=8FWKsDzVZo8",
-          "score": 0.7,
+          "url": "https://youtube.com/watch?v=XZbNyQlF2rU",
+          "score": 0.91,
           "region": "BR",
-          "views": 115461
+          "views": 37386
         },
         {
-          "title": "Zezé Di Camargo & Luciano – Só as Antigas",
+          "title": "Despedaçados | The Walten Files | Iron Master",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=k7nCrW6K_8Y",
-          "score": 0.37,
+          "url": "https://youtube.com/watch?v=yMdmEjsf2C0",
+          "score": 0.85,
           "region": "BR",
-          "views": 50167
+          "views": 161662
         },
         {
-          "title": "✦ RAÇA NEGRA ✦ SÓ RECORDAÇÕES ANTIGAS 🎶 AS MELHORES MÚSICAS ROMÂNTICAS",
+          "title": "MVP (Blue Lock) | Basara ft. Gabriel Rodrigues, MHRAP, Tauz e Ark",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=cL9A6ekYD6o",
-          "score": 0.36,
+          "url": "https://youtube.com/watch?v=H414ulNnk8M",
+          "score": 0.75,
           "region": "BR",
-          "views": 44227
-        },
-        {
-          "title": "Tu me Bastas | Ir Kelly Patrícia na Festa de São Miguel - Instituto Hesed",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=g3Oiexvd53Y",
-          "score": 0.28,
-          "region": "BR",
-          "views": 69304
-        },
-        {
-          "title": "RAÇA NEGRA - So As Melhores - Enganchados - É Tarde Demais, Nao Me Deixe So",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=68GJJClu09A",
-          "score": 0.27,
-          "region": "BR",
-          "views": 53364
-        },
-        {
-          "title": "DENTRO DO COROLLA CROSS - MC Leozinho ZS, MC Murilo MT, MC DR, MC RN do Capão e MC Pelourinho",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=EqVrMjjOKHE",
-          "score": 0.22,
-          "region": "BR",
-          "views": 46171
+          "views": 152703
         }
       ]
     },
@@ -102,81 +102,81 @@
       "label": "Notícias (BR)",
       "trends": [
         {
-          "title": "Binance registra saídas líquidas de US$3,64 bi após retomada de saques",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/binance-registra-saidas-liquidas-de-us364-bi-apos-retomada-de-saques/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "S&P 500 pode cair 9% com eleições nos EUA; Morgan Stanley vê potencial de compra",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/sp-500-pode-cair-9-com-eleicoes-nos-eua-morgan-stanley-ve-potencial-de-compra/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Justiça libera documentos sobre morte de Tancredo Neves após 41 anos; entenda",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/brasil/justica-libera-documentos-sobre-morte-de-tancredo-neves-apos-41-anos-entenda/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "CEO da bolsa de valores de Istanbul é detido em investigação sobre fundos",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/ceo-da-bolsa-de-valores-de-istanbul-e-detido-em-investigacao-sobre-fundos/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Funcionários da Disney e Universal são presos em operação contra tráfico humano",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/funcionarios-da-disney-e-universal-sao-presos-em-operacao-contra-trafico-humano/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Grêmio x Atlético-MG: veja onde assistir à Copa do Brasil",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/esportes/gremio-x-atletico-mg-veja-onde-assistir-a-copa-do-brasil/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Petrobras aumenta preço do querosene de aviação em novembro",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/economia/noticia/2026/11/01/petrobras-querosene-aviacao-novembro.ghtml",
-          "score": 80.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/economia/noticia/2026/11/01/por-que-trump-enfrenta-o-mesmo-problema-economico-que-derrubou-biden.ghtml",
-          "score": 80.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Mega-Sena 3080 acumula e prêmio vai a R$ 46 milhões; confira os números sorteados",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/01/mega-sena-concurso-3080-confira-os-numeros-sorteados.ghtml",
-          "score": 80.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Midterms 2026: Trump não está nas urnas, mas por que essa eleição é crucial para ele?",
+          "title": "Família do Texas estava no avião que caiu na Flórida, diz site",
           "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/01/midterms-2026-trump-nao-esta-nas-urnas-mas-por-que-essa-eleicao-e-crucial-para-ele.ghtml",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/02/familia-do-texas-estava-no-aviao-que-caiu-na-florida-diz-site.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Bolsas de NY fecham mistas com queda do petróleo, em semana de payroll e midterms",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-abrem-em-alta-com-queda-do-petroleo-em-semana-de-agenda-cheia/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Aprovação de Trump fica perto da mínima histórica, mostra pesquisa da Reuters/Ipsos",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/aprovacao-de-trump-fica-perto-da-minima-historica-mostra-pesquisa-da-reuters-ipsos/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Brasileirão 2026: Onde assistir RB-Bragantino x Santos?",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/brasileirao-onde-assistir-santos-rb-bragantino/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Índice de ADRs brasileiros recua em dia de queda de petróleo e bolsas mistas em NY",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/indice-de-adrs-brasileiros-sobe-em-dia-de-queda-de-petroleo-e-altas-em-ny/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "ICMS sobre os combustíveis: veja quanto será o aumento na gasolina, gás de cozinha e diesel a partir de 1° de fevereiro de 2027 em SP",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/02/icms-sobre-os-combustiveis-veja-quanto-sera-o-aumento-na-gasolina-gas-de-cozinha-e-diesel-a-partir-de-1-de-fevereiro-de-2027-em-sp.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Vale-tíquete: máquinas terão de aceitar todos os cartões a partir de 7 de novembro, diz Ministério do Trabalho",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/02/vale-tiquete-maquinas-terao-de-aceitar-todos-os-cartoes-a-partir-de-7-de-novembro-diz-ministerio-do-trabalho.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "IA consegue criar vírus que se espalha por conta própria em eletrodomésticos",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/virus-ia.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Vítimas de acidente na Flórida não foram identificadas, e autoridades falam em usar DNA",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/02/vitimas-de-acidente-na-florida-nao-foram-identificadas-e-autoridades-falam-em-usar-dna.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Autoridade dos EUA vê indícios de que avião com filha de brasileiros se despedaçou antes do impacto",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/02/autoridade-dos-eua-ve-indicios-de-que-aviao-com-filha-de-brasileiros-se-despedacou-antes-do-impacto.ghtml",
           "score": 80.0,
           "region": "BR",
           "views": null
@@ -278,44 +278,60 @@
       "label": "YouTube (US)",
       "trends": [
         {
-          "title": "Why This Gas Station Is So Terrifying",
+          "title": "TREASURE - ‘SHOCK’ M/V",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=UcTlPUR5s4w",
-          "score": 4.63,
+          "url": "https://youtube.com/watch?v=u_hpZueWI9g",
+          "score": 50.06,
           "region": "US",
-          "views": 666661
+          "views": 5490243
+        },
+        {
+          "title": "I Pretended to be a DARK DRAGON on One Chunk..",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=SYruQPDPdOg",
+          "score": 3.89,
+          "region": "US",
+          "views": 236565
+        },
+        {
+          "title": "SPECTACULAR SUNDAY STREAM",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=xyeuADJsOw4",
+          "score": 3.57,
+          "region": "US",
+          "views": 545107
+        },
+        {
+          "title": "AVENGERS DOOMSDAY NEW TEASER BREAKDOWN",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=J_7-12tE9p4",
+          "score": 2.04,
+          "region": "US",
+          "views": 397172
         },
         {
           "title": "The Cher Witch Project - Halloween Trailer | SNL UK",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=yS8bZlE-sA8",
-          "score": 1.44,
+          "score": 1.29,
           "region": "US",
-          "views": 285595
+          "views": 444793
         },
         {
           "title": "AVENGERS DOOMSDAY Countdown | Final Trailer Date | Patrick Stewart Thoughts | NR Podcast",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=gJ7Enjyd1oQ",
-          "score": 0.73,
+          "score": 0.83,
           "region": "US",
-          "views": 12358
+          "views": 189232
         },
         {
-          "title": "Best Halloween Spooky Music 🎃 Relaxing Halloween Music 2026 👻 Magical Halloween Ambience",
+          "title": "Baddies usa chapter 3 TRAILER. Confirmed fades",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=tRnMJ_q0kI8",
-          "score": 0.72,
+          "url": "https://youtube.com/watch?v=v1bbkkjpjlY",
+          "score": 0.32,
           "region": "US",
-          "views": 172651
-        },
-        {
-          "title": " 2 Hour Christmas Songs Of All Time🎄 Best Christmas Music Playlist 2027 🎅",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=9n0PwHlv6CA",
-          "score": 0.05,
-          "region": "US",
-          "views": 4400
+          "views": 42608
         }
       ]
     },
@@ -325,81 +341,81 @@
       "label": "Notícias (US)",
       "trends": [
         {
-          "title": "New York marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Haley Stevens endorses Mike Rogers amid Michigan Democratic feud",
+          "title": "Trump to Axios: \"No rush\" to decide on bombing Iran again",
           "source": "news:Axios",
-          "url": "https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
+          "url": "https://www.axios.com/2026/11/02/trump-axios-interview-no-rush-resume-war",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "The dangerous illusion of ‘a little Epic Fury’",
+          "title": "Trump pre-election pitch: Reflecting Pool, pipes and a new promenade",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/02/trump-dc-projects-reflecting-pool-speech",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump centers Reflecting Pool in closing midterm speech",
           "source": "news:The Hill",
-          "url": "https://thehill.com/opinion/national-security/6184776-economic-threat-epic-fury/",
+          "url": "https://thehill.com/homenews/6190138-trump-midterm-election-speech-reflecting-pool/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Billionaire tax divides California Democrats, draws myriad questions",
+          "title": "Trump, Hegseth underwater on approval from military members, veterans: Poll",
           "source": "news:The Hill",
-          "url": "https://thehill.com/business/6184949-california-billionaire-wealth-tax/",
+          "url": "https://thehill.com/homenews/administration/6190005-trump-hegseth-military-approval-ratings/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Living with high prices in Virginia's 1st Congressional District",
+          "title": "Ex-FBI leader in Chicago sues DOJ, Blanche, Patel over 'politically motivated' Broadview Six case",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/state-watch/6190100-broadview-six-prosecution-fallout/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump touts oil price drop on day before election",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/energy-environment/6190118-midterms-oil-prices-fall/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Live updates: Trump makes midterm closing pitch, touts Reflecting Pool rehab in remarks there",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6187464-stevens-rogers-endorsement-backlash/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Who is Jason Turkish, Haley Stevens's El-Sayed-bashing fiancé?",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6189925-haley-stevens-fiance-endorses-rogers/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Haley Stevens on Mike Rogers: 'Maybe he can be a McCain-type person or a Lisa Murkowski'",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6189975-stevens-rogers-mccain-murkowski/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
-          "score": 80.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
-          "score": 80.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Politics chat: Data centers are on everyone's minds going into Election Day",
-          "source": "news:NPR Politics",
-          "url": "https://www.npr.org/2026/11/01/nx-s1-6023270/politics-chat-data-centers-are-on-everyones-minds-going-into-election-day",
-          "score": 80.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "What NPR's senior political correspondent is watching for on Election Night",
-          "source": "news:NPR Politics",
-          "url": "https://www.npr.org/2026/11/01/nx-s1-6019709/what-nprs-senior-political-correspondent-is-watching-for-on-election-night",
-          "score": 80.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Behind the Curtain: OpenAI's post-election power play",
-          "source": "news:Axios",
-          "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
-          "score": 80.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Why Florida Republicans are \"white-knuckled\" about Tuesday",
-          "source": "news:Axios",
-          "url": "https://www.axios.com/2026/11/01/florida-republicans-anxiety-election",
+          "url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
           "score": 80.0,
           "region": "US",
           "views": null
@@ -497,73 +513,87 @@
   "br_us_connections": [
     {
       "topic": "trump",
-      "count": 15,
-      "score": 73.33,
+      "count": 20,
+      "score": 46.67,
       "sample_titles": [
-        "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
-        "Midterms 2026: Trump não está nas urnas, mas por que essa eleição é crucial para ele?",
-        "'Nova guerra pode ser mais longa', alerta Irã após novas ameaças de Trump",
-        "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+        "Democratas cobram explicações do governo Trump por apoio à fuga de Flávio",
+        "Os eleitores hispânicos ajudaram a eleger Trump. Isso pode estar mudando agora no Texas?",
+        "Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser",
+        "Americans’ Disapproval Of Trump, Economy Loom Over Midterm Elections",
         "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter"
       ]
     },
     {
       "topic": "binance",
-      "count": 6,
-      "score": 60.0,
+      "count": 7,
+      "score": 50.0,
       "sample_titles": [
-        "Binance retoma saques de bitcoin e ether após roubo de US$ 6,3 bilhões",
-        "Binance registra saídas líquidas de US$3,64 bi após retomada de saques",
+        "Mercado Bitcoin sofre ataque e suspende saques dias após roubo bilionário na Binance",
+        "Investidores retiram US$ 3,6 bilhões da Binance após ataque hacker",
+        "Coreia do Norte turbina hackers com IA: roubo de US$ 6,3 bi da Binance é só o começo",
         "A simple explainer of the massive $6.3 billion crypto heist at Binance",
-        "Hackers steal over $6 billion from crypto exchange Binance in staggering heist",
-        "Blockchain intelligence firms link North Korea to $6.3B hack on Binance"
+        "Hackers steal over $6 billion from crypto exchange Binance in staggering heist"
       ]
     },
     {
       "topic": "midterms",
-      "count": 4,
+      "count": 6,
+      "score": 64.0,
+      "sample_titles": [
+        "Eleições nos EUA 2026: acompanhe as últimas notícias sobre as midterms",
+        "Eleições nos EUA: partidos encerram campanha antes das decisivas midterms",
+        "Midterms 2026: os sete estados que vão decidir o Senado dos EUA e o futuro de Trump",
+        "Will anger over corruption be the deciding factor in the US midterms?",
+        "Mixed economic forecast weighs heavy ahead of midterms"
+      ]
+    },
+    {
+      "topic": "trailer",
+      "count": 6,
+      "score": 0.66,
+      "sample_titles": [
+        "Percy Jackson e os Olimpianos | Trailer Oficial Dublado| Disney+",
+        "Missão Resgate de Natal | Trailer Oficial | Prime Video",
+        "Akumatização do Adrien e seu novo visual | Análise do trailer de Desamor",
+        "AVENGERS DOOMSDAY Countdown | Final Trailer Date | Patrick Stewart Thoughts | NR Podcast",
+        "Baddies usa chapter 3 TRAILER. Confirmed fades"
+      ]
+    },
+    {
+      "topic": "hackers",
+      "count": 3,
       "score": 60.0,
       "sample_titles": [
-        "Midterms 2026: Trump não está nas urnas, mas por que essa eleição é crucial para ele?",
-        "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
-        "Mixed economic forecast weighs heavy ahead of midterms",
-        "Election cheat sheet: These early races could tell us where the midterms are headed"
+        "Hackers atacam supermercados europeus e elevam temperatura de freezers a 50°C",
+        "Coreia do Norte turbina hackers com IA: roubo de US$ 6,3 bi da Binance é só o começo",
+        "Hackers steal over $6 billion from crypto exchange Binance in staggering heist"
       ]
     },
     {
-      "topic": "universal",
+      "topic": "anthropic",
       "count": 2,
-      "score": 80.0,
+      "score": 40.0,
       "sample_titles": [
-        "Funcionários da Disney e Universal são presos em operação contra tráfico humano",
-        "Supreme Court hears religious freedom case centered on universal pre-K program"
+        "Receita da Anthropic salta 12 vezes, para US$ 17 bilhões, às vésperas do IPO",
+        "The two most interesting risks to Anthropic"
       ]
     },
     {
-      "topic": "sullivan",
+      "topic": "final",
       "count": 2,
-      "score": 80.0,
+      "score": 30.41,
       "sample_titles": [
-        "Dan Sullivan contra Dan Sullivan: a disputa no Alasca que levou o governo Trump à Justiça",
-        "Sullivan: 'I’m going to accept the election results'"
+        "OMS cobra países por acordo final sobre pandemias em meio a surto de ebola",
+        "AVENGERS DOOMSDAY Countdown | Final Trailer Date | Patrick Stewart Thoughts | NR Podcast"
       ]
     },
     {
-      "topic": "almgren",
+      "topic": "campus",
       "count": 2,
-      "score": 65.0,
+      "score": 30.0,
       "sample_titles": [
-        "Sueco Andreas Almgren e queniana Sheila Chepkirui vencem a Maratona de Nova York",
-        "New York marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part"
-      ]
-    },
-    {
-      "topic": "chepkirui",
-      "count": 2,
-      "score": 65.0,
-      "sample_titles": [
-        "Sueco Andreas Almgren e queniana Sheila Chepkirui vencem a Maratona de Nova York",
-        "New York marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part"
+        "Jacaré de 2 metros é resgatado dentro do campus do Ifap em Macapá; é o 2º animal em 17 dias",
+        "TSMC’s $265 Billion Campus Is Driving a Real Estate Boom in the Phoenix Suburbs"
       ]
     },
     {
@@ -574,20 +604,24 @@
         "como ganhar dinheiro online",
         "how to learn online"
       ]
-    },
-    {
-      "topic": "playlist",
-      "count": 2,
-      "score": 0.04,
-      "sample_titles": [
-        "PABLO 💖 SÓ AS ANTIGAS PLAYLIST 💝 ANTIGAS AS MELHORES",
-        " 2 Hour Christmas Songs Of All Time🎄 Best Christmas Music Playlist 2027 🎅"
-      ]
     }
   ],
   "cross_platform": [
     {
-      "topic": "living",
+      "topic": "santos",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.02,
+      "sample_titles": [
+        "HEITOR SANTOS 2026 - REPERTÓRIO ATUALIZADO - AS MAIS TOCADAS DE NOVEMBRO NO BAR",
+        "Brasileirão 2026: Onde assistir RB-Bragantino x Santos?"
+      ]
+    },
+    {
+      "topic": "quanto",
       "platforms": [
         "news",
         "google_trends"
@@ -595,37 +629,73 @@
       "count": 2,
       "score": 45.0,
       "sample_titles": [
-        "Living with high prices in Virginia's 1st Congressional District",
-        "cost of living"
+        "ICMS sobre os combustíveis: veja quanto será o aumento na gasolina, gás de cozinha e diesel a partir de 1° de fevereiro de 2027 em SP",
+        "quanto custa viajar para os EUA"
       ]
     },
     {
-      "topic": "novembro",
+      "topic": "trabalho",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Vale-tíquete: máquinas terão de aceitar todos os cartões a partir de 7 de novembro, diz Ministério do Trabalho",
+        "trabalho home office"
+      ]
+    },
+    {
+      "topic": "custa",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "EUA aprovam genérico de medicamento que previne HIV e custa US$ 40 por ano",
+        "quanto custa viajar para os EUA"
+      ]
+    },
+    {
+      "topic": "estados",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Midterms 2026: os sete estados que vão decidir o Senado dos EUA e o futuro de Trump",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "disney",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 43.35,
+      "score": 40.45,
       "sample_titles": [
-        "FLAGUIM MORAL - REPERTÓRIO NOVO | OH BAGAÇO BOM COM O PISEIRO DE NOVEMBRO",
-        "Chegamos em Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
-        "Petrobras aumenta preço do querosene de aviação em novembro",
-        "Calendário BPC/Loas novembro 2026: veja datas de pagamento",
-        "Bolsa Família 2026: veja calendário de pagamentos em novembro"
+        "Percy Jackson e os Olimpianos | Trailer Oficial Dublado| Disney+",
+        "Após crescer 71%, Lela Brandão Co. fecha parceria com Disney para nova coleção"
       ]
     },
     {
-      "topic": "mudou",
+      "topic": "viajar",
       "platforms": [
-        "youtube",
-        "news"
+        "news",
+        "google_trends"
       ],
       "count": 2,
-      "score": 40.03,
+      "score": 35.0,
       "sample_titles": [
-        "Especial Rádio Mania Ao Vivo - Matheusinho | Tudo Mudou / Valeu Esperar / Razão da Minha Vida",
-        "Auxílio-reclusão: entenda o que é o benefício e o que mudou com a Lei Antifacção"
+        "Vai viajar com crianças? Saiba como usar o Isofix e evitar erros na instalação da cadeirinha",
+        "quanto custa viajar para os EUA"
       ]
     },
     {
@@ -635,240 +705,296 @@
         "news"
       ],
       "count": 2,
-      "score": 30.36,
+      "score": 30.41,
       "sample_titles": [
         "AVENGERS DOOMSDAY Countdown | Final Trailer Date | Patrick Stewart Thoughts | NR Podcast",
-        "Trump thanks supporters for the memories in final campaign stops for 2026 midterms"
+        "OMS cobra países por acordo final sobre pandemias em meio a surto de ebola"
       ]
     },
     {
-      "topic": "dentro",
+      "topic": "segunda",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 16.74,
+      "score": 30.08,
       "sample_titles": [
-        "DENTRO DO COROLLA CROSS - MC Leozinho ZS, MC Murilo MT, MC DR, MC RN do Capão e MC Pelourinho",
-        "Jacaré de 2 metros é resgatado dentro do campus do Ifap em Macapá; é o 2º animal em 17 dias",
-        "Homem mata irmão baleado dentro de casa após discussão na zona oeste de SP"
+        "Segunda Feira 2 de Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Empresas devem oferecer atendimento humano para o consumidor a partir desta segunda-feira"
       ]
     },
     {
-      "topic": "halloween",
+      "topic": "segunda feira",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 14.05,
+      "score": 30.08,
       "sample_titles": [
-        "The Cher Witch Project - Halloween Trailer | SNL UK",
-        "Best Halloween Spooky Music 🎃 Relaxing Halloween Music 2026 👻 Magical Halloween Ambience",
-        "Candy prices got you scared stiff? What to know about the cost of Halloween this year"
+        "Segunda Feira 2 de Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Empresas devem oferecer atendimento humano para o consumidor a partir desta segunda-feira"
       ]
     },
     {
-      "topic": "noite",
+      "topic": "feira",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 10.02,
+      "score": 30.08,
       "sample_titles": [
-        "FOLHA DE URTIGA / ADRIANO BATIDÃO O REI DA NOITE / TBT 2027",
-        "Michele Maycoth interpreta sucessos de Maria Gadú em noite romântica no AP"
+        "Segunda Feira 2 de Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Empresas devem oferecer atendimento humano para o consumidor a partir desta segunda-feira"
       ]
     },
     {
-      "topic": "minha",
+      "topic": "novembro",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 5.04,
+      "score": 27.55,
       "sample_titles": [
-        "10.Minha Vez Vai Chegar",
-        "Especial Rádio Mania Ao Vivo - Matheusinho | Tudo Mudou / Valeu Esperar / Razão da Minha Vida",
-        "Ela Quer Bagunçar Minha Mente",
-        "Exposição 'Minha Aldeia' reúne fotografias inspiradas no cotidiano amapaense"
+        "Segunda Feira 2 de Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "HEITOR SANTOS 2026 - REPERTÓRIO ATUALIZADO - AS MAIS TOCADAS DE NOVEMBRO NO BAR",
+        "Vale-tíquete: máquinas terão de aceitar todos os cartões a partir de 7 de novembro, diz Ministério do Trabalho",
+        "Governo antecipa Bolsa Família de novembro e pagamentos podem superar R$ 1,1 mil"
+      ]
+    },
+    {
+      "topic": "ganhar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "Quer ganhar em dólar? Visto permite empreender nos EUA",
+        "como ganhar dinheiro online"
+      ]
+    },
+    {
+      "topic": "visto",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "Quer ganhar em dólar? Visto permite empreender nos EUA",
+        "visto americano"
+      ]
+    },
+    {
+      "topic": "cost living",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "We talked to voters in six battleground states about the rising cost of living - The Washington Post",
+        "cost of living"
       ]
     }
   ],
   "niche_ideas": [
     {
-      "main_topic": "Custo de vida",
-      "subtopic": "Viver com preços altos na Virgínia",
-      "why_trending": "Recentemente, houve um aumento significativo nos preços em várias áreas dos EUA, especialmente na Virgínia, o que está gerando discussões sobre o custo de vida.",
-      "niche_angle": "Explorar como os brasileiros imigrantes podem se adaptar a essas mudanças de preços e dicas práticas para economizar dinheiro.",
-      "video_format": "long",
-      "urgency": "high",
-      "ease": 5,
-      "source": "NPR News",
-      "region": "US",
-      "links": [
-        "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-11-01T17:44:05.160321"
-    },
-    {
       "main_topic": "Eleições nos EUA",
-      "subtopic": "Impacto das eleições de meio de mandato na economia",
-      "why_trending": "As eleições de meio de mandato estão se aproximando e as previsões indicam uma possível queda de 9% no S&P 500.",
-      "niche_angle": "Analisar como as mudanças políticas podem afetar os imigrantes brasileiros em termos de oportunidades de trabalho e investimento nos EUA.",
+      "subtopic": "Como as midterms de 2026 afetam a vida dos imigrantes brasileiros",
+      "why_trending": "As midterms de 2026 estão se aproximando e as decisões podem impactar diretamente políticas de imigração e direitos dos imigrantes.",
+      "niche_angle": "Explorar como as mudanças nas políticas podem afetar brasileiros que vivem nos EUA, incluindo direitos e oportunidades de trabalho.",
       "video_format": "long",
       "urgency": "high",
       "ease": 6,
-      "source": "InfoMoney",
+      "source": "news:G1 Mundo",
       "region": "US",
       "links": [
-        "https://www.infomoney.com.br/mercados/sp-500-pode-cair-9-com-eleicoes-nos-eua-morgan-stanley-ve-potencial-de-compra/"
+        "https://g1.globo.com/mundo/ao-vivo/eleicoes-nos-eua-2026-acompanhe-as-ultimas-noticias-sobre-as-midterms.ghtml"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
-      "collected_at": "2026-11-01T17:44:05.160332"
+      "collected_at": "2026-11-02T21:29:41.646954"
     },
     {
-      "main_topic": "Saúde",
-      "subtopic": "Mudanças no seguro de saúde com a ACA",
-      "why_trending": "Está ocorrendo a abertura de inscrições para o seguro de saúde ACA, com mudanças significativas que podem impactar muitos imigrantes.",
-      "niche_angle": "Explicar as novas opções de seguro de saúde e como os brasileiros podem escolher a melhor cobertura para suas necessidades.",
+      "main_topic": "Custo de Vida",
+      "subtopic": "Quanto custa viver nos EUA em 2026",
+      "why_trending": "Com a inflação e mudanças econômicas, muitos estão buscando informações sobre o custo de vida nos EUA.",
+      "niche_angle": "Um vídeo que compara o custo de vida em diferentes estados dos EUA e como isso impacta brasileiros imigrantes.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 5,
+      "source": "news:InfoMoney",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mundo/el-nino-representa-risco-significativo-de-aumento-da-inflacao-em-2027-nos-eua/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-02T21:29:41.646964"
+    },
+    {
+      "main_topic": "Trabalho e Emprego",
+      "subtopic": "Mudanças nas leis trabalhistas nos EUA",
+      "why_trending": "Novas regulamentações sobre trabalho remoto e direitos dos trabalhadores estão sendo discutidas, o que pode afetar muitos imigrantes.",
+      "niche_angle": "Discutir como essas mudanças podem beneficiar ou prejudicar os trabalhadores brasileiros nos EUA.",
       "video_format": "long",
       "urgency": "medium",
       "ease": 7,
-      "source": "NPR News",
+      "source": "news:G1 Economia",
       "region": "US",
       "links": [
-        "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance"
+        "https://g1.globo.com/economia/noticia/2026/11/02/vale-tiquete-maquinas-terao-de-aceitar-todos-os-cartoes-a-partir-de-7-de-novembro-diz-ministerio-do-trabalho.ghtml"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
-      "collected_at": "2026-11-01T17:44:05.160337"
+      "collected_at": "2026-11-02T21:29:41.646969"
     },
     {
-      "main_topic": "Negócios e Finanças",
-      "subtopic": "Saídas líquidas de criptomoedas na Binance",
-      "why_trending": "A Binance registrou saídas líquidas significativas, refletindo a insegurança dos investidores em um mercado volátil.",
-      "niche_angle": "Discutir como os brasileiros que investem ou pensam em investir em criptomoedas devem se preparar e quais alternativas considerar.",
-      "video_format": "long",
-      "urgency": "medium",
-      "ease": 5,
-      "source": "InfoMoney",
-      "region": "BR",
-      "links": [
-        "https://www.infomoney.com.br/mercados/binance-registra-saidas-liquidas-de-us364-bi-apos-retomada-de-saques/"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-11-01T17:44:05.160341"
-    },
-    {
-      "main_topic": "Direito e Legal",
-      "subtopic": "Deportações de brasileiros dos EUA",
-      "why_trending": "Um voo recente trouxe 85 brasileiros deportados dos EUA de volta ao Brasil, destacando questões de imigração.",
-      "niche_angle": "Explorar o processo de deportação e os direitos dos imigrantes brasileiros, além de dicas sobre como evitar problemas legais.",
+      "main_topic": "Saúde",
+      "subtopic": "Acesso a medicamentos nos EUA",
+      "why_trending": "A aprovação de um novo genérico para prevenção do HIV por US$ 40 por ano é um avanço importante na saúde pública.",
+      "niche_angle": "Analisar como brasileiros nos EUA podem acessar esses medicamentos e o que isso significa para a comunidade.",
       "video_format": "long",
       "urgency": "medium",
       "ease": 6,
-      "source": "Exame",
-      "region": "BR",
+      "source": "news:G1 Mundo",
+      "region": "US",
       "links": [
-        "https://exame.com/brasil/voo-com-85-brasileiros-deportados-dos-eua-chega-a-minas-gerais/"
+        "https://g1.globo.com/saude/noticia/2026/11/02/eua-aprovam-versao-generica-de-medicamento-para-prevenir-hiv.ghtml"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
-      "collected_at": "2026-11-01T17:44:05.160346"
+      "collected_at": "2026-11-02T21:29:41.646974"
     },
     {
-      "main_topic": "Empreendedorismo",
-      "subtopic": "IA no pequeno varejo",
-      "why_trending": "Novas tecnologias de IA estão ajudando pequenos varejistas a se adaptarem às mudanças do mercado.",
-      "niche_angle": "Discutir como brasileiros empreendedores podem usar IA para otimizar seus negócios e gerar mais receita.",
+      "main_topic": "Economia",
+      "subtopic": "Impacto da queda do petróleo nas bolsas de NY",
+      "why_trending": "As bolsas estão reagindo à queda do petróleo, o que pode afetar a economia como um todo.",
+      "niche_angle": "Explorar como a economia dos EUA, influenciada por estas mudanças, impacta a vida dos imigrantes brasileiros.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:InfoMoney",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-mistas-com-queda-do-petroleo-em-semana-de-payroll-e-midterms/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-02T21:29:41.646978"
+    },
+    {
+      "main_topic": "Viagens",
+      "subtopic": "Custo de viajar para os EUA em 2026",
+      "why_trending": "Com a alta do dólar e mudanças nas tarifas aéreas, muitos brasileiros estão questionando o custo de viajar para os EUA.",
+      "niche_angle": "Um guia prático sobre quanto custa viajar para os EUA e dicas para economizar.",
       "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:G1 Mundo",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/02/quanto-custa-viajar-para-os-eua.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-02T21:29:41.646983"
+    },
+    {
+      "main_topic": "Tecnologia",
+      "subtopic": "IA e seu impacto na sociedade",
+      "why_trending": "O uso de IA está crescendo e suas implicações éticas estão sendo discutidas amplamente.",
+      "niche_angle": "Debater como a IA pode impactar empregos e a vida dos imigrantes nos EUA.",
+      "video_format": "both",
       "urgency": "medium",
       "ease": 4,
-      "source": "Exame",
-      "region": "BR",
+      "source": "news:InfoMoney",
+      "region": "US",
       "links": [
-        "https://exame.com/bussola/como-pequeno-varejista-pode-utilizar-a-ia-para-se-adaptar-ao-fim-da-6x1/"
+        "https://www.infomoney.com.br/business/snap-faz-acordo-com-adolescentes-em-caso-sobre-depressao-e-transtornos-alimentares/"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
-      "collected_at": "2026-11-01T17:44:05.160351"
-    },
-    {
-      "main_topic": "Economia e Mercado",
-      "subtopic": "Aumento no preço do querosene de aviação",
-      "why_trending": "A Petrobras anunciou aumento no preço do querosene de aviação, o que pode impactar viagens e turismo.",
-      "niche_angle": "Analisar como esse aumento afeta brasileiros que viajam ou desejam viajar para e dentro dos EUA.",
-      "video_format": "long",
-      "urgency": "medium",
-      "ease": 5,
-      "source": "G1 Economia",
-      "region": "BR",
-      "links": [
-        "https://g1.globo.com/economia/noticia/2026/11/01/petrobras-querosene-aviacao-novembro.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-11-01T17:44:05.160357"
+      "collected_at": "2026-11-02T21:29:41.646987"
     },
     {
       "main_topic": "Direito e Legal",
-      "subtopic": "Eleições e imigração",
-      "why_trending": "As eleições de meio de mandato nos EUA podem ter um impacto significativo nas políticas de imigração.",
-      "niche_angle": "Explorar como os resultados dessas eleições podem afetar a vida de imigrantes brasileiros nos EUA, incluindo possíveis mudanças em políticas de visto.",
+      "subtopic": "Mudanças nas leis de imigração no Reino Unido e implicações para imigrantes",
+      "why_trending": "Mudanças nas leis de imigração do Reino Unido podem refletir tendências que afetarão os EUA.",
+      "niche_angle": "Analisar como essas mudanças podem prever futuras políticas de imigração nos EUA e afetar brasileiros.",
       "video_format": "long",
       "urgency": "medium",
-      "ease": 6,
-      "source": "G1 Mundo",
-      "region": "US",
+      "ease": 5,
+      "source": "news:G1 Mundo",
+      "region": "BR",
       "links": [
-        "https://g1.globo.com/mundo/noticia/2026/11/01/o-que-sao-as-eleicoes-de-meio-de-mandato-dos-eua-e-por-que-elas-podem-selar-futuro-de-trump.ghtml"
+        "https://g1.globo.com/mundo/noticia/2026/11/02/reino-unido-migrantes.ghtml"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
-      "collected_at": "2026-11-01T17:44:05.160381"
+      "collected_at": "2026-11-02T21:29:41.646999"
     },
     {
       "main_topic": "Entretenimento",
-      "subtopic": "Halloween e preços de doces",
-      "why_trending": "Com a proximidade do Halloween, as discussões sobre os altos preços dos doces estão em alta, refletindo preocupações com inflação.",
-      "niche_angle": "Criar um conteúdo divertido sobre como brasileiros celebram o Halloween nos EUA e dicas para economizar nas compras.",
-      "video_format": "short",
+      "subtopic": "Parcerias com a Disney e seu impacto no mercado",
+      "why_trending": "A Disney está expandindo suas parcerias, o que pode influenciar o mercado de produtos e serviços nos EUA.",
+      "niche_angle": "Explorar como essas mudanças podem impactar os negócios e oportunidades para brasileiros empreendedores nos EUA.",
+      "video_format": "long",
       "urgency": "low",
-      "ease": 5,
-      "source": "NPR News",
-      "region": "US",
+      "ease": 6,
+      "source": "news:Exame",
+      "region": "BR",
       "links": [
-        "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance"
+        "https://exame.com/marketing/apos-crescer-71-lela-brandao-co-fecha-parceria-com-disney-para-nova-colecao/"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
-      "collected_at": "2026-11-01T17:44:05.160391"
+      "collected_at": "2026-11-02T21:29:41.647011"
+    },
+    {
+      "main_topic": "Economia",
+      "subtopic": "Previsões sobre inflação e como se preparar",
+      "why_trending": "O El Niño está sendo apontado como um risco para aumento da inflação em 2027.",
+      "niche_angle": "Discutir como imigrantes brasileiros podem se preparar financeiramente para possíveis aumentos de preço.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 5,
+      "source": "news:InfoMoney",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mundo/el-nino-representa-risco-significativo-de-aumento-da-inflacao-em-2027-nos-eua/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-02T21:29:41.647017"
     }
   ]
 }
