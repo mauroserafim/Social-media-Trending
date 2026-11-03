@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 02/11/2026 21:29 UTC
+# 📊 Tendências em Alta — 03/11/2026 19:13 UTC
 
-**Run:** `41528701528` | **BR:** 30 trends | **US:** 27 trends | **Nicho:** 10 ideias
+**Run:** `41701057857` | **BR:** 30 trends | **US:** 24 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -12,28 +12,28 @@
 #### 📺 YouTube (BR) — Top 10
 
  1. GÊNIO QUIZ 5 - SÓ ABRA O VÍDEO SE VOCÊ FOR UM GÊNIO · [https://youtube.com/watch?v=uheytVGZexU](https://youtube.com/watch?v=uheytVGZexU)
- 2. 7 Minutoz - CIRCO DOS HORRORES 3 | Coringa, Batman Que Ri, Buggy, Caim, Circus Baby e Art The Clown · [https://youtube.com/watch?v=yd9oaRFJcMA](https://youtube.com/watch?v=yd9oaRFJcMA)
- 3. ♪ Homem de Ferro Superior (Marvel) | UPGRADE | AniRap · [https://youtube.com/watch?v=y29RnvDIgX4](https://youtube.com/watch?v=y29RnvDIgX4)
- 4. M4rkim - VERDADEIRA ZANGETSU (Ichigo) · [https://youtube.com/watch?v=TRlZ1NXKYV0](https://youtube.com/watch?v=TRlZ1NXKYV0)
- 5. Queen - Bohemian Rhapsody (Musikbox, February 11, 1979) · [https://youtube.com/watch?v=RPqE_YhDH6o](https://youtube.com/watch?v=RPqE_YhDH6o)
- 6. Kokushibo (Demon Slayer) - A Sonata da Lua | Henrique Mendonça · [https://youtube.com/watch?v=3ArQfNiyvkE](https://youtube.com/watch?v=3ArQfNiyvkE)
- 7. I Want To Know What Love Is - Foreigner (Boyce Avenue acoustic cover) · [https://youtube.com/watch?v=1mqW-8p1Gic](https://youtube.com/watch?v=1mqW-8p1Gic)
- 8. Percy Jackson e os Olimpianos | Trailer Oficial Dublado| Disney+ · [https://youtube.com/watch?v=XZbNyQlF2rU](https://youtube.com/watch?v=XZbNyQlF2rU)
- 9. Despedaçados | The Walten Files | Iron Master · [https://youtube.com/watch?v=yMdmEjsf2C0](https://youtube.com/watch?v=yMdmEjsf2C0)
-10. MVP (Blue Lock) | Basara ft. Gabriel Rodrigues, MHRAP, Tauz e Ark · [https://youtube.com/watch?v=H414ulNnk8M](https://youtube.com/watch?v=H414ulNnk8M)
+ 2. Red Velvet - IRENE & SEULGI 'Cheetah' MV · [https://youtube.com/watch?v=Ts8HTHBRxvw](https://youtube.com/watch?v=Ts8HTHBRxvw)
+ 3. A VIGÍLIA - EPISÓDIO 1 - "O Vilarejo" | Ordem Paranormal RPG · [https://youtube.com/watch?v=AWb-Y9nXZkE](https://youtube.com/watch?v=AWb-Y9nXZkE)
+ 4. MUNDO TORAJO SE TRANSFORMOU NOS SMILING CRITTERS! · [https://youtube.com/watch?v=W8BFL0FwQXQ](https://youtube.com/watch?v=W8BFL0FwQXQ)
+ 5. A TECNOLOGIA DO YORICK MAIS INJUSTO DE TODOS! · [https://youtube.com/watch?v=ieTgYlbWjMM](https://youtube.com/watch?v=ieTgYlbWjMM)
+ 6. ♪ Homem de Ferro Superior (Marvel) | UPGRADE | AniRap · [https://youtube.com/watch?v=y29RnvDIgX4](https://youtube.com/watch?v=y29RnvDIgX4)
+ 7. M4rkim - VERDADEIRA ZANGETSU (Ichigo) · [https://youtube.com/watch?v=TRlZ1NXKYV0](https://youtube.com/watch?v=TRlZ1NXKYV0)
+ 8. Despedaçados | The Walten Files | Iron Master · [https://youtube.com/watch?v=yMdmEjsf2C0](https://youtube.com/watch?v=yMdmEjsf2C0)
+ 9. Vem, São Miguel  | Irmã Kelly Patrícia | Instituto Hesed · [https://youtube.com/watch?v=O_Jzr4PqRBs](https://youtube.com/watch?v=O_Jzr4PqRBs)
+10. Percy Jackson e os Olimpianos | Trailer Oficial Dublado| Disney+ · [https://youtube.com/watch?v=XZbNyQlF2rU](https://youtube.com/watch?v=XZbNyQlF2rU)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Família do Texas estava no avião que caiu na Flórida, diz site · [https://g1.globo.com/mundo/noticia/2026/11/02/familia-do-texas-estava-no-aviao-que-caiu-na-florida-diz-site.ghtml](https://g1.globo.com/mundo/noticia/2026/11/02/familia-do-texas-estava-no-aviao-que-caiu-na-florida-diz-site.ghtml)
- 2. Bolsas de NY fecham mistas com queda do petróleo, em semana de payroll e midterms · [https://www.infomoney.com.br/mercados/bolsas-de-ny-abrem-em-alta-com-queda-do-petroleo-em-semana-de-agenda-cheia/](https://www.infomoney.com.br/mercados/bolsas-de-ny-abrem-em-alta-com-queda-do-petroleo-em-semana-de-agenda-cheia/)
- 3. Aprovação de Trump fica perto da mínima histórica, mostra pesquisa da Reuters/Ipsos · [https://www.infomoney.com.br/mundo/aprovacao-de-trump-fica-perto-da-minima-historica-mostra-pesquisa-da-reuters-ipsos/](https://www.infomoney.com.br/mundo/aprovacao-de-trump-fica-perto-da-minima-historica-mostra-pesquisa-da-reuters-ipsos/)
- 4. Brasileirão 2026: Onde assistir RB-Bragantino x Santos? · [https://www.infomoney.com.br/esportes/brasileirao-onde-assistir-santos-rb-bragantino/](https://www.infomoney.com.br/esportes/brasileirao-onde-assistir-santos-rb-bragantino/)
- 5. Índice de ADRs brasileiros recua em dia de queda de petróleo e bolsas mistas em NY · [https://www.infomoney.com.br/mercados/indice-de-adrs-brasileiros-sobe-em-dia-de-queda-de-petroleo-e-altas-em-ny/](https://www.infomoney.com.br/mercados/indice-de-adrs-brasileiros-sobe-em-dia-de-queda-de-petroleo-e-altas-em-ny/)
- 6. ICMS sobre os combustíveis: veja quanto será o aumento na gasolina, gás de cozinha e diesel a partir de 1° de fevereiro de 2027 em SP · [https://g1.globo.com/sp/sao-paulo/noticia/2026/11/02/icms-sobre-os-combustiveis-veja-quanto-sera-o-aumento-na-gasolina-gas-de-cozinha-e-diesel-a-partir-de-1-de-fevereiro-de-2027-em-sp.ghtml](https://g1.globo.com/sp/sao-paulo/noticia/2026/11/02/icms-sobre-os-combustiveis-veja-quanto-sera-o-aumento-na-gasolina-gas-de-cozinha-e-diesel-a-partir-de-1-de-fevereiro-de-2027-em-sp.ghtml)
- 7. Vale-tíquete: máquinas terão de aceitar todos os cartões a partir de 7 de novembro, diz Ministério do Trabalho · [https://g1.globo.com/economia/noticia/2026/11/02/vale-tiquete-maquinas-terao-de-aceitar-todos-os-cartoes-a-partir-de-7-de-novembro-diz-ministerio-do-trabalho.ghtml](https://g1.globo.com/economia/noticia/2026/11/02/vale-tiquete-maquinas-terao-de-aceitar-todos-os-cartoes-a-partir-de-7-de-novembro-diz-ministerio-do-trabalho.ghtml)
- 8. IA consegue criar vírus que se espalha por conta própria em eletrodomésticos · [https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/virus-ia.ghtml](https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/virus-ia.ghtml)
- 9. Vítimas de acidente na Flórida não foram identificadas, e autoridades falam em usar DNA · [https://g1.globo.com/mundo/noticia/2026/11/02/vitimas-de-acidente-na-florida-nao-foram-identificadas-e-autoridades-falam-em-usar-dna.ghtml](https://g1.globo.com/mundo/noticia/2026/11/02/vitimas-de-acidente-na-florida-nao-foram-identificadas-e-autoridades-falam-em-usar-dna.ghtml)
-10. Autoridade dos EUA vê indícios de que avião com filha de brasileiros se despedaçou antes do impacto · [https://g1.globo.com/mundo/noticia/2026/11/02/autoridade-dos-eua-ve-indicios-de-que-aviao-com-filha-de-brasileiros-se-despedacou-antes-do-impacto.ghtml](https://g1.globo.com/mundo/noticia/2026/11/02/autoridade-dos-eua-ve-indicios-de-que-aviao-com-filha-de-brasileiros-se-despedacou-antes-do-impacto.ghtml)
+ 1. ICE faz post ameaçando imigrantes em dia de eleição: 'Nós vamos te rastrear' · [https://g1.globo.com/mundo/noticia/2026/11/03/ice-faz-post-ameacando-imigrantes-em-dia-de-eleicao-nos-vamos-te-rastrear.ghtml](https://g1.globo.com/mundo/noticia/2026/11/03/ice-faz-post-ameacando-imigrantes-em-dia-de-eleicao-nos-vamos-te-rastrear.ghtml)
+ 2. É #FAKE que foto de avião prestes a atingir o solo mostre acidente com jatinho nos EUA; imagem foi feita com inteligência artificial · [https://g1.globo.com/fato-ou-fake/noticia/2026/11/03/e-fake-que-foto-de-aviao-prestes-a-atingir-o-solo-mostre-acidente-com-jatinho-nos-eua-imagem-foi-feita-com-inteligencia-artificial.ghtml](https://g1.globo.com/fato-ou-fake/noticia/2026/11/03/e-fake-que-foto-de-aviao-prestes-a-atingir-o-solo-mostre-acidente-com-jatinho-nos-eua-imagem-foi-feita-com-inteligencia-artificial.ghtml)
+ 3. Saúde e educação podem entrar no ajuste fiscal de Lula? Entenda o que está em estudo · [https://www.infomoney.com.br/mercados/saude-e-educacao-podem-entrar-no-ajuste-fiscal-de-lula-entenda-o-que-esta-em-estudo/](https://www.infomoney.com.br/mercados/saude-e-educacao-podem-entrar-no-ajuste-fiscal-de-lula-entenda-o-que-esta-em-estudo/)
+ 4. Groenlândia aprova acordo de segurança com Dinamarca e EUA após meses de pressão · [https://www.infomoney.com.br/mundo/groenlandia-aprova-acordo-de-seguranca-com-dinamarca-e-eua-apos-meses-de-pressao/](https://www.infomoney.com.br/mundo/groenlandia-aprova-acordo-de-seguranca-com-dinamarca-e-eua-apos-meses-de-pressao/)
+ 5. 13º salário: tudo sobre a primeira parcela do pagamento · [https://www.infomoney.com.br/minhas-financas/tudo-sobre-primeira-parcela-decimo-terceiro-2026/](https://www.infomoney.com.br/minhas-financas/tudo-sobre-primeira-parcela-decimo-terceiro-2026/)
+ 6. Na Black Friday, renegociação de dívidas vão competir com as compras, diz Serasa · [https://www.infomoney.com.br/minhas-financas/na-black-friday-renegociacao-de-dividas-vao-competir-com-as-compras-diz-serasa/](https://www.infomoney.com.br/minhas-financas/na-black-friday-renegociacao-de-dividas-vao-competir-com-as-compras-diz-serasa/)
+ 7. Britânia celebra 70 anos e amplia sua força no mercado nacional · [https://www.infomoney.com.br/consumo/britania-celebra-70-anos-e-amplia-sua-forca-no-mercado-nacional/](https://www.infomoney.com.br/consumo/britania-celebra-70-anos-e-amplia-sua-forca-no-mercado-nacional/)
+ 8. Mega da Virada 2026: apostas liberadas para concurso com prêmio estimado em R$ 1 bi · [https://www.infomoney.com.br/consumo/mega-da-virada-2026-apostas-liberadas-premio-1-bi/](https://www.infomoney.com.br/consumo/mega-da-virada-2026-apostas-liberadas-premio-1-bi/)
+ 9. Paes contesta vitória de Douglas Ruas e cobra 2º turno no Rio de Janeiro · [https://www.infomoney.com.br/politica/paes-contesta-vitoria-de-douglas-ruas-e-cobra-2o-turno-no-rio-de-janeiro/](https://www.infomoney.com.br/politica/paes-contesta-vitoria-de-douglas-ruas-e-cobra-2o-turno-no-rio-de-janeiro/)
+10. Posição do governo é votar a PEC da segurança com texto da Câmara, diz José Guimarães · [https://www.infomoney.com.br/politica/posicao-do-governo-e-votar-a-pec-da-seguranca-com-texto-da-camara-diz-jose-guimaraes/](https://www.infomoney.com.br/politica/posicao-do-governo-e-votar-a-pec-da-seguranca-com-texto-da-camara-diz-jose-guimaraes/)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,28 +54,25 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 7
+#### 📺 YouTube (US) — Top 4
 
- 1. TREASURE - ‘SHOCK’ M/V · [https://youtube.com/watch?v=u_hpZueWI9g](https://youtube.com/watch?v=u_hpZueWI9g)
- 2. I Pretended to be a DARK DRAGON on One Chunk.. · [https://youtube.com/watch?v=SYruQPDPdOg](https://youtube.com/watch?v=SYruQPDPdOg)
- 3. SPECTACULAR SUNDAY STREAM · [https://youtube.com/watch?v=xyeuADJsOw4](https://youtube.com/watch?v=xyeuADJsOw4)
- 4. AVENGERS DOOMSDAY NEW TEASER BREAKDOWN · [https://youtube.com/watch?v=J_7-12tE9p4](https://youtube.com/watch?v=J_7-12tE9p4)
- 5. The Cher Witch Project - Halloween Trailer | SNL UK · [https://youtube.com/watch?v=yS8bZlE-sA8](https://youtube.com/watch?v=yS8bZlE-sA8)
- 6. AVENGERS DOOMSDAY Countdown | Final Trailer Date | Patrick Stewart Thoughts | NR Podcast · [https://youtube.com/watch?v=gJ7Enjyd1oQ](https://youtube.com/watch?v=gJ7Enjyd1oQ)
- 7. Baddies usa chapter 3 TRAILER. Confirmed fades · [https://youtube.com/watch?v=v1bbkkjpjlY](https://youtube.com/watch?v=v1bbkkjpjlY)
+ 1. Lil Baby - 'Fresh' Official Album Trailer · [https://youtube.com/watch?v=QfNwhhnjI7E](https://youtube.com/watch?v=QfNwhhnjI7E)
+ 2. AVENGERS DOOMSDAY NEW TEASER BREAKDOWN · [https://youtube.com/watch?v=J_7-12tE9p4](https://youtube.com/watch?v=J_7-12tE9p4)
+ 3. AVENGERS DOOMSDAY Countdown | Final Trailer Date | Patrick Stewart Thoughts | NR Podcast · [https://youtube.com/watch?v=gJ7Enjyd1oQ](https://youtube.com/watch?v=gJ7Enjyd1oQ)
+ 4. 2 Hour Christmas Songs Of All Time 🎄🎅 Best Christmas Music  Playlist 2027 🎁❄️ · [https://youtube.com/watch?v=e_pKf0y0Q7U](https://youtube.com/watch?v=e_pKf0y0Q7U)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Trump to Axios: "No rush" to decide on bombing Iran again · [https://www.axios.com/2026/11/02/trump-axios-interview-no-rush-resume-war](https://www.axios.com/2026/11/02/trump-axios-interview-no-rush-resume-war)
- 2. Trump pre-election pitch: Reflecting Pool, pipes and a new promenade · [https://www.axios.com/2026/11/02/trump-dc-projects-reflecting-pool-speech](https://www.axios.com/2026/11/02/trump-dc-projects-reflecting-pool-speech)
- 3. Trump centers Reflecting Pool in closing midterm speech · [https://thehill.com/homenews/6190138-trump-midterm-election-speech-reflecting-pool/](https://thehill.com/homenews/6190138-trump-midterm-election-speech-reflecting-pool/)
- 4. Trump, Hegseth underwater on approval from military members, veterans: Poll · [https://thehill.com/homenews/administration/6190005-trump-hegseth-military-approval-ratings/](https://thehill.com/homenews/administration/6190005-trump-hegseth-military-approval-ratings/)
- 5. Ex-FBI leader in Chicago sues DOJ, Blanche, Patel over 'politically motivated' Broadview Six case · [https://thehill.com/homenews/state-watch/6190100-broadview-six-prosecution-fallout/](https://thehill.com/homenews/state-watch/6190100-broadview-six-prosecution-fallout/)
- 6. Trump touts oil price drop on day before election · [https://thehill.com/policy/energy-environment/6190118-midterms-oil-prices-fall/](https://thehill.com/policy/energy-environment/6190118-midterms-oil-prices-fall/)
- 7. Live updates: Trump makes midterm closing pitch, touts Reflecting Pool rehab in remarks there · [https://thehill.com/homenews/administration/6187464-stevens-rogers-endorsement-backlash/](https://thehill.com/homenews/administration/6187464-stevens-rogers-endorsement-backlash/)
- 8. Who is Jason Turkish, Haley Stevens's El-Sayed-bashing fiancé? · [https://thehill.com/homenews/campaign/6189925-haley-stevens-fiance-endorses-rogers/](https://thehill.com/homenews/campaign/6189925-haley-stevens-fiance-endorses-rogers/)
- 9. Haley Stevens on Mike Rogers: 'Maybe he can be a McCain-type person or a Lisa Murkowski' · [https://thehill.com/homenews/campaign/6189975-stevens-rogers-mccain-murkowski/](https://thehill.com/homenews/campaign/6189975-stevens-rogers-mccain-murkowski/)
-10. AI chatbots are becoming political advisers. Their answers can mislead voters · [https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice](https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice)
+ 1. Voting machine chaos hits key House battleground · [https://www.axios.com/2026/11/03/ny-voting-ballot-polls-ballot-issue](https://www.axios.com/2026/11/03/ny-voting-ballot-polls-ballot-issue)
+ 2. Wright: 'The best cure for high prices is high prices' · [https://thehill.com/business/6192862-chris-wright-energy-prices-affordability-iran-war/](https://thehill.com/business/6192862-chris-wright-energy-prices-affordability-iran-war/)
+ 3. Gas prices reach record high for an Election Day · [https://thehill.com/policy/energy-environment/6193013-election-day-record-gas-prices/](https://thehill.com/policy/energy-environment/6193013-election-day-record-gas-prices/)
+ 4. Young voters could help shape the midterms. But will they turn out? · [https://thehill.com/homenews/campaign/6189470-young-voters-gen-z-midterm-elections-election-day/](https://thehill.com/homenews/campaign/6189470-young-voters-gen-z-midterm-elections-election-day/)
+ 5. When caring for aging family members becomes cost prohibitive · [https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive](https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive)
+ 6. For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life · [https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson](https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson)
+ 7. Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia · [https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia](https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia)
+ 8. States take steps to secure vote after federal pullback · [https://www.axios.com/2026/11/03/2026-election-security-states](https://www.axios.com/2026/11/03/2026-election-security-states)
+ 9. Prediction markets have a lot riding on the blue wave · [https://www.axios.com/2026/11/03/kalshi-polymarket-midterms-democrats](https://www.axios.com/2026/11/03/kalshi-polymarket-midterms-democrats)
+10. What we're watching on election night for energy · [https://www.axios.com/2026/11/03/election-night-midterms-energy](https://www.axios.com/2026/11/03/election-night-midterms-energy)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -97,13 +94,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **Eleições nos EUA** | Como as midterms de 2026 afetam a vida dos imigrantes brasileiros | As midterms de 2026 estão se aproximando e as decisões podem impactar diretamente políticas de imigração e direitos dos  |
-| 2 🟠 🎬 | **Custo de Vida** | Quanto custa viver nos EUA em 2026 | Com a inflação e mudanças econômicas, muitos estão buscando informações sobre o custo de vida nos EUA. |
-| 3 🟡 🎬 | **Trabalho e Emprego** | Mudanças nas leis trabalhistas nos EUA | Novas regulamentações sobre trabalho remoto e direitos dos trabalhadores estão sendo discutidas, o que pode afetar muito |
-| 4 🟡 🎬 | **Saúde** | Acesso a medicamentos nos EUA | A aprovação de um novo genérico para prevenção do HIV por US$ 40 por ano é um avanço importante na saúde pública. |
-| 5 🟡 🎯 | **Economia** | Impacto da queda do petróleo nas bolsas de NY | As bolsas estão reagindo à queda do petróleo, o que pode afetar a economia como um todo. |
-| 6 🟡 🎬 | **Viagens** | Custo de viajar para os EUA em 2026 | Com a alta do dólar e mudanças nas tarifas aéreas, muitos brasileiros estão questionando o custo de viajar para os EUA. |
-| 7 🟡 🎯 | **Tecnologia** | IA e seu impacto na sociedade | O uso de IA está crescendo e suas implicações éticas estão sendo discutidas amplamente. |
-| 8 🟡 🎬 | **Direito e Legal** | Mudanças nas leis de imigração no Reino Unido e implicações para imigrantes | Mudanças nas leis de imigração do Reino Unido podem refletir tendências que afetarão os EUA. |
-| 9 🟢 🎬 | **Entretenimento** | Parcerias com a Disney e seu impacto no mercado | A Disney está expandindo suas parcerias, o que pode influenciar o mercado de produtos e serviços nos EUA. |
-| 10 🟢 🎬 | **Economia** | Previsões sobre inflação e como se preparar | O El Niño está sendo apontado como um risco para aumento da inflação em 2027. |
+| 1 🟠 🎬 | **Eleições nos EUA** | Como as eleições impactam os direitos dos imigrantes | As eleições nos EUA estão em alta e podem afetar diretamente políticas de imigração e direitos de brasileiros residentes |
+| 2 🟡 🎬 | **Inteligência Artificial** | Como a IA pode mudar sua carreira nos EUA | O uso de inteligência artificial está crescendo rapidamente e se tornou uma habilidade essencial no mercado de trabalho. |
+| 3 🟡 🎯 | **Negócios & Dinheiro** | Como a Black Friday afeta o consumo dos brasileiros nos EUA | A Black Friday se aproxima e os brasileiros estão se tornando mais exigentes e cientes de suas compras. |
+| 4 🟠 🎬 | **Direito & Legal** | Como o ICE afeta imigrantes durante as eleições | Postagens do ICE ameaçando imigrantes em um dia de eleição levantam preocupações sobre segurança e direitos. |
+| 5 🟡 ⚡ | **Economia & Mercado** | Preços de combustíveis nas eleições | Os preços de combustíveis atingiram recordes durante as eleições, impactando o custo de vida. |
+| 6 🟡 🎬 | **Saúde** | A relação entre saúde e imigração | Discussões sobre saúde e educação em relação ao ajuste fiscal estão em alta e impactam imigrantes. |
+| 7 🟡 🎯 | **Negócios & Dinheiro** | Desafios de empreender como brasileiro nos EUA | A crescente comunidade de empreendedores brasileiros nos EUA precisa de informações práticas para navegar no mercado. |
+| 8 🟢 🎯 | **Viagem** | Custo de viajar para NY em 2026 | O turismo está voltando e muitos brasileiros estão planejando viagens para os EUA, especialmente para NY. |
+| 9 🟢 ⚡ | **Entretenimento** | O que esperar da Disney após demissões | A Disney está passando por uma reestruturação significativa, afetando seus funcionários e operações. |
