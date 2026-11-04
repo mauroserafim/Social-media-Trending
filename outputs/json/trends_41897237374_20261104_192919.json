@@ -1,0 +1,1001 @@
+{
+  "generated_at": "2026-11-04T19:29:19.026701",
+  "run_id": "41897237374",
+  "summary": {
+    "total_br": 30,
+    "total_us": 28,
+    "br_us_connections": 10,
+    "cross_platform_topics": 14,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "A VIGÍLIA - EPISÓDIO 1 - \"O Vilarejo\" | Ordem Paranormal RPG",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=AWb-Y9nXZkE",
+          "score": 3.29,
+          "region": "BR",
+          "views": 728200
+        },
+        {
+          "title": "JOGO DE CORTAR ÁRVORES - O MAIS SATISFATÓRIO DO MUNDO",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=8CHxr2Y9TMU",
+          "score": 2.64,
+          "region": "BR",
+          "views": 113091
+        },
+        {
+          "title": "Eagles - Hotel California (Lyrics)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=8Ea83jemnXI",
+          "score": 1.65,
+          "region": "BR",
+          "views": 404175
+        },
+        {
+          "title": "Chrono - DHARMA | Mahoraga (Jujutsu Kaisen)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=1ybpHiqnQY4",
+          "score": 1.58,
+          "region": "BR",
+          "views": 290669
+        },
+        {
+          "title": "Katy Perry - The One That Got Away (Lyrics)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=gpigAP4_2Tc",
+          "score": 1.36,
+          "region": "BR",
+          "views": 310524
+        },
+        {
+          "title": "WIU - Piranguera",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=BbamsiZcmPY",
+          "score": 1.07,
+          "region": "BR",
+          "views": 174950
+        },
+        {
+          "title": "ANGRY BIRDS 3 O FILME Trailer 2 Dublado Oficial (2026)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=YBYTK-CLAeY",
+          "score": 0.9,
+          "region": "BR",
+          "views": 45638
+        },
+        {
+          "title": "O PEQUENO GUERREIRO Trailer Dublado Oficial (2026) Chris Pratt",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=PLjr53b12Aw",
+          "score": 0.6,
+          "region": "BR",
+          "views": 140727
+        },
+        {
+          "title": "Percy Jackson e os Olimpianos | Trailer Oficial Dublado| Disney+",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=XZbNyQlF2rU",
+          "score": 0.47,
+          "region": "BR",
+          "views": 156913
+        },
+        {
+          "title": "Zezé Di Camargo & Luciano – Só as Antigas",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=nAYrvn7VNLA",
+          "score": 0.42,
+          "region": "BR",
+          "views": 50476
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "SC confirma 4° foco da doença de Newcastle e reforça medidas de controle em granjas",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/04/sc-confirma-quarto-foco-da-doenca-de-newcastle.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Com avanço democrata, Trump terá dificuldade em seguir com política externa atual, avaliam integrantes do governo Lula",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/04/com-avanco-democrata-trump-tera-dificuldade-em-seguir-com-tarifas-e-doutrina-donroe-avaliam-integrantes-do-governo-lula.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Tesouro Direto volta do apagão com tombo de até 38 pontos-base pouco antes do Copom",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-04112026/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Revista Time cobre boca de Trump com adesivo após derrota republicana no Congresso",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/revista-time-cobre-boca-de-trump-com-adesivo-apos-derrota-republicana-no-congresso/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Construção: quais empresas devem surpreender e quais podem frustrar no 3T26",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/temporada-balanco-3t26-construtoras-cyre3-cury3-mrve3/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Paraguai: entenda a crise que derrubou presidente do BC e colocou banco sob suspeita",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/paraguai-entenda-a-crise-que-derrubou-presidente-do-bc-e-colocou-banco-sob-suspeita/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Papamóvel de Leão XIV no Peru é uma Chevrolet S10 adaptada; veja o que mudou na picape",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/carros/noticia/2026/11/04/papamovel-leao-xiv-peru.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Presidente do Paraguai anuncia ressarcimento de clientes de banco e indica novo chefe para o BC",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/04/presidente-paraguai-anuncia-medidas-crise-bancaria.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Paraguaios protestam após quebra de banco digital Ueno e renúncia do presidente do BC",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/04/paraguaios-vao-as-ruas-em-protesto-apos-quebra-de-banco-digital-e-renuncia-do-presidente-do-bc.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Brasil cria 121 mil empregos formais em setembro, queda de 43% na comparação com mesmo mês de 2025",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/04/brasil-cria-1213-mil-empregos-formais-em-setembro-queda-de-43percent-na-comparacao-com-mesmo-mes-de-2025.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "All hell just broke loose..",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Ji2GzX1nMAA",
+          "score": 15.11,
+          "region": "US",
+          "views": 2128242
+        },
+        {
+          "title": "AVENGERS 5: DOOMSDAY Official “Gambit Meets Herbie\" Promo Clip (2026)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=K5BlylIjjCY",
+          "score": 5.27,
+          "region": "US",
+          "views": 393690
+        },
+        {
+          "title": "TYPICAL TUESDAY STREAM",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=ohQXEHnv_mE",
+          "score": 4.3,
+          "region": "US",
+          "views": 602413
+        },
+        {
+          "title": "Honest Trailers | Monsters, Inc.",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=5vrrJorU-3c",
+          "score": 2.12,
+          "region": "US",
+          "views": 429520
+        },
+        {
+          "title": "AVENGERS: DOOMSDAY \"Gambit Meets HERBIE\" Trailer (NEW 2026)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=_lMu4koUTaI",
+          "score": 1.99,
+          "region": "US",
+          "views": 155230
+        },
+        {
+          "title": "BEDJINE - J'AVOUE (OFFICIAL VIDEO)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=t1MJvR3vug8",
+          "score": 1.31,
+          "region": "US",
+          "views": 232198
+        },
+        {
+          "title": "Top 50 Christmas Songs Of All Time🎄 Best Christmas Music Playlist 2027 🎅",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=dgVQq8KDWE4",
+          "score": 0.34,
+          "region": "US",
+          "views": 72754
+        },
+        {
+          "title": "The Chosen Just Dropped a New Trailer — NEPHITE ANGELS Have Christians FREAKING OUT!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=NR1DA0y1TlQ",
+          "score": 0.27,
+          "region": "US",
+          "views": 43592
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Key Pentagon priorities in peril after Democratic sweep",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/04/democrat-midterms-hegseth-pentagon-investigations",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Democrats' midterm gains could sideline Electoral College by 2028",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/04/democrats-electoral-college-popular-vote-2028",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Democrats vow Trump investigations, but voters have another priority too",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/04/democrats-trump-investigations-affordability-agenda",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Jeffries taunts Speaker Johnson for saying polls were wrong",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/6198897-jeffries-ribs-johnson-midterms/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Who won redistricted House seats?",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6198650-election-day-2026-gop-democrat-redistricting-war-outcomes/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "George Santos on midterm elections: It’s a s‑‑‑ show",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/blogs/in-the-know/6198799-george-santos-gop-midterm-disaster/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump: Hegseth would be 'very popular' as Tennessee senator",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6198786-trump-supports-hegseth-tn-senate/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Bill Clinton implores Dems to work together 'with humility and determination'",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6198752-clinton-democrat-midterm-victory/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Democratic wins ignite centrist-progressive fight over path to 2028",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6198754-party-direction-debate-2028/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 23,
+      "score": 40.0,
+      "sample_titles": [
+        "Midterms nos EUA podem limitar agenda de Trump para o Brasil",
+        "Americanos vão às urnas em julgamento das políticas de Trump",
+        "Preço da gasolina sob Trump bate recorde no dia da eleição de meio de mandato",
+        "Trump: 'We've Already Agreed that by End of This Year, We Won't Be Paying Israel'",
+        "How Trump’s ‘Donroe Doctrine’ is taking back the Western Hemisphere"
+      ]
+    },
+    {
+      "topic": "midterms",
+      "count": 6,
+      "score": 40.0,
+      "sample_titles": [
+        "Midterms nos EUA podem limitar agenda de Trump para o Brasil",
+        "As disputas das ‘midterms’ que Wall Street e outras instituições financeiras estão acompanhando",
+        "How Wall Street analysts think the midterms could affect stocks",
+        "Mixed economic forecast weighs heavy ahead of midterms",
+        "Eric Holder on how the GOP's redistricting efforts affected the midterms"
+      ]
+    },
+    {
+      "topic": "trailer",
+      "count": 5,
+      "score": 0.85,
+      "sample_titles": [
+        "ANGRY BIRDS 3 O FILME Trailer 2 Dublado Oficial (2026)",
+        "O PEQUENO GUERREIRO Trailer Dublado Oficial (2026) Chris Pratt",
+        "Percy Jackson e os Olimpianos | Trailer Oficial Dublado| Disney+",
+        "AVENGERS: DOOMSDAY \"Gambit Meets HERBIE\" Trailer (NEW 2026)",
+        "The Chosen Just Dropped a New Trailer — NEPHITE ANGELS Have Christians FREAKING OUT!"
+      ]
+    },
+    {
+      "topic": "israel",
+      "count": 4,
+      "score": 47.5,
+      "sample_titles": [
+        "Trump anuncia fim de ajuda anual de US$ 4 bilhões a Israel",
+        "Presidente de Israel pede compromisso aos partidos para evitar novas eleições",
+        "Trump: 'We've Already Agreed that by End of This Year, We Won't Be Paying Israel'",
+        "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales"
+      ]
+    },
+    {
+      "topic": "california",
+      "count": 4,
+      "score": 45.41,
+      "sample_titles": [
+        "Eagles - Hotel California (Lyrics)",
+        "Is the Golden State about to kill its golden geese? Today California votes on whether to impose a punitive tax to grab 5pc of the entire assets of its 250 billionaires. So could Labour's class warriors do the same here?",
+        "Two economists studied California's billionaire tax. They reached wildly different conclusions",
+        "Kiley loses House reelection bid in California"
+      ]
+    },
+    {
+      "topic": "office",
+      "count": 3,
+      "score": 36.67,
+      "sample_titles": [
+        "trabalho home office",
+        "US midterm elections: Senator’s office vandalised as voting disruptions hit New York and Florida",
+        "Chicago entrepreneur turns empty downtown office space into vertical gardens"
+      ]
+    },
+    {
+      "topic": "street",
+      "count": 3,
+      "score": 33.33,
+      "sample_titles": [
+        "As disputas das ‘midterms’ que Wall Street e outras instituições financeiras estão acompanhando",
+        "How Wall Street analysts think the midterms could affect stocks",
+        "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter"
+      ]
+    },
+    {
+      "topic": "wall street",
+      "count": 3,
+      "score": 33.33,
+      "sample_titles": [
+        "As disputas das ‘midterms’ que Wall Street e outras instituições financeiras estão acompanhando",
+        "How Wall Street analysts think the midterms could affect stocks",
+        "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter"
+      ]
+    },
+    {
+      "topic": "latinos",
+      "count": 2,
+      "score": 60.0,
+      "sample_titles": [
+        "Latinos, guerra, voto antecipado: os fatores da 'onda azul', que deu aos democratas uma vitória histórica nos EUA",
+        "Latinos Are Still Swing Voters"
+      ]
+    },
+    {
+      "topic": "global",
+      "count": 2,
+      "score": 60.0,
+      "sample_titles": [
+        "Trumpismo em declínio? Eleições de meio de mandato nos EUA ganham dimensão global",
+        "Global leaders weigh in on America's midterm shake-up"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "empresa",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 57.5,
+      "sample_titles": [
+        "Carro voador da Embraer: Eve fecha acordo para vender até 12 aeronaves para empresa que vai operar no Sul do Brasil",
+        "Ele trabalhava cada vez mais e a empresa não crescia: os 5 hábitos que viram obstáculo, segundo CEO",
+        "Opinião: a sucessão de uma empresa não pode depender apenas de uma assinatura",
+        "abrir empresa nos EUA"
+      ]
+    },
+    {
+      "topic": "pouco",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 46.68,
+      "sample_titles": [
+        "Grupo Benzadeus - Ainda Gosto de Você / Coração Deserto / Por Tão Pouco (Clipe Oficial)",
+        "Algas marinhas impulsionam inovação na UFRJ: ‘Ouro verde pouco explorado’",
+        "Tesouro Direto volta do apagão com tombo de até 38 pontos-base pouco antes do Copom"
+      ]
+    },
+    {
+      "topic": "california",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 45.41,
+      "sample_titles": [
+        "Eagles - Hotel California (Lyrics)",
+        "Is the Golden State about to kill its golden geese? Today California votes on whether to impose a punitive tax to grab 5pc of the entire assets of its 250 billionaires. So could Labour's class warriors do the same here?",
+        "Two economists studied California's billionaire tax. They reached wildly different conclusions",
+        "Kiley loses House reelection bid in California"
+      ]
+    },
+    {
+      "topic": "digital",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Paraguaios protestam após quebra de banco digital Ueno e renúncia do presidente do BC",
+        "digital marketing tips"
+      ]
+    },
+    {
+      "topic": "mundo",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 41.32,
+      "sample_titles": [
+        "JOGO DE CORTAR ÁRVORES - O MAIS SATISFATÓRIO DO MUNDO",
+        "Do Irã ao comércio: como as eleições nos EUA afetam o restante do mundo"
+      ]
+    },
+    {
+      "topic": "filme",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.45,
+      "sample_titles": [
+        "ANGRY BIRDS 3 O FILME Trailer 2 Dublado Oficial (2026)",
+        "'Klara e o Sol': conheça a história do livro que virou filme com Jenna Ortega"
+      ]
+    },
+    {
+      "topic": "música",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.2,
+      "sample_titles": [
+        "VAI MATAR PAPAI - Diovane Severo e Igor Ferrari (MÚSICA NOVA) Piseiro 2026",
+        "Trilha de ‘Sentimento Louco’ traz música que Marília Mendonça fez para o filho Léo"
+      ]
+    },
+    {
+      "topic": "office",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 36.67,
+      "sample_titles": [
+        "US midterm elections: Senator’s office vandalised as voting disruptions hit New York and Florida",
+        "Chicago entrepreneur turns empty downtown office space into vertical gardens",
+        "trabalho home office"
+      ]
+    },
+    {
+      "topic": "inteligência",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 33.33,
+      "sample_titles": [
+        "Analista de dados ou de inteligência de mercado: qual carreira combina mais com seu perfil?",
+        "inteligência artificial 2025",
+        "como usar inteligência artificial"
+      ]
+    },
+    {
+      "topic": "dólar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 30.0,
+      "sample_titles": [
+        "Dólar tem forte alta com temor sobre agenda econômica do governo",
+        "Ibovespa e dólar voltam à prova: quais níveis podem definir a reabertura do mercado?",
+        "dólar hoje"
+      ]
+    },
+    {
+      "topic": "immigration",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 30.0,
+      "sample_titles": [
+        "Did Rubio say he would investigate El-Sayed's immigration status? Here's the truth",
+        "Mahmood's immigration climbdown is STILL not enough for Labour MPs - as they complain Channel boat arrivals will have to wait too long for settled status",
+        "immigration USA"
+      ]
+    },
+    {
+      "topic": "brasileiro",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "Ativistas americanos usam exemplo do Brasil para impulsionar campanha nas eleições legislativas: \"vote como um brasileiro\"",
+        "brasileiro nos EUA"
+      ]
+    },
+    {
+      "topic": "noite",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 10.04,
+      "sample_titles": [
+        "Boa Noite Vida Arrocha (Resenha dos Amigos Vol 2)",
+        "Michele Maycoth interpreta sucessos de Maria Gadú em noite romântica no AP"
+      ]
+    },
+    {
+      "topic": "grupo",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 10.03,
+      "sample_titles": [
+        "Grupo Benzadeus - Ainda Gosto de Você / Coração Deserto / Por Tão Pouco (Clipe Oficial)",
+        "Grupo empresarial deve pagar quase R$ 21 milhões por desvio de recursos da Cidade das Águas em Frutal"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "Imigração",
+      "subtopic": "Mudanças nas leis de imigração após eleições nos EUA",
+      "why_trending": "As recentes eleições nos EUA resultaram em mudanças significativas na política de imigração, afetando diretamente os imigrantes e suas expectativas.",
+      "niche_angle": "Explorar como as novas políticas de imigração afetam brasileiros nos EUA e o que eles devem saber para se adaptarem a essas mudanças.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "news:G1 Mundo",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/04/eleicoes-nas-eua-videos-mostram-comemoracao-no-texas-apos-vitorias-democratas.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-04T19:29:19.024673"
+    },
+    {
+      "main_topic": "Educação",
+      "subtopic": "Carreiras em Inteligência Artificial",
+      "why_trending": "A demanda por profissionais de IA está crescendo rapidamente, com previsões de crescimento significativo nos próximos anos.",
+      "niche_angle": "Discutir como brasileiros nos EUA podem se preparar para carreiras em IA e quais cursos e habilidades são mais valorizados.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://exame.com/carreira/analista-de-dados-ou-de-inteligencia-de-mercado-qual-carreira-combina-mais-com-seu-perfil/"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-04T19:29:19.024683"
+    },
+    {
+      "main_topic": "Negócios & Dinheiro",
+      "subtopic": "Impacto da alta do dólar nos negócios dos imigrantes",
+      "why_trending": "A recente alta do dólar tem gerado preocupações entre os imigrantes, afetando custos e investimentos.",
+      "niche_angle": "Analisar como a alta do dólar impacta o dia a dia financeiro dos brasileiros nos EUA e o que podem fazer para se proteger.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 5,
+      "source": "news:G1 Mundo",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/04/eleicoes-eua-motivacoes-eleitores-pesquisa-ap.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-04T19:29:19.024688"
+    },
+    {
+      "main_topic": "Economia & Mercado",
+      "subtopic": "Efeitos da política econômica democrata nos EUA",
+      "why_trending": "Com a vitória dos democratas, mudanças na política econômica estão sendo discutidas, o que pode afetar o cenário para os imigrantes.",
+      "niche_angle": "Explorar como as mudanças econômicas podem impactar os brasileiros que vivem nos EUA e o que eles devem considerar ao planejar suas finanças.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news:G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/04/vitoria-democrata-nos-eua-ameaca-planos-de-trump-para-economia-e-ia-entenda.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-04T19:29:19.024693"
+    },
+    {
+      "main_topic": "Lifestyle",
+      "subtopic": "Rotina de trabalho home office nos EUA",
+      "why_trending": "Com o crescimento do home office, muitos brasileiros estão se adaptando a essa nova realidade.",
+      "niche_angle": "Compartilhar dicas práticas para brasileiros que trabalham de casa nos EUA, incluindo rotinas, produtividade e equilíbrio entre vida pessoal e profissional.",
+      "video_format": "short",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "news:G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/04/tesouro-direto-abertura-fechamento-04112026/"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-04T19:29:19.024697"
+    },
+    {
+      "main_topic": "Tecnologia",
+      "subtopic": "Uso de IA para otimização de negócios",
+      "why_trending": "O uso de inteligência artificial está se tornando comum entre pequenas e médias empresas nos EUA.",
+      "niche_angle": "Falar sobre como brasileiros empreendedores podem aproveitar a IA para otimizar seus negócios e aumentar a eficiência.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/tecnologia/noticia/2026/11/04/como-usar-inteligencia-artificial.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-04T19:29:19.024703"
+    },
+    {
+      "main_topic": "Negócios & Dinheiro",
+      "subtopic": "Dicas de marketing digital para brasileiros nos EUA",
+      "why_trending": "O marketing digital continua em alta, especialmente entre imigrantes que buscam expandir seus negócios.",
+      "niche_angle": "Fornecer estratégias de marketing digital específicas para brasileiros que desejam se destacar no competitivo mercado dos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "news:G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/04/ele-trabalhava-cada-vez-mais-e-a-empresa-nao-crescia-os-5-habitos-que-viram-obstaculo-segundo-ceo.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-04T19:29:19.024707"
+    },
+    {
+      "main_topic": "Entretenimento",
+      "subtopic": "Humor sobre a vida de imigrantes nos EUA",
+      "why_trending": "O humor é uma forma poderosa de lidar com os desafios da vida como imigrante.",
+      "niche_angle": "Criar conteúdo humorístico que retrate de forma realista as situações cotidianas enfrentadas por brasileiros nos EUA.",
+      "video_format": "short",
+      "urgency": "low",
+      "ease": 3,
+      "source": "trends:TikTok",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "youtube",
+        "tiktok"
+      ],
+      "collected_at": "2026-11-04T19:29:19.024716"
+    },
+    {
+      "main_topic": "Comunidade & Opinião",
+      "subtopic": "Debate sobre a situação dos imigrantes após as eleições",
+      "why_trending": "As recentes eleições geraram discussões sobre o futuro dos imigrantes nos EUA.",
+      "niche_angle": "Convidar especialistas e imigrantes para discutir como as mudanças políticas impactam a comunidade brasileira nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:G1 Mundo",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/04/com-avanco-democrata-trump-tera-dificuldade-em-seguir-com-tarifas-e-doutrina-donroe-avaliam-integrantes-do-governo-lula.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-04T19:29:19.024745"
+    }
+  ]
+}
