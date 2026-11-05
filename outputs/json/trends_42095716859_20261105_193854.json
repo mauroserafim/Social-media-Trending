@@ -1,0 +1,941 @@
+{
+  "generated_at": "2026-11-05T19:38:54.937071",
+  "run_id": "42095716859",
+  "summary": {
+    "total_br": 30,
+    "total_us": 22,
+    "br_us_connections": 10,
+    "cross_platform_topics": 15,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "JISOO - ‘ADDICTED’ DANCE PERFORMANCE VIDEO",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=dND8ysuZqlA",
+          "score": 29.59,
+          "region": "BR",
+          "views": 2097866
+        },
+        {
+          "title": "UNCHILD 언차일드 '팅팅 (TiNG TiNG)' MV",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=zPkhs5qxpnU",
+          "score": 19.63,
+          "region": "BR",
+          "views": 1886913
+        },
+        {
+          "title": "GODZILLA MINUS ZERO | Official Trailer 3 - NOW PLAYING",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Pu0pH5BuCPM",
+          "score": 4.98,
+          "region": "BR",
+          "views": 127624
+        },
+        {
+          "title": "BTS WORLD TOUR 'ARIRANG' LIVE VIEWING FROM KAOHSIUNG & JAKARTA - Official Trailer",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=xzTFYPnoum8",
+          "score": 4.26,
+          "region": "BR",
+          "views": 265443
+        },
+        {
+          "title": "ACONTECE - Tarcísio do Acordeon (Clipe Oficial)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=bUJ9rnVYQ0M",
+          "score": 3.09,
+          "region": "BR",
+          "views": 705510
+        },
+        {
+          "title": "SIMULADOR DE VELHA - SIM, VIREI UMA VOVÓ",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=4fqyw5XbJlQ",
+          "score": 2.91,
+          "region": "BR",
+          "views": 128781
+        },
+        {
+          "title": "VOCÊ ESTÁ BUILDANDO SION ERRADO!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=XkM3g2Ttw_k",
+          "score": 1.84,
+          "region": "BR",
+          "views": 81331
+        },
+        {
+          "title": "Chrono - DHARMA | Mahoraga (Jujutsu Kaisen)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=1ybpHiqnQY4",
+          "score": 1.49,
+          "region": "BR",
+          "views": 474684
+        },
+        {
+          "title": "TEMOS QUE LIMPAR A LUA INTEIRA | Moon Sweepers ft. Gabriel Coxinha",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=J5HNqYpn79I",
+          "score": 1.38,
+          "region": "BR",
+          "views": 60876
+        },
+        {
+          "title": "WIU - Piranguera",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=BbamsiZcmPY",
+          "score": 0.87,
+          "region": "BR",
+          "views": 265659
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Após reunião com Lula, Durigan diz que não há 'fórmula mágica' na economia e fala em manter compromissos fiscais e da campanha",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/05/apos-reuniao-com-lula-e-economistas-ministro-da-fazenda-diz-que-nao-ha-formula-magica-e-fala-em-manter-compromissos-fiscais.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Aliada de Trump que chefiava a unidade de direitos civis do Departamento de Justiça pede demissão",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/05/aliada-de-trump-que-chefiava-a-unidade-de-direitos-civis-do-departamento-de-justica-pede-demissao.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Pé-de-Meia Universitário deve começar em 2027, diz ministro da Educação",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/pe-de-meia-universitario-deve-comecar-em-2027-diz-ministro-da-educacao/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Comissão especial aprova MP do Brasil Soberano 3, para empresas afetadas por tarifaço",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/comissao-especial-aprova-mp-do-brasil-soberano-3-para-empresas-afetadas-por-tarifaco/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Paraguai: Câmara rejeita impeachment de vice-presidente após renúncia de Peña",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/paraguai-camara-rejeita-impeachment-de-vice-presidente-apos-renuncia-de-pena/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "‘Imposto do pecado’: governo define regras para taxar carros; veja o que pesa no cálculo",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/carros/noticia/2026/11/05/imposto-do-pecado-governo-define-regras-para-taxar-carros-veja-o-que-pesa-no-calculo.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Santiago Peña tentou se blindar da Justiça com renúncia, diz Ariel Palácios",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/05/com-renuncia-santiago-pena-ganha-cargo-de-senador-vitalicio-no-paraguai.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Presidente do Paraguai, Santiago Peña, renuncia após crise bancária; Câmara decide seguir com impeachment",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/05/presidente-do-paraguai-santiago-pena-renuncia-apos-crise-bancaria.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Google derruba esquema que controlava 1 milhão de TV boxes infectados; Brasil é o 2º mais afetado",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/11/05/google-derruba-rede-com-1-milhao-de-aparelhos-infectados-incluindo-tv-boxes-brasil-e-o-2o-mais-afetado.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Banco digital que quebrou no Paraguai administrava mais de US$ 800 milhões em dinheiro público; Santiago Peña foi sócio do grupo controlador",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/11/05/banco-digital-que-quebrou-no-paraguai-administrava-mais-de-us-800-milhoes-em-dinheiro-publico.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "AVENGERS 5: DOOMSDAY Official “Gambit Meets Herbie\" Promo Clip (2026)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=K5BlylIjjCY",
+          "score": 4.68,
+          "region": "US",
+          "views": 1139571
+        },
+        {
+          "title": "Collecting ALL 300+ CHARACTERS in FNAF World ULTRA",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=mco4RHoTe6w",
+          "score": 2.77,
+          "region": "US",
+          "views": 172211
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "Rove: Paxton 'drew down the entire Republican ticket' in Texas",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6201889-karl-rove-ken-paxton-texas-republicans/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Greg Steube to run for House GOP conference chair",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/house/6201925-greg-steube-house-gop-conference-chair-run-2027/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Sanders calls for Democrats to pass 'Medicare for All'",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/senate/6201914-sanders-calls-medicare-all/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Watch live: Hinojosa speaks after midterm win against Abbott",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/video-clips/6201860-watch-live-gina-hinojosa-texas-governors-race-presser-midterms/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "DOJ sues Penn State over in-state tuition for undocumented students",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/education/6201779-doj-penn-state-undocumented-students/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Cruz on midterms: 'It was an a‑‑ kicking'",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6201759-democrats-flip-texas-statewide-races/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Live updates: DOJ's Dhillon resigns; DC arch could get final approval",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6199942-live-updates-trump-arch-midterm-elections-russia-ukraine/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "California rejects ballot measure requiring voter ID",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6178993-california-proposition-39-voter-id-fails/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "El-Sayed says he'd back Van Hollen as majority leader over Schumer",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/senate/6201684-el-sayed-van-hollen-majority-leader/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 17,
+      "score": 40.0,
+      "sample_titles": [
+        "“Fizeram um bom trabalho”: Trump admite derrota para democratas",
+        "Planalto se anima com derrota de Trump nos EUA, mas avalia que ainda é cedo para estimar impacto no Brasil",
+        "Midterms nos EUA podem limitar agenda de Trump para o Brasil",
+        "Texas Senate victor James Talarico lays out common ground with Trump, vows to 'work together'",
+        "GOP's midterm defeat sparks bold claims from foreign leaders who've clashed with Trump"
+      ]
+    },
+    {
+      "topic": "midterms",
+      "count": 7,
+      "score": 44.0,
+      "sample_titles": [
+        "Midterms nos EUA podem limitar agenda de Trump para o Brasil",
+        "Dólar acompanha alívio externo após ‘midterms’ e opera em queda ante o real",
+        "Winning the Midterms Could Be the Democrats' Biggest Mistake",
+        "Midterms are bad for incumbents – and even worse when energy prices are high",
+        "What's next for Democrats after the midterms. And, a look at the outstanding races"
+      ]
+    },
+    {
+      "topic": "texas",
+      "count": 4,
+      "score": 55.0,
+      "sample_titles": [
+        "Será que 500 milhões de dólares do Musk não compram o Texas?",
+        "As propostas econômicas de James Talarico, eleito senador pelo Texas",
+        "Texas Senate victor James Talarico lays out common ground with Trump, vows to 'work together'",
+        "Rove: Paxton 'drew down the entire Republican ticket' in Texas"
+      ]
+    },
+    {
+      "topic": "office",
+      "count": 3,
+      "score": 43.33,
+      "sample_titles": [
+        "trabalho home office",
+        "Head of Justice Department office on Civil Rights resigns",
+        "Chicago entrepreneur turns empty downtown office space into vertical gardens"
+      ]
+    },
+    {
+      "topic": "official",
+      "count": 3,
+      "score": 4.64,
+      "sample_titles": [
+        "GODZILLA MINUS ZERO | Official Trailer 3 - NOW PLAYING",
+        "BTS WORLD TOUR 'ARIRANG' LIVE VIEWING FROM KAOHSIUNG & JAKARTA - Official Trailer",
+        "AVENGERS 5: DOOMSDAY Official “Gambit Meets Herbie\" Promo Clip (2026)"
+      ]
+    },
+    {
+      "topic": "wall street",
+      "count": 2,
+      "score": 50.0,
+      "sample_titles": [
+        "Ibovespa Hoje Ao Vivo: Bolsa recua na esteira de Wall Street; VALE3 sobe",
+        "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter"
+      ]
+    },
+    {
+      "topic": "street",
+      "count": 2,
+      "score": 50.0,
+      "sample_titles": [
+        "Ibovespa Hoje Ao Vivo: Bolsa recua na esteira de Wall Street; VALE3 sobe",
+        "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter"
+      ]
+    },
+    {
+      "topic": "digital",
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Banco digital que quebrou no Paraguai administrava mais de US$ 800 milhões em dinheiro público; Santiago Peña foi sócio do grupo controlador",
+        "digital marketing tips"
+      ]
+    },
+    {
+      "topic": "james talarico",
+      "count": 2,
+      "score": 40.0,
+      "sample_titles": [
+        "As propostas econômicas de James Talarico, eleito senador pelo Texas",
+        "Texas Senate victor James Talarico lays out common ground with Trump, vows to 'work together'"
+      ]
+    },
+    {
+      "topic": "james",
+      "count": 2,
+      "score": 40.0,
+      "sample_titles": [
+        "As propostas econômicas de James Talarico, eleito senador pelo Texas",
+        "Texas Senate victor James Talarico lays out common ground with Trump, vows to 'work together'"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "imposto",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 56.67,
+      "sample_titles": [
+        "‘Imposto do pecado’: governo define regras para taxar carros; veja o que pesa no cálculo",
+        "‘Imposto do pecado’: o que entra? Produtos vão ficar mais caros? Veja perguntas e respostas",
+        "imposto nos EUA"
+      ]
+    },
+    {
+      "topic": "dinheiro",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Banco digital que quebrou no Paraguai administrava mais de US$ 800 milhões em dinheiro público; Santiago Peña foi sócio do grupo controlador",
+        "como ganhar dinheiro online"
+      ]
+    },
+    {
+      "topic": "digital",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Banco digital que quebrou no Paraguai administrava mais de US$ 800 milhões em dinheiro público; Santiago Peña foi sócio do grupo controlador",
+        "digital marketing tips"
+      ]
+    },
+    {
+      "topic": "morar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Paraguai já teve presidente que renunciou e foi morar em Balneário Camboriú",
+        "morar nos EUA"
+      ]
+    },
+    {
+      "topic": "renda",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Renda previsível: as 6 ações de dividendos mais indicadas após as eleições",
+        "renda extra"
+      ]
+    },
+    {
+      "topic": "office",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 43.33,
+      "sample_titles": [
+        "Head of Justice Department office on Civil Rights resigns",
+        "Chicago entrepreneur turns empty downtown office space into vertical gardens",
+        "trabalho home office"
+      ]
+    },
+    {
+      "topic": "quinta feira",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.06,
+      "sample_titles": [
+        "Quinta Feira 5 de Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Quem é Santiago Peña, presidente do Paraguai que renunciou nesta quinta-feira (5)"
+      ]
+    },
+    {
+      "topic": "novembro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.06,
+      "sample_titles": [
+        "Quinta Feira 5 de Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Lançamentos do Disney+ em novembro de 2026: veja os filmes e as séries"
+      ]
+    },
+    {
+      "topic": "quinta",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.06,
+      "sample_titles": [
+        "Quinta Feira 5 de Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Quem é Santiago Peña, presidente do Paraguai que renunciou nesta quinta-feira (5)"
+      ]
+    },
+    {
+      "topic": "feira",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.06,
+      "sample_titles": [
+        "Quinta Feira 5 de Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Quem é Santiago Peña, presidente do Paraguai que renunciou nesta quinta-feira (5)"
+      ]
+    },
+    {
+      "topic": "ainda",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.04,
+      "sample_titles": [
+        "Grupo Benzadeus - Ainda Gosto de Você / Coração Deserto / Por Tão Pouco (Clipe Oficial)",
+        "Planalto se anima com derrota de Trump nos EUA, mas avalia que ainda é cedo para estimar impacto no Brasil",
+        "Marte ainda pode ter vulcões ativos? Gás detectado intriga cientistas"
+      ]
+    },
+    {
+      "topic": "vezes",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.02,
+      "sample_titles": [
+        "As vezes Deus te afasta",
+        "Volume de compras de bitcoin no Itaú cresceram 3 vezes depois da eleição"
+      ]
+    },
+    {
+      "topic": "grupo",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 33.38,
+      "sample_titles": [
+        "Grupo Benzadeus - Ainda Gosto de Você / Coração Deserto / Por Tão Pouco (Clipe Oficial)",
+        "Banco digital que quebrou no Paraguai administrava mais de US$ 800 milhões em dinheiro público; Santiago Peña foi sócio do grupo controlador",
+        "Grupo empresarial deve pagar quase R$ 21 milhões por desvio de recursos da Cidade das Águas em Frutal"
+      ]
+    },
+    {
+      "topic": "dólar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 30.0,
+      "sample_titles": [
+        "Gestores quase zeram otimismo, fogem do ‘Kit Brasil’ e apostam no dólar, aponta XP",
+        "Dólar acompanha alívio externo após ‘midterms’ e opera em queda ante o real",
+        "dólar hoje"
+      ]
+    },
+    {
+      "topic": "trabalho",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "“Fizeram um bom trabalho”: Trump admite derrota para democratas",
+        "trabalho home office"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "Imposto",
+      "subtopic": "Imposto do pecado: o que é e como isso afeta sua vida nos EUA",
+      "why_trending": "O governo brasileiro está implementando novas regras para taxar produtos, e isso gera discussões sobre o impacto financeiro. A questão dos impostos é sempre relevante, especialmente em tempos de mudanças políticas.",
+      "niche_angle": "Explorar como os brasileiros nos EUA podem se preparar para mudanças fiscais e o que isso significa para a vida financeira deles.",
+      "video_format": "both",
+      "urgency": "high",
+      "ease": 6,
+      "source": "news:G1 Economia",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/05/imposto-do-pecado-governo-define-regras-para-taxar-carros-veja-o-que-pesa-no-calculo.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-05T19:38:54.924010"
+    },
+    {
+      "main_topic": "Negócios & Dinheiro",
+      "subtopic": "Como ganhar dinheiro online: dicas práticas",
+      "why_trending": "Com a crescente busca por formas de renda extra, especialmente após crises financeiras, as pessoas estão cada vez mais interessadas em oportunidades digitais.",
+      "niche_angle": "Apresentar métodos de ganhar dinheiro online que são viáveis para brasileiros vivendo nos EUA, incluindo detalhes sobre regulamentações locais.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 5,
+      "source": "news:G1 Economia",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/05/banco-digital-que-quebrou-no-paraguai-administrava-mais-de-us-800-milhoes-em-dinheiro-publico.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-05T19:38:54.924021"
+    },
+    {
+      "main_topic": "Educação",
+      "subtopic": "Pé-de-Meia Universitário: o que brasileiros precisam saber",
+      "why_trending": "O novo programa educacional no Brasil, que começa em 2027, levanta debates sobre educação financeira e investimentos em estudos.",
+      "niche_angle": "Discutir como brasileiros nos EUA podem se beneficiar de programas de educação financeira e planejamento para estudos no exterior.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "news:InfoMoney",
+      "region": "BR",
+      "links": [
+        "https://www.infomoney.com.br/politica/pe-de-meia-universitario-deve-comecar-em-2027-diz-ministro-da-educacao/"
+      ],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-11-05T19:38:54.924026"
+    },
+    {
+      "main_topic": "Direito & Legal",
+      "subtopic": "Visto e imigração: o que mudou com as últimas eleições",
+      "why_trending": "A nova administração nos EUA traz incertezas e mudanças nas políticas de imigração, afetando diretamente a comunidade brasileira.",
+      "niche_angle": "Analisar como as recentes mudanças políticas impactam os direitos e as oportunidades para brasileiros que desejam imigrar ou já estão nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:The Hill",
+      "region": "US",
+      "links": [
+        "https://thehill.com/homenews/campaign/6201759-democrats-flip-texas-statewide-races/"
+      ],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-11-05T19:38:54.924031"
+    },
+    {
+      "main_topic": "Economia & Mercado",
+      "subtopic": "Impacto da inflação nos salários nos EUA",
+      "why_trending": "Com a inflação alta, muitos estão preocupados com como isso afeta seu poder de compra e suas finanças pessoais.",
+      "niche_angle": "Explicar como a inflação nos EUA está afetando os salários e o custo de vida dos brasileiros imigrantes, com dicas para gerenciar finanças.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "news:The Hill",
+      "region": "US",
+      "links": [
+        "https://thehill.com/homenews/campaign/6201759-democrats-flip-texas-statewide-races/"
+      ],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-11-05T19:38:54.924036"
+    },
+    {
+      "main_topic": "Lifestyle",
+      "subtopic": "Morar nos EUA: desafios e oportunidades",
+      "why_trending": "A mudança de vida para outro país é uma decisão significativa e muitas pessoas estão buscando informações sobre como é viver nos EUA.",
+      "niche_angle": "Compartilhar experiências reais de brasileiros que moram nos EUA, abordando desafios e dicas práticas para uma adaptação bem-sucedida.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news:G1 Economia",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/05/paraguai-ja-teve-presidente-que-renunciou-e-foi-morar-em-balneario-camboriu.ghtml"
+      ],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-11-05T19:38:54.924041"
+    },
+    {
+      "main_topic": "Viagem",
+      "subtopic": "Brasileiros buscando residência no Paraguai: o que isso significa?",
+      "why_trending": "A crise política e econômica no Paraguai está aumentando o interesse de brasileiros em buscar residência no país vizinho.",
+      "niche_angle": "Discutir os prós e contras de se mudar para o Paraguai como uma opção para brasileiros, especialmente aqueles que estão nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:Exame",
+      "region": "BR",
+      "links": [
+        "https://exame.com/mundo/brasileiros-lideram-busca-por-residencia-no-paraguai-que-agora-enfrenta-crise-politica/"
+      ],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-11-05T19:38:54.924045"
+    },
+    {
+      "main_topic": "Tecnologia",
+      "subtopic": "O futuro do marketing digital: como se preparar",
+      "why_trending": "O marketing digital continua a evoluir, e muitos buscam se adaptar às novas tendências para se destacar no mercado.",
+      "niche_angle": "Oferecer insights sobre as mais recentes tendências em marketing digital e como brasileiros nos EUA podem aplicar essas estratégias para negócios.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:G1 Economia",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/05/banco-digital-que-quebrou-no-paraguai-administrava-mais-de-us-800-milhoes-em-dinheiro-publico.ghtml"
+      ],
+      "platforms": [
+        "news"
+      ],
+      "collected_at": "2026-11-05T19:38:54.924054"
+    },
+    {
+      "main_topic": "Entretenimento",
+      "subtopic": "Desafios engraçados sobre a vida nos EUA",
+      "why_trending": "Conteúdos de entretenimento que desafiam a cultura americana ou os costumes dos brasileiros se tornam virais rapidamente.",
+      "niche_angle": "Criar vídeos de desafios que abordem diferenças culturais entre brasileiros e americanos, proporcionando humor e reflexão.",
+      "video_format": "short",
+      "urgency": "low",
+      "ease": 8,
+      "source": "tiktok",
+      "region": "US",
+      "links": [],
+      "platforms": [
+        "tiktok"
+      ],
+      "collected_at": "2026-11-05T19:38:54.924059"
+    }
+  ]
+}

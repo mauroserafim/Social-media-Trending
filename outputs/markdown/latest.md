@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 04/11/2026 19:29 UTC
+# 📊 Tendências em Alta — 05/11/2026 19:38 UTC
 
-**Run:** `41897237374` | **BR:** 30 trends | **US:** 28 trends | **Nicho:** 9 ideias
+**Run:** `42095716859` | **BR:** 30 trends | **US:** 22 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. A VIGÍLIA - EPISÓDIO 1 - "O Vilarejo" | Ordem Paranormal RPG · [https://youtube.com/watch?v=AWb-Y9nXZkE](https://youtube.com/watch?v=AWb-Y9nXZkE)
- 2. JOGO DE CORTAR ÁRVORES - O MAIS SATISFATÓRIO DO MUNDO · [https://youtube.com/watch?v=8CHxr2Y9TMU](https://youtube.com/watch?v=8CHxr2Y9TMU)
- 3. Eagles - Hotel California (Lyrics) · [https://youtube.com/watch?v=8Ea83jemnXI](https://youtube.com/watch?v=8Ea83jemnXI)
- 4. Chrono - DHARMA | Mahoraga (Jujutsu Kaisen) · [https://youtube.com/watch?v=1ybpHiqnQY4](https://youtube.com/watch?v=1ybpHiqnQY4)
- 5. Katy Perry - The One That Got Away (Lyrics) · [https://youtube.com/watch?v=gpigAP4_2Tc](https://youtube.com/watch?v=gpigAP4_2Tc)
- 6. WIU - Piranguera · [https://youtube.com/watch?v=BbamsiZcmPY](https://youtube.com/watch?v=BbamsiZcmPY)
- 7. ANGRY BIRDS 3 O FILME Trailer 2 Dublado Oficial (2026) · [https://youtube.com/watch?v=YBYTK-CLAeY](https://youtube.com/watch?v=YBYTK-CLAeY)
- 8. O PEQUENO GUERREIRO Trailer Dublado Oficial (2026) Chris Pratt · [https://youtube.com/watch?v=PLjr53b12Aw](https://youtube.com/watch?v=PLjr53b12Aw)
- 9. Percy Jackson e os Olimpianos | Trailer Oficial Dublado| Disney+ · [https://youtube.com/watch?v=XZbNyQlF2rU](https://youtube.com/watch?v=XZbNyQlF2rU)
-10. Zezé Di Camargo & Luciano – Só as Antigas · [https://youtube.com/watch?v=nAYrvn7VNLA](https://youtube.com/watch?v=nAYrvn7VNLA)
+ 1. JISOO - ‘ADDICTED’ DANCE PERFORMANCE VIDEO · [https://youtube.com/watch?v=dND8ysuZqlA](https://youtube.com/watch?v=dND8ysuZqlA)
+ 2. UNCHILD 언차일드 '팅팅 (TiNG TiNG)' MV · [https://youtube.com/watch?v=zPkhs5qxpnU](https://youtube.com/watch?v=zPkhs5qxpnU)
+ 3. GODZILLA MINUS ZERO | Official Trailer 3 - NOW PLAYING · [https://youtube.com/watch?v=Pu0pH5BuCPM](https://youtube.com/watch?v=Pu0pH5BuCPM)
+ 4. BTS WORLD TOUR 'ARIRANG' LIVE VIEWING FROM KAOHSIUNG & JAKARTA - Official Trailer · [https://youtube.com/watch?v=xzTFYPnoum8](https://youtube.com/watch?v=xzTFYPnoum8)
+ 5. ACONTECE - Tarcísio do Acordeon (Clipe Oficial) · [https://youtube.com/watch?v=bUJ9rnVYQ0M](https://youtube.com/watch?v=bUJ9rnVYQ0M)
+ 6. SIMULADOR DE VELHA - SIM, VIREI UMA VOVÓ · [https://youtube.com/watch?v=4fqyw5XbJlQ](https://youtube.com/watch?v=4fqyw5XbJlQ)
+ 7. VOCÊ ESTÁ BUILDANDO SION ERRADO! · [https://youtube.com/watch?v=XkM3g2Ttw_k](https://youtube.com/watch?v=XkM3g2Ttw_k)
+ 8. Chrono - DHARMA | Mahoraga (Jujutsu Kaisen) · [https://youtube.com/watch?v=1ybpHiqnQY4](https://youtube.com/watch?v=1ybpHiqnQY4)
+ 9. TEMOS QUE LIMPAR A LUA INTEIRA | Moon Sweepers ft. Gabriel Coxinha · [https://youtube.com/watch?v=J5HNqYpn79I](https://youtube.com/watch?v=J5HNqYpn79I)
+10. WIU - Piranguera · [https://youtube.com/watch?v=BbamsiZcmPY](https://youtube.com/watch?v=BbamsiZcmPY)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. SC confirma 4° foco da doença de Newcastle e reforça medidas de controle em granjas · [https://g1.globo.com/sc/santa-catarina/noticia/2026/11/04/sc-confirma-quarto-foco-da-doenca-de-newcastle.ghtml](https://g1.globo.com/sc/santa-catarina/noticia/2026/11/04/sc-confirma-quarto-foco-da-doenca-de-newcastle.ghtml)
- 2. Com avanço democrata, Trump terá dificuldade em seguir com política externa atual, avaliam integrantes do governo Lula · [https://g1.globo.com/politica/noticia/2026/11/04/com-avanco-democrata-trump-tera-dificuldade-em-seguir-com-tarifas-e-doutrina-donroe-avaliam-integrantes-do-governo-lula.ghtml](https://g1.globo.com/politica/noticia/2026/11/04/com-avanco-democrata-trump-tera-dificuldade-em-seguir-com-tarifas-e-doutrina-donroe-avaliam-integrantes-do-governo-lula.ghtml)
- 3. Tesouro Direto volta do apagão com tombo de até 38 pontos-base pouco antes do Copom · [https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-04112026/](https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-04112026/)
- 4. Revista Time cobre boca de Trump com adesivo após derrota republicana no Congresso · [https://www.infomoney.com.br/mundo/revista-time-cobre-boca-de-trump-com-adesivo-apos-derrota-republicana-no-congresso/](https://www.infomoney.com.br/mundo/revista-time-cobre-boca-de-trump-com-adesivo-apos-derrota-republicana-no-congresso/)
- 5. Construção: quais empresas devem surpreender e quais podem frustrar no 3T26 · [https://www.infomoney.com.br/mercados/temporada-balanco-3t26-construtoras-cyre3-cury3-mrve3/](https://www.infomoney.com.br/mercados/temporada-balanco-3t26-construtoras-cyre3-cury3-mrve3/)
- 6. Paraguai: entenda a crise que derrubou presidente do BC e colocou banco sob suspeita · [https://www.infomoney.com.br/mundo/paraguai-entenda-a-crise-que-derrubou-presidente-do-bc-e-colocou-banco-sob-suspeita/](https://www.infomoney.com.br/mundo/paraguai-entenda-a-crise-que-derrubou-presidente-do-bc-e-colocou-banco-sob-suspeita/)
- 7. Papamóvel de Leão XIV no Peru é uma Chevrolet S10 adaptada; veja o que mudou na picape · [https://g1.globo.com/carros/noticia/2026/11/04/papamovel-leao-xiv-peru.ghtml](https://g1.globo.com/carros/noticia/2026/11/04/papamovel-leao-xiv-peru.ghtml)
- 8. Presidente do Paraguai anuncia ressarcimento de clientes de banco e indica novo chefe para o BC · [https://g1.globo.com/economia/noticia/2026/11/04/presidente-paraguai-anuncia-medidas-crise-bancaria.ghtml](https://g1.globo.com/economia/noticia/2026/11/04/presidente-paraguai-anuncia-medidas-crise-bancaria.ghtml)
- 9. Paraguaios protestam após quebra de banco digital Ueno e renúncia do presidente do BC · [https://g1.globo.com/economia/noticia/2026/11/04/paraguaios-vao-as-ruas-em-protesto-apos-quebra-de-banco-digital-e-renuncia-do-presidente-do-bc.ghtml](https://g1.globo.com/economia/noticia/2026/11/04/paraguaios-vao-as-ruas-em-protesto-apos-quebra-de-banco-digital-e-renuncia-do-presidente-do-bc.ghtml)
-10. Brasil cria 121 mil empregos formais em setembro, queda de 43% na comparação com mesmo mês de 2025 · [https://g1.globo.com/economia/noticia/2026/11/04/brasil-cria-1213-mil-empregos-formais-em-setembro-queda-de-43percent-na-comparacao-com-mesmo-mes-de-2025.ghtml](https://g1.globo.com/economia/noticia/2026/11/04/brasil-cria-1213-mil-empregos-formais-em-setembro-queda-de-43percent-na-comparacao-com-mesmo-mes-de-2025.ghtml)
+ 1. Após reunião com Lula, Durigan diz que não há 'fórmula mágica' na economia e fala em manter compromissos fiscais e da campanha · [https://g1.globo.com/economia/noticia/2026/11/05/apos-reuniao-com-lula-e-economistas-ministro-da-fazenda-diz-que-nao-ha-formula-magica-e-fala-em-manter-compromissos-fiscais.ghtml](https://g1.globo.com/economia/noticia/2026/11/05/apos-reuniao-com-lula-e-economistas-ministro-da-fazenda-diz-que-nao-ha-formula-magica-e-fala-em-manter-compromissos-fiscais.ghtml)
+ 2. Aliada de Trump que chefiava a unidade de direitos civis do Departamento de Justiça pede demissão · [https://g1.globo.com/mundo/noticia/2026/11/05/aliada-de-trump-que-chefiava-a-unidade-de-direitos-civis-do-departamento-de-justica-pede-demissao.ghtml](https://g1.globo.com/mundo/noticia/2026/11/05/aliada-de-trump-que-chefiava-a-unidade-de-direitos-civis-do-departamento-de-justica-pede-demissao.ghtml)
+ 3. Pé-de-Meia Universitário deve começar em 2027, diz ministro da Educação · [https://www.infomoney.com.br/politica/pe-de-meia-universitario-deve-comecar-em-2027-diz-ministro-da-educacao/](https://www.infomoney.com.br/politica/pe-de-meia-universitario-deve-comecar-em-2027-diz-ministro-da-educacao/)
+ 4. Comissão especial aprova MP do Brasil Soberano 3, para empresas afetadas por tarifaço · [https://www.infomoney.com.br/politica/comissao-especial-aprova-mp-do-brasil-soberano-3-para-empresas-afetadas-por-tarifaco/](https://www.infomoney.com.br/politica/comissao-especial-aprova-mp-do-brasil-soberano-3-para-empresas-afetadas-por-tarifaco/)
+ 5. Paraguai: Câmara rejeita impeachment de vice-presidente após renúncia de Peña · [https://www.infomoney.com.br/politica/paraguai-camara-rejeita-impeachment-de-vice-presidente-apos-renuncia-de-pena/](https://www.infomoney.com.br/politica/paraguai-camara-rejeita-impeachment-de-vice-presidente-apos-renuncia-de-pena/)
+ 6. ‘Imposto do pecado’: governo define regras para taxar carros; veja o que pesa no cálculo · [https://g1.globo.com/carros/noticia/2026/11/05/imposto-do-pecado-governo-define-regras-para-taxar-carros-veja-o-que-pesa-no-calculo.ghtml](https://g1.globo.com/carros/noticia/2026/11/05/imposto-do-pecado-governo-define-regras-para-taxar-carros-veja-o-que-pesa-no-calculo.ghtml)
+ 7. Santiago Peña tentou se blindar da Justiça com renúncia, diz Ariel Palácios · [https://g1.globo.com/mundo/noticia/2026/11/05/com-renuncia-santiago-pena-ganha-cargo-de-senador-vitalicio-no-paraguai.ghtml](https://g1.globo.com/mundo/noticia/2026/11/05/com-renuncia-santiago-pena-ganha-cargo-de-senador-vitalicio-no-paraguai.ghtml)
+ 8. Presidente do Paraguai, Santiago Peña, renuncia após crise bancária; Câmara decide seguir com impeachment · [https://g1.globo.com/mundo/noticia/2026/11/05/presidente-do-paraguai-santiago-pena-renuncia-apos-crise-bancaria.ghtml](https://g1.globo.com/mundo/noticia/2026/11/05/presidente-do-paraguai-santiago-pena-renuncia-apos-crise-bancaria.ghtml)
+ 9. Google derruba esquema que controlava 1 milhão de TV boxes infectados; Brasil é o 2º mais afetado · [https://g1.globo.com/tecnologia/noticia/2026/11/05/google-derruba-rede-com-1-milhao-de-aparelhos-infectados-incluindo-tv-boxes-brasil-e-o-2o-mais-afetado.ghtml](https://g1.globo.com/tecnologia/noticia/2026/11/05/google-derruba-rede-com-1-milhao-de-aparelhos-infectados-incluindo-tv-boxes-brasil-e-o-2o-mais-afetado.ghtml)
+10. Banco digital que quebrou no Paraguai administrava mais de US$ 800 milhões em dinheiro público; Santiago Peña foi sócio do grupo controlador · [https://g1.globo.com/bom-dia-brasil/noticia/2026/11/05/banco-digital-que-quebrou-no-paraguai-administrava-mais-de-us-800-milhoes-em-dinheiro-publico.ghtml](https://g1.globo.com/bom-dia-brasil/noticia/2026/11/05/banco-digital-que-quebrou-no-paraguai-administrava-mais-de-us-800-milhoes-em-dinheiro-publico.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,29 +54,23 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 8
+#### 📺 YouTube (US) — Top 2
 
- 1. All hell just broke loose.. · [https://youtube.com/watch?v=Ji2GzX1nMAA](https://youtube.com/watch?v=Ji2GzX1nMAA)
- 2. AVENGERS 5: DOOMSDAY Official “Gambit Meets Herbie" Promo Clip (2026) · [https://youtube.com/watch?v=K5BlylIjjCY](https://youtube.com/watch?v=K5BlylIjjCY)
- 3. TYPICAL TUESDAY STREAM · [https://youtube.com/watch?v=ohQXEHnv_mE](https://youtube.com/watch?v=ohQXEHnv_mE)
- 4. Honest Trailers | Monsters, Inc. · [https://youtube.com/watch?v=5vrrJorU-3c](https://youtube.com/watch?v=5vrrJorU-3c)
- 5. AVENGERS: DOOMSDAY "Gambit Meets HERBIE" Trailer (NEW 2026) · [https://youtube.com/watch?v=_lMu4koUTaI](https://youtube.com/watch?v=_lMu4koUTaI)
- 6. BEDJINE - J'AVOUE (OFFICIAL VIDEO) · [https://youtube.com/watch?v=t1MJvR3vug8](https://youtube.com/watch?v=t1MJvR3vug8)
- 7. Top 50 Christmas Songs Of All Time🎄 Best Christmas Music Playlist 2027 🎅 · [https://youtube.com/watch?v=dgVQq8KDWE4](https://youtube.com/watch?v=dgVQq8KDWE4)
- 8. The Chosen Just Dropped a New Trailer — NEPHITE ANGELS Have Christians FREAKING OUT! · [https://youtube.com/watch?v=NR1DA0y1TlQ](https://youtube.com/watch?v=NR1DA0y1TlQ)
+ 1. AVENGERS 5: DOOMSDAY Official “Gambit Meets Herbie" Promo Clip (2026) · [https://youtube.com/watch?v=K5BlylIjjCY](https://youtube.com/watch?v=K5BlylIjjCY)
+ 2. Collecting ALL 300+ CHARACTERS in FNAF World ULTRA · [https://youtube.com/watch?v=mco4RHoTe6w](https://youtube.com/watch?v=mco4RHoTe6w)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Chuck Schumer heralds Democrats' 'generational remake' of Senate · [https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats](https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats)
- 2. Key Pentagon priorities in peril after Democratic sweep · [https://www.axios.com/2026/11/04/democrat-midterms-hegseth-pentagon-investigations](https://www.axios.com/2026/11/04/democrat-midterms-hegseth-pentagon-investigations)
- 3. Democrats' midterm gains could sideline Electoral College by 2028 · [https://www.axios.com/2026/11/04/democrats-electoral-college-popular-vote-2028](https://www.axios.com/2026/11/04/democrats-electoral-college-popular-vote-2028)
- 4. Democrats vow Trump investigations, but voters have another priority too · [https://www.axios.com/2026/11/04/democrats-trump-investigations-affordability-agenda](https://www.axios.com/2026/11/04/democrats-trump-investigations-affordability-agenda)
- 5. Jeffries taunts Speaker Johnson for saying polls were wrong · [https://thehill.com/homenews/6198897-jeffries-ribs-johnson-midterms/](https://thehill.com/homenews/6198897-jeffries-ribs-johnson-midterms/)
- 6. Who won redistricted House seats? · [https://thehill.com/homenews/campaign/6198650-election-day-2026-gop-democrat-redistricting-war-outcomes/](https://thehill.com/homenews/campaign/6198650-election-day-2026-gop-democrat-redistricting-war-outcomes/)
- 7. George Santos on midterm elections: It’s a s‑‑‑ show · [https://thehill.com/blogs/in-the-know/6198799-george-santos-gop-midterm-disaster/](https://thehill.com/blogs/in-the-know/6198799-george-santos-gop-midterm-disaster/)
- 8. Trump: Hegseth would be 'very popular' as Tennessee senator · [https://thehill.com/homenews/administration/6198786-trump-supports-hegseth-tn-senate/](https://thehill.com/homenews/administration/6198786-trump-supports-hegseth-tn-senate/)
- 9. Bill Clinton implores Dems to work together 'with humility and determination' · [https://thehill.com/homenews/campaign/6198752-clinton-democrat-midterm-victory/](https://thehill.com/homenews/campaign/6198752-clinton-democrat-midterm-victory/)
-10. Democratic wins ignite centrist-progressive fight over path to 2028 · [https://thehill.com/homenews/campaign/6198754-party-direction-debate-2028/](https://thehill.com/homenews/campaign/6198754-party-direction-debate-2028/)
+ 1. Rove: Paxton 'drew down the entire Republican ticket' in Texas · [https://thehill.com/homenews/campaign/6201889-karl-rove-ken-paxton-texas-republicans/](https://thehill.com/homenews/campaign/6201889-karl-rove-ken-paxton-texas-republicans/)
+ 2. Greg Steube to run for House GOP conference chair · [https://thehill.com/homenews/house/6201925-greg-steube-house-gop-conference-chair-run-2027/](https://thehill.com/homenews/house/6201925-greg-steube-house-gop-conference-chair-run-2027/)
+ 3. Sanders calls for Democrats to pass 'Medicare for All' · [https://thehill.com/homenews/senate/6201914-sanders-calls-medicare-all/](https://thehill.com/homenews/senate/6201914-sanders-calls-medicare-all/)
+ 4. Watch live: Hinojosa speaks after midterm win against Abbott · [https://thehill.com/video-clips/6201860-watch-live-gina-hinojosa-texas-governors-race-presser-midterms/](https://thehill.com/video-clips/6201860-watch-live-gina-hinojosa-texas-governors-race-presser-midterms/)
+ 5. DOJ sues Penn State over in-state tuition for undocumented students · [https://thehill.com/homenews/education/6201779-doj-penn-state-undocumented-students/](https://thehill.com/homenews/education/6201779-doj-penn-state-undocumented-students/)
+ 6. Cruz on midterms: 'It was an a‑‑ kicking' · [https://thehill.com/homenews/campaign/6201759-democrats-flip-texas-statewide-races/](https://thehill.com/homenews/campaign/6201759-democrats-flip-texas-statewide-races/)
+ 7. Live updates: DOJ's Dhillon resigns; DC arch could get final approval · [https://thehill.com/homenews/administration/6199942-live-updates-trump-arch-midterm-elections-russia-ukraine/](https://thehill.com/homenews/administration/6199942-live-updates-trump-arch-midterm-elections-russia-ukraine/)
+ 8. California rejects ballot measure requiring voter ID · [https://thehill.com/homenews/campaign/6178993-california-proposition-39-voter-id-fails/](https://thehill.com/homenews/campaign/6178993-california-proposition-39-voter-id-fails/)
+ 9. El-Sayed says he'd back Van Hollen as majority leader over Schumer · [https://thehill.com/homenews/senate/6201684-el-sayed-van-hollen-majority-leader/](https://thehill.com/homenews/senate/6201684-el-sayed-van-hollen-majority-leader/)
+10. Paraguay's president is impeached minutes after resigning following a bank collapse · [https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse](https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -98,12 +92,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **Imigração** | Mudanças nas leis de imigração após eleições nos EUA | As recentes eleições nos EUA resultaram em mudanças significativas na política de imigração, afetando diretamente os imi |
-| 2 🟡 🎬 | **Educação** | Carreiras em Inteligência Artificial | A demanda por profissionais de IA está crescendo rapidamente, com previsões de crescimento significativo nos próximos an |
-| 3 🟠 🎬 | **Negócios & Dinheiro** | Impacto da alta do dólar nos negócios dos imigrantes | A recente alta do dólar tem gerado preocupações entre os imigrantes, afetando custos e investimentos. |
-| 4 🟡 🎬 | **Economia & Mercado** | Efeitos da política econômica democrata nos EUA | Com a vitória dos democratas, mudanças na política econômica estão sendo discutidas, o que pode afetar o cenário para os |
-| 5 🟡 ⚡ | **Lifestyle** | Rotina de trabalho home office nos EUA | Com o crescimento do home office, muitos brasileiros estão se adaptando a essa nova realidade. |
-| 6 🟡 🎬 | **Tecnologia** | Uso de IA para otimização de negócios | O uso de inteligência artificial está se tornando comum entre pequenas e médias empresas nos EUA. |
-| 7 🟡 🎬 | **Negócios & Dinheiro** | Dicas de marketing digital para brasileiros nos EUA | O marketing digital continua em alta, especialmente entre imigrantes que buscam expandir seus negócios. |
-| 8 🟢 ⚡ | **Entretenimento** | Humor sobre a vida de imigrantes nos EUA | O humor é uma forma poderosa de lidar com os desafios da vida como imigrante. |
-| 9 🟡 🎬 | **Comunidade & Opinião** | Debate sobre a situação dos imigrantes após as eleições | As recentes eleições geraram discussões sobre o futuro dos imigrantes nos EUA. |
+| 1 🟠 🎯 | **Imposto** | Imposto do pecado: o que é e como isso afeta sua vida nos EUA | O governo brasileiro está implementando novas regras para taxar produtos, e isso gera discussões sobre o impacto finance |
+| 2 🟠 🎬 | **Negócios & Dinheiro** | Como ganhar dinheiro online: dicas práticas | Com a crescente busca por formas de renda extra, especialmente após crises financeiras, as pessoas estão cada vez mais i |
+| 3 🟡 🎬 | **Educação** | Pé-de-Meia Universitário: o que brasileiros precisam saber | O novo programa educacional no Brasil, que começa em 2027, levanta debates sobre educação financeira e investimentos em  |
+| 4 🟡 🎬 | **Direito & Legal** | Visto e imigração: o que mudou com as últimas eleições | A nova administração nos EUA traz incertezas e mudanças nas políticas de imigração, afetando diretamente a comunidade br |
+| 5 🟡 🎬 | **Economia & Mercado** | Impacto da inflação nos salários nos EUA | Com a inflação alta, muitos estão preocupados com como isso afeta seu poder de compra e suas finanças pessoais. |
+| 6 🟡 🎯 | **Lifestyle** | Morar nos EUA: desafios e oportunidades | A mudança de vida para outro país é uma decisão significativa e muitas pessoas estão buscando informações sobre como é v |
+| 7 🟡 🎬 | **Viagem** | Brasileiros buscando residência no Paraguai: o que isso significa? | A crise política e econômica no Paraguai está aumentando o interesse de brasileiros em buscar residência no país vizinho |
+| 8 🟡 🎯 | **Tecnologia** | O futuro do marketing digital: como se preparar | O marketing digital continua a evoluir, e muitos buscam se adaptar às novas tendências para se destacar no mercado. |
+| 9 🟢 ⚡ | **Entretenimento** | Desafios engraçados sobre a vida nos EUA | Conteúdos de entretenimento que desafiam a cultura americana ou os costumes dos brasileiros se tornam virais rapidamente |
