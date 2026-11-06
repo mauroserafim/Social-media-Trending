@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 05/11/2026 19:38 UTC
+# 📊 Tendências em Alta — 06/11/2026 19:00 UTC
 
-**Run:** `42095716859` | **BR:** 30 trends | **US:** 22 trends | **Nicho:** 9 ideias
+**Run:** `42275627052` | **BR:** 30 trends | **US:** 27 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. JISOO - ‘ADDICTED’ DANCE PERFORMANCE VIDEO · [https://youtube.com/watch?v=dND8ysuZqlA](https://youtube.com/watch?v=dND8ysuZqlA)
- 2. UNCHILD 언차일드 '팅팅 (TiNG TiNG)' MV · [https://youtube.com/watch?v=zPkhs5qxpnU](https://youtube.com/watch?v=zPkhs5qxpnU)
- 3. GODZILLA MINUS ZERO | Official Trailer 3 - NOW PLAYING · [https://youtube.com/watch?v=Pu0pH5BuCPM](https://youtube.com/watch?v=Pu0pH5BuCPM)
- 4. BTS WORLD TOUR 'ARIRANG' LIVE VIEWING FROM KAOHSIUNG & JAKARTA - Official Trailer · [https://youtube.com/watch?v=xzTFYPnoum8](https://youtube.com/watch?v=xzTFYPnoum8)
- 5. ACONTECE - Tarcísio do Acordeon (Clipe Oficial) · [https://youtube.com/watch?v=bUJ9rnVYQ0M](https://youtube.com/watch?v=bUJ9rnVYQ0M)
- 6. SIMULADOR DE VELHA - SIM, VIREI UMA VOVÓ · [https://youtube.com/watch?v=4fqyw5XbJlQ](https://youtube.com/watch?v=4fqyw5XbJlQ)
- 7. VOCÊ ESTÁ BUILDANDO SION ERRADO! · [https://youtube.com/watch?v=XkM3g2Ttw_k](https://youtube.com/watch?v=XkM3g2Ttw_k)
- 8. Chrono - DHARMA | Mahoraga (Jujutsu Kaisen) · [https://youtube.com/watch?v=1ybpHiqnQY4](https://youtube.com/watch?v=1ybpHiqnQY4)
- 9. TEMOS QUE LIMPAR A LUA INTEIRA | Moon Sweepers ft. Gabriel Coxinha · [https://youtube.com/watch?v=J5HNqYpn79I](https://youtube.com/watch?v=J5HNqYpn79I)
-10. WIU - Piranguera · [https://youtube.com/watch?v=BbamsiZcmPY](https://youtube.com/watch?v=BbamsiZcmPY)
+ 1. Olivia Rodrigo - take me home (4 christmas) · [https://youtube.com/watch?v=uXymCnWk9LI](https://youtube.com/watch?v=uXymCnWk9LI)
+ 2. GODZILLA MINUS ZERO | Official Trailer 3 - NOW PLAYING · [https://youtube.com/watch?v=Pu0pH5BuCPM](https://youtube.com/watch?v=Pu0pH5BuCPM)
+ 3. XG - DEPENDS (Official Music Video) · [https://youtube.com/watch?v=ftDNJhhJ22k](https://youtube.com/watch?v=ftDNJhhJ22k)
+ 4. BTS (방탄소년단) 'SWIM' Stage CAM @ iHeartRadio Music Festival 2026 · [https://youtube.com/watch?v=D8MKy5Aax6U](https://youtube.com/watch?v=D8MKy5Aax6U)
+ 5. Jason Mraz - I'm Yours (Lyrics) · [https://youtube.com/watch?v=BmMQFku-ylA](https://youtube.com/watch?v=BmMQFku-ylA)
+ 6. Flatbed Truck McQueen Transportation with Truck Pothole vs Car # BeamNG Drive · [https://youtube.com/watch?v=EvUzi-ZPPZk](https://youtube.com/watch?v=EvUzi-ZPPZk)
+ 7. Felipe & Rodrigo - Eu Me Rendo (Ao Vivo) #NoSentimento · [https://youtube.com/watch?v=izDBFPw7JHg](https://youtube.com/watch?v=izDBFPw7JHg)
+ 8. Danilo e Davi - Boneco De Pano (DVD Aliança) · [https://youtube.com/watch?v=O7zjtniPTDc](https://youtube.com/watch?v=O7zjtniPTDc)
+ 9. Dragon Ball Super: Beerus | Trailer em Português · [https://youtube.com/watch?v=hHXz4jdYHYM](https://youtube.com/watch?v=hHXz4jdYHYM)
+10. VisionQuest Season 1 Episode 8 Finale Trailer · [https://youtube.com/watch?v=sfk6DsN7bh0](https://youtube.com/watch?v=sfk6DsN7bh0)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Após reunião com Lula, Durigan diz que não há 'fórmula mágica' na economia e fala em manter compromissos fiscais e da campanha · [https://g1.globo.com/economia/noticia/2026/11/05/apos-reuniao-com-lula-e-economistas-ministro-da-fazenda-diz-que-nao-ha-formula-magica-e-fala-em-manter-compromissos-fiscais.ghtml](https://g1.globo.com/economia/noticia/2026/11/05/apos-reuniao-com-lula-e-economistas-ministro-da-fazenda-diz-que-nao-ha-formula-magica-e-fala-em-manter-compromissos-fiscais.ghtml)
- 2. Aliada de Trump que chefiava a unidade de direitos civis do Departamento de Justiça pede demissão · [https://g1.globo.com/mundo/noticia/2026/11/05/aliada-de-trump-que-chefiava-a-unidade-de-direitos-civis-do-departamento-de-justica-pede-demissao.ghtml](https://g1.globo.com/mundo/noticia/2026/11/05/aliada-de-trump-que-chefiava-a-unidade-de-direitos-civis-do-departamento-de-justica-pede-demissao.ghtml)
- 3. Pé-de-Meia Universitário deve começar em 2027, diz ministro da Educação · [https://www.infomoney.com.br/politica/pe-de-meia-universitario-deve-comecar-em-2027-diz-ministro-da-educacao/](https://www.infomoney.com.br/politica/pe-de-meia-universitario-deve-comecar-em-2027-diz-ministro-da-educacao/)
- 4. Comissão especial aprova MP do Brasil Soberano 3, para empresas afetadas por tarifaço · [https://www.infomoney.com.br/politica/comissao-especial-aprova-mp-do-brasil-soberano-3-para-empresas-afetadas-por-tarifaco/](https://www.infomoney.com.br/politica/comissao-especial-aprova-mp-do-brasil-soberano-3-para-empresas-afetadas-por-tarifaco/)
- 5. Paraguai: Câmara rejeita impeachment de vice-presidente após renúncia de Peña · [https://www.infomoney.com.br/politica/paraguai-camara-rejeita-impeachment-de-vice-presidente-apos-renuncia-de-pena/](https://www.infomoney.com.br/politica/paraguai-camara-rejeita-impeachment-de-vice-presidente-apos-renuncia-de-pena/)
- 6. ‘Imposto do pecado’: governo define regras para taxar carros; veja o que pesa no cálculo · [https://g1.globo.com/carros/noticia/2026/11/05/imposto-do-pecado-governo-define-regras-para-taxar-carros-veja-o-que-pesa-no-calculo.ghtml](https://g1.globo.com/carros/noticia/2026/11/05/imposto-do-pecado-governo-define-regras-para-taxar-carros-veja-o-que-pesa-no-calculo.ghtml)
- 7. Santiago Peña tentou se blindar da Justiça com renúncia, diz Ariel Palácios · [https://g1.globo.com/mundo/noticia/2026/11/05/com-renuncia-santiago-pena-ganha-cargo-de-senador-vitalicio-no-paraguai.ghtml](https://g1.globo.com/mundo/noticia/2026/11/05/com-renuncia-santiago-pena-ganha-cargo-de-senador-vitalicio-no-paraguai.ghtml)
- 8. Presidente do Paraguai, Santiago Peña, renuncia após crise bancária; Câmara decide seguir com impeachment · [https://g1.globo.com/mundo/noticia/2026/11/05/presidente-do-paraguai-santiago-pena-renuncia-apos-crise-bancaria.ghtml](https://g1.globo.com/mundo/noticia/2026/11/05/presidente-do-paraguai-santiago-pena-renuncia-apos-crise-bancaria.ghtml)
- 9. Google derruba esquema que controlava 1 milhão de TV boxes infectados; Brasil é o 2º mais afetado · [https://g1.globo.com/tecnologia/noticia/2026/11/05/google-derruba-rede-com-1-milhao-de-aparelhos-infectados-incluindo-tv-boxes-brasil-e-o-2o-mais-afetado.ghtml](https://g1.globo.com/tecnologia/noticia/2026/11/05/google-derruba-rede-com-1-milhao-de-aparelhos-infectados-incluindo-tv-boxes-brasil-e-o-2o-mais-afetado.ghtml)
-10. Banco digital que quebrou no Paraguai administrava mais de US$ 800 milhões em dinheiro público; Santiago Peña foi sócio do grupo controlador · [https://g1.globo.com/bom-dia-brasil/noticia/2026/11/05/banco-digital-que-quebrou-no-paraguai-administrava-mais-de-us-800-milhoes-em-dinheiro-publico.ghtml](https://g1.globo.com/bom-dia-brasil/noticia/2026/11/05/banco-digital-que-quebrou-no-paraguai-administrava-mais-de-us-800-milhoes-em-dinheiro-publico.ghtml)
+ 1. Apple restringe sugestões de termos como 'Trump ditador' e 'Joe sonolento' no iPhone · [https://g1.globo.com/tecnologia/noticia/2026/11/06/apple-restringe-sugestoes-de-termos-como-trump-ditador-e-joe-sonolento-no-iphone.ghtml](https://g1.globo.com/tecnologia/noticia/2026/11/06/apple-restringe-sugestoes-de-termos-como-trump-ditador-e-joe-sonolento-no-iphone.ghtml)
+ 2. Balança comercial tem superávit de US$ 9,3 bilhões em outubro, alta de 39,4% · [https://g1.globo.com/economia/noticia/2026/11/06/balanca-comercial-tem-superavit-de-us-93-bilhoes-em-outubro-alta-de-394percent.ghtml](https://g1.globo.com/economia/noticia/2026/11/06/balanca-comercial-tem-superavit-de-us-93-bilhoes-em-outubro-alta-de-394percent.ghtml)
+ 3. Eleições nos EUA: decisão para juiz em localidade do Kentucky é feita no 'cara ou coroa' após empate · [https://g1.globo.com/mundo/noticia/2026/11/06/eleicoes-nos-eua-decisao-para-juiz-em-localidade-do-kentucky-e-feita-no-cara-ou-coroa.ghtml](https://g1.globo.com/mundo/noticia/2026/11/06/eleicoes-nos-eua-decisao-para-juiz-em-localidade-do-kentucky-e-feita-no-cara-ou-coroa.ghtml)
+ 4. Exportações brasileiras para a China caem 5,3% em outubro ante outubro de 2025 · [https://www.infomoney.com.br/economia/exportacoes-brasileiras-para-a-china-caem-53-em-outubro-ante-outubro-de-2025/](https://www.infomoney.com.br/economia/exportacoes-brasileiras-para-a-china-caem-53-em-outubro-ante-outubro-de-2025/)
+ 5. Brasil tem superávit comercial de US$ 9,3 bi em outubro com alta das exportações · [https://www.infomoney.com.br/economia/brasil-tem-superavit-comercial-de-us-93-bi-em-outubro-com-alta-das-exportacoes/](https://www.infomoney.com.br/economia/brasil-tem-superavit-comercial-de-us-93-bi-em-outubro-com-alta-das-exportacoes/)
+ 6. Ibovespa Hoje Ao Vivo: Bolsa avança com bancos, varejo e VALE3; PETR4 cai · [https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/)
+ 7. Mercado revisa crescimento de 2027 para baixo, por juros altos e incertezas fiscais · [https://www.infomoney.com.br/economia/previsao-economia-brasil-2027-pib-selic/](https://www.infomoney.com.br/economia/previsao-economia-brasil-2027-pib-selic/)
+ 8. Pai de Meghan Markle é preso pelo FBI sob acusação de pornografia infantil · [https://www.infomoney.com.br/mundo/pai-de-meghan-markle-e-preso-pelo-fbi-sob-acusacao-de-pornografia-infantil/](https://www.infomoney.com.br/mundo/pai-de-meghan-markle-e-preso-pelo-fbi-sob-acusacao-de-pornografia-infantil/)
+ 9. Petrobras cai mais de 20% em 2 semanas após eleições no Brasil e nos EUA: tese mudou? · [https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-cai-mais-de-20-em-2-semanas-apos-eleicoes-no-brasil-e-nos-eua-tese-mudou/](https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-cai-mais-de-20-em-2-semanas-apos-eleicoes-no-brasil-e-nos-eua-tese-mudou/)
+10. Pressionado a cortar gastos, Lula diz que Brasil tem 'seriedade fiscal' e que 'pobre não pagará a conta' · [https://g1.globo.com/politica/noticia/2026/11/06/pressionado-a-cortar-gastos-lula-diz-que-brasil-tem-responsabilidade-e-seriedade-fiscal-e-que-pobre-nao-vai-pagar-a-conta.ghtml](https://g1.globo.com/politica/noticia/2026/11/06/pressionado-a-cortar-gastos-lula-diz-que-brasil-tem-responsabilidade-e-seriedade-fiscal-e-que-pobre-nao-vai-pagar-a-conta.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,23 +54,28 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 2
+#### 📺 YouTube (US) — Top 7
 
- 1. AVENGERS 5: DOOMSDAY Official “Gambit Meets Herbie" Promo Clip (2026) · [https://youtube.com/watch?v=K5BlylIjjCY](https://youtube.com/watch?v=K5BlylIjjCY)
- 2. Collecting ALL 300+ CHARACTERS in FNAF World ULTRA · [https://youtube.com/watch?v=mco4RHoTe6w](https://youtube.com/watch?v=mco4RHoTe6w)
+ 1. P1Harmony (피원하모니) - ‘BLOW UP’ MV · [https://youtube.com/watch?v=pdqij5LE7Hc](https://youtube.com/watch?v=pdqij5LE7Hc)
+ 2. LAJA x ANUEL AA - TUSSI (Video Oficial) · [https://youtube.com/watch?v=T0rVuheJOp8](https://youtube.com/watch?v=T0rVuheJOp8)
+ 3. Collecting ALL 300+ CHARACTERS in FNAF World ULTRA · [https://youtube.com/watch?v=mco4RHoTe6w](https://youtube.com/watch?v=mco4RHoTe6w)
+ 4. AVENGERS DOOMSDAY: Latveria Revealed in New Promos! · [https://youtube.com/watch?v=J30QF4ZQ0SM](https://youtube.com/watch?v=J30QF4ZQ0SM)
+ 5. Godzilla vs. Ghidorah - GODZILLA MINUS ZERO Official Final Trailer (2026) · [https://youtube.com/watch?v=E-Q2tEgJ1ZI](https://youtube.com/watch?v=E-Q2tEgJ1ZI)
+ 6. AVENGERS DOOMSDAY NEW PROMO X-Men & Fantastic Four Breakdown · [https://youtube.com/watch?v=82k1QuJF_Xk](https://youtube.com/watch?v=82k1QuJF_Xk)
+ 7. Dragon Ball Super: Beerus | Official English Dub Trailer | November 12, 2026 · [https://youtube.com/watch?v=lJMXyiENRAM](https://youtube.com/watch?v=lJMXyiENRAM)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Rove: Paxton 'drew down the entire Republican ticket' in Texas · [https://thehill.com/homenews/campaign/6201889-karl-rove-ken-paxton-texas-republicans/](https://thehill.com/homenews/campaign/6201889-karl-rove-ken-paxton-texas-republicans/)
- 2. Greg Steube to run for House GOP conference chair · [https://thehill.com/homenews/house/6201925-greg-steube-house-gop-conference-chair-run-2027/](https://thehill.com/homenews/house/6201925-greg-steube-house-gop-conference-chair-run-2027/)
- 3. Sanders calls for Democrats to pass 'Medicare for All' · [https://thehill.com/homenews/senate/6201914-sanders-calls-medicare-all/](https://thehill.com/homenews/senate/6201914-sanders-calls-medicare-all/)
- 4. Watch live: Hinojosa speaks after midterm win against Abbott · [https://thehill.com/video-clips/6201860-watch-live-gina-hinojosa-texas-governors-race-presser-midterms/](https://thehill.com/video-clips/6201860-watch-live-gina-hinojosa-texas-governors-race-presser-midterms/)
- 5. DOJ sues Penn State over in-state tuition for undocumented students · [https://thehill.com/homenews/education/6201779-doj-penn-state-undocumented-students/](https://thehill.com/homenews/education/6201779-doj-penn-state-undocumented-students/)
- 6. Cruz on midterms: 'It was an a‑‑ kicking' · [https://thehill.com/homenews/campaign/6201759-democrats-flip-texas-statewide-races/](https://thehill.com/homenews/campaign/6201759-democrats-flip-texas-statewide-races/)
- 7. Live updates: DOJ's Dhillon resigns; DC arch could get final approval · [https://thehill.com/homenews/administration/6199942-live-updates-trump-arch-midterm-elections-russia-ukraine/](https://thehill.com/homenews/administration/6199942-live-updates-trump-arch-midterm-elections-russia-ukraine/)
- 8. California rejects ballot measure requiring voter ID · [https://thehill.com/homenews/campaign/6178993-california-proposition-39-voter-id-fails/](https://thehill.com/homenews/campaign/6178993-california-proposition-39-voter-id-fails/)
- 9. El-Sayed says he'd back Van Hollen as majority leader over Schumer · [https://thehill.com/homenews/senate/6201684-el-sayed-van-hollen-majority-leader/](https://thehill.com/homenews/senate/6201684-el-sayed-van-hollen-majority-leader/)
-10. Paraguay's president is impeached minutes after resigning following a bank collapse · [https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse](https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse)
+ 1. Ex-RFK Jr. adviser says Trump admin corruption prompted resignation · [https://www.axios.com/2026/11/06/trump-joe-rogan-calley-means](https://www.axios.com/2026/11/06/trump-joe-rogan-calley-means)
+ 2. House Democrats "inundated" with calls telling them not to elect Jeffries speaker · [https://www.axios.com/2026/11/06/jeffries-speaker-democrats-house-calls-petition](https://www.axios.com/2026/11/06/jeffries-speaker-democrats-house-calls-petition)
+ 3. Trump backs Gruters's reelection bid as RNC chair · [https://thehill.com/homenews/administration/6204698-trump-backs-gruters-rnc-reelection/](https://thehill.com/homenews/administration/6204698-trump-backs-gruters-rnc-reelection/)
+ 4. El-Sayed launches Habibi PAC · [https://thehill.com/homenews/campaign/6204662-el-sayed-launches-habibi-pac/](https://thehill.com/homenews/campaign/6204662-el-sayed-launches-habibi-pac/)
+ 5. Jon Stewart flames Chuck Schumer; Dems must get ready to govern · [https://thehill.com/opinion/lindseys-lens/6204626-schumer-jeffries-leadership-criticism/](https://thehill.com/opinion/lindseys-lens/6204626-schumer-jeffries-leadership-criticism/)
+ 6. DC official urges incoming Democratic governors to withdraw National Guard · [https://thehill.com/homenews/state-watch/6204606-dc-democrats-recall-national-guard/](https://thehill.com/homenews/state-watch/6204606-dc-democrats-recall-national-guard/)
+ 7. Why isn’t the PEACE Act law already? · [https://thehill.com/opinion/international/6202836-peace-act-ukraine-funding/](https://thehill.com/opinion/international/6202836-peace-act-ukraine-funding/)
+ 8. Remembering 'Star Trek' actor Patrick Stewart · [https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart](https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart)
+ 9. European air traffic is targeted by new threats after a week of hoaxes · [https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes](https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes)
+10. The leader of a Kenyan doomsday cult is sentenced to 200 years in prison · [https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder](https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -92,12 +97,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎯 | **Imposto** | Imposto do pecado: o que é e como isso afeta sua vida nos EUA | O governo brasileiro está implementando novas regras para taxar produtos, e isso gera discussões sobre o impacto finance |
-| 2 🟠 🎬 | **Negócios & Dinheiro** | Como ganhar dinheiro online: dicas práticas | Com a crescente busca por formas de renda extra, especialmente após crises financeiras, as pessoas estão cada vez mais i |
-| 3 🟡 🎬 | **Educação** | Pé-de-Meia Universitário: o que brasileiros precisam saber | O novo programa educacional no Brasil, que começa em 2027, levanta debates sobre educação financeira e investimentos em  |
-| 4 🟡 🎬 | **Direito & Legal** | Visto e imigração: o que mudou com as últimas eleições | A nova administração nos EUA traz incertezas e mudanças nas políticas de imigração, afetando diretamente a comunidade br |
-| 5 🟡 🎬 | **Economia & Mercado** | Impacto da inflação nos salários nos EUA | Com a inflação alta, muitos estão preocupados com como isso afeta seu poder de compra e suas finanças pessoais. |
-| 6 🟡 🎯 | **Lifestyle** | Morar nos EUA: desafios e oportunidades | A mudança de vida para outro país é uma decisão significativa e muitas pessoas estão buscando informações sobre como é v |
-| 7 🟡 🎬 | **Viagem** | Brasileiros buscando residência no Paraguai: o que isso significa? | A crise política e econômica no Paraguai está aumentando o interesse de brasileiros em buscar residência no país vizinho |
-| 8 🟡 🎯 | **Tecnologia** | O futuro do marketing digital: como se preparar | O marketing digital continua a evoluir, e muitos buscam se adaptar às novas tendências para se destacar no mercado. |
-| 9 🟢 ⚡ | **Entretenimento** | Desafios engraçados sobre a vida nos EUA | Conteúdos de entretenimento que desafiam a cultura americana ou os costumes dos brasileiros se tornam virais rapidamente |
+| 1 🟠 🎬 | **imposto** | Como os impostos nos EUA afetam os brasileiros imigrantes? | O tema dos impostos está em alta devido a mudanças recentes nas legislações fiscais nos EUA e na discussão sobre a tribu |
+| 2 🟠 🎯 | **dinheiro** | Como ganhar dinheiro online nos EUA? | A busca por renda extra e oportunidades de trabalho online cresceu significativamente, especialmente após a pandemia. |
+| 3 🟡 🎬 | **custo** | Comparação do custo de vida nos EUA e Brasil | A inflação e o aumento dos custos de vida estão levantando debates sobre as diferenças econômicas entre os dois países. |
+| 4 🟡 🎯 | **brasileiro** | Experiências de brasileiros vivendo nos EUA | Histórias de imigrantes brasileiros estão ganhando destaque nas mídias sociais, refletindo a busca por conexão e identid |
+| 5 🟡 🎬 | **dólar** | Como a alta do dólar impacta brasileiros nos EUA? | O aumento do dólar está afetando diretamente os custos de vida e remessas de brasileiros que vivem fora do país. |
+| 6 🟡 🎬 | **direito** | Como funciona o visto de trabalho nos EUA? | Com a crescente demanda por empregos, muitas pessoas estão buscando informações sobre como obter vistos de trabalho. |
+| 7 🟡 🎬 | **economia** | O impacto da inflação nos preços dos alimentos nos EUA | A inflação alta está gerando preocupações sobre o aumento dos preços dos alimentos, afetando diretamente o orçamento das |
+| 8 🟡 🎯 | **tecnologia** | Como usar IA para melhorar sua carreira nos EUA? | A inteligência artificial está se tornando uma ferramenta essencial em diversas profissões, o que gera interesse em como |
+| 9 🟢 ⚡ | **entretenimento** | Os melhores memes sobre a vida nos EUA | Os memes estão sempre em alta nas redes sociais e refletem a cultura e os desafios do dia a dia. |
