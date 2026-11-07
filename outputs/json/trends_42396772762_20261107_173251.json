@@ -1,0 +1,992 @@
+{
+  "generated_at": "2026-11-07T17:32:51.063735",
+  "run_id": "42396772762",
+  "summary": {
+    "total_br": 30,
+    "total_us": 25,
+    "br_us_connections": 10,
+    "cross_platform_topics": 15,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "MUTANT MR. SUN AND HIS MONSTER FAMILY ARE HUNTING THE PAW PATROL SPRUNKI FAMILY! 😱 | GMod",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=4wItbDO3KNQ",
+          "score": 7.83,
+          "region": "BR",
+          "views": 616183
+        },
+        {
+          "title": "Baco Exu do Blues, Marina Sena - Mon Amour (Videoclipe Oficial)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=pozGekTOAGs",
+          "score": 7.34,
+          "region": "BR",
+          "views": 2153779
+        },
+        {
+          "title": "Felipe & Rodrigo - Eu Me Rendo (Ao Vivo) #NoSentimento",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=izDBFPw7JHg",
+          "score": 6.04,
+          "region": "BR",
+          "views": 1769106
+        },
+        {
+          "title": "VITINHO - Pra Sempre Vou Te Amar (Vídeo Oficial)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=SPHXkuxntgg",
+          "score": 1.57,
+          "region": "BR",
+          "views": 329787
+        },
+        {
+          "title": "🌴 DJ PARTY 71 – CALL OF THE SUN | Tropical House / Slap House / Eurodance #2026music",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=VtbHMLZgrPU",
+          "score": 1.27,
+          "region": "BR",
+          "views": 994920
+        },
+        {
+          "title": "Ludmilla, Puterrier, Hitmaker - Bi Festinha (Official Music Video)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=aEh0-zAhyLI",
+          "score": 1.27,
+          "region": "BR",
+          "views": 372850
+        },
+        {
+          "title": "Lorena Cristine - Mulher Faz Pior (Ao Vivo)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=dnQlupvebXc",
+          "score": 1.22,
+          "region": "BR",
+          "views": 263016
+        },
+        {
+          "title": "Mari Fernandez e Eduardinho dos Teclados - FARRA É COMIGO",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=L-WkxnJHujw",
+          "score": 1.08,
+          "region": "BR",
+          "views": 226637
+        },
+        {
+          "title": "Dragon Ball Super: Beerus | Trailer em Português",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=hHXz4jdYHYM",
+          "score": 1.01,
+          "region": "BR",
+          "views": 331384
+        },
+        {
+          "title": "Viramos Babás de Bebês… mas com anomalias",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=mxVwpMnRrKw",
+          "score": 0.85,
+          "region": "BR",
+          "views": 150069
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Deputado da oposição e 3 policiais morrem após ataque armado na Guatemala",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/07/deputado-da-oposicao-e-tres-policiais-morrem-apos-ataque-armado-na-guatemala.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Forças Armadas dos EUA buscam restringir comércio terrestre iraniano",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/forcas-armadas-dos-eua-buscam-restringir-comercio-terrestre-iraniano/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Papa exorta América do Sul a superar divisões na fronteira entre Uruguai e Argentina",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/papa-exorta-america-do-sul-a-superar-divisoes-na-fronteira-entre-uruguai-e-argentina/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "'Imposto do pecado' não é invenção brasileira: álcool e tabaco são taxados nos 38 países da OCDE, grupo de nações ricas",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/07/imposto-do-pecado-nao-e-invencao-brasileira-alcool-e-tabaco-sao-taxados-nos-38-paises-da-ocde-grupo-de-nacoes-ricas.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "BC paraguaio diz que devolveu dinheiro de 1,2 milhão de correntistas do banco Ueno",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/07/bc-paraguaio-diz-que-devolveu-dinheiro-de-12-milhao-de-correntistas-do-banco-ueno.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ueno Bank: escândalo que levou à queda do presidente do Paraguai pode ser comparado ao do Banco Master?",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/07/ueno-bank-escandalo-que-levou-a-queda-do-presidente-do-paraguai-pode-ser-comparado-ao-do-banco-master.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ataque a tiros na praça principal de Cracóvia, na Polônia, deixa 6 mortos",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/07/tiroteio-na-praca-principal-de-cracovia-na-polonia-deixa-mortos.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "VÍDEO: solidéu do papa Leão XIV sai voando enquanto ele cumprimentava fiéis no Uruguai",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/07/video-solideu-papa-leao-xiv-sai-voando-uruguai.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Crise no Paraguai: Santiago Peña depõe à Justiça em investigação do banco ueno",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/07/santiago-pena-depoe-a-justica-paraguaia-apos-impeachment-e-prisao-domiciliar.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Bombardeios sauditas no Iêmen deixam ao menos 22 mortos, diz mídia ligada aos Houthis",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/07/bombardeios-sauditas-no-iemen-mortos-houthis.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "LAJA x ANUEL AA - TUSSI (Video Oficial)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=T0rVuheJOp8",
+          "score": 5.18,
+          "region": "US",
+          "views": 1547253
+        },
+        {
+          "title": "Here In Your Dreams ☁✨ (ft. Liam Pearce) | Dandy's World Official Song",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Jr8DUNzQf90",
+          "score": 3.8,
+          "region": "US",
+          "views": 686371
+        },
+        {
+          "title": "AVENGERS DOOMSDAY TRAILER Battle At Doctor Doom’s Castle & Latveria!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=eSSMk486h8U",
+          "score": 2.45,
+          "region": "US",
+          "views": 373062
+        },
+        {
+          "title": "AVENGERS DOOMSDAY: Latveria Revealed in New Promos!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=J30QF4ZQ0SM",
+          "score": 1.77,
+          "region": "US",
+          "views": 518247
+        },
+        {
+          "title": "AVENGERS 5: DOOMSDAY Official “Doctor Doom's Castle” Promo Clip (2026)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=ElE5qbVOEyc",
+          "score": 1.08,
+          "region": "US",
+          "views": 210453
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "Ousted Paraguayan president appears before prosecutors",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Are hackers targeting America's food supply?",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/technology/6206043-fridges-blood-banks-cyberattacks-federal-warning/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Plane etiquette is getting worse, survey finds. These are the biggest offenses",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/business/6158203-plane-etiquette-is-getting-worse-survey-finds-these-are-the-biggest-offenses/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump’s glide path to judicial confirmations comes to an end",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/regulation/court-battles/6205209-trump-judicial-confirmations-democrats-senate/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "The ascendency of JD Vance",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/campaign/6204310-vance-blue-tsunami-postmortem/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "A promising new medicine against heart disease fails unexpectedly",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Democrats plan to widen their probes of fatal ICE shootings",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Perspective: Simon Winchester was here to tell a story",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "How the new Senate majority shifts control over the federal judiciary",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/11/07/nx-s1-6032757/how-the-new-senate-majority-shifts-control-over-the-federal-judiciary",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 15,
+      "score": 53.33,
+      "sample_titles": [
+        "Vitória democrata nos EUA não deve aliviar pressão de Trump sobre Brasil, avaliam analistas",
+        "A nomeação de assessor para cargo na Casa Branca que indica endurecimento de Trump após eleição",
+        "Após Trump falar em 'destruir o resto do Irã', EUA oferecem US$ 20 milhões por informações sobre o programa nuclear iraniano",
+        "US prosecutor who led Trump-backed election probe exits Justice Department",
+        "Democrats flex congressional majorities as Trump accepts electoral losses"
+      ]
+    },
+    {
+      "topic": "trailer",
+      "count": 6,
+      "score": 1.18,
+      "sample_titles": [
+        "WAJOOD ( ਵਜੂਦ ) Trailer | Jassi Maan | Thriller Film | Jass Motion Pictures",
+        "O Nascimento de Cristo - Zero D.C. | Trailer 2 Oficial Dublado",
+        "Dragon Ball Super: Beerus | Trailer em Português",
+        "AVENGERS DOOMSDAY TRAILER Battle At Doctor Doom’s Castle & Latveria!"
+      ]
+    },
+    {
+      "topic": "midterms",
+      "count": 5,
+      "score": 40.0,
+      "sample_titles": [
+        "Ansiedade dos eleitores americanos com o avanço da IA foi exposta nas “midterms”",
+        "The midterms proved once and for all that X is not real life",
+        "EXCLUSIVE: Rand Paul Says Economic Woes, Iran War Sank GOP In Midterms",
+        "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks"
+      ]
+    },
+    {
+      "topic": "oficial",
+      "count": 5,
+      "score": 3.65,
+      "sample_titles": [
+        "O Nascimento de Cristo - Zero D.C. | Trailer 2 Oficial Dublado",
+        "VITINHO - Pra Sempre Vou Te Amar (Vídeo Oficial)",
+        "Baco Exu do Blues, Marina Sena - Mon Amour (Videoclipe Oficial)",
+        "LAJA x ANUEL AA - TUSSI (Video Oficial)"
+      ]
+    },
+    {
+      "topic": "official",
+      "count": 4,
+      "score": 1.62,
+      "sample_titles": [
+        "CONTATINHO FIXO - MC WS da Leste,MC Rick, DJ GH Sheik (Official Music Video)",
+        "Ludmilla, Puterrier, Hitmaker - Bi Festinha (Official Music Video)",
+        "AVENGERS 5: DOOMSDAY Official “Doctor Doom's Castle” Promo Clip (2026)",
+        "Here In Your Dreams ☁✨ (ft. Liam Pearce) | Dandy's World Official Song"
+      ]
+    },
+    {
+      "topic": "online",
+      "count": 3,
+      "score": 20.0,
+      "sample_titles": [
+        "Saiba como consultar os seguros ativos em seu CPF de forma online e gratuita",
+        "como ganhar dinheiro online",
+        "how to learn online"
+      ]
+    },
+    {
+      "topic": "video",
+      "count": 3,
+      "score": 2.26,
+      "sample_titles": [
+        "CONTATINHO FIXO - MC WS da Leste,MC Rick, DJ GH Sheik (Official Music Video)",
+        "Ludmilla, Puterrier, Hitmaker - Bi Festinha (Official Music Video)",
+        "LAJA x ANUEL AA - TUSSI (Video Oficial)"
+      ]
+    },
+    {
+      "topic": "hackers",
+      "count": 2,
+      "score": 80.0,
+      "sample_titles": [
+        "Chanceler da Itália é alvo de hackers e tem dados pessoais vazados",
+        "Are hackers targeting America's food supply?"
+      ]
+    },
+    {
+      "topic": "federal",
+      "count": 2,
+      "score": 70.0,
+      "sample_titles": [
+        "Alíquotas de até 12% para tributo federal sobre consumo e 'imposto do pecado'; compare propostas das gestões Lula e Bolsonaro",
+        "How the new Senate majority shifts control over the federal judiciary"
+      ]
+    },
+    {
+      "topic": "winchester",
+      "count": 2,
+      "score": 60.0,
+      "sample_titles": [
+        "Winchester 1873: estado de Idaho aprova rifle famoso em filmes de faroeste como arma oficial",
+        "Perspective: Simon Winchester was here to tell a story"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "dinheiro",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 56.67,
+      "sample_titles": [
+        "BC paraguaio diz que devolveu dinheiro de 1,2 milhão de correntistas do banco Ueno",
+        "Paraguai devolve dinheiro bloqueado de 1,2 milhão de clientes do Ueno Bank",
+        "como ganhar dinheiro online"
+      ]
+    },
+    {
+      "topic": "imposto",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 52.5,
+      "sample_titles": [
+        "'Imposto do pecado' não é invenção brasileira: álcool e tabaco são taxados nos 38 países da OCDE, grupo de nações ricas",
+        "‘Imposto do pecado’: veículos a diesel são os mais prejudicados; veja o que pesa em cada tipo de carro",
+        "Alíquotas de até 12% para tributo federal sobre consumo e 'imposto do pecado'; compare propostas das gestões Lula e Bolsonaro",
+        "imposto nos EUA"
+      ]
+    },
+    {
+      "topic": "saúde",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "O custo de envelhecer: a conta bilionária da falta de prevenção em saúde no Brasil",
+        "saúde nos EUA"
+      ]
+    },
+    {
+      "topic": "custo",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "O custo de envelhecer: a conta bilionária da falta de prevenção em saúde no Brasil",
+        "custo de vida EUA"
+      ]
+    },
+    {
+      "topic": "estados",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Cinco estados concentram sinais de aumento dos casos de Covid-19",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "dólar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 42.0,
+      "sample_titles": [
+        "XP reduz projeção do PIB a 0,3% em 2027; dólar vai a R$ 5,50 e Selic fica em 13,75%",
+        "XP vê dólar a R$ 5,50 em 2027 e diz que rumo do real dependerá do cenário fiscal",
+        "Dólar sobe no pós-Copom e devolve parte do alívio da véspera",
+        "Dólar sobe 10% após eleição; bancos veem exagero e Congresso como contrapeso",
+        "dólar hoje"
+      ]
+    },
+    {
+      "topic": "novembro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.02,
+      "sample_titles": [
+        "HEITOR SANTOS - CD NOVO ATUALIZADO - AS MAIS TOCADAS DE NOVEMBRO PRA RESENHA",
+        "PEC da redução da maioridade penal avança na Câmara; relator prevê parecer em novembro"
+      ]
+    },
+    {
+      "topic": "vídeo",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 37.19,
+      "sample_titles": [
+        "VITINHO - Pra Sempre Vou Te Amar (Vídeo Oficial)",
+        "VÍDEO: solidéu do papa Leão XIV sai voando enquanto ele cumprimentava fiéis no Uruguai",
+        "Duas trombas-d'água se formam diante de rochedos de Capri, na Itália; veja vídeo"
+      ]
+    },
+    {
+      "topic": "house",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.64,
+      "sample_titles": [
+        "🌴 DJ PARTY 71 – CALL OF THE SUN | Tropical House / Slap House / Eurodance #2026music",
+        "House Democrats \"inundated\" with calls telling them not to elect Jeffries speaker"
+      ]
+    },
+    {
+      "topic": "brasileiro",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "Brasileiro eleito na Flórida critica abrigo a Flávio Bolsonaro e diz se espelhar em Erika Hilton",
+        "brasileiro nos EUA"
+      ]
+    },
+    {
+      "topic": "marketing",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "Marketing & Showroom Development Specialist – Twyford International Uganda - Jobs link",
+        "digital marketing tips"
+      ]
+    },
+    {
+      "topic": "eduardo",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 20.07,
+      "sample_titles": [
+        "Eduardo Costa – Só as Antigas ❤️ As Melhores Músicas | Sertanejo Raiz & Modão",
+        "Eduardo e Flávio Bolsonaro podem ser afetados pelo novo Congresso dos EUA?"
+      ]
+    },
+    {
+      "topic": "online",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 20.0,
+      "sample_titles": [
+        "Saiba como consultar os seguros ativos em seu CPF de forma online e gratuita",
+        "como ganhar dinheiro online",
+        "how to learn online"
+      ]
+    },
+    {
+      "topic": "oficial",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 10.92,
+      "sample_titles": [
+        "O Nascimento de Cristo - Zero D.C. | Trailer 2 Oficial Dublado",
+        "VITINHO - Pra Sempre Vou Te Amar (Vídeo Oficial)",
+        "Baco Exu do Blues, Marina Sena - Mon Amour (Videoclipe Oficial)",
+        "LAJA x ANUEL AA - TUSSI (Video Oficial)",
+        "Winchester 1873: estado de Idaho aprova rifle famoso em filmes de faroeste como arma oficial"
+      ]
+    },
+    {
+      "topic": "dentro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 10.06,
+      "sample_titles": [
+        "TÁ PEDINDO TOMA - DENTRO DO COROLLA CROSS - MC Leozinho ZS, Murilo MT, DR, RN do Capão, Pelourinho",
+        "Jacaré de 2 metros é resgatado dentro do campus do Ifap em Macapá; é o 2º animal em 17 dias"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "Custo de vida",
+      "subtopic": "Comparação entre Brasil e EUA",
+      "why_trending": "O custo de vida nas principais cidades dos EUA está aumentando, com inflação e aumento nos preços de aluguel e alimentação.",
+      "niche_angle": "Vamos analisar como o custo de vida nos EUA se compara ao Brasil e o que isso significa para brasileiros que estão se adaptando à vida americana.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 7,
+      "source": "news:G1 Economia",
+      "region": "GLOBAL",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/07/o-custo-de-envelhecer-a-conta-bilionaria-da-falta-de-prevencao-em-saude-no-brasil.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-07T17:32:51.011407"
+    },
+    {
+      "main_topic": "Imposto",
+      "subtopic": "Impacto dos impostos sobre consumo nos EUA",
+      "why_trending": "'Imposto do pecado' e a discussão sobre tributos estão em alta, especialmente em relação a como eles impactam o consumidor.",
+      "niche_angle": "Vamos discutir como os impostos sobre produtos como álcool e tabaco funcionam nos EUA e como isso afeta o bolso dos brasileiros imigrantes.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "news:G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/07/imposto-do-pecado-nao-e-invencao-brasileira-alcool-e-tabaco-sao-taxados-nos-38-paises-da-ocde-grupo-de-nacoes-ricas.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-07T17:32:51.011415"
+    },
+    {
+      "main_topic": "Dólar",
+      "subtopic": "Previsões do dólar e impacto no consumidor",
+      "why_trending": "As flutuações do dólar estão influenciando o mercado e o custo de produtos importados nos EUA, com previsões de subida.",
+      "niche_angle": "Vamos explorar como a variação do dólar impacta brasileiros que vivem nos EUA e como isso afeta o custo de vida deles.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:G1 Economia",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mercados/dolar-pos-eleicao-lula-bancos-estrangeiros-projecoes/"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-07T17:32:51.011419"
+    },
+    {
+      "main_topic": "Saúde",
+      "subtopic": "Custo de saúde nos EUA",
+      "why_trending": "O custo de cuidados de saúde nos EUA continua a ser uma preocupação crescente, especialmente em tempos de crise.",
+      "niche_angle": "Vamos discutir o que os brasileiros devem saber sobre o sistema de saúde nos EUA e como se preparar financeiramente para isso.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "news:G1 Economia",
+      "region": "US",
+      "links": [
+        "https://exame.com/esg/o-custo-de-envelhecer-a-conta-bilionaria-da-falta-de-prevencao-em-saude-no-brasil/"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-07T17:32:51.011423"
+    },
+    {
+      "main_topic": "Direito & Legal",
+      "subtopic": "Direitos dos imigrantes nos EUA",
+      "why_trending": "Discussões sobre direitos e imigração estão em evidência, especialmente após recentes eventos políticos.",
+      "niche_angle": "Vamos analisar quais são os direitos dos imigrantes nos EUA e como os brasileiros podem se proteger legalmente.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:NPR News",
+      "region": "US",
+      "links": [
+        "https://www.npr.org/2026/11/07/democrats-investigate-fatal-ice-shootings"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-07T17:32:51.011427"
+    },
+    {
+      "main_topic": "Negócios & Dinheiro",
+      "subtopic": "Como ganhar dinheiro online",
+      "why_trending": "A busca por renda extra e formas de ganhar dinheiro online está em alta, especialmente após a pandemia.",
+      "niche_angle": "Vamos explorar as melhores maneiras de brasileiros nos EUA gerarem renda extra online e o que funciona de verdade.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news:G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/07/como-ganhar-dinheiro-online.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-07T17:32:51.011432"
+    },
+    {
+      "main_topic": "Entretenimento",
+      "subtopic": "Tendências de humor sobre vida nos EUA",
+      "why_trending": "Vídeos de humor que retratam a vida cotidiana nos EUA estão se tornando populares nas redes sociais.",
+      "niche_angle": "Vamos criar conteúdos engraçados que abordam a vida cotidiana e desafios enfrentados por brasileiros nos EUA.",
+      "video_format": "short",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "tiktok",
+      "region": "US",
+      "links": [
+        "https://www.tiktok.com/tag/vidaemusa"
+      ],
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "reddit"
+      ],
+      "collected_at": "2026-11-07T17:32:51.011436"
+    },
+    {
+      "main_topic": "Economia & Mercado",
+      "subtopic": "Efeitos da inflação nos produtos do dia a dia",
+      "why_trending": "A inflação continua a impactar o preço de produtos essenciais, o que gera preocupação entre consumidores.",
+      "niche_angle": "Vamos analisar como a inflação nos EUA está afetando o custo de itens do dia a dia e o que os brasileiros precisam saber.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 5,
+      "source": "news:G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/07/o-custo-de-envelhecer-a-conta-bilionaria-da-falta-de-prevencao-em-saude-no-brasil.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-07T17:32:51.011444"
+    },
+    {
+      "main_topic": "Viagem",
+      "subtopic": "Impacto da inflação nas viagens para o Brasil",
+      "why_trending": "O aumento dos preços de passagens aéreas e despesas de viagem está afetando muitos imigrantes brasileiros.",
+      "niche_angle": "Vamos discutir como a inflação nos EUA impacta os custos de viagens para o Brasil e como planejar melhor.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 6,
+      "source": "news:G1 Economia",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mercados/dolar-pos-eleicao-lula-bancos-estrangeiros-projecoes/"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-07T17:32:51.011448"
+    }
+  ]
+}

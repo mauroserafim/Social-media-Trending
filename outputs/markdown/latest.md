@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 06/11/2026 19:00 UTC
+# 📊 Tendências em Alta — 07/11/2026 17:32 UTC
 
-**Run:** `42275627052` | **BR:** 30 trends | **US:** 27 trends | **Nicho:** 9 ideias
+**Run:** `42396772762` | **BR:** 30 trends | **US:** 25 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. Olivia Rodrigo - take me home (4 christmas) · [https://youtube.com/watch?v=uXymCnWk9LI](https://youtube.com/watch?v=uXymCnWk9LI)
- 2. GODZILLA MINUS ZERO | Official Trailer 3 - NOW PLAYING · [https://youtube.com/watch?v=Pu0pH5BuCPM](https://youtube.com/watch?v=Pu0pH5BuCPM)
- 3. XG - DEPENDS (Official Music Video) · [https://youtube.com/watch?v=ftDNJhhJ22k](https://youtube.com/watch?v=ftDNJhhJ22k)
- 4. BTS (방탄소년단) 'SWIM' Stage CAM @ iHeartRadio Music Festival 2026 · [https://youtube.com/watch?v=D8MKy5Aax6U](https://youtube.com/watch?v=D8MKy5Aax6U)
- 5. Jason Mraz - I'm Yours (Lyrics) · [https://youtube.com/watch?v=BmMQFku-ylA](https://youtube.com/watch?v=BmMQFku-ylA)
- 6. Flatbed Truck McQueen Transportation with Truck Pothole vs Car # BeamNG Drive · [https://youtube.com/watch?v=EvUzi-ZPPZk](https://youtube.com/watch?v=EvUzi-ZPPZk)
- 7. Felipe & Rodrigo - Eu Me Rendo (Ao Vivo) #NoSentimento · [https://youtube.com/watch?v=izDBFPw7JHg](https://youtube.com/watch?v=izDBFPw7JHg)
- 8. Danilo e Davi - Boneco De Pano (DVD Aliança) · [https://youtube.com/watch?v=O7zjtniPTDc](https://youtube.com/watch?v=O7zjtniPTDc)
+ 1. MUTANT MR. SUN AND HIS MONSTER FAMILY ARE HUNTING THE PAW PATROL SPRUNKI FAMILY! 😱 | GMod · [https://youtube.com/watch?v=4wItbDO3KNQ](https://youtube.com/watch?v=4wItbDO3KNQ)
+ 2. Baco Exu do Blues, Marina Sena - Mon Amour (Videoclipe Oficial) · [https://youtube.com/watch?v=pozGekTOAGs](https://youtube.com/watch?v=pozGekTOAGs)
+ 3. Felipe & Rodrigo - Eu Me Rendo (Ao Vivo) #NoSentimento · [https://youtube.com/watch?v=izDBFPw7JHg](https://youtube.com/watch?v=izDBFPw7JHg)
+ 4. VITINHO - Pra Sempre Vou Te Amar (Vídeo Oficial) · [https://youtube.com/watch?v=SPHXkuxntgg](https://youtube.com/watch?v=SPHXkuxntgg)
+ 5. 🌴 DJ PARTY 71 – CALL OF THE SUN | Tropical House / Slap House / Eurodance #2026music · [https://youtube.com/watch?v=VtbHMLZgrPU](https://youtube.com/watch?v=VtbHMLZgrPU)
+ 6. Ludmilla, Puterrier, Hitmaker - Bi Festinha (Official Music Video) · [https://youtube.com/watch?v=aEh0-zAhyLI](https://youtube.com/watch?v=aEh0-zAhyLI)
+ 7. Lorena Cristine - Mulher Faz Pior (Ao Vivo) · [https://youtube.com/watch?v=dnQlupvebXc](https://youtube.com/watch?v=dnQlupvebXc)
+ 8. Mari Fernandez e Eduardinho dos Teclados - FARRA É COMIGO · [https://youtube.com/watch?v=L-WkxnJHujw](https://youtube.com/watch?v=L-WkxnJHujw)
  9. Dragon Ball Super: Beerus | Trailer em Português · [https://youtube.com/watch?v=hHXz4jdYHYM](https://youtube.com/watch?v=hHXz4jdYHYM)
-10. VisionQuest Season 1 Episode 8 Finale Trailer · [https://youtube.com/watch?v=sfk6DsN7bh0](https://youtube.com/watch?v=sfk6DsN7bh0)
+10. Viramos Babás de Bebês… mas com anomalias · [https://youtube.com/watch?v=mxVwpMnRrKw](https://youtube.com/watch?v=mxVwpMnRrKw)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Apple restringe sugestões de termos como 'Trump ditador' e 'Joe sonolento' no iPhone · [https://g1.globo.com/tecnologia/noticia/2026/11/06/apple-restringe-sugestoes-de-termos-como-trump-ditador-e-joe-sonolento-no-iphone.ghtml](https://g1.globo.com/tecnologia/noticia/2026/11/06/apple-restringe-sugestoes-de-termos-como-trump-ditador-e-joe-sonolento-no-iphone.ghtml)
- 2. Balança comercial tem superávit de US$ 9,3 bilhões em outubro, alta de 39,4% · [https://g1.globo.com/economia/noticia/2026/11/06/balanca-comercial-tem-superavit-de-us-93-bilhoes-em-outubro-alta-de-394percent.ghtml](https://g1.globo.com/economia/noticia/2026/11/06/balanca-comercial-tem-superavit-de-us-93-bilhoes-em-outubro-alta-de-394percent.ghtml)
- 3. Eleições nos EUA: decisão para juiz em localidade do Kentucky é feita no 'cara ou coroa' após empate · [https://g1.globo.com/mundo/noticia/2026/11/06/eleicoes-nos-eua-decisao-para-juiz-em-localidade-do-kentucky-e-feita-no-cara-ou-coroa.ghtml](https://g1.globo.com/mundo/noticia/2026/11/06/eleicoes-nos-eua-decisao-para-juiz-em-localidade-do-kentucky-e-feita-no-cara-ou-coroa.ghtml)
- 4. Exportações brasileiras para a China caem 5,3% em outubro ante outubro de 2025 · [https://www.infomoney.com.br/economia/exportacoes-brasileiras-para-a-china-caem-53-em-outubro-ante-outubro-de-2025/](https://www.infomoney.com.br/economia/exportacoes-brasileiras-para-a-china-caem-53-em-outubro-ante-outubro-de-2025/)
- 5. Brasil tem superávit comercial de US$ 9,3 bi em outubro com alta das exportações · [https://www.infomoney.com.br/economia/brasil-tem-superavit-comercial-de-us-93-bi-em-outubro-com-alta-das-exportacoes/](https://www.infomoney.com.br/economia/brasil-tem-superavit-comercial-de-us-93-bi-em-outubro-com-alta-das-exportacoes/)
- 6. Ibovespa Hoje Ao Vivo: Bolsa avança com bancos, varejo e VALE3; PETR4 cai · [https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/)
- 7. Mercado revisa crescimento de 2027 para baixo, por juros altos e incertezas fiscais · [https://www.infomoney.com.br/economia/previsao-economia-brasil-2027-pib-selic/](https://www.infomoney.com.br/economia/previsao-economia-brasil-2027-pib-selic/)
- 8. Pai de Meghan Markle é preso pelo FBI sob acusação de pornografia infantil · [https://www.infomoney.com.br/mundo/pai-de-meghan-markle-e-preso-pelo-fbi-sob-acusacao-de-pornografia-infantil/](https://www.infomoney.com.br/mundo/pai-de-meghan-markle-e-preso-pelo-fbi-sob-acusacao-de-pornografia-infantil/)
- 9. Petrobras cai mais de 20% em 2 semanas após eleições no Brasil e nos EUA: tese mudou? · [https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-cai-mais-de-20-em-2-semanas-apos-eleicoes-no-brasil-e-nos-eua-tese-mudou/](https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-cai-mais-de-20-em-2-semanas-apos-eleicoes-no-brasil-e-nos-eua-tese-mudou/)
-10. Pressionado a cortar gastos, Lula diz que Brasil tem 'seriedade fiscal' e que 'pobre não pagará a conta' · [https://g1.globo.com/politica/noticia/2026/11/06/pressionado-a-cortar-gastos-lula-diz-que-brasil-tem-responsabilidade-e-seriedade-fiscal-e-que-pobre-nao-vai-pagar-a-conta.ghtml](https://g1.globo.com/politica/noticia/2026/11/06/pressionado-a-cortar-gastos-lula-diz-que-brasil-tem-responsabilidade-e-seriedade-fiscal-e-que-pobre-nao-vai-pagar-a-conta.ghtml)
+ 1. Deputado da oposição e 3 policiais morrem após ataque armado na Guatemala · [https://g1.globo.com/mundo/noticia/2026/11/07/deputado-da-oposicao-e-tres-policiais-morrem-apos-ataque-armado-na-guatemala.ghtml](https://g1.globo.com/mundo/noticia/2026/11/07/deputado-da-oposicao-e-tres-policiais-morrem-apos-ataque-armado-na-guatemala.ghtml)
+ 2. Forças Armadas dos EUA buscam restringir comércio terrestre iraniano · [https://www.infomoney.com.br/mundo/forcas-armadas-dos-eua-buscam-restringir-comercio-terrestre-iraniano/](https://www.infomoney.com.br/mundo/forcas-armadas-dos-eua-buscam-restringir-comercio-terrestre-iraniano/)
+ 3. Papa exorta América do Sul a superar divisões na fronteira entre Uruguai e Argentina · [https://www.infomoney.com.br/mundo/papa-exorta-america-do-sul-a-superar-divisoes-na-fronteira-entre-uruguai-e-argentina/](https://www.infomoney.com.br/mundo/papa-exorta-america-do-sul-a-superar-divisoes-na-fronteira-entre-uruguai-e-argentina/)
+ 4. 'Imposto do pecado' não é invenção brasileira: álcool e tabaco são taxados nos 38 países da OCDE, grupo de nações ricas · [https://g1.globo.com/economia/noticia/2026/11/07/imposto-do-pecado-nao-e-invencao-brasileira-alcool-e-tabaco-sao-taxados-nos-38-paises-da-ocde-grupo-de-nacoes-ricas.ghtml](https://g1.globo.com/economia/noticia/2026/11/07/imposto-do-pecado-nao-e-invencao-brasileira-alcool-e-tabaco-sao-taxados-nos-38-paises-da-ocde-grupo-de-nacoes-ricas.ghtml)
+ 5. BC paraguaio diz que devolveu dinheiro de 1,2 milhão de correntistas do banco Ueno · [https://g1.globo.com/economia/noticia/2026/11/07/bc-paraguaio-diz-que-devolveu-dinheiro-de-12-milhao-de-correntistas-do-banco-ueno.ghtml](https://g1.globo.com/economia/noticia/2026/11/07/bc-paraguaio-diz-que-devolveu-dinheiro-de-12-milhao-de-correntistas-do-banco-ueno.ghtml)
+ 6. Ueno Bank: escândalo que levou à queda do presidente do Paraguai pode ser comparado ao do Banco Master? · [https://g1.globo.com/mundo/noticia/2026/11/07/ueno-bank-escandalo-que-levou-a-queda-do-presidente-do-paraguai-pode-ser-comparado-ao-do-banco-master.ghtml](https://g1.globo.com/mundo/noticia/2026/11/07/ueno-bank-escandalo-que-levou-a-queda-do-presidente-do-paraguai-pode-ser-comparado-ao-do-banco-master.ghtml)
+ 7. Ataque a tiros na praça principal de Cracóvia, na Polônia, deixa 6 mortos · [https://g1.globo.com/mundo/noticia/2026/11/07/tiroteio-na-praca-principal-de-cracovia-na-polonia-deixa-mortos.ghtml](https://g1.globo.com/mundo/noticia/2026/11/07/tiroteio-na-praca-principal-de-cracovia-na-polonia-deixa-mortos.ghtml)
+ 8. VÍDEO: solidéu do papa Leão XIV sai voando enquanto ele cumprimentava fiéis no Uruguai · [https://g1.globo.com/mundo/noticia/2026/11/07/video-solideu-papa-leao-xiv-sai-voando-uruguai.ghtml](https://g1.globo.com/mundo/noticia/2026/11/07/video-solideu-papa-leao-xiv-sai-voando-uruguai.ghtml)
+ 9. Crise no Paraguai: Santiago Peña depõe à Justiça em investigação do banco ueno · [https://g1.globo.com/mundo/noticia/2026/11/07/santiago-pena-depoe-a-justica-paraguaia-apos-impeachment-e-prisao-domiciliar.ghtml](https://g1.globo.com/mundo/noticia/2026/11/07/santiago-pena-depoe-a-justica-paraguaia-apos-impeachment-e-prisao-domiciliar.ghtml)
+10. Bombardeios sauditas no Iêmen deixam ao menos 22 mortos, diz mídia ligada aos Houthis · [https://g1.globo.com/mundo/noticia/2026/11/07/bombardeios-sauditas-no-iemen-mortos-houthis.ghtml](https://g1.globo.com/mundo/noticia/2026/11/07/bombardeios-sauditas-no-iemen-mortos-houthis.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,28 +54,26 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 7
+#### 📺 YouTube (US) — Top 5
 
- 1. P1Harmony (피원하모니) - ‘BLOW UP’ MV · [https://youtube.com/watch?v=pdqij5LE7Hc](https://youtube.com/watch?v=pdqij5LE7Hc)
- 2. LAJA x ANUEL AA - TUSSI (Video Oficial) · [https://youtube.com/watch?v=T0rVuheJOp8](https://youtube.com/watch?v=T0rVuheJOp8)
- 3. Collecting ALL 300+ CHARACTERS in FNAF World ULTRA · [https://youtube.com/watch?v=mco4RHoTe6w](https://youtube.com/watch?v=mco4RHoTe6w)
+ 1. LAJA x ANUEL AA - TUSSI (Video Oficial) · [https://youtube.com/watch?v=T0rVuheJOp8](https://youtube.com/watch?v=T0rVuheJOp8)
+ 2. Here In Your Dreams ☁✨ (ft. Liam Pearce) | Dandy's World Official Song · [https://youtube.com/watch?v=Jr8DUNzQf90](https://youtube.com/watch?v=Jr8DUNzQf90)
+ 3. AVENGERS DOOMSDAY TRAILER Battle At Doctor Doom’s Castle & Latveria! · [https://youtube.com/watch?v=eSSMk486h8U](https://youtube.com/watch?v=eSSMk486h8U)
  4. AVENGERS DOOMSDAY: Latveria Revealed in New Promos! · [https://youtube.com/watch?v=J30QF4ZQ0SM](https://youtube.com/watch?v=J30QF4ZQ0SM)
- 5. Godzilla vs. Ghidorah - GODZILLA MINUS ZERO Official Final Trailer (2026) · [https://youtube.com/watch?v=E-Q2tEgJ1ZI](https://youtube.com/watch?v=E-Q2tEgJ1ZI)
- 6. AVENGERS DOOMSDAY NEW PROMO X-Men & Fantastic Four Breakdown · [https://youtube.com/watch?v=82k1QuJF_Xk](https://youtube.com/watch?v=82k1QuJF_Xk)
- 7. Dragon Ball Super: Beerus | Official English Dub Trailer | November 12, 2026 · [https://youtube.com/watch?v=lJMXyiENRAM](https://youtube.com/watch?v=lJMXyiENRAM)
+ 5. AVENGERS 5: DOOMSDAY Official “Doctor Doom's Castle” Promo Clip (2026) · [https://youtube.com/watch?v=ElE5qbVOEyc](https://youtube.com/watch?v=ElE5qbVOEyc)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Ex-RFK Jr. adviser says Trump admin corruption prompted resignation · [https://www.axios.com/2026/11/06/trump-joe-rogan-calley-means](https://www.axios.com/2026/11/06/trump-joe-rogan-calley-means)
- 2. House Democrats "inundated" with calls telling them not to elect Jeffries speaker · [https://www.axios.com/2026/11/06/jeffries-speaker-democrats-house-calls-petition](https://www.axios.com/2026/11/06/jeffries-speaker-democrats-house-calls-petition)
- 3. Trump backs Gruters's reelection bid as RNC chair · [https://thehill.com/homenews/administration/6204698-trump-backs-gruters-rnc-reelection/](https://thehill.com/homenews/administration/6204698-trump-backs-gruters-rnc-reelection/)
- 4. El-Sayed launches Habibi PAC · [https://thehill.com/homenews/campaign/6204662-el-sayed-launches-habibi-pac/](https://thehill.com/homenews/campaign/6204662-el-sayed-launches-habibi-pac/)
- 5. Jon Stewart flames Chuck Schumer; Dems must get ready to govern · [https://thehill.com/opinion/lindseys-lens/6204626-schumer-jeffries-leadership-criticism/](https://thehill.com/opinion/lindseys-lens/6204626-schumer-jeffries-leadership-criticism/)
- 6. DC official urges incoming Democratic governors to withdraw National Guard · [https://thehill.com/homenews/state-watch/6204606-dc-democrats-recall-national-guard/](https://thehill.com/homenews/state-watch/6204606-dc-democrats-recall-national-guard/)
- 7. Why isn’t the PEACE Act law already? · [https://thehill.com/opinion/international/6202836-peace-act-ukraine-funding/](https://thehill.com/opinion/international/6202836-peace-act-ukraine-funding/)
- 8. Remembering 'Star Trek' actor Patrick Stewart · [https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart](https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart)
- 9. European air traffic is targeted by new threats after a week of hoaxes · [https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes](https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes)
-10. The leader of a Kenyan doomsday cult is sentenced to 200 years in prison · [https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder](https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder)
+ 1. Ousted Paraguayan president appears before prosecutors · [https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse](https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse)
+ 2. Are hackers targeting America's food supply? · [https://thehill.com/policy/technology/6206043-fridges-blood-banks-cyberattacks-federal-warning/](https://thehill.com/policy/technology/6206043-fridges-blood-banks-cyberattacks-federal-warning/)
+ 3. Plane etiquette is getting worse, survey finds. These are the biggest offenses · [https://thehill.com/business/6158203-plane-etiquette-is-getting-worse-survey-finds-these-are-the-biggest-offenses/](https://thehill.com/business/6158203-plane-etiquette-is-getting-worse-survey-finds-these-are-the-biggest-offenses/)
+ 4. Trump’s glide path to judicial confirmations comes to an end · [https://thehill.com/regulation/court-battles/6205209-trump-judicial-confirmations-democrats-senate/](https://thehill.com/regulation/court-battles/6205209-trump-judicial-confirmations-democrats-senate/)
+ 5. The ascendency of JD Vance · [https://thehill.com/opinion/campaign/6204310-vance-blue-tsunami-postmortem/](https://thehill.com/opinion/campaign/6204310-vance-blue-tsunami-postmortem/)
+ 6. A promising new medicine against heart disease fails unexpectedly · [https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack](https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack)
+ 7. Democrats plan to widen their probes of fatal ICE shootings · [https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings](https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings)
+ 8. Perspective: Simon Winchester was here to tell a story · [https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story](https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story)
+ 9. This teen boy set out to get people talking about periods. He's now a Diana honoree · [https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma](https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma)
+10. How the new Senate majority shifts control over the federal judiciary · [https://www.npr.org/2026/11/07/nx-s1-6032757/how-the-new-senate-majority-shifts-control-over-the-federal-judiciary](https://www.npr.org/2026/11/07/nx-s1-6032757/how-the-new-senate-majority-shifts-control-over-the-federal-judiciary)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -97,12 +95,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **imposto** | Como os impostos nos EUA afetam os brasileiros imigrantes? | O tema dos impostos está em alta devido a mudanças recentes nas legislações fiscais nos EUA e na discussão sobre a tribu |
-| 2 🟠 🎯 | **dinheiro** | Como ganhar dinheiro online nos EUA? | A busca por renda extra e oportunidades de trabalho online cresceu significativamente, especialmente após a pandemia. |
-| 3 🟡 🎬 | **custo** | Comparação do custo de vida nos EUA e Brasil | A inflação e o aumento dos custos de vida estão levantando debates sobre as diferenças econômicas entre os dois países. |
-| 4 🟡 🎯 | **brasileiro** | Experiências de brasileiros vivendo nos EUA | Histórias de imigrantes brasileiros estão ganhando destaque nas mídias sociais, refletindo a busca por conexão e identid |
-| 5 🟡 🎬 | **dólar** | Como a alta do dólar impacta brasileiros nos EUA? | O aumento do dólar está afetando diretamente os custos de vida e remessas de brasileiros que vivem fora do país. |
-| 6 🟡 🎬 | **direito** | Como funciona o visto de trabalho nos EUA? | Com a crescente demanda por empregos, muitas pessoas estão buscando informações sobre como obter vistos de trabalho. |
-| 7 🟡 🎬 | **economia** | O impacto da inflação nos preços dos alimentos nos EUA | A inflação alta está gerando preocupações sobre o aumento dos preços dos alimentos, afetando diretamente o orçamento das |
-| 8 🟡 🎯 | **tecnologia** | Como usar IA para melhorar sua carreira nos EUA? | A inteligência artificial está se tornando uma ferramenta essencial em diversas profissões, o que gera interesse em como |
-| 9 🟢 ⚡ | **entretenimento** | Os melhores memes sobre a vida nos EUA | Os memes estão sempre em alta nas redes sociais e refletem a cultura e os desafios do dia a dia. |
+| 1 🟠 🎬 | **Custo de vida** | Comparação entre Brasil e EUA | O custo de vida nas principais cidades dos EUA está aumentando, com inflação e aumento nos preços de aluguel e alimentaç |
+| 2 🟠 🎬 | **Imposto** | Impacto dos impostos sobre consumo nos EUA | 'Imposto do pecado' e a discussão sobre tributos estão em alta, especialmente em relação a como eles impactam o consumid |
+| 3 🟡 🎬 | **Dólar** | Previsões do dólar e impacto no consumidor | As flutuações do dólar estão influenciando o mercado e o custo de produtos importados nos EUA, com previsões de subida. |
+| 4 🟡 🎬 | **Saúde** | Custo de saúde nos EUA | O custo de cuidados de saúde nos EUA continua a ser uma preocupação crescente, especialmente em tempos de crise. |
+| 5 🟡 🎬 | **Direito & Legal** | Direitos dos imigrantes nos EUA | Discussões sobre direitos e imigração estão em evidência, especialmente após recentes eventos políticos. |
+| 6 🟡 🎬 | **Negócios & Dinheiro** | Como ganhar dinheiro online | A busca por renda extra e formas de ganhar dinheiro online está em alta, especialmente após a pandemia. |
+| 7 🟡 ⚡ | **Entretenimento** | Tendências de humor sobre vida nos EUA | Vídeos de humor que retratam a vida cotidiana nos EUA estão se tornando populares nas redes sociais. |
+| 8 🟢 🎬 | **Economia & Mercado** | Efeitos da inflação nos produtos do dia a dia | A inflação continua a impactar o preço de produtos essenciais, o que gera preocupação entre consumidores. |
+| 9 🟢 🎬 | **Viagem** | Impacto da inflação nas viagens para o Brasil | O aumento dos preços de passagens aéreas e despesas de viagem está afetando muitos imigrantes brasileiros. |
