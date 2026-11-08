@@ -1,0 +1,865 @@
+{
+  "generated_at": "2026-11-08T17:44:09.731220",
+  "run_id": "42506342320",
+  "summary": {
+    "total_br": 30,
+    "total_us": 23,
+    "br_us_connections": 10,
+    "cross_platform_topics": 8,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "Felipe & Rodrigo - Eu Me Rendo (Ao Vivo) #NoSentimento",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=izDBFPw7JHg",
+          "score": 7.65,
+          "region": "BR",
+          "views": 3029718
+        },
+        {
+          "title": "SUIATSU",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=VPQr2dedikk",
+          "score": 3.31,
+          "region": "BR",
+          "views": 87685
+        },
+        {
+          "title": "The Strokes - Lonely in the Future (Official Video)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Yl6F10Bm44Q",
+          "score": 2.55,
+          "region": "BR",
+          "views": 267094
+        },
+        {
+          "title": "VITINHO - Pra Sempre Vou Te Amar (Vídeo Oficial)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=SPHXkuxntgg",
+          "score": 2.32,
+          "region": "BR",
+          "views": 781636
+        },
+        {
+          "title": "NÓS TENTAMOS QUEBRAR ESSE OVO, MAS... 🥚",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=CbPkSbwfEpU",
+          "score": 1.9,
+          "region": "BR",
+          "views": 301745
+        },
+        {
+          "title": "🌴 DJ PARTY 71 – CALL OF THE SUN | Tropical House / Slap House / Eurodance #2026music",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=VtbHMLZgrPU",
+          "score": 1.73,
+          "region": "BR",
+          "views": 1374119
+        },
+        {
+          "title": "Mari Fernandez e Eduardinho dos Teclados - FARRA É COMIGO",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=L-WkxnJHujw",
+          "score": 1.48,
+          "region": "BR",
+          "views": 497589
+        },
+        {
+          "title": "Taty Girl - LIVE Em Casa",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=US5HJUBYRjY",
+          "score": 1.21,
+          "region": "BR",
+          "views": 157340
+        },
+        {
+          "title": "Dance Se Souber 2026 {tiktok} | Músicas Atualizadas 🎶💜",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=kDMcsGgJJfo",
+          "score": 1.1,
+          "region": "BR",
+          "views": 234078
+        },
+        {
+          "title": "Natanzinho Lima - Ela Só Pensa em Beijar - Na Favela (Ao Vivo no Complexo do Alemão/RJ)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=SqYqwF-0ye4",
+          "score": 0.77,
+          "region": "BR",
+          "views": 262729
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Trufa branca é vendida por mais de R$ 600 mil em leilão na Itália",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/08/trufa-branca-e-vendida-por-mais-de-r-600-mil-em-leilao-na-italia.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Caso Ueno: Ministério Público estima prejuízo de US$ 809 mi no Paraguai",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/caso-ueno-ministerio-publico-estima-prejuizo-de-us-809-mi-no-paraguai/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "PT faz “vaquinha virtual” para quitar despesas da campanha de Lula",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/pt-faz-vaquinha-virtual-para-quitar-despesas-da-campanha-de-lula/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Enem estreia acompanhante e cão de apoio emocional para candidatos",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/brasil/enem-estreia-acompanhante-e-cao-de-apoio-emocional-para-candidatos/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Reforma do Judiciário é tão importante quanto a pauta econômica, diz Solange Srour",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/reforma-do-judiciario-e-tao-importante-quanto-a-pauta-economica-diz-solange-srour/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Enem 2026: “A valorização do SUS como direito universal” é tema da redação",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/brasil/enem-2026-a-valorizacao-do-sus-como-direito-universal-e-tema-da-redacao/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Mega-Sena 3083: aposta simples de Goiânia leva quase R$ 60 milhões; confira os números sorteados",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/08/mega-sena-3083-confira-os-numeros-sorteados.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Presidente de Israel oficializa escolha de rival de Netanyahu para tentar formar novo governo",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/08/presidente-de-israel-oficializa-escolha-de-rival-de-netanyahu-para-tentar-formar-novo-governo.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Colisão entre trens deixa ao menos 7 mortos e mais de 100 feridos no Egito",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/08/colisao-de-trens-no-egito-deixa-feridos-equipes-trabalham-para-remover-destrocos.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Papa Leão XIV pede aos homens que tratem com respeito as suas esposas",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/08/papa-leao-xiv-pede-aos-homens-que-tratem-com-respeito-as-suas-esposas.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "HE ATE THEM CHAPTER 3 GOT LEAKED..",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=_qufVkuL8bk",
+          "score": 4.74,
+          "region": "US",
+          "views": 815950
+        },
+        {
+          "title": "the BACKSTORY of HE ATE THEM..",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=pbXSXEN7T3U",
+          "score": 3.45,
+          "region": "US",
+          "views": 474584
+        },
+        {
+          "title": "2 Hour Top Christmas Songs of All Time 🎄 Best Christmas Music Playlist 2027 🎅 Merry Christmas Songs",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=a8Eo7m-tpb0",
+          "score": 0.12,
+          "region": "US",
+          "views": 33966
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump's AG won't rule out prosecuting Democrats who threaten to investigate",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Ex-RFK Jr adviser requests records on Wiles's health policy influence",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/healthcare/6206661-calley-means-susie-wiles-records/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump shares cartoon of Dana White as press secretary",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Educators and families, read past the talking points on tax credits",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/education/6204657-educator-supports-education-freedom-tax-credit/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Democrats plot to choke off Iran war — with some GOP help",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/defense/6205731-democrats-end-iran-war-spending-fight/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Hamilton says many people in Kansas view Schumer as 'polarizing'",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/senate/6206570-hamilton-calls-schumer-polarizing/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "NPR's Moscow and Beijing correspondents discuss the reaction to U.S. elections abroad",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-6030815/nprs-moscow-and-beijing-correspondents-discuss-the-reaction-to-u-s-elections-abroad",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 13,
+      "score": 80.0,
+      "sample_titles": [
+        "Após fracasso eleitoral, Trump dobra a aposta na radicalização",
+        "Derrota republicana nas urnas barra pacote trilionário de Defesa de Trump",
+        "Trump chama derrota republicana nas eleições de 'gigantesco retrocesso'",
+        "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+        "Week in politics: Democrats plan for the next Congress, Trump's new Chief of Staff"
+      ]
+    },
+    {
+      "topic": "rival",
+      "count": 4,
+      "score": 75.0,
+      "sample_titles": [
+        "Presidente de Israel oficializa escolha de rival de Netanyahu para tentar formar novo governo",
+        "Gadi Eisenkot: Quem é o principal rival de Netanyahu que pode se tornar novo primeiro-ministro de Israel?",
+        "Rival de Netanyahu recebe mandato para formar governo em Israel; entenda",
+        "Netanyahu rival Eisenkot tapped to form Israeli government"
+      ]
+    },
+    {
+      "topic": "netanyahu",
+      "count": 4,
+      "score": 75.0,
+      "sample_titles": [
+        "Presidente de Israel oficializa escolha de rival de Netanyahu para tentar formar novo governo",
+        "Gadi Eisenkot: Quem é o principal rival de Netanyahu que pode se tornar novo primeiro-ministro de Israel?",
+        "Rival de Netanyahu recebe mandato para formar governo em Israel; entenda",
+        "Netanyahu rival Eisenkot tapped to form Israeli government"
+      ]
+    },
+    {
+      "topic": "eisenkot",
+      "count": 3,
+      "score": 56.67,
+      "sample_titles": [
+        "Gadi Eisenkot: Quem é o principal rival de Netanyahu que pode se tornar novo primeiro-ministro de Israel?",
+        "Opositor Eisenkot alerta para crise em Israel ao ser encarregado de formar governo",
+        "Netanyahu rival Eisenkot tapped to form Israeli government"
+      ]
+    },
+    {
+      "topic": "house",
+      "count": 3,
+      "score": 47.24,
+      "sample_titles": [
+        "🌴 DJ PARTY 71 – CALL OF THE SUN | Tropical House / Slap House / Eurodance #2026music",
+        "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+        "House poised to impeach Pete Hegseth after GOP midterm defeat"
+      ]
+    },
+    {
+      "topic": "miller",
+      "count": 3,
+      "score": 36.67,
+      "sample_titles": [
+        "Democratas dos EUA miram investigações sobre Musk e Miller após vitória eleitoral",
+        "Trump's \"war-time consigliere\" and the Miller Doctrine",
+        "Trump replaces chief of staff Susie Wiles with Stephen Miller"
+      ]
+    },
+    {
+      "topic": "music",
+      "count": 3,
+      "score": 0.29,
+      "sample_titles": [
+        "Slow GM - Estopim (Little Misfortune) Official Music Video",
+        "CONTATINHO FIXO - MC WS da Leste,MC Rick, DJ GH Sheik (Official Music Video)",
+        "2 Hour Top Christmas Songs of All Time 🎄 Best Christmas Music Playlist 2027 🎅 Merry Christmas Songs"
+      ]
+    },
+    {
+      "topic": "future",
+      "count": 2,
+      "score": 31.27,
+      "sample_titles": [
+        "The Strokes - Lonely in the Future (Official Video)",
+        "President of The Heritage Foundation looks ahead to the future of the GOP"
+      ]
+    },
+    {
+      "topic": "online",
+      "count": 2,
+      "score": 10.0,
+      "sample_titles": [
+        "como ganhar dinheiro online",
+        "how to learn online"
+      ]
+    },
+    {
+      "topic": "playlist",
+      "count": 2,
+      "score": 0.14,
+      "sample_titles": [
+        "PABLO 💖 SÓ AS ANTIGAS PLAYLIST 💝 ANTIGAS AS MELHORES",
+        "2 Hour Top Christmas Songs of All Time 🎄 Best Christmas Music Playlist 2027 🎅 Merry Christmas Songs"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "quanto",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "Reforma do Judiciário é tão importante quanto a pauta econômica, diz Solange Srour",
+        "quanto custa viajar para os EUA"
+      ]
+    },
+    {
+      "topic": "house",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 47.24,
+      "sample_titles": [
+        "🌴 DJ PARTY 71 – CALL OF THE SUN | Tropical House / Slap House / Eurodance #2026music",
+        "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+        "House poised to impeach Pete Hegseth after GOP midterm defeat"
+      ]
+    },
+    {
+      "topic": "learn",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+        "how to learn online"
+      ]
+    },
+    {
+      "topic": "custa",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Renault Kwid 2027 muda visual, mas custa até R$ 91 mil; vale mais que um seminovo? Veja teste",
+        "quanto custa viajar para os EUA"
+      ]
+    },
+    {
+      "topic": "dinheiro",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Itaipu tinha cerca de R$ 1 bilhão no Ueno Bank, banco do Paraguai que teve operações suspensas, e tenta recuperar dinheiro na Justiça",
+        "como ganhar dinheiro online"
+      ]
+    },
+    {
+      "topic": "future",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 31.27,
+      "sample_titles": [
+        "The Strokes - Lonely in the Future (Official Video)",
+        "President of The Heritage Foundation looks ahead to the future of the GOP"
+      ]
+    },
+    {
+      "topic": "leste",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.21,
+      "sample_titles": [
+        "CONTATINHO FIXO - MC WS da Leste,MC Rick, DJ GH Sheik (Official Music Video)",
+        "Ataque russo deixa mais de 600 mil pessoas sem energia no leste da Ucrânia"
+      ]
+    },
+    {
+      "topic": "domingo",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.07,
+      "sample_titles": [
+        "Domingo 8 de Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Mega-Sena 3083 pode pagar R$ 60 milhões neste domingo; g1 transmite ao vivo"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "Custo de vida",
+      "subtopic": "Quanto custa viver nos EUA: comparações práticas",
+      "why_trending": "O aumento do custo de vida nos EUA e as recentes mudanças econômicas têm gerado interesse em como isso impacta brasileiros que vivem no país.",
+      "niche_angle": "Vamos analisar as principais despesas que os imigrantes brasileiros enfrentam e como planejar financeiramente para viver aqui.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "google_trends",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/agronegocios/noticia/2026/11/08/trufa-branca-e-vendida-por-mais-de-r-600-mil-em-leilao-na-italia.ghtml"
+      ],
+      "platforms": [
+        "google_trends",
+        "news"
+      ],
+      "collected_at": "2026-11-08T17:44:09.728343"
+    },
+    {
+      "main_topic": "Educação",
+      "subtopic": "Como aprender inglês de forma eficaz",
+      "why_trending": "O interesse por aprendizado online e métodos inovadores está em alta, especialmente entre brasileiros imigrantes que buscam se integrar.",
+      "niche_angle": "Explorar recursos e estratégias que facilitam o aprendizado de inglês para brasileiros, incluindo dicas práticas e plataformas online.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "GLOBAL",
+      "links": [
+        "https://www.infomoney.com.br/mercados/ataque-de-houthis-causa-danos-a-predio-da-aramco-no-distrito-financeiro-de-riad/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-08T17:44:09.728353"
+    },
+    {
+      "main_topic": "Empreendedorismo",
+      "subtopic": "Como ganhar dinheiro online nos EUA",
+      "why_trending": "Com a crescente demanda por renda extra e trabalho remoto, muitos buscam maneiras de monetizar habilidades pela internet.",
+      "niche_angle": "Apresentar oportunidades de empreendedorismo digital que os brasileiros podem explorar enquanto vivem nos EUA, como afiliados e serviços online.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "google_trends",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mercados/csn-fecha-acordo-de-r127-bi-para-vender-unidade-de-cimento-a-chinesa-huaxin/"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-08T17:44:09.728356"
+    },
+    {
+      "main_topic": "Direito & Legal",
+      "subtopic": "Como funciona o visto de trabalho nos EUA",
+      "why_trending": "As mudanças nas políticas de imigração e as novas regulamentações têm gerado incertezas para imigrantes, aumentando a busca por informações.",
+      "niche_angle": "Desmistificar o processo de solicitação de visto de trabalho e compartilhar dicas práticas para brasileiros em busca de oportunidades legais nos EUA.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/politica/lula-imaginando-quem-manda-jovens-para-guerra-nos-fazemos-guerra-pela-educacao/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-08T17:44:09.728362"
+    },
+    {
+      "main_topic": "Economia & Mercado",
+      "subtopic": "Impacto da inflação nos imigrantes brasileiros",
+      "why_trending": "Com a inflação afetando o custo de vida, muitos brasileiros buscam entender como isso impacta suas finanças nos EUA.",
+      "niche_angle": "Analisar como a inflação nos EUA pode afetar os brasileiros, incluindo dicas de como gerenciar finanças pessoais em tempos de crise.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://exame.com/mundo/ira-atribui-explosoes-no-sul-do-pais-a-atividades-militares-nao-a-ataques-dos-eua/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-08T17:44:09.728365"
+    },
+    {
+      "main_topic": "Viagem",
+      "subtopic": "Dicas de economia para viajar dentro dos EUA",
+      "why_trending": "O turismo interno nos EUA está em ascensão, com muitos brasileiros buscando maneiras econômicas de explorar o país.",
+      "niche_angle": "Compartilhar dicas práticas sobre como viajar de forma econômica dentro dos EUA, incluindo transporte, hospedagem e atrações.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://exame.com/brasil/gabarito-extraoficial-do-enem-2026-veja-sites-que-realizam-a-correcao-da-prova/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-08T17:44:09.728370"
+    },
+    {
+      "main_topic": "Tecnologia",
+      "subtopic": "Automação no trabalho: como a IA está mudando o mercado",
+      "why_trending": "A crescente adoção de tecnologia e inteligência artificial no ambiente de trabalho está gerando debates sobre suas implicações.",
+      "niche_angle": "Explorar como a automação e a inteligência artificial estão impactando oportunidades de trabalho para brasileiros nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "GLOBAL",
+      "links": [
+        "https://g1.globo.com/economia/agronegocios/noticia/2026/11/08/trufa-branca-e-vendida-por-mais-de-r-600-mil-em-leilao-na-italia.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-08T17:44:09.728373"
+    },
+    {
+      "main_topic": "Entretenimento",
+      "subtopic": "Humor sobre a vida de imigrante nos EUA",
+      "why_trending": "Conteúdos humorísticos que retratam a vida cotidiana têm ganhado popularidade nas redes sociais.",
+      "niche_angle": "Criar esquetes cômicos que retratem situações engraçadas e desafiadoras que brasileiros enfrentam nos EUA.",
+      "video_format": "short",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "tiktok",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/agronegocios/noticia/2026/11/08/trufa-branca-e-vendida-por-mais-de-r-600-mil-em-leilao-na-italia.ghtml"
+      ],
+      "platforms": [
+        "tiktok",
+        "youtube"
+      ],
+      "collected_at": "2026-11-08T17:44:09.728382"
+    },
+    {
+      "main_topic": "Comunidade & Opinião",
+      "subtopic": "Debate sobre a imigração e suas consequências",
+      "why_trending": "As recentes discussões sobre políticas de imigração têm gerado debates acalorados entre a comunidade.",
+      "niche_angle": "Promover um debate sobre as experiências e impactos da imigração na vida dos brasileiros nos EUA, buscando diferentes perspectivas.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 4,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/politica/pt-faz-vaquinha-virtual-para-quitar-despesas-da-campanha-de-lula/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-08T17:44:09.728386"
+    }
+  ]
+}

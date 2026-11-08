@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 07/11/2026 17:32 UTC
+# 📊 Tendências em Alta — 08/11/2026 17:44 UTC
 
-**Run:** `42396772762` | **BR:** 30 trends | **US:** 25 trends | **Nicho:** 9 ideias
+**Run:** `42506342320` | **BR:** 30 trends | **US:** 23 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. MUTANT MR. SUN AND HIS MONSTER FAMILY ARE HUNTING THE PAW PATROL SPRUNKI FAMILY! 😱 | GMod · [https://youtube.com/watch?v=4wItbDO3KNQ](https://youtube.com/watch?v=4wItbDO3KNQ)
- 2. Baco Exu do Blues, Marina Sena - Mon Amour (Videoclipe Oficial) · [https://youtube.com/watch?v=pozGekTOAGs](https://youtube.com/watch?v=pozGekTOAGs)
- 3. Felipe & Rodrigo - Eu Me Rendo (Ao Vivo) #NoSentimento · [https://youtube.com/watch?v=izDBFPw7JHg](https://youtube.com/watch?v=izDBFPw7JHg)
+ 1. Felipe & Rodrigo - Eu Me Rendo (Ao Vivo) #NoSentimento · [https://youtube.com/watch?v=izDBFPw7JHg](https://youtube.com/watch?v=izDBFPw7JHg)
+ 2. SUIATSU · [https://youtube.com/watch?v=VPQr2dedikk](https://youtube.com/watch?v=VPQr2dedikk)
+ 3. The Strokes - Lonely in the Future (Official Video) · [https://youtube.com/watch?v=Yl6F10Bm44Q](https://youtube.com/watch?v=Yl6F10Bm44Q)
  4. VITINHO - Pra Sempre Vou Te Amar (Vídeo Oficial) · [https://youtube.com/watch?v=SPHXkuxntgg](https://youtube.com/watch?v=SPHXkuxntgg)
- 5. 🌴 DJ PARTY 71 – CALL OF THE SUN | Tropical House / Slap House / Eurodance #2026music · [https://youtube.com/watch?v=VtbHMLZgrPU](https://youtube.com/watch?v=VtbHMLZgrPU)
- 6. Ludmilla, Puterrier, Hitmaker - Bi Festinha (Official Music Video) · [https://youtube.com/watch?v=aEh0-zAhyLI](https://youtube.com/watch?v=aEh0-zAhyLI)
- 7. Lorena Cristine - Mulher Faz Pior (Ao Vivo) · [https://youtube.com/watch?v=dnQlupvebXc](https://youtube.com/watch?v=dnQlupvebXc)
- 8. Mari Fernandez e Eduardinho dos Teclados - FARRA É COMIGO · [https://youtube.com/watch?v=L-WkxnJHujw](https://youtube.com/watch?v=L-WkxnJHujw)
- 9. Dragon Ball Super: Beerus | Trailer em Português · [https://youtube.com/watch?v=hHXz4jdYHYM](https://youtube.com/watch?v=hHXz4jdYHYM)
-10. Viramos Babás de Bebês… mas com anomalias · [https://youtube.com/watch?v=mxVwpMnRrKw](https://youtube.com/watch?v=mxVwpMnRrKw)
+ 5. NÓS TENTAMOS QUEBRAR ESSE OVO, MAS... 🥚 · [https://youtube.com/watch?v=CbPkSbwfEpU](https://youtube.com/watch?v=CbPkSbwfEpU)
+ 6. 🌴 DJ PARTY 71 – CALL OF THE SUN | Tropical House / Slap House / Eurodance #2026music · [https://youtube.com/watch?v=VtbHMLZgrPU](https://youtube.com/watch?v=VtbHMLZgrPU)
+ 7. Mari Fernandez e Eduardinho dos Teclados - FARRA É COMIGO · [https://youtube.com/watch?v=L-WkxnJHujw](https://youtube.com/watch?v=L-WkxnJHujw)
+ 8. Taty Girl - LIVE Em Casa · [https://youtube.com/watch?v=US5HJUBYRjY](https://youtube.com/watch?v=US5HJUBYRjY)
+ 9. Dance Se Souber 2026 {tiktok} | Músicas Atualizadas 🎶💜 · [https://youtube.com/watch?v=kDMcsGgJJfo](https://youtube.com/watch?v=kDMcsGgJJfo)
+10. Natanzinho Lima - Ela Só Pensa em Beijar - Na Favela (Ao Vivo no Complexo do Alemão/RJ) · [https://youtube.com/watch?v=SqYqwF-0ye4](https://youtube.com/watch?v=SqYqwF-0ye4)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Deputado da oposição e 3 policiais morrem após ataque armado na Guatemala · [https://g1.globo.com/mundo/noticia/2026/11/07/deputado-da-oposicao-e-tres-policiais-morrem-apos-ataque-armado-na-guatemala.ghtml](https://g1.globo.com/mundo/noticia/2026/11/07/deputado-da-oposicao-e-tres-policiais-morrem-apos-ataque-armado-na-guatemala.ghtml)
- 2. Forças Armadas dos EUA buscam restringir comércio terrestre iraniano · [https://www.infomoney.com.br/mundo/forcas-armadas-dos-eua-buscam-restringir-comercio-terrestre-iraniano/](https://www.infomoney.com.br/mundo/forcas-armadas-dos-eua-buscam-restringir-comercio-terrestre-iraniano/)
- 3. Papa exorta América do Sul a superar divisões na fronteira entre Uruguai e Argentina · [https://www.infomoney.com.br/mundo/papa-exorta-america-do-sul-a-superar-divisoes-na-fronteira-entre-uruguai-e-argentina/](https://www.infomoney.com.br/mundo/papa-exorta-america-do-sul-a-superar-divisoes-na-fronteira-entre-uruguai-e-argentina/)
- 4. 'Imposto do pecado' não é invenção brasileira: álcool e tabaco são taxados nos 38 países da OCDE, grupo de nações ricas · [https://g1.globo.com/economia/noticia/2026/11/07/imposto-do-pecado-nao-e-invencao-brasileira-alcool-e-tabaco-sao-taxados-nos-38-paises-da-ocde-grupo-de-nacoes-ricas.ghtml](https://g1.globo.com/economia/noticia/2026/11/07/imposto-do-pecado-nao-e-invencao-brasileira-alcool-e-tabaco-sao-taxados-nos-38-paises-da-ocde-grupo-de-nacoes-ricas.ghtml)
- 5. BC paraguaio diz que devolveu dinheiro de 1,2 milhão de correntistas do banco Ueno · [https://g1.globo.com/economia/noticia/2026/11/07/bc-paraguaio-diz-que-devolveu-dinheiro-de-12-milhao-de-correntistas-do-banco-ueno.ghtml](https://g1.globo.com/economia/noticia/2026/11/07/bc-paraguaio-diz-que-devolveu-dinheiro-de-12-milhao-de-correntistas-do-banco-ueno.ghtml)
- 6. Ueno Bank: escândalo que levou à queda do presidente do Paraguai pode ser comparado ao do Banco Master? · [https://g1.globo.com/mundo/noticia/2026/11/07/ueno-bank-escandalo-que-levou-a-queda-do-presidente-do-paraguai-pode-ser-comparado-ao-do-banco-master.ghtml](https://g1.globo.com/mundo/noticia/2026/11/07/ueno-bank-escandalo-que-levou-a-queda-do-presidente-do-paraguai-pode-ser-comparado-ao-do-banco-master.ghtml)
- 7. Ataque a tiros na praça principal de Cracóvia, na Polônia, deixa 6 mortos · [https://g1.globo.com/mundo/noticia/2026/11/07/tiroteio-na-praca-principal-de-cracovia-na-polonia-deixa-mortos.ghtml](https://g1.globo.com/mundo/noticia/2026/11/07/tiroteio-na-praca-principal-de-cracovia-na-polonia-deixa-mortos.ghtml)
- 8. VÍDEO: solidéu do papa Leão XIV sai voando enquanto ele cumprimentava fiéis no Uruguai · [https://g1.globo.com/mundo/noticia/2026/11/07/video-solideu-papa-leao-xiv-sai-voando-uruguai.ghtml](https://g1.globo.com/mundo/noticia/2026/11/07/video-solideu-papa-leao-xiv-sai-voando-uruguai.ghtml)
- 9. Crise no Paraguai: Santiago Peña depõe à Justiça em investigação do banco ueno · [https://g1.globo.com/mundo/noticia/2026/11/07/santiago-pena-depoe-a-justica-paraguaia-apos-impeachment-e-prisao-domiciliar.ghtml](https://g1.globo.com/mundo/noticia/2026/11/07/santiago-pena-depoe-a-justica-paraguaia-apos-impeachment-e-prisao-domiciliar.ghtml)
-10. Bombardeios sauditas no Iêmen deixam ao menos 22 mortos, diz mídia ligada aos Houthis · [https://g1.globo.com/mundo/noticia/2026/11/07/bombardeios-sauditas-no-iemen-mortos-houthis.ghtml](https://g1.globo.com/mundo/noticia/2026/11/07/bombardeios-sauditas-no-iemen-mortos-houthis.ghtml)
+ 1. Trufa branca é vendida por mais de R$ 600 mil em leilão na Itália · [https://g1.globo.com/economia/agronegocios/noticia/2026/11/08/trufa-branca-e-vendida-por-mais-de-r-600-mil-em-leilao-na-italia.ghtml](https://g1.globo.com/economia/agronegocios/noticia/2026/11/08/trufa-branca-e-vendida-por-mais-de-r-600-mil-em-leilao-na-italia.ghtml)
+ 2. Caso Ueno: Ministério Público estima prejuízo de US$ 809 mi no Paraguai · [https://www.infomoney.com.br/mundo/caso-ueno-ministerio-publico-estima-prejuizo-de-us-809-mi-no-paraguai/](https://www.infomoney.com.br/mundo/caso-ueno-ministerio-publico-estima-prejuizo-de-us-809-mi-no-paraguai/)
+ 3. PT faz “vaquinha virtual” para quitar despesas da campanha de Lula · [https://www.infomoney.com.br/politica/pt-faz-vaquinha-virtual-para-quitar-despesas-da-campanha-de-lula/](https://www.infomoney.com.br/politica/pt-faz-vaquinha-virtual-para-quitar-despesas-da-campanha-de-lula/)
+ 4. Enem estreia acompanhante e cão de apoio emocional para candidatos · [https://www.infomoney.com.br/brasil/enem-estreia-acompanhante-e-cao-de-apoio-emocional-para-candidatos/](https://www.infomoney.com.br/brasil/enem-estreia-acompanhante-e-cao-de-apoio-emocional-para-candidatos/)
+ 5. Reforma do Judiciário é tão importante quanto a pauta econômica, diz Solange Srour · [https://www.infomoney.com.br/politica/reforma-do-judiciario-e-tao-importante-quanto-a-pauta-economica-diz-solange-srour/](https://www.infomoney.com.br/politica/reforma-do-judiciario-e-tao-importante-quanto-a-pauta-economica-diz-solange-srour/)
+ 6. Enem 2026: “A valorização do SUS como direito universal” é tema da redação · [https://www.infomoney.com.br/brasil/enem-2026-a-valorizacao-do-sus-como-direito-universal-e-tema-da-redacao/](https://www.infomoney.com.br/brasil/enem-2026-a-valorizacao-do-sus-como-direito-universal-e-tema-da-redacao/)
+ 7. Mega-Sena 3083: aposta simples de Goiânia leva quase R$ 60 milhões; confira os números sorteados · [https://g1.globo.com/loterias/mega-sena/noticia/2026/11/08/mega-sena-3083-confira-os-numeros-sorteados.ghtml](https://g1.globo.com/loterias/mega-sena/noticia/2026/11/08/mega-sena-3083-confira-os-numeros-sorteados.ghtml)
+ 8. Presidente de Israel oficializa escolha de rival de Netanyahu para tentar formar novo governo · [https://g1.globo.com/mundo/noticia/2026/11/08/presidente-de-israel-oficializa-escolha-de-rival-de-netanyahu-para-tentar-formar-novo-governo.ghtml](https://g1.globo.com/mundo/noticia/2026/11/08/presidente-de-israel-oficializa-escolha-de-rival-de-netanyahu-para-tentar-formar-novo-governo.ghtml)
+ 9. Colisão entre trens deixa ao menos 7 mortos e mais de 100 feridos no Egito · [https://g1.globo.com/mundo/noticia/2026/11/08/colisao-de-trens-no-egito-deixa-feridos-equipes-trabalham-para-remover-destrocos.ghtml](https://g1.globo.com/mundo/noticia/2026/11/08/colisao-de-trens-no-egito-deixa-feridos-equipes-trabalham-para-remover-destrocos.ghtml)
+10. Papa Leão XIV pede aos homens que tratem com respeito as suas esposas · [https://g1.globo.com/mundo/noticia/2026/11/08/papa-leao-xiv-pede-aos-homens-que-tratem-com-respeito-as-suas-esposas.ghtml](https://g1.globo.com/mundo/noticia/2026/11/08/papa-leao-xiv-pede-aos-homens-que-tratem-com-respeito-as-suas-esposas.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,26 +54,24 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 5
+#### 📺 YouTube (US) — Top 3
 
- 1. LAJA x ANUEL AA - TUSSI (Video Oficial) · [https://youtube.com/watch?v=T0rVuheJOp8](https://youtube.com/watch?v=T0rVuheJOp8)
- 2. Here In Your Dreams ☁✨ (ft. Liam Pearce) | Dandy's World Official Song · [https://youtube.com/watch?v=Jr8DUNzQf90](https://youtube.com/watch?v=Jr8DUNzQf90)
- 3. AVENGERS DOOMSDAY TRAILER Battle At Doctor Doom’s Castle & Latveria! · [https://youtube.com/watch?v=eSSMk486h8U](https://youtube.com/watch?v=eSSMk486h8U)
- 4. AVENGERS DOOMSDAY: Latveria Revealed in New Promos! · [https://youtube.com/watch?v=J30QF4ZQ0SM](https://youtube.com/watch?v=J30QF4ZQ0SM)
- 5. AVENGERS 5: DOOMSDAY Official “Doctor Doom's Castle” Promo Clip (2026) · [https://youtube.com/watch?v=ElE5qbVOEyc](https://youtube.com/watch?v=ElE5qbVOEyc)
+ 1. HE ATE THEM CHAPTER 3 GOT LEAKED.. · [https://youtube.com/watch?v=_qufVkuL8bk](https://youtube.com/watch?v=_qufVkuL8bk)
+ 2. the BACKSTORY of HE ATE THEM.. · [https://youtube.com/watch?v=pbXSXEN7T3U](https://youtube.com/watch?v=pbXSXEN7T3U)
+ 3. 2 Hour Top Christmas Songs of All Time 🎄 Best Christmas Music Playlist 2027 🎅 Merry Christmas Songs · [https://youtube.com/watch?v=a8Eo7m-tpb0](https://youtube.com/watch?v=a8Eo7m-tpb0)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Ousted Paraguayan president appears before prosecutors · [https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse](https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse)
- 2. Are hackers targeting America's food supply? · [https://thehill.com/policy/technology/6206043-fridges-blood-banks-cyberattacks-federal-warning/](https://thehill.com/policy/technology/6206043-fridges-blood-banks-cyberattacks-federal-warning/)
- 3. Plane etiquette is getting worse, survey finds. These are the biggest offenses · [https://thehill.com/business/6158203-plane-etiquette-is-getting-worse-survey-finds-these-are-the-biggest-offenses/](https://thehill.com/business/6158203-plane-etiquette-is-getting-worse-survey-finds-these-are-the-biggest-offenses/)
- 4. Trump’s glide path to judicial confirmations comes to an end · [https://thehill.com/regulation/court-battles/6205209-trump-judicial-confirmations-democrats-senate/](https://thehill.com/regulation/court-battles/6205209-trump-judicial-confirmations-democrats-senate/)
- 5. The ascendency of JD Vance · [https://thehill.com/opinion/campaign/6204310-vance-blue-tsunami-postmortem/](https://thehill.com/opinion/campaign/6204310-vance-blue-tsunami-postmortem/)
- 6. A promising new medicine against heart disease fails unexpectedly · [https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack](https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack)
- 7. Democrats plan to widen their probes of fatal ICE shootings · [https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings](https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings)
- 8. Perspective: Simon Winchester was here to tell a story · [https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story](https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story)
- 9. This teen boy set out to get people talking about periods. He's now a Diana honoree · [https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma](https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma)
-10. How the new Senate majority shifts control over the federal judiciary · [https://www.npr.org/2026/11/07/nx-s1-6032757/how-the-new-senate-majority-shifts-control-over-the-federal-judiciary](https://www.npr.org/2026/11/07/nx-s1-6032757/how-the-new-senate-majority-shifts-control-over-the-federal-judiciary)
+ 1. No clear winner in New Zealand election, as leaders prepare for weeks of talks · [https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks](https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks)
+ 2. Trump's AG won't rule out prosecuting Democrats who threaten to investigate · [https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight](https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight)
+ 3. Ex-RFK Jr adviser requests records on Wiles's health policy influence · [https://thehill.com/policy/healthcare/6206661-calley-means-susie-wiles-records/](https://thehill.com/policy/healthcare/6206661-calley-means-susie-wiles-records/)
+ 4. Trump shares cartoon of Dana White as press secretary · [https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/](https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/)
+ 5. Educators and families, read past the talking points on tax credits · [https://thehill.com/opinion/education/6204657-educator-supports-education-freedom-tax-credit/](https://thehill.com/opinion/education/6204657-educator-supports-education-freedom-tax-credit/)
+ 6. Democrats plot to choke off Iran war — with some GOP help · [https://thehill.com/policy/defense/6205731-democrats-end-iran-war-spending-fight/](https://thehill.com/policy/defense/6205731-democrats-end-iran-war-spending-fight/)
+ 7. Hamilton says many people in Kansas view Schumer as 'polarizing' · [https://thehill.com/homenews/senate/6206570-hamilton-calls-schumer-polarizing/](https://thehill.com/homenews/senate/6206570-hamilton-calls-schumer-polarizing/)
+ 8. After a successful trip to Uruguay, Pope Leo heads to Argentina · [https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina](https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina)
+ 9. Russell Brand to learn sentence after being found guilty of rape and sexual assault · [https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault](https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault)
+10. NPR's Moscow and Beijing correspondents discuss the reaction to U.S. elections abroad · [https://www.npr.org/2026/11/08/nx-s1-6030815/nprs-moscow-and-beijing-correspondents-discuss-the-reaction-to-u-s-elections-abroad](https://www.npr.org/2026/11/08/nx-s1-6030815/nprs-moscow-and-beijing-correspondents-discuss-the-reaction-to-u-s-elections-abroad)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -95,12 +93,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **Custo de vida** | Comparação entre Brasil e EUA | O custo de vida nas principais cidades dos EUA está aumentando, com inflação e aumento nos preços de aluguel e alimentaç |
-| 2 🟠 🎬 | **Imposto** | Impacto dos impostos sobre consumo nos EUA | 'Imposto do pecado' e a discussão sobre tributos estão em alta, especialmente em relação a como eles impactam o consumid |
-| 3 🟡 🎬 | **Dólar** | Previsões do dólar e impacto no consumidor | As flutuações do dólar estão influenciando o mercado e o custo de produtos importados nos EUA, com previsões de subida. |
-| 4 🟡 🎬 | **Saúde** | Custo de saúde nos EUA | O custo de cuidados de saúde nos EUA continua a ser uma preocupação crescente, especialmente em tempos de crise. |
-| 5 🟡 🎬 | **Direito & Legal** | Direitos dos imigrantes nos EUA | Discussões sobre direitos e imigração estão em evidência, especialmente após recentes eventos políticos. |
-| 6 🟡 🎬 | **Negócios & Dinheiro** | Como ganhar dinheiro online | A busca por renda extra e formas de ganhar dinheiro online está em alta, especialmente após a pandemia. |
-| 7 🟡 ⚡ | **Entretenimento** | Tendências de humor sobre vida nos EUA | Vídeos de humor que retratam a vida cotidiana nos EUA estão se tornando populares nas redes sociais. |
-| 8 🟢 🎬 | **Economia & Mercado** | Efeitos da inflação nos produtos do dia a dia | A inflação continua a impactar o preço de produtos essenciais, o que gera preocupação entre consumidores. |
-| 9 🟢 🎬 | **Viagem** | Impacto da inflação nas viagens para o Brasil | O aumento dos preços de passagens aéreas e despesas de viagem está afetando muitos imigrantes brasileiros. |
+| 1 🟠 🎬 | **Custo de vida** | Quanto custa viver nos EUA: comparações práticas | O aumento do custo de vida nos EUA e as recentes mudanças econômicas têm gerado interesse em como isso impacta brasileir |
+| 2 🟡 🎬 | **Educação** | Como aprender inglês de forma eficaz | O interesse por aprendizado online e métodos inovadores está em alta, especialmente entre brasileiros imigrantes que bus |
+| 3 🟡 🎬 | **Empreendedorismo** | Como ganhar dinheiro online nos EUA | Com a crescente demanda por renda extra e trabalho remoto, muitos buscam maneiras de monetizar habilidades pela internet |
+| 4 🟡 🎯 | **Direito & Legal** | Como funciona o visto de trabalho nos EUA | As mudanças nas políticas de imigração e as novas regulamentações têm gerado incertezas para imigrantes, aumentando a bu |
+| 5 🟡 🎬 | **Economia & Mercado** | Impacto da inflação nos imigrantes brasileiros | Com a inflação afetando o custo de vida, muitos brasileiros buscam entender como isso impacta suas finanças nos EUA. |
+| 6 🟡 🎯 | **Viagem** | Dicas de economia para viajar dentro dos EUA | O turismo interno nos EUA está em ascensão, com muitos brasileiros buscando maneiras econômicas de explorar o país. |
+| 7 🟡 🎬 | **Tecnologia** | Automação no trabalho: como a IA está mudando o mercado | A crescente adoção de tecnologia e inteligência artificial no ambiente de trabalho está gerando debates sobre suas impli |
+| 8 🟡 ⚡ | **Entretenimento** | Humor sobre a vida de imigrante nos EUA | Conteúdos humorísticos que retratam a vida cotidiana têm ganhado popularidade nas redes sociais. |
+| 9 🟢 🎬 | **Comunidade & Opinião** | Debate sobre a imigração e suas consequências | As recentes discussões sobre políticas de imigração têm gerado debates acalorados entre a comunidade. |
