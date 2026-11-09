@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 08/11/2026 17:44 UTC
+# 📊 Tendências em Alta — 09/11/2026 22:01 UTC
 
-**Run:** `42506342320` | **BR:** 30 trends | **US:** 23 trends | **Nicho:** 9 ideias
+**Run:** `42707761832` | **BR:** 30 trends | **US:** 25 trends | **Nicho:** 7 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. Felipe & Rodrigo - Eu Me Rendo (Ao Vivo) #NoSentimento · [https://youtube.com/watch?v=izDBFPw7JHg](https://youtube.com/watch?v=izDBFPw7JHg)
- 2. SUIATSU · [https://youtube.com/watch?v=VPQr2dedikk](https://youtube.com/watch?v=VPQr2dedikk)
- 3. The Strokes - Lonely in the Future (Official Video) · [https://youtube.com/watch?v=Yl6F10Bm44Q](https://youtube.com/watch?v=Yl6F10Bm44Q)
- 4. VITINHO - Pra Sempre Vou Te Amar (Vídeo Oficial) · [https://youtube.com/watch?v=SPHXkuxntgg](https://youtube.com/watch?v=SPHXkuxntgg)
- 5. NÓS TENTAMOS QUEBRAR ESSE OVO, MAS... 🥚 · [https://youtube.com/watch?v=CbPkSbwfEpU](https://youtube.com/watch?v=CbPkSbwfEpU)
- 6. 🌴 DJ PARTY 71 – CALL OF THE SUN | Tropical House / Slap House / Eurodance #2026music · [https://youtube.com/watch?v=VtbHMLZgrPU](https://youtube.com/watch?v=VtbHMLZgrPU)
- 7. Mari Fernandez e Eduardinho dos Teclados - FARRA É COMIGO · [https://youtube.com/watch?v=L-WkxnJHujw](https://youtube.com/watch?v=L-WkxnJHujw)
- 8. Taty Girl - LIVE Em Casa · [https://youtube.com/watch?v=US5HJUBYRjY](https://youtube.com/watch?v=US5HJUBYRjY)
- 9. Dance Se Souber 2026 {tiktok} | Músicas Atualizadas 🎶💜 · [https://youtube.com/watch?v=kDMcsGgJJfo](https://youtube.com/watch?v=kDMcsGgJJfo)
-10. Natanzinho Lima - Ela Só Pensa em Beijar - Na Favela (Ao Vivo no Complexo do Alemão/RJ) · [https://youtube.com/watch?v=SqYqwF-0ye4](https://youtube.com/watch?v=SqYqwF-0ye4)
+ 1. CHAERYEONG “Lovesick” M/V · [https://youtube.com/watch?v=pe-rk1ekb4w](https://youtube.com/watch?v=pe-rk1ekb4w)
+ 2. A2O SOUL 'Dancing in the Dark' Official Music Video · [https://youtube.com/watch?v=JPJokqIoIJI](https://youtube.com/watch?v=JPJokqIoIJI)
+ 3. SUIATSU · [https://youtube.com/watch?v=VPQr2dedikk](https://youtube.com/watch?v=VPQr2dedikk)
+ 4. GÊNIO QUIZ 6 - AGORA ELE ME QUEBROU DE VERDADE!!! · [https://youtube.com/watch?v=Wy_AKgoxaKA](https://youtube.com/watch?v=Wy_AKgoxaKA)
+ 5. Marvel Television’s Visionquest | Ep. 8 FINALE TRAILER | November 10 On Disney+  · [https://youtube.com/watch?v=JHQj8wWPqyE](https://youtube.com/watch?v=JHQj8wWPqyE)
+ 6. ♪ Deadpool (Finge que é Sense Life) | Ado Ado Ado 3 | ft 7 Minutoz, M4rkim, Daarui Chrono Kaito Anny · [https://youtube.com/watch?v=gyaQwL86G_o](https://youtube.com/watch?v=gyaQwL86G_o)
+ 7. A ASHE QUE É A NOVA SENSAÇÃO DA TOP LANE! · [https://youtube.com/watch?v=NvLyRtZRv2I](https://youtube.com/watch?v=NvLyRtZRv2I)
+ 8. TOMORROW X TOGETHER WORLD TOUR 'STEAL THE WIND' Official Trailer · [https://youtube.com/watch?v=XSSCREq27ZQ](https://youtube.com/watch?v=XSSCREq27ZQ)
+ 9. XLOV '투스젬치와와 (Tooth Gem Chiwawa)' MV · [https://youtube.com/watch?v=uVHBcxSt24E](https://youtube.com/watch?v=uVHBcxSt24E)
+10. Dan - SEQUÊNCIA DO PERRY, O ORNITORRINCO (Phineas e Ferb) | Feat. Novatroop · [https://youtube.com/watch?v=HhNL3hINpp8](https://youtube.com/watch?v=HhNL3hINpp8)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Trufa branca é vendida por mais de R$ 600 mil em leilão na Itália · [https://g1.globo.com/economia/agronegocios/noticia/2026/11/08/trufa-branca-e-vendida-por-mais-de-r-600-mil-em-leilao-na-italia.ghtml](https://g1.globo.com/economia/agronegocios/noticia/2026/11/08/trufa-branca-e-vendida-por-mais-de-r-600-mil-em-leilao-na-italia.ghtml)
- 2. Caso Ueno: Ministério Público estima prejuízo de US$ 809 mi no Paraguai · [https://www.infomoney.com.br/mundo/caso-ueno-ministerio-publico-estima-prejuizo-de-us-809-mi-no-paraguai/](https://www.infomoney.com.br/mundo/caso-ueno-ministerio-publico-estima-prejuizo-de-us-809-mi-no-paraguai/)
- 3. PT faz “vaquinha virtual” para quitar despesas da campanha de Lula · [https://www.infomoney.com.br/politica/pt-faz-vaquinha-virtual-para-quitar-despesas-da-campanha-de-lula/](https://www.infomoney.com.br/politica/pt-faz-vaquinha-virtual-para-quitar-despesas-da-campanha-de-lula/)
- 4. Enem estreia acompanhante e cão de apoio emocional para candidatos · [https://www.infomoney.com.br/brasil/enem-estreia-acompanhante-e-cao-de-apoio-emocional-para-candidatos/](https://www.infomoney.com.br/brasil/enem-estreia-acompanhante-e-cao-de-apoio-emocional-para-candidatos/)
- 5. Reforma do Judiciário é tão importante quanto a pauta econômica, diz Solange Srour · [https://www.infomoney.com.br/politica/reforma-do-judiciario-e-tao-importante-quanto-a-pauta-economica-diz-solange-srour/](https://www.infomoney.com.br/politica/reforma-do-judiciario-e-tao-importante-quanto-a-pauta-economica-diz-solange-srour/)
- 6. Enem 2026: “A valorização do SUS como direito universal” é tema da redação · [https://www.infomoney.com.br/brasil/enem-2026-a-valorizacao-do-sus-como-direito-universal-e-tema-da-redacao/](https://www.infomoney.com.br/brasil/enem-2026-a-valorizacao-do-sus-como-direito-universal-e-tema-da-redacao/)
- 7. Mega-Sena 3083: aposta simples de Goiânia leva quase R$ 60 milhões; confira os números sorteados · [https://g1.globo.com/loterias/mega-sena/noticia/2026/11/08/mega-sena-3083-confira-os-numeros-sorteados.ghtml](https://g1.globo.com/loterias/mega-sena/noticia/2026/11/08/mega-sena-3083-confira-os-numeros-sorteados.ghtml)
- 8. Presidente de Israel oficializa escolha de rival de Netanyahu para tentar formar novo governo · [https://g1.globo.com/mundo/noticia/2026/11/08/presidente-de-israel-oficializa-escolha-de-rival-de-netanyahu-para-tentar-formar-novo-governo.ghtml](https://g1.globo.com/mundo/noticia/2026/11/08/presidente-de-israel-oficializa-escolha-de-rival-de-netanyahu-para-tentar-formar-novo-governo.ghtml)
- 9. Colisão entre trens deixa ao menos 7 mortos e mais de 100 feridos no Egito · [https://g1.globo.com/mundo/noticia/2026/11/08/colisao-de-trens-no-egito-deixa-feridos-equipes-trabalham-para-remover-destrocos.ghtml](https://g1.globo.com/mundo/noticia/2026/11/08/colisao-de-trens-no-egito-deixa-feridos-equipes-trabalham-para-remover-destrocos.ghtml)
-10. Papa Leão XIV pede aos homens que tratem com respeito as suas esposas · [https://g1.globo.com/mundo/noticia/2026/11/08/papa-leao-xiv-pede-aos-homens-que-tratem-com-respeito-as-suas-esposas.ghtml](https://g1.globo.com/mundo/noticia/2026/11/08/papa-leao-xiv-pede-aos-homens-que-tratem-com-respeito-as-suas-esposas.ghtml)
+ 1. PIX bate novo recorde e registra 319,7 milhões de transações em um dia · [https://g1.globo.com/economia/noticia/2026/11/09/pix-bate-novo-recorde-e-registra-3197-milhoes-de-transacoes-em-um-dia.ghtml](https://g1.globo.com/economia/noticia/2026/11/09/pix-bate-novo-recorde-e-registra-3197-milhoes-de-transacoes-em-um-dia.ghtml)
+ 2. Trump recebe Dana White, dono do UFC, na Casa Branca e reitera que convite foi brincadeira · [https://g1.globo.com/mundo/noticia/2026/11/09/trump-recebe-dana-white-dono-do-ufc-na-casa-branca-e-reitera-que-convite-foi-brincadeira.ghtml](https://g1.globo.com/mundo/noticia/2026/11/09/trump-recebe-dana-white-dono-do-ufc-na-casa-branca-e-reitera-que-convite-foi-brincadeira.ghtml)
+ 3. Trump diz que ação militar no Irã: 'Não parece necessária' · [https://g1.globo.com/mundo/noticia/2026/11/09/trump-diz-que-acao-militar-no-ira-nao-parece-necessaria.ghtml](https://g1.globo.com/mundo/noticia/2026/11/09/trump-diz-que-acao-militar-no-ira-nao-parece-necessaria.ghtml)
+ 4. Professores entram em greve no Paraguai para cobrar proteção a fundo de pensão após quebra de banco · [https://g1.globo.com/mundo/noticia/2026/11/09/professores-entram-em-greve-no-paraguai-para-cobrar-protecao-a-fundo-de-pensao-apos-quebra-de-banco.ghtml](https://g1.globo.com/mundo/noticia/2026/11/09/professores-entram-em-greve-no-paraguai-para-cobrar-protecao-a-fundo-de-pensao-apos-quebra-de-banco.ghtml)
+ 5. Reuters/Ipsos: 65% desaprovam governo Trump, e 32% aprovam · [https://g1.globo.com/mundo/noticia/2026/11/09/reutersipsos-65percent-desaprovam-governo-trump-e-32percent-aprovam.ghtml](https://g1.globo.com/mundo/noticia/2026/11/09/reutersipsos-65percent-desaprovam-governo-trump-e-32percent-aprovam.ghtml)
+ 6. CSN (CSNA3) sobe após venda de cimentos e avanço na desalavancagem · [https://www.infomoney.com.br/mercados/csn-csna3-sobe-5-apos-venda-de-cimentos-e-avanco-na-desalavancagem/](https://www.infomoney.com.br/mercados/csn-csna3-sobe-5-apos-venda-de-cimentos-e-avanco-na-desalavancagem/)
+ 7. Alpargatas (ALPA4) sobe mais de 6% após balanço acima do esperado e anima analistas · [https://www.infomoney.com.br/mercados/alpargatas-alpa4-sobe-mais-de-6-apos-balanco-acima-do-esperado-e-anima-analistas/](https://www.infomoney.com.br/mercados/alpargatas-alpa4-sobe-mais-de-6-apos-balanco-acima-do-esperado-e-anima-analistas/)
+ 8. Bolsas de NY fecham em forte alta com recuperação de tecnologia; Nasdaq avança 2,7% · [https://www.infomoney.com.br/mercados/wall-street-abre-em-alta-apos-perdas-do-setor-de-ia-na-semana-passada/](https://www.infomoney.com.br/mercados/wall-street-abre-em-alta-apos-perdas-do-setor-de-ia-na-semana-passada/)
+ 9. Por que Ibovespa subiu 2,22% nesta 2ª mesmo com queda de commodities e cautela fiscal · [https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-1-nesta-2a-mesmo-com-queda-de-commodities-e-cautela-fiscal/](https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-1-nesta-2a-mesmo-com-queda-de-commodities-e-cautela-fiscal/)
+10. Ações de petroleiras como Petrobras e PRIO caem acompanhando petróleo nesta 2ª · [https://www.infomoney.com.br/mercados/petroleiras-sao-maiores-quedas-do-ibov-nesta-2o-acompanhando-movimento-do-petroleo/](https://www.infomoney.com.br/mercados/petroleiras-sao-maiores-quedas-do-ibov-nesta-2o-acompanhando-movimento-do-petroleo/)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,24 +54,26 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 3
+#### 📺 YouTube (US) — Top 5
 
- 1. HE ATE THEM CHAPTER 3 GOT LEAKED.. · [https://youtube.com/watch?v=_qufVkuL8bk](https://youtube.com/watch?v=_qufVkuL8bk)
- 2. the BACKSTORY of HE ATE THEM.. · [https://youtube.com/watch?v=pbXSXEN7T3U](https://youtube.com/watch?v=pbXSXEN7T3U)
- 3. 2 Hour Top Christmas Songs of All Time 🎄 Best Christmas Music Playlist 2027 🎅 Merry Christmas Songs · [https://youtube.com/watch?v=a8Eo7m-tpb0](https://youtube.com/watch?v=a8Eo7m-tpb0)
+ 1. DONGA NAA KODUKU TRAILER | Mouli | Sushmita Shetty | Sreenu Kambala · [https://youtube.com/watch?v=EaODp3C7wkU](https://youtube.com/watch?v=EaODp3C7wkU)
+ 2. How Dream Built His Entire Career on a Bundle of Lies · [https://youtube.com/watch?v=HuVW00KwuaI](https://youtube.com/watch?v=HuVW00KwuaI)
+ 3. I Made BasicallyIDoWrk Review The Most Offensive Vanoss Crew Moments · [https://youtube.com/watch?v=k3XI4fJ9eo4](https://youtube.com/watch?v=k3XI4fJ9eo4)
+ 4. Avengers Doomsday Weird Marketing | VisionQuest Final Trailer | X-Men Cast Update | NR Podcast · [https://youtube.com/watch?v=fc5Ohn0Q-OM](https://youtube.com/watch?v=fc5Ohn0Q-OM)
+ 5. Top 50 Christmas Songs of All Time 🎅 2 Hour Best Christmas Music Playlist 🎄🎁 · [https://youtube.com/watch?v=xoqUGTFtRz0](https://youtube.com/watch?v=xoqUGTFtRz0)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. No clear winner in New Zealand election, as leaders prepare for weeks of talks · [https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks](https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks)
- 2. Trump's AG won't rule out prosecuting Democrats who threaten to investigate · [https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight](https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight)
- 3. Ex-RFK Jr adviser requests records on Wiles's health policy influence · [https://thehill.com/policy/healthcare/6206661-calley-means-susie-wiles-records/](https://thehill.com/policy/healthcare/6206661-calley-means-susie-wiles-records/)
- 4. Trump shares cartoon of Dana White as press secretary · [https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/](https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/)
- 5. Educators and families, read past the talking points on tax credits · [https://thehill.com/opinion/education/6204657-educator-supports-education-freedom-tax-credit/](https://thehill.com/opinion/education/6204657-educator-supports-education-freedom-tax-credit/)
- 6. Democrats plot to choke off Iran war — with some GOP help · [https://thehill.com/policy/defense/6205731-democrats-end-iran-war-spending-fight/](https://thehill.com/policy/defense/6205731-democrats-end-iran-war-spending-fight/)
- 7. Hamilton says many people in Kansas view Schumer as 'polarizing' · [https://thehill.com/homenews/senate/6206570-hamilton-calls-schumer-polarizing/](https://thehill.com/homenews/senate/6206570-hamilton-calls-schumer-polarizing/)
- 8. After a successful trip to Uruguay, Pope Leo heads to Argentina · [https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina](https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina)
- 9. Russell Brand to learn sentence after being found guilty of rape and sexual assault · [https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault](https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault)
-10. NPR's Moscow and Beijing correspondents discuss the reaction to U.S. elections abroad · [https://www.npr.org/2026/11/08/nx-s1-6030815/nprs-moscow-and-beijing-correspondents-discuss-the-reaction-to-u-s-elections-abroad](https://www.npr.org/2026/11/08/nx-s1-6030815/nprs-moscow-and-beijing-correspondents-discuss-the-reaction-to-u-s-elections-abroad)
+ 1. Supreme Court says border wall construction can continue in west Texas · [https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump](https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump)
+ 2. The business of El Niño · [https://www.npr.org/2026/11/09/nx-s1-6022405/the-business-of-el-nino](https://www.npr.org/2026/11/09/nx-s1-6022405/the-business-of-el-nino)
+ 3. Stephen Miller is now chief of staff. What does that mean for Trump? · [https://www.npr.org/2026/11/09/nx-s1-6034461/stephen-miller-is-now-chief-of-staff-what-does-that-mean-for-trump](https://www.npr.org/2026/11/09/nx-s1-6034461/stephen-miller-is-now-chief-of-staff-what-does-that-mean-for-trump)
+ 4. What we know about the mystery woman at the center of Nvidia's spy scandal · [https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed](https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed)
+ 5. Hegseth faces impeachment resolution from a GOP member with little to lose · [https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war](https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war)
+ 6. Democrats must not cede power via permitting bill that would fast-track data centers · [https://thehill.com/opinion/energy-environment/6209002-ai-boom-infrastructure-risk/](https://thehill.com/opinion/energy-environment/6209002-ai-boom-infrastructure-risk/)
+ 7. Democrats push to restore Afghanistan TPS as Trump mulls deportation flights · [https://thehill.com/homenews/house/6209040-trump-administration-threatens-deportation-flights/](https://thehill.com/homenews/house/6209040-trump-administration-threatens-deportation-flights/)
+ 8. Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth · [https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth](https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth)
+ 9. Democrats' 2028 presidential auditions begin in Denver · [https://www.axios.com/local/denver/2026/11/09/democrats-whats-next-conference-denver-2028](https://www.axios.com/local/denver/2026/11/09/democrats-whats-next-conference-denver-2028)
+10. Nvidia has no obvious successor to Jensen Huang — and that's a problem · [https://www.axios.com/2026/11/09/nvidia-jensen-huang-succession-plan](https://www.axios.com/2026/11/09/nvidia-jensen-huang-succession-plan)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -93,12 +95,10 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **Custo de vida** | Quanto custa viver nos EUA: comparações práticas | O aumento do custo de vida nos EUA e as recentes mudanças econômicas têm gerado interesse em como isso impacta brasileir |
-| 2 🟡 🎬 | **Educação** | Como aprender inglês de forma eficaz | O interesse por aprendizado online e métodos inovadores está em alta, especialmente entre brasileiros imigrantes que bus |
-| 3 🟡 🎬 | **Empreendedorismo** | Como ganhar dinheiro online nos EUA | Com a crescente demanda por renda extra e trabalho remoto, muitos buscam maneiras de monetizar habilidades pela internet |
-| 4 🟡 🎯 | **Direito & Legal** | Como funciona o visto de trabalho nos EUA | As mudanças nas políticas de imigração e as novas regulamentações têm gerado incertezas para imigrantes, aumentando a bu |
-| 5 🟡 🎬 | **Economia & Mercado** | Impacto da inflação nos imigrantes brasileiros | Com a inflação afetando o custo de vida, muitos brasileiros buscam entender como isso impacta suas finanças nos EUA. |
-| 6 🟡 🎯 | **Viagem** | Dicas de economia para viajar dentro dos EUA | O turismo interno nos EUA está em ascensão, com muitos brasileiros buscando maneiras econômicas de explorar o país. |
-| 7 🟡 🎬 | **Tecnologia** | Automação no trabalho: como a IA está mudando o mercado | A crescente adoção de tecnologia e inteligência artificial no ambiente de trabalho está gerando debates sobre suas impli |
-| 8 🟡 ⚡ | **Entretenimento** | Humor sobre a vida de imigrante nos EUA | Conteúdos humorísticos que retratam a vida cotidiana têm ganhado popularidade nas redes sociais. |
-| 9 🟢 🎬 | **Comunidade & Opinião** | Debate sobre a imigração e suas consequências | As recentes discussões sobre políticas de imigração têm gerado debates acalorados entre a comunidade. |
+| 1 🟠 🎬 | **imigração** | deportação e políticas atuais dos EUA | A discussão sobre deportações está em alta devido às novas políticas do governo e ao impacto sobre imigrantes, especialm |
+| 2 🟡 🎬 | **negócios** | como iniciar um negócio nos EUA | O interesse por empreendimentos nos EUA cresce, especialmente com a recuperação econômica e o aumento de novas startups. |
+| 3 🟡 🎯 | **economia** | custo de vida nos EUA | O aumento do custo de vida nos EUA está afetando a população, com inflação impactando preços de bens e serviços. |
+| 4 🟡 ⚡ | **educação** | ajustes no sistema de impostos nos EUA | Discussões sobre aumentos de impostos e suas implicações estão em alta, especialmente com mudanças na política fiscal. |
+| 5 🟡 🎬 | **tecnologia** | a ascensão da IA e suas aplicações práticas | O lançamento de novas tecnologias de IA está gerando muito interesse, especialmente em setores como automação e serviços |
+| 6 🟡 🎯 | **custo** | dólar e suas flutuações | O dólar está em alta, impactando diretamente as finanças dos imigrantes brasileiros que enviam dinheiro para o Brasil. |
+| 7 🟢 ⚡ | **entretenimento** | tendências de memes e cultura viral | O conteúdo viral está sempre em alta, especialmente com as novas tendências no TikTok e redes sociais. |
