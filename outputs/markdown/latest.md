@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 09/11/2026 22:01 UTC
+# 📊 Tendências em Alta — 10/11/2026 19:26 UTC
 
-**Run:** `42707761832` | **BR:** 30 trends | **US:** 25 trends | **Nicho:** 7 ideias
+**Run:** `42885104983` | **BR:** 30 trends | **US:** 24 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. CHAERYEONG “Lovesick” M/V · [https://youtube.com/watch?v=pe-rk1ekb4w](https://youtube.com/watch?v=pe-rk1ekb4w)
- 2. A2O SOUL 'Dancing in the Dark' Official Music Video · [https://youtube.com/watch?v=JPJokqIoIJI](https://youtube.com/watch?v=JPJokqIoIJI)
- 3. SUIATSU · [https://youtube.com/watch?v=VPQr2dedikk](https://youtube.com/watch?v=VPQr2dedikk)
+ 1. LNGSHOT - ‘Bananas’ Official Music Video · [https://youtube.com/watch?v=xWNIrOTJ6VA](https://youtube.com/watch?v=xWNIrOTJ6VA)
+ 2. Baby Marshall ATE TOO MUCH ICE CREAM… AND HIS FRIENDS HAD TO SAVE HIM! 🍦😱 · [https://youtube.com/watch?v=4qL34b35Uho](https://youtube.com/watch?v=4qL34b35Uho)
+ 3. STEEL BALL RUN JoJo's Bizarre Adventure | Special Trailer | Introducing the World of Stands · [https://youtube.com/watch?v=27wa6E9pLuE](https://youtube.com/watch?v=27wa6E9pLuE)
  4. GÊNIO QUIZ 6 - AGORA ELE ME QUEBROU DE VERDADE!!! · [https://youtube.com/watch?v=Wy_AKgoxaKA](https://youtube.com/watch?v=Wy_AKgoxaKA)
- 5. Marvel Television’s Visionquest | Ep. 8 FINALE TRAILER | November 10 On Disney+  · [https://youtube.com/watch?v=JHQj8wWPqyE](https://youtube.com/watch?v=JHQj8wWPqyE)
+ 5. A VIGÍLIA - EPISÓDIO 2 - "A Torre" | Ordem Paranormal RPG · [https://youtube.com/watch?v=dvcQhatskMg](https://youtube.com/watch?v=dvcQhatskMg)
  6. ♪ Deadpool (Finge que é Sense Life) | Ado Ado Ado 3 | ft 7 Minutoz, M4rkim, Daarui Chrono Kaito Anny · [https://youtube.com/watch?v=gyaQwL86G_o](https://youtube.com/watch?v=gyaQwL86G_o)
- 7. A ASHE QUE É A NOVA SENSAÇÃO DA TOP LANE! · [https://youtube.com/watch?v=NvLyRtZRv2I](https://youtube.com/watch?v=NvLyRtZRv2I)
- 8. TOMORROW X TOGETHER WORLD TOUR 'STEAL THE WIND' Official Trailer · [https://youtube.com/watch?v=XSSCREq27ZQ](https://youtube.com/watch?v=XSSCREq27ZQ)
- 9. XLOV '투스젬치와와 (Tooth Gem Chiwawa)' MV · [https://youtube.com/watch?v=uVHBcxSt24E](https://youtube.com/watch?v=uVHBcxSt24E)
-10. Dan - SEQUÊNCIA DO PERRY, O ORNITORRINCO (Phineas e Ferb) | Feat. Novatroop · [https://youtube.com/watch?v=HhNL3hINpp8](https://youtube.com/watch?v=HhNL3hINpp8)
+ 7. 🌴 DJ PARTY 71 – WILD HEART CALLING | Exotic Tropical House / Tribal Beats / Latin Vibes · [https://youtube.com/watch?v=4UV9Zr2H7BA](https://youtube.com/watch?v=4UV9Zr2H7BA)
+ 8. As Melhores Músicas Gospel Mais Tocadas 2026 | Hinos Evangélicos Mais Tocados | Louvores de Adoração · [https://youtube.com/watch?v=97uF1xCtogo](https://youtube.com/watch?v=97uF1xCtogo)
+ 9. 🔴 REACT NOVO TRAILER AO VIVO + Rockstar liberou INFOS do FPS! PS5 PRO · [https://youtube.com/watch?v=41q1y19L9M0](https://youtube.com/watch?v=41q1y19L9M0)
+10. Valesca Mayssa | Jeito de Adorar [Clipe Oficial] · [https://youtube.com/watch?v=7p5t3Wb3AYA](https://youtube.com/watch?v=7p5t3Wb3AYA)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. PIX bate novo recorde e registra 319,7 milhões de transações em um dia · [https://g1.globo.com/economia/noticia/2026/11/09/pix-bate-novo-recorde-e-registra-3197-milhoes-de-transacoes-em-um-dia.ghtml](https://g1.globo.com/economia/noticia/2026/11/09/pix-bate-novo-recorde-e-registra-3197-milhoes-de-transacoes-em-um-dia.ghtml)
- 2. Trump recebe Dana White, dono do UFC, na Casa Branca e reitera que convite foi brincadeira · [https://g1.globo.com/mundo/noticia/2026/11/09/trump-recebe-dana-white-dono-do-ufc-na-casa-branca-e-reitera-que-convite-foi-brincadeira.ghtml](https://g1.globo.com/mundo/noticia/2026/11/09/trump-recebe-dana-white-dono-do-ufc-na-casa-branca-e-reitera-que-convite-foi-brincadeira.ghtml)
- 3. Trump diz que ação militar no Irã: 'Não parece necessária' · [https://g1.globo.com/mundo/noticia/2026/11/09/trump-diz-que-acao-militar-no-ira-nao-parece-necessaria.ghtml](https://g1.globo.com/mundo/noticia/2026/11/09/trump-diz-que-acao-militar-no-ira-nao-parece-necessaria.ghtml)
- 4. Professores entram em greve no Paraguai para cobrar proteção a fundo de pensão após quebra de banco · [https://g1.globo.com/mundo/noticia/2026/11/09/professores-entram-em-greve-no-paraguai-para-cobrar-protecao-a-fundo-de-pensao-apos-quebra-de-banco.ghtml](https://g1.globo.com/mundo/noticia/2026/11/09/professores-entram-em-greve-no-paraguai-para-cobrar-protecao-a-fundo-de-pensao-apos-quebra-de-banco.ghtml)
- 5. Reuters/Ipsos: 65% desaprovam governo Trump, e 32% aprovam · [https://g1.globo.com/mundo/noticia/2026/11/09/reutersipsos-65percent-desaprovam-governo-trump-e-32percent-aprovam.ghtml](https://g1.globo.com/mundo/noticia/2026/11/09/reutersipsos-65percent-desaprovam-governo-trump-e-32percent-aprovam.ghtml)
- 6. CSN (CSNA3) sobe após venda de cimentos e avanço na desalavancagem · [https://www.infomoney.com.br/mercados/csn-csna3-sobe-5-apos-venda-de-cimentos-e-avanco-na-desalavancagem/](https://www.infomoney.com.br/mercados/csn-csna3-sobe-5-apos-venda-de-cimentos-e-avanco-na-desalavancagem/)
- 7. Alpargatas (ALPA4) sobe mais de 6% após balanço acima do esperado e anima analistas · [https://www.infomoney.com.br/mercados/alpargatas-alpa4-sobe-mais-de-6-apos-balanco-acima-do-esperado-e-anima-analistas/](https://www.infomoney.com.br/mercados/alpargatas-alpa4-sobe-mais-de-6-apos-balanco-acima-do-esperado-e-anima-analistas/)
- 8. Bolsas de NY fecham em forte alta com recuperação de tecnologia; Nasdaq avança 2,7% · [https://www.infomoney.com.br/mercados/wall-street-abre-em-alta-apos-perdas-do-setor-de-ia-na-semana-passada/](https://www.infomoney.com.br/mercados/wall-street-abre-em-alta-apos-perdas-do-setor-de-ia-na-semana-passada/)
- 9. Por que Ibovespa subiu 2,22% nesta 2ª mesmo com queda de commodities e cautela fiscal · [https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-1-nesta-2a-mesmo-com-queda-de-commodities-e-cautela-fiscal/](https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-1-nesta-2a-mesmo-com-queda-de-commodities-e-cautela-fiscal/)
-10. Ações de petroleiras como Petrobras e PRIO caem acompanhando petróleo nesta 2ª · [https://www.infomoney.com.br/mercados/petroleiras-sao-maiores-quedas-do-ibov-nesta-2o-acompanhando-movimento-do-petroleo/](https://www.infomoney.com.br/mercados/petroleiras-sao-maiores-quedas-do-ibov-nesta-2o-acompanhando-movimento-do-petroleo/)
+ 1. Diretor-geral da PF se desfilia de Associação Nacional dos Delegados após 24 anos · [https://g1.globo.com/politica/post/2026/11/10/diretor-geral-da-pf-se-desfilia-de-associacao-nacional-dos-delegados-apos-24-anos.ghtml](https://g1.globo.com/politica/post/2026/11/10/diretor-geral-da-pf-se-desfilia-de-associacao-nacional-dos-delegados-apos-24-anos.ghtml)
+ 2. Espanha pede suspensão do TikTok após denúncias de abuso sexual infantil · [https://g1.globo.com/tecnologia/noticia/2026/11/10/espanha-tik-tok.ghtml](https://g1.globo.com/tecnologia/noticia/2026/11/10/espanha-tik-tok.ghtml)
+ 3. Alacero alerta para avanço “predatório” da China sobre indústria latino-americana · [https://www.infomoney.com.br/mercados/alacero-avanco-predatorio-china-industria-latino-americana/](https://www.infomoney.com.br/mercados/alacero-avanco-predatorio-china-industria-latino-americana/)
+ 4. Ações europeias permanecem perto de máxima histórica com queda nos preços do petróleo · [https://www.infomoney.com.br/mercados/acoes-europeias-permanecem-perto-de-maxima-historica-com-queda-nos-precos-do-petroleo/](https://www.infomoney.com.br/mercados/acoes-europeias-permanecem-perto-de-maxima-historica-com-queda-nos-precos-do-petroleo/)
+ 5. Ibovespa Hoje Ao Vivo: Bolsa recua em linha com exterior; dólar dispara · [https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10112026/](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10112026/)
+ 6. Anthropic, dona do Claude, tem IPO estimado em US$ 1,4 trilhão, diz agência · [https://g1.globo.com/tecnologia/noticia/2026/11/10/ipo-anthropic-valor-estreia-na-bolsa.ghtml](https://g1.globo.com/tecnologia/noticia/2026/11/10/ipo-anthropic-valor-estreia-na-bolsa.ghtml)
+ 7. 11.11: como evitar problemas nas compras em prévia da Black Friday · [https://g1.globo.com/guia/guia-de-compras/1111-como-evitar-problemas-nas-compras-em-previa-da-black-friday-1.ghtml](https://g1.globo.com/guia/guia-de-compras/1111-como-evitar-problemas-nas-compras-em-previa-da-black-friday-1.ghtml)
+ 8. Banco Central do Paraguai diz que já ressarciu 93% dos clientes do Ueno Bank · [https://g1.globo.com/economia/noticia/2026/11/10/banco-central-do-paraguai-diz-que-ja-ressarciu-93percent-dos-clientes-do-ueno-bank.ghtml](https://g1.globo.com/economia/noticia/2026/11/10/banco-central-do-paraguai-diz-que-ja-ressarciu-93percent-dos-clientes-do-ueno-bank.ghtml)
+ 9. Quando vai ser a Black Friday 2026? Veja a data oficial e guia para não cair em golpes · [https://g1.globo.com/guia/guia-de-compras/presentes/quando-vai-ser-a-black-friday-2026-veja-a-data-oficial-e-guia-para-nao-cair-em-golpes.ghtml](https://g1.globo.com/guia/guia-de-compras/presentes/quando-vai-ser-a-black-friday-2026-veja-a-data-oficial-e-guia-para-nao-cair-em-golpes.ghtml)
+10. Diesel terá mais biodiesel? Governo prevê decisão sobre mistura de 20% em 2027 · [https://g1.globo.com/carros/noticia/2026/11/10/diesel-tera-mais-biodiesel-governo-preve-aprovar-em-2027.ghtml](https://g1.globo.com/carros/noticia/2026/11/10/diesel-tera-mais-biodiesel-governo-preve-aprovar-em-2027.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,26 +54,25 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 5
+#### 📺 YouTube (US) — Top 4
 
- 1. DONGA NAA KODUKU TRAILER | Mouli | Sushmita Shetty | Sreenu Kambala · [https://youtube.com/watch?v=EaODp3C7wkU](https://youtube.com/watch?v=EaODp3C7wkU)
- 2. How Dream Built His Entire Career on a Bundle of Lies · [https://youtube.com/watch?v=HuVW00KwuaI](https://youtube.com/watch?v=HuVW00KwuaI)
- 3. I Made BasicallyIDoWrk Review The Most Offensive Vanoss Crew Moments · [https://youtube.com/watch?v=k3XI4fJ9eo4](https://youtube.com/watch?v=k3XI4fJ9eo4)
- 4. Avengers Doomsday Weird Marketing | VisionQuest Final Trailer | X-Men Cast Update | NR Podcast · [https://youtube.com/watch?v=fc5Ohn0Q-OM](https://youtube.com/watch?v=fc5Ohn0Q-OM)
- 5. Top 50 Christmas Songs of All Time 🎅 2 Hour Best Christmas Music Playlist 🎄🎁 · [https://youtube.com/watch?v=xoqUGTFtRz0](https://youtube.com/watch?v=xoqUGTFtRz0)
+ 1. Maatrubhumi - Trailer | Salman Khan, Chitrangda Singh | Apoorva Lakhia | 4th December 2026 · [https://youtube.com/watch?v=fA8-gXDoAk8](https://youtube.com/watch?v=fA8-gXDoAk8)
+ 2. FINDING THE PIRATE TOKEN DAY 5 · [https://youtube.com/watch?v=S03_jU1mvVc](https://youtube.com/watch?v=S03_jU1mvVc)
+ 3. Moy Bobadilla - Corazón (Letra) · [https://youtube.com/watch?v=-EOMbfzME4w](https://youtube.com/watch?v=-EOMbfzME4w)
+ 4. Top 50 Christmas Songs of All Time 🎅 2 Hour Best Christmas Music Playlist 🎄🎁 · [https://youtube.com/watch?v=xoqUGTFtRz0](https://youtube.com/watch?v=xoqUGTFtRz0)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Supreme Court says border wall construction can continue in west Texas · [https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump](https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump)
- 2. The business of El Niño · [https://www.npr.org/2026/11/09/nx-s1-6022405/the-business-of-el-nino](https://www.npr.org/2026/11/09/nx-s1-6022405/the-business-of-el-nino)
- 3. Stephen Miller is now chief of staff. What does that mean for Trump? · [https://www.npr.org/2026/11/09/nx-s1-6034461/stephen-miller-is-now-chief-of-staff-what-does-that-mean-for-trump](https://www.npr.org/2026/11/09/nx-s1-6034461/stephen-miller-is-now-chief-of-staff-what-does-that-mean-for-trump)
- 4. What we know about the mystery woman at the center of Nvidia's spy scandal · [https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed](https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed)
- 5. Hegseth faces impeachment resolution from a GOP member with little to lose · [https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war](https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war)
- 6. Democrats must not cede power via permitting bill that would fast-track data centers · [https://thehill.com/opinion/energy-environment/6209002-ai-boom-infrastructure-risk/](https://thehill.com/opinion/energy-environment/6209002-ai-boom-infrastructure-risk/)
- 7. Democrats push to restore Afghanistan TPS as Trump mulls deportation flights · [https://thehill.com/homenews/house/6209040-trump-administration-threatens-deportation-flights/](https://thehill.com/homenews/house/6209040-trump-administration-threatens-deportation-flights/)
- 8. Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth · [https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth](https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth)
- 9. Democrats' 2028 presidential auditions begin in Denver · [https://www.axios.com/local/denver/2026/11/09/democrats-whats-next-conference-denver-2028](https://www.axios.com/local/denver/2026/11/09/democrats-whats-next-conference-denver-2028)
-10. Nvidia has no obvious successor to Jensen Huang — and that's a problem · [https://www.axios.com/2026/11/09/nvidia-jensen-huang-succession-plan](https://www.axios.com/2026/11/09/nvidia-jensen-huang-succession-plan)
+ 1. Testing the new generation of AI-enabled fire-extinguishing drones · [https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones](https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones)
+ 2. U.S. boycotts U.N. human rights review for second year running · [https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva](https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva)
+ 3. Pelosi advises against kicking Stevens out of House Democratic caucus · [https://thehill.com/homenews/house/6211133-pelosi-advises-against-kicking-stevens-out-of-house-democratic-caucus/](https://thehill.com/homenews/house/6211133-pelosi-advises-against-kicking-stevens-out-of-house-democratic-caucus/)
+ 4. Colorado approves ban on gender-affirming surgery for minors · [https://thehill.com/homenews/campaign/6186466-colorado-proposition-135-passes/](https://thehill.com/homenews/campaign/6186466-colorado-proposition-135-passes/)
+ 5. Colorado approves ballot measure designating biological sexes to sports teams · [https://thehill.com/homenews/state-watch/6186456-ballot-measure-designates-biological-sex/](https://thehill.com/homenews/state-watch/6186456-ballot-measure-designates-biological-sex/)
+ 6. Moore on Stephen Miller: ‘I will work with anybody. I will bow to nobody’ · [https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/](https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/)
+ 7. More daylight linked to lower chance of dementia: Study · [https://thehill.com/policy/healthcare/6209469-daylight-exposure-lower-dementia-link-study/](https://thehill.com/policy/healthcare/6209469-daylight-exposure-lower-dementia-link-study/)
+ 8. IRS reveals 2027 tax brackets, standard deductions: What to know · [https://thehill.com/business/6211112-irs-new-tax-brackets-standard-deductions-2027/](https://thehill.com/business/6211112-irs-new-tax-brackets-standard-deductions-2027/)
+ 9. Warnock ducks questions about backing Schumer as Senate majority leader · [https://thehill.com/blogs/in-the-know/6211082-warnock-schumer-senate-majority-leader-breakfast-club/](https://thehill.com/blogs/in-the-know/6211082-warnock-schumer-senate-majority-leader-breakfast-club/)
+10. Americans across the economic spectrum feel a 'panic' about finances, author says · [https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives](https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -95,10 +94,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **imigração** | deportação e políticas atuais dos EUA | A discussão sobre deportações está em alta devido às novas políticas do governo e ao impacto sobre imigrantes, especialm |
-| 2 🟡 🎬 | **negócios** | como iniciar um negócio nos EUA | O interesse por empreendimentos nos EUA cresce, especialmente com a recuperação econômica e o aumento de novas startups. |
-| 3 🟡 🎯 | **economia** | custo de vida nos EUA | O aumento do custo de vida nos EUA está afetando a população, com inflação impactando preços de bens e serviços. |
-| 4 🟡 ⚡ | **educação** | ajustes no sistema de impostos nos EUA | Discussões sobre aumentos de impostos e suas implicações estão em alta, especialmente com mudanças na política fiscal. |
-| 5 🟡 🎬 | **tecnologia** | a ascensão da IA e suas aplicações práticas | O lançamento de novas tecnologias de IA está gerando muito interesse, especialmente em setores como automação e serviços |
-| 6 🟡 🎯 | **custo** | dólar e suas flutuações | O dólar está em alta, impactando diretamente as finanças dos imigrantes brasileiros que enviam dinheiro para o Brasil. |
-| 7 🟢 ⚡ | **entretenimento** | tendências de memes e cultura viral | O conteúdo viral está sempre em alta, especialmente com as novas tendências no TikTok e redes sociais. |
+| 1 🟠 🎬 | **inflação** | como a inflação nos EUA afeta os imigrantes brasileiros | A inflação nos EUA continua alta, impactando preços de bens essenciais e custo de vida. Recentemente, os preços dos comb |
+| 2 🟠 🎬 | **dólar** | impacto da flutuação do dólar na vida dos brasileiros nos EUA | O dólar está em um momento de estabilidade, mas há previsões de alta no futuro, o que pode afetar a remessa de dinheiro  |
+| 3 🟡 🎬 | **abrir empresa** | passo a passo para abrir uma empresa nos EUA | O empreendedorismo está em alta, especialmente entre imigrantes que buscam novas oportunidades no mercado americano. |
+| 4 🟡 🎬 | **saúde** | como funciona o sistema de saúde nos EUA para imigrantes | As discussões sobre saúde estão em alta, especialmente com as recentes mudanças nas políticas de saúde pública nos EUA. |
+| 5 🟡 ⚡ | **black friday** | como evitar problemas nas compras da Black Friday nos EUA | Com a Black Friday se aproximando, os consumidores estão em busca de dicas para fazer compras seguras e vantajosas. |
+| 6 🟡 🎬 | **direito e legal** | novidades sobre imigração e vistos nos EUA | As leis de imigração estão frequentemente mudando, e os imigrantes precisam estar atualizados sobre seus direitos e opçõ |
+| 7 🟡 🎬 | **negócios** | como o El Niño afeta os negócios nos EUA e oportunidades para imigrantes | As condições climáticas extremas, como o El Niño, têm impacto significativo na economia e nos negócios locais. |
+| 8 🟡 🎬 | **tecnologia** | como usar IA para empreender nos EUA | A inteligência artificial está se tornando uma ferramenta essencial para empreendedores, permitindo automação e eficiênc |
+| 9 🟢 🎬 | **economia** | comparação de custo de vida entre Brasil e EUA | As flutuações econômicas e a inflação afetam diretamente o custo de vida, gerando interesse em comparações. |
