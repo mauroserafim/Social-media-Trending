@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 10/11/2026 19:26 UTC
+# 📊 Tendências em Alta — 11/11/2026 19:20 UTC
 
-**Run:** `42885104983` | **BR:** 30 trends | **US:** 24 trends | **Nicho:** 9 ideias
+**Run:** `43086180664` | **BR:** 30 trends | **US:** 26 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. LNGSHOT - ‘Bananas’ Official Music Video · [https://youtube.com/watch?v=xWNIrOTJ6VA](https://youtube.com/watch?v=xWNIrOTJ6VA)
- 2. Baby Marshall ATE TOO MUCH ICE CREAM… AND HIS FRIENDS HAD TO SAVE HIM! 🍦😱 · [https://youtube.com/watch?v=4qL34b35Uho](https://youtube.com/watch?v=4qL34b35Uho)
- 3. STEEL BALL RUN JoJo's Bizarre Adventure | Special Trailer | Introducing the World of Stands · [https://youtube.com/watch?v=27wa6E9pLuE](https://youtube.com/watch?v=27wa6E9pLuE)
- 4. GÊNIO QUIZ 6 - AGORA ELE ME QUEBROU DE VERDADE!!! · [https://youtube.com/watch?v=Wy_AKgoxaKA](https://youtube.com/watch?v=Wy_AKgoxaKA)
- 5. A VIGÍLIA - EPISÓDIO 2 - "A Torre" | Ordem Paranormal RPG · [https://youtube.com/watch?v=dvcQhatskMg](https://youtube.com/watch?v=dvcQhatskMg)
- 6. ♪ Deadpool (Finge que é Sense Life) | Ado Ado Ado 3 | ft 7 Minutoz, M4rkim, Daarui Chrono Kaito Anny · [https://youtube.com/watch?v=gyaQwL86G_o](https://youtube.com/watch?v=gyaQwL86G_o)
- 7. 🌴 DJ PARTY 71 – WILD HEART CALLING | Exotic Tropical House / Tribal Beats / Latin Vibes · [https://youtube.com/watch?v=4UV9Zr2H7BA](https://youtube.com/watch?v=4UV9Zr2H7BA)
- 8. As Melhores Músicas Gospel Mais Tocadas 2026 | Hinos Evangélicos Mais Tocados | Louvores de Adoração · [https://youtube.com/watch?v=97uF1xCtogo](https://youtube.com/watch?v=97uF1xCtogo)
- 9. 🔴 REACT NOVO TRAILER AO VIVO + Rockstar liberou INFOS do FPS! PS5 PRO · [https://youtube.com/watch?v=41q1y19L9M0](https://youtube.com/watch?v=41q1y19L9M0)
-10. Valesca Mayssa | Jeito de Adorar [Clipe Oficial] · [https://youtube.com/watch?v=7p5t3Wb3AYA](https://youtube.com/watch?v=7p5t3Wb3AYA)
+ 1. A VIGÍLIA - EPISÓDIO 2 - "A Torre" | Ordem Paranormal RPG · [https://youtube.com/watch?v=dvcQhatskMg](https://youtube.com/watch?v=dvcQhatskMg)
+ 2. Valesca Mayssa | Jeito de Adorar [Clipe Oficial] · [https://youtube.com/watch?v=7p5t3Wb3AYA](https://youtube.com/watch?v=7p5t3Wb3AYA)
+ 3. VINGADORES DOOMSDAY NOVO TEASER MOSTRA DEMAIS!!! · [https://youtube.com/watch?v=_iOdiP5_n40](https://youtube.com/watch?v=_iOdiP5_n40)
+ 4. Perdoa-me - Ramon e Rafael | O Som da Igreja 2 · [https://youtube.com/watch?v=-XUGwH0GHCk](https://youtube.com/watch?v=-XUGwH0GHCk)
+ 5. Bala no Gatilho · [https://youtube.com/watch?v=0X_lR76hGBQ](https://youtube.com/watch?v=0X_lR76hGBQ)
+ 6. O ESCUDO / SOU UM MILAGRE (Clipe Oficial) |  Régis Danese, Voz da Verdade e  Pr. Carlos Moyses · [https://youtube.com/watch?v=YF6HdspLmMc](https://youtube.com/watch?v=YF6HdspLmMc)
+ 7. Emily em Paris: Temporada final | Teaser oficial | Netflix · [https://youtube.com/watch?v=WaFFXMUBKiA](https://youtube.com/watch?v=WaFFXMUBKiA)
+ 8. Vergonha pra Mídia · [https://youtube.com/watch?v=m7pBoiUwy_c](https://youtube.com/watch?v=m7pBoiUwy_c)
+ 9. Nara Hellen Feat Gerson Rufino - Pela Graça | Clipe Oficial · [https://youtube.com/watch?v=DGycU-PC4jE](https://youtube.com/watch?v=DGycU-PC4jE)
+10. Israel & Rodolffo - Pois É · [https://youtube.com/watch?v=9vtPkDC6OyY](https://youtube.com/watch?v=9vtPkDC6OyY)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Diretor-geral da PF se desfilia de Associação Nacional dos Delegados após 24 anos · [https://g1.globo.com/politica/post/2026/11/10/diretor-geral-da-pf-se-desfilia-de-associacao-nacional-dos-delegados-apos-24-anos.ghtml](https://g1.globo.com/politica/post/2026/11/10/diretor-geral-da-pf-se-desfilia-de-associacao-nacional-dos-delegados-apos-24-anos.ghtml)
- 2. Espanha pede suspensão do TikTok após denúncias de abuso sexual infantil · [https://g1.globo.com/tecnologia/noticia/2026/11/10/espanha-tik-tok.ghtml](https://g1.globo.com/tecnologia/noticia/2026/11/10/espanha-tik-tok.ghtml)
- 3. Alacero alerta para avanço “predatório” da China sobre indústria latino-americana · [https://www.infomoney.com.br/mercados/alacero-avanco-predatorio-china-industria-latino-americana/](https://www.infomoney.com.br/mercados/alacero-avanco-predatorio-china-industria-latino-americana/)
- 4. Ações europeias permanecem perto de máxima histórica com queda nos preços do petróleo · [https://www.infomoney.com.br/mercados/acoes-europeias-permanecem-perto-de-maxima-historica-com-queda-nos-precos-do-petroleo/](https://www.infomoney.com.br/mercados/acoes-europeias-permanecem-perto-de-maxima-historica-com-queda-nos-precos-do-petroleo/)
- 5. Ibovespa Hoje Ao Vivo: Bolsa recua em linha com exterior; dólar dispara · [https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10112026/](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10112026/)
- 6. Anthropic, dona do Claude, tem IPO estimado em US$ 1,4 trilhão, diz agência · [https://g1.globo.com/tecnologia/noticia/2026/11/10/ipo-anthropic-valor-estreia-na-bolsa.ghtml](https://g1.globo.com/tecnologia/noticia/2026/11/10/ipo-anthropic-valor-estreia-na-bolsa.ghtml)
- 7. 11.11: como evitar problemas nas compras em prévia da Black Friday · [https://g1.globo.com/guia/guia-de-compras/1111-como-evitar-problemas-nas-compras-em-previa-da-black-friday-1.ghtml](https://g1.globo.com/guia/guia-de-compras/1111-como-evitar-problemas-nas-compras-em-previa-da-black-friday-1.ghtml)
- 8. Banco Central do Paraguai diz que já ressarciu 93% dos clientes do Ueno Bank · [https://g1.globo.com/economia/noticia/2026/11/10/banco-central-do-paraguai-diz-que-ja-ressarciu-93percent-dos-clientes-do-ueno-bank.ghtml](https://g1.globo.com/economia/noticia/2026/11/10/banco-central-do-paraguai-diz-que-ja-ressarciu-93percent-dos-clientes-do-ueno-bank.ghtml)
- 9. Quando vai ser a Black Friday 2026? Veja a data oficial e guia para não cair em golpes · [https://g1.globo.com/guia/guia-de-compras/presentes/quando-vai-ser-a-black-friday-2026-veja-a-data-oficial-e-guia-para-nao-cair-em-golpes.ghtml](https://g1.globo.com/guia/guia-de-compras/presentes/quando-vai-ser-a-black-friday-2026-veja-a-data-oficial-e-guia-para-nao-cair-em-golpes.ghtml)
-10. Diesel terá mais biodiesel? Governo prevê decisão sobre mistura de 20% em 2027 · [https://g1.globo.com/carros/noticia/2026/11/10/diesel-tera-mais-biodiesel-governo-preve-aprovar-em-2027.ghtml](https://g1.globo.com/carros/noticia/2026/11/10/diesel-tera-mais-biodiesel-governo-preve-aprovar-em-2027.ghtml)
+ 1. CBS e IBS: entenda os novos impostos da reforma tributária e o que muda em 2027 · [https://g1.globo.com/economia/noticia/2026/11/11/cbs-e-ibs-entenda-os-novos-impostos-da-reforma-tributaria.ghtml](https://g1.globo.com/economia/noticia/2026/11/11/cbs-e-ibs-entenda-os-novos-impostos-da-reforma-tributaria.ghtml)
+ 2. Ajuste fiscal em negociação com o Senado vai 'racionalizar algumas despesas'; impacto pode chegar a R$ 60 bi em 2027, diz ministro · [https://g1.globo.com/politica/noticia/2026/11/11/ajuste-fiscal-em-negociacao-com-o-senado-vai-racionalizar-algumas-despesas-impacto-pode-chegar-a-r-60-bi-em-2027-diz-ministro.ghtml](https://g1.globo.com/politica/noticia/2026/11/11/ajuste-fiscal-em-negociacao-com-o-senado-vai-racionalizar-algumas-despesas-impacto-pode-chegar-a-r-60-bi-em-2027-diz-ministro.ghtml)
+ 3. Javier Milei chora em despedida de Papa Leão XIV, que deixa a Argentina rumo ao Peru · [https://g1.globo.com/mundo/noticia/2026/11/11/javier-milei-chora-em-despedida-de-papa-leao-xiv-que-deixa-a-argentina-rumo-ao-peru.ghtml](https://g1.globo.com/mundo/noticia/2026/11/11/javier-milei-chora-em-despedida-de-papa-leao-xiv-que-deixa-a-argentina-rumo-ao-peru.ghtml)
+ 4. Líderes fazem 'foto de família' na COP31; Trump, Xi e líderes europeus não participaram · [https://g1.globo.com/mundo/noticia/2026/11/11/lideres-fazem-foto-de-familia-na-cop31-trump-xi-e-lideres-europeus-nao-participaram.ghtml](https://g1.globo.com/mundo/noticia/2026/11/11/lideres-fazem-foto-de-familia-na-cop31-trump-xi-e-lideres-europeus-nao-participaram.ghtml)
+ 5. Irã ameaça atacar bases dos EUA na Europa se forem usadas contra o país · [https://g1.globo.com/mundo/noticia/2026/11/11/ira-ameaca-atacar-bases-dos-eua-na-europa-se-forem-usadas-contra-o-pais.ghtml](https://g1.globo.com/mundo/noticia/2026/11/11/ira-ameaca-atacar-bases-dos-eua-na-europa-se-forem-usadas-contra-o-pais.ghtml)
+ 6. Bebê de 11 meses sobrevive após passar um dia enterrado vivo em gaiola nos EUA · [https://g1.globo.com/mundo/noticia/2026/11/11/bebe-de-11-meses-sobrevive-apos-passar-um-dia-enterrado-vivo-em-gaiola-nos-eua.ghtml](https://g1.globo.com/mundo/noticia/2026/11/11/bebe-de-11-meses-sobrevive-apos-passar-um-dia-enterrado-vivo-em-gaiola-nos-eua.ghtml)
+ 7. Quais as leituras do mercado sobre possível ajuste fiscal do governo? · [https://www.infomoney.com.br/mercados/quais-as-primeiras-leituras-do-mercado-sobre-projeto-de-ajuste-fiscal-governo-lula/](https://www.infomoney.com.br/mercados/quais-as-primeiras-leituras-do-mercado-sobre-projeto-de-ajuste-fiscal-governo-lula/)
+ 8. Veja uma forma prática de juntar R$ 5 mil, R$ 10 mil ou mais · [https://www.infomoney.com.br/minhas-financas/veja-uma-forma-pratica-de-juntar-r-5-mil-r-10-mil-ou-mais/](https://www.infomoney.com.br/minhas-financas/veja-uma-forma-pratica-de-juntar-r-5-mil-r-10-mil-ou-mais/)
+ 9. Embaixador da Rússia nos EUA, Alexander Darchiev, morre “repentinamente” aos 66 anos · [https://www.infomoney.com.br/mundo/embaixador-da-russia-nos-eua-alexander-darchiev-morre-repentinamente-aos-66-anos/](https://www.infomoney.com.br/mundo/embaixador-da-russia-nos-eua-alexander-darchiev-morre-repentinamente-aos-66-anos/)
+10. Angra dos Reis suspende cobrança de taxa de turismo sustentável; veja o que muda · [https://www.infomoney.com.br/brasil/angra-dos-reis-suspende-cobranca-taxa-turismo-sustentavel/](https://www.infomoney.com.br/brasil/angra-dos-reis-suspende-cobranca-taxa-turismo-sustentavel/)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,25 +54,27 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 4
+#### 📺 YouTube (US) — Top 6
 
  1. Maatrubhumi - Trailer | Salman Khan, Chitrangda Singh | Apoorva Lakhia | 4th December 2026 · [https://youtube.com/watch?v=fA8-gXDoAk8](https://youtube.com/watch?v=fA8-gXDoAk8)
- 2. FINDING THE PIRATE TOKEN DAY 5 · [https://youtube.com/watch?v=S03_jU1mvVc](https://youtube.com/watch?v=S03_jU1mvVc)
- 3. Moy Bobadilla - Corazón (Letra) · [https://youtube.com/watch?v=-EOMbfzME4w](https://youtube.com/watch?v=-EOMbfzME4w)
- 4. Top 50 Christmas Songs of All Time 🎅 2 Hour Best Christmas Music Playlist 🎄🎁 · [https://youtube.com/watch?v=xoqUGTFtRz0](https://youtube.com/watch?v=xoqUGTFtRz0)
+ 2. Becoming an ELEMENTAL HYDRA on One Chunk.. · [https://youtube.com/watch?v=KeRBXoOtBJE](https://youtube.com/watch?v=KeRBXoOtBJE)
+ 3. This Is Just Pathetic · [https://youtube.com/watch?v=bCWeDT2JAV8](https://youtube.com/watch?v=bCWeDT2JAV8)
+ 4. Moy Bobadilla - Corazón (Letra) · [https://youtube.com/watch?v=-EOMbfzME4w](https://youtube.com/watch?v=-EOMbfzME4w)
+ 5. Honest Trailers | Pan's Labyrinth · [https://youtube.com/watch?v=siPwNXVo6pk](https://youtube.com/watch?v=siPwNXVo6pk)
+ 6. Top Christmas Songs Of All Time 2027 🎁 Best Christmas Music Playlist 🎄 Merry Christmas Songs 2027 · [https://youtube.com/watch?v=jqneRAkKiN8](https://youtube.com/watch?v=jqneRAkKiN8)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Testing the new generation of AI-enabled fire-extinguishing drones · [https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones](https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones)
- 2. U.S. boycotts U.N. human rights review for second year running · [https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva](https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva)
- 3. Pelosi advises against kicking Stevens out of House Democratic caucus · [https://thehill.com/homenews/house/6211133-pelosi-advises-against-kicking-stevens-out-of-house-democratic-caucus/](https://thehill.com/homenews/house/6211133-pelosi-advises-against-kicking-stevens-out-of-house-democratic-caucus/)
- 4. Colorado approves ban on gender-affirming surgery for minors · [https://thehill.com/homenews/campaign/6186466-colorado-proposition-135-passes/](https://thehill.com/homenews/campaign/6186466-colorado-proposition-135-passes/)
- 5. Colorado approves ballot measure designating biological sexes to sports teams · [https://thehill.com/homenews/state-watch/6186456-ballot-measure-designates-biological-sex/](https://thehill.com/homenews/state-watch/6186456-ballot-measure-designates-biological-sex/)
- 6. Moore on Stephen Miller: ‘I will work with anybody. I will bow to nobody’ · [https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/](https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/)
- 7. More daylight linked to lower chance of dementia: Study · [https://thehill.com/policy/healthcare/6209469-daylight-exposure-lower-dementia-link-study/](https://thehill.com/policy/healthcare/6209469-daylight-exposure-lower-dementia-link-study/)
- 8. IRS reveals 2027 tax brackets, standard deductions: What to know · [https://thehill.com/business/6211112-irs-new-tax-brackets-standard-deductions-2027/](https://thehill.com/business/6211112-irs-new-tax-brackets-standard-deductions-2027/)
- 9. Warnock ducks questions about backing Schumer as Senate majority leader · [https://thehill.com/blogs/in-the-know/6211082-warnock-schumer-senate-majority-leader-breakfast-club/](https://thehill.com/blogs/in-the-know/6211082-warnock-schumer-senate-majority-leader-breakfast-club/)
-10. Americans across the economic spectrum feel a 'panic' about finances, author says · [https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives](https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives)
+ 1. Scoop: U.S. asks Russia to propose new security agreement with Europe · [https://www.axios.com/2026/11/11/russia-ukraine-europe-war-security-agreement](https://www.axios.com/2026/11/11/russia-ukraine-europe-war-security-agreement)
+ 2. Ocasio-Cortez: Massie's Hegseth impeachment articles 'completely legitimate' · [https://thehill.com/homenews/house/6214005-ocasio-cortez-backs-massie/](https://thehill.com/homenews/house/6214005-ocasio-cortez-backs-massie/)
+ 3. Senate committee sets key vote for Trump FDA nominee · [https://thehill.com/policy/healthcare/6213972-senate-health-overton-vote/](https://thehill.com/policy/healthcare/6213972-senate-health-overton-vote/)
+ 4. Live updates: Trump, Vance mark Veterans Day at Arlington · [https://thehill.com/homenews/administration/6212363-live-trump-vance-veterans-day-congress/](https://thehill.com/homenews/administration/6212363-live-trump-vance-veterans-day-congress/)
+ 5. Alina Habba Mildon loses $50M contract after Trump criticism · [https://thehill.com/homenews/administration/6213856-alina-habba-mildon-fired/](https://thehill.com/homenews/administration/6213856-alina-habba-mildon-fired/)
+ 6. Jim Justice says GOP can 'forget' retaking Senate majority in 2028 · [https://thehill.com/homenews/senate/6213842-justice-gop-senate-majority-2028/](https://thehill.com/homenews/senate/6213842-justice-gop-senate-majority-2028/)
+ 7. Greetings from Senegal, where breakdancers are competing in the Youth Olympics · [https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing](https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing)
+ 8. Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave · [https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery](https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery)
+ 9. What's behind democratic socialists' historic victories in the midterms? · [https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms](https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms)
+10. Following big Democratic wins, these swing voters are looking for results · [https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress](https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -94,12 +96,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **inflação** | como a inflação nos EUA afeta os imigrantes brasileiros | A inflação nos EUA continua alta, impactando preços de bens essenciais e custo de vida. Recentemente, os preços dos comb |
-| 2 🟠 🎬 | **dólar** | impacto da flutuação do dólar na vida dos brasileiros nos EUA | O dólar está em um momento de estabilidade, mas há previsões de alta no futuro, o que pode afetar a remessa de dinheiro  |
-| 3 🟡 🎬 | **abrir empresa** | passo a passo para abrir uma empresa nos EUA | O empreendedorismo está em alta, especialmente entre imigrantes que buscam novas oportunidades no mercado americano. |
-| 4 🟡 🎬 | **saúde** | como funciona o sistema de saúde nos EUA para imigrantes | As discussões sobre saúde estão em alta, especialmente com as recentes mudanças nas políticas de saúde pública nos EUA. |
-| 5 🟡 ⚡ | **black friday** | como evitar problemas nas compras da Black Friday nos EUA | Com a Black Friday se aproximando, os consumidores estão em busca de dicas para fazer compras seguras e vantajosas. |
-| 6 🟡 🎬 | **direito e legal** | novidades sobre imigração e vistos nos EUA | As leis de imigração estão frequentemente mudando, e os imigrantes precisam estar atualizados sobre seus direitos e opçõ |
-| 7 🟡 🎬 | **negócios** | como o El Niño afeta os negócios nos EUA e oportunidades para imigrantes | As condições climáticas extremas, como o El Niño, têm impacto significativo na economia e nos negócios locais. |
-| 8 🟡 🎬 | **tecnologia** | como usar IA para empreender nos EUA | A inteligência artificial está se tornando uma ferramenta essencial para empreendedores, permitindo automação e eficiênc |
-| 9 🟢 🎬 | **economia** | comparação de custo de vida entre Brasil e EUA | As flutuações econômicas e a inflação afetam diretamente o custo de vida, gerando interesse em comparações. |
+| 1 🟠 🎬 | **imposto** | Reforma Tributária nos EUA: O que brasileiros precisam saber | Reformas tributárias estão sendo discutidas nos EUA e no Brasil, impactando a carga tributária e como brasileiros imigra |
+| 2 🟠 🎯 | **dólar** | Impacto da alta do dólar na vida dos brasileiros nos EUA | O dólar está em alta, afetando a economia e o custo de vida, especialmente para brasileiros que enviam dinheiro para o B |
+| 3 🟡 🎬 | **inflation** | Como a inflação nos EUA afeta os imigrantes brasileiros | A inflação está alta e está impactando o custo de vida e a capacidade de compra nos EUA. |
+| 4 🟡 🎬 | **negócios** | Como abrir um negócio nos EUA: O passo a passo | O interesse por empreendedorismo e abrir negócios nos EUA está crescendo, especialmente entre brasileiros. |
+| 5 🟡 🎯 | **brasileiro** | Histórias de brasileiros que conquistaram sucesso nos EUA | Histórias inspiradoras de brasileiros nos EUA estão atraindo atenção, especialmente em tempos de incerteza econômica. |
+| 6 🟡 🎯 | **tecnologia** | Impacto da inteligência artificial no mercado de trabalho nos EUA | O avanço da IA está transformando o mercado de trabalho e gerando debates sobre futuras profissões. |
+| 7 🟡 🎬 | **economia** | Comparação do custo de vida entre Brasil e EUA | Com a inflação e as mudanças econômicas, muitos brasileiros estão interessados em entender as diferenças de custo entre  |
+| 8 🟢 🎯 | **learn** | Dicas práticas para aprender inglês rapidamente | Cada vez mais brasileiros buscam aprender inglês para se integrar melhor na sociedade americana. |
+| 9 🟢 🎬 | **direito** | Direitos dos imigrantes nos EUA: O que você precisa saber | Com as mudanças nas políticas de imigração, é crucial que brasileiros conheçam seus direitos nos EUA. |

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T19:26:13.456972",
-  "run_id": "42885104983",
+  "generated_at": "2026-11-11T19:20:39.203492",
+  "run_id": "43086180664",
   "summary": {
     "total_br": 30,
-    "total_us": 24,
-    "br_us_connections": 10,
-    "cross_platform_topics": 15,
+    "total_us": 26,
+    "br_us_connections": 9,
+    "cross_platform_topics": 12,
     "niche_ideas": 9
   },
   "sections_br": [
@@ -15,84 +15,84 @@
       "label": "YouTube (BR)",
       "trends": [
         {
-          "title": "LNGSHOT - ‘Bananas’ Official Music Video",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=xWNIrOTJ6VA",
-          "score": 10.31,
-          "region": "BR",
-          "views": 973522
-        },
-        {
-          "title": "Baby Marshall ATE TOO MUCH ICE CREAM… AND HIS FRIENDS HAD TO SAVE HIM! 🍦😱",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=4qL34b35Uho",
-          "score": 8.4,
-          "region": "BR",
-          "views": 436940
-        },
-        {
-          "title": "STEEL BALL RUN JoJo's Bizarre Adventure | Special Trailer | Introducing the World of Stands",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=27wa6E9pLuE",
-          "score": 3.63,
-          "region": "BR",
-          "views": 511717
-        },
-        {
-          "title": "GÊNIO QUIZ 6 - AGORA ELE ME QUEBROU DE VERDADE!!!",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=Wy_AKgoxaKA",
-          "score": 3.09,
-          "region": "BR",
-          "views": 683285
-        },
-        {
           "title": "A VIGÍLIA - EPISÓDIO 2 - \"A Torre\" | Ordem Paranormal RPG",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=dvcQhatskMg",
-          "score": 2.34,
+          "score": 1.73,
           "region": "BR",
-          "views": 98954
-        },
-        {
-          "title": "♪ Deadpool (Finge que é Sense Life) | Ado Ado Ado 3 | ft 7 Minutoz, M4rkim, Daarui Chrono Kaito Anny",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=gyaQwL86G_o",
-          "score": 1.83,
-          "region": "BR",
-          "views": 541219
-        },
-        {
-          "title": "🌴 DJ PARTY 71 – WILD HEART CALLING | Exotic Tropical House / Tribal Beats / Latin Vibes",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=4UV9Zr2H7BA",
-          "score": 1.38,
-          "region": "BR",
-          "views": 968955
-        },
-        {
-          "title": "As Melhores Músicas Gospel Mais Tocadas 2026 | Hinos Evangélicos Mais Tocados | Louvores de Adoração",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=97uF1xCtogo",
-          "score": 0.51,
-          "region": "BR",
-          "views": 129918
-        },
-        {
-          "title": "🔴 REACT NOVO TRAILER AO VIVO + Rockstar liberou INFOS do FPS! PS5 PRO",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=41q1y19L9M0",
-          "score": 0.45,
-          "region": "BR",
-          "views": 13617
+          "views": 382563
         },
         {
           "title": "Valesca Mayssa | Jeito de Adorar [Clipe Oficial]",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=7p5t3Wb3AYA",
+          "score": 0.79,
+          "region": "BR",
+          "views": 184503
+        },
+        {
+          "title": "VINGADORES DOOMSDAY NOVO TEASER MOSTRA DEMAIS!!!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=_iOdiP5_n40",
+          "score": 0.49,
+          "region": "BR",
+          "views": 91354
+        },
+        {
+          "title": "Perdoa-me - Ramon e Rafael | O Som da Igreja 2",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=-XUGwH0GHCk",
           "score": 0.32,
           "region": "BR",
-          "views": 19088
+          "views": 26902
+        },
+        {
+          "title": "Bala no Gatilho",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=0X_lR76hGBQ",
+          "score": 0.22,
+          "region": "BR",
+          "views": 49599
+        },
+        {
+          "title": "O ESCUDO / SOU UM MILAGRE (Clipe Oficial) |  Régis Danese, Voz da Verdade e  Pr. Carlos Moyses",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=YF6HdspLmMc",
+          "score": 0.15,
+          "region": "BR",
+          "views": 32537
+        },
+        {
+          "title": "Emily em Paris: Temporada final | Teaser oficial | Netflix",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=WaFFXMUBKiA",
+          "score": 0.14,
+          "region": "BR",
+          "views": 7027
+        },
+        {
+          "title": "Vergonha pra Mídia",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=m7pBoiUwy_c",
+          "score": 0.14,
+          "region": "BR",
+          "views": 30668
+        },
+        {
+          "title": "Nara Hellen Feat Gerson Rufino - Pela Graça | Clipe Oficial",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=DGycU-PC4jE",
+          "score": 0.13,
+          "region": "BR",
+          "views": 28657
+        },
+        {
+          "title": "Israel & Rodolffo - Pois É",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=9vtPkDC6OyY",
+          "score": 0.13,
+          "region": "BR",
+          "views": 86020
         }
       ]
     },
@@ -102,82 +102,82 @@
       "label": "Notícias (BR)",
       "trends": [
         {
-          "title": "Diretor-geral da PF se desfilia de Associação Nacional dos Delegados após 24 anos",
+          "title": "CBS e IBS: entenda os novos impostos da reforma tributária e o que muda em 2027",
           "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/politica/post/2026/11/10/diretor-geral-da-pf-se-desfilia-de-associacao-nacional-dos-delegados-apos-24-anos.ghtml",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/11/cbs-e-ibs-entenda-os-novos-impostos-da-reforma-tributaria.ghtml",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Espanha pede suspensão do TikTok após denúncias de abuso sexual infantil",
+          "title": "Ajuste fiscal em negociação com o Senado vai 'racionalizar algumas despesas'; impacto pode chegar a R$ 60 bi em 2027, diz ministro",
           "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/tecnologia/noticia/2026/11/10/espanha-tik-tok.ghtml",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/11/ajuste-fiscal-em-negociacao-com-o-senado-vai-racionalizar-algumas-despesas-impacto-pode-chegar-a-r-60-bi-em-2027-diz-ministro.ghtml",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Alacero alerta para avanço “predatório” da China sobre indústria latino-americana",
+          "title": "Javier Milei chora em despedida de Papa Leão XIV, que deixa a Argentina rumo ao Peru",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/11/javier-milei-chora-em-despedida-de-papa-leao-xiv-que-deixa-a-argentina-rumo-ao-peru.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Líderes fazem 'foto de família' na COP31; Trump, Xi e líderes europeus não participaram",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/11/lideres-fazem-foto-de-familia-na-cop31-trump-xi-e-lideres-europeus-nao-participaram.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Irã ameaça atacar bases dos EUA na Europa se forem usadas contra o país",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/11/ira-ameaca-atacar-bases-dos-eua-na-europa-se-forem-usadas-contra-o-pais.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Bebê de 11 meses sobrevive após passar um dia enterrado vivo em gaiola nos EUA",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/11/bebe-de-11-meses-sobrevive-apos-passar-um-dia-enterrado-vivo-em-gaiola-nos-eua.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Quais as leituras do mercado sobre possível ajuste fiscal do governo?",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/alacero-avanco-predatorio-china-industria-latino-americana/",
+          "url": "https://www.infomoney.com.br/mercados/quais-as-primeiras-leituras-do-mercado-sobre-projeto-de-ajuste-fiscal-governo-lula/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Ações europeias permanecem perto de máxima histórica com queda nos preços do petróleo",
+          "title": "Veja uma forma prática de juntar R$ 5 mil, R$ 10 mil ou mais",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/acoes-europeias-permanecem-perto-de-maxima-historica-com-queda-nos-precos-do-petroleo/",
+          "url": "https://www.infomoney.com.br/minhas-financas/veja-uma-forma-pratica-de-juntar-r-5-mil-r-10-mil-ou-mais/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Ibovespa Hoje Ao Vivo: Bolsa recua em linha com exterior; dólar dispara",
+          "title": "Embaixador da Rússia nos EUA, Alexander Darchiev, morre “repentinamente” aos 66 anos",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10112026/",
+          "url": "https://www.infomoney.com.br/mundo/embaixador-da-russia-nos-eua-alexander-darchiev-morre-repentinamente-aos-66-anos/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Anthropic, dona do Claude, tem IPO estimado em US$ 1,4 trilhão, diz agência",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/tecnologia/noticia/2026/11/10/ipo-anthropic-valor-estreia-na-bolsa.ghtml",
-          "score": 80.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "11.11: como evitar problemas nas compras em prévia da Black Friday",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/guia/guia-de-compras/1111-como-evitar-problemas-nas-compras-em-previa-da-black-friday-1.ghtml",
-          "score": 80.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Banco Central do Paraguai diz que já ressarciu 93% dos clientes do Ueno Bank",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/economia/noticia/2026/11/10/banco-central-do-paraguai-diz-que-ja-ressarciu-93percent-dos-clientes-do-ueno-bank.ghtml",
-          "score": 80.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Quando vai ser a Black Friday 2026? Veja a data oficial e guia para não cair em golpes",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/guia/guia-de-compras/presentes/quando-vai-ser-a-black-friday-2026-veja-a-data-oficial-e-guia-para-nao-cair-em-golpes.ghtml",
-          "score": 80.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Diesel terá mais biodiesel? Governo prevê decisão sobre mistura de 20% em 2027",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/carros/noticia/2026/11/10/diesel-tera-mais-biodiesel-governo-preve-aprovar-em-2027.ghtml",
-          "score": 80.0,
+          "title": "Angra dos Reis suspende cobrança de taxa de turismo sustentável; veja o que muda",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/brasil/angra-dos-reis-suspende-cobranca-taxa-turismo-sustentavel/",
+          "score": 100.0,
           "region": "BR",
           "views": null
         }
@@ -281,33 +281,49 @@
           "title": "Maatrubhumi - Trailer | Salman Khan, Chitrangda Singh | Apoorva Lakhia | 4th December 2026",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=fA8-gXDoAk8",
-          "score": 36.15,
+          "score": 78.27,
           "region": "US",
-          "views": 883836
+          "views": 28269579
         },
         {
-          "title": "FINDING THE PIRATE TOKEN DAY 5",
+          "title": "Becoming an ELEMENTAL HYDRA on One Chunk..",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=S03_jU1mvVc",
-          "score": 4.85,
+          "url": "https://youtube.com/watch?v=KeRBXoOtBJE",
+          "score": 2.48,
           "region": "US",
-          "views": 699070
+          "views": 102789
+        },
+        {
+          "title": "This Is Just Pathetic",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=bCWeDT2JAV8",
+          "score": 1.92,
+          "region": "US",
+          "views": 77446
         },
         {
           "title": "Moy Bobadilla - Corazón (Letra)",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=-EOMbfzME4w",
-          "score": 1.32,
+          "score": 1.48,
           "region": "US",
-          "views": 1045375
+          "views": 1182991
         },
         {
-          "title": "Top 50 Christmas Songs of All Time 🎅 2 Hour Best Christmas Music Playlist 🎄🎁",
+          "title": "Honest Trailers | Pan's Labyrinth",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=xoqUGTFtRz0",
-          "score": 0.5,
+          "url": "https://youtube.com/watch?v=siPwNXVo6pk",
+          "score": 1.31,
           "region": "US",
-          "views": 186328
+          "views": 265550
+        },
+        {
+          "title": "Top Christmas Songs Of All Time 2027 🎁 Best Christmas Music Playlist 🎄 Merry Christmas Songs 2027",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=jqneRAkKiN8",
+          "score": 0.1,
+          "region": "US",
+          "views": 29750
         }
       ]
     },
@@ -317,81 +333,81 @@
       "label": "Notícias (US)",
       "trends": [
         {
-          "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
+          "title": "Scoop: U.S. asks Russia to propose new security agreement with Europe",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/11/russia-ukraine-europe-war-security-agreement",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Ocasio-Cortez: Massie's Hegseth impeachment articles 'completely legitimate'",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/house/6214005-ocasio-cortez-backs-massie/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Senate committee sets key vote for Trump FDA nominee",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/healthcare/6213972-senate-health-overton-vote/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Live updates: Trump, Vance mark Veterans Day at Arlington",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6212363-live-trump-vance-veterans-day-congress/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Alina Habba Mildon loses $50M contract after Trump criticism",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6213856-alina-habba-mildon-fired/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Jim Justice says GOP can 'forget' retaking Senate majority in 2028",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/senate/6213842-justice-gop-senate-majority-2028/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
-          "score": 100.0,
+          "url": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
+          "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "U.S. boycotts U.N. human rights review for second year running",
+          "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
-          "score": 100.0,
+          "url": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
+          "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Pelosi advises against kicking Stevens out of House Democratic caucus",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/house/6211133-pelosi-advises-against-kicking-stevens-out-of-house-democratic-caucus/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Colorado approves ban on gender-affirming surgery for minors",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/campaign/6186466-colorado-proposition-135-passes/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Colorado approves ballot measure designating biological sexes to sports teams",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/state-watch/6186456-ballot-measure-designates-biological-sex/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Moore on Stephen Miller: ‘I will work with anybody. I will bow to nobody’",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/state-watch/6211337-moore-to-work-miller/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "More daylight linked to lower chance of dementia: Study",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/policy/healthcare/6209469-daylight-exposure-lower-dementia-link-study/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "IRS reveals 2027 tax brackets, standard deductions: What to know",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/business/6211112-irs-new-tax-brackets-standard-deductions-2027/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Warnock ducks questions about backing Schumer as Senate majority leader",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/blogs/in-the-know/6211082-warnock-schumer-senate-majority-leader-breakfast-club/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Americans across the economic spectrum feel a 'panic' about finances, author says",
+          "title": "What's behind democratic socialists' historic victories in the midterms?",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives",
+          "url": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Following big Democratic wins, these swing voters are looking for results",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
           "score": 80.0,
           "region": "US",
           "views": null
@@ -489,157 +505,117 @@
   "br_us_connections": [
     {
       "topic": "trump",
-      "count": 18,
-      "score": 36.67,
+      "count": 15,
+      "score": 43.33,
       "sample_titles": [
         "Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel",
         "Vitória democrata nos EUA não deve aliviar pressão de Trump sobre Brasil, avaliam analistas",
-        "G7 começa com divergências sobre crises e dúvidas sobre postura de Trump pós-midterms",
-        "White House doubles down after Trump angers base by floating illegal alien deal with Dems",
-        "Trump's Base, New Poll Reject Trump's Amnesty Dangle"
-      ]
-    },
-    {
-      "topic": "house",
-      "count": 7,
-      "score": 35.34,
-      "sample_titles": [
-        "🌴 DJ PARTY 71 – WILD HEART CALLING | Exotic Tropical House / Tribal Beats / Latin Vibes",
-        "White House doubles down after Trump angers base by floating illegal alien deal with Dems",
-        "EXCLUSIVE: White House Scrambles After Trump Again Floats Amnesty Deal With Democrats",
-        "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed"
-      ]
-    },
-    {
-      "topic": "trailer",
-      "count": 6,
-      "score": 9.27,
-      "sample_titles": [
-        "🔴 REACT NOVO TRAILER AO VIVO + Rockstar liberou INFOS do FPS! PS5 PRO",
-        "Suzane von Richthofen: O que o Tempo Não Apaga | Trailer oficial | Netflix Brasil",
-        "Maxton Hall | 3ª Temporada | Trailer Oficial | Prime Video",
-        "Maatrubhumi - Trailer | Salman Khan, Chitrangda Singh | Apoorva Lakhia | 4th December 2026"
+        "Líderes fazem 'foto de família' na COP31; Trump, Xi e líderes europeus não participaram",
+        "Trump administration again boycotts UN human rights review",
+        "Can the Republican Party survive Trump?"
       ]
     },
     {
       "topic": "nvidia",
       "count": 5,
-      "score": 58.0,
+      "score": 68.0,
       "sample_titles": [
-        "Fabricante dos chips da Nvidia vai investir US$ 1 bilhão na OpenAI e na Anthropic",
-        "Nvidia pode valer até 30% menos se Jensen Huang deixar de ser CEO, diz Dan Ives",
-        "Nvidia cai mais de 6% e perde brevemente segundo lugar mundial em valor de mercado",
-        "Humiliation for Nvidia nepo heirs who all work for AI giant after dad's cheating on their mom was revealed, sending stock price tanking",
-        "Nvidia shares tumble as the company says it's investigating CEO Jensen Huang"
+        "Nvidia perde quase R$ 6 trilhões após caso envolvendo CEO, mais que toda a bolsa brasileira",
+        "Nvidia perde valor superior ao de todas as empresas da B3 após polêmica com CEO",
+        "The scandal surrounding the head of Nvidia could have wide-ranging implications",
+        "Nvidia shares tumble as the company says it's investigating CEO Jensen Huang",
+        "Scoop: Commerce Department received national security warning on Nvidia CEO affair"
       ]
     },
     {
-      "topic": "trade",
-      "count": 4,
-      "score": 45.0,
+      "topic": "kennedy",
+      "count": 2,
+      "score": 90.0,
       "sample_titles": [
-        "Do pré-mercado ao trade: como alunos de Sacramento operaram na Casa Clear",
-        "NHL Rumours: Trade Speculation Growing Around Utah Mammoth and Lightning Star",
-        "The Peace Trade is a Trap",
-        "This was the week the AI trade cracked. So what's next?"
+        "Por que a família Kennedy não ficou feliz com o projeto do arco do triunfo de Trump",
+        "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave"
       ]
     },
     {
-      "topic": "global",
-      "count": 4,
-      "score": 40.0,
+      "topic": "china",
+      "count": 2,
+      "score": 80.0,
       "sample_titles": [
-        "Morgan vê espaço para alta do real se petróleo cair e dólar perder força global",
-        "Dólar ronda a estabilidade e não segue tendência global de olho em riscos locais",
-        "Citi rebaixa ações americanas e setor de tecnologia global em meio aos receios sobre IA",
-        "Why cost-of-living concerns are up-ending global politics"
+        "Carros vindos da China já vendem duas vezes mais que os da Argentina no Brasil",
+        "Scoop: Inside Bessent's Situation Room confrontation with Lutnick over China chip security"
       ]
     },
     {
-      "topic": "midterms",
-      "count": 3,
-      "score": 46.67,
-      "sample_titles": [
-        "G7 começa com divergências sobre crises e dúvidas sobre postura de Trump pós-midterms",
-        "EUA: Trump atribui derrota republicana nas midterms à \"antipatia a Israel\"",
-        "The Democratic Party gained power across the country in the midterms. Now what?"
-      ]
-    },
-    {
-      "topic": "video",
-      "count": 3,
-      "score": 16.85,
-      "sample_titles": [
-        "LNGSHOT - ‘Bananas’ Official Music Video",
-        "Maxton Hall | 3ª Temporada | Trailer Oficial | Prime Video",
-        "The caravans are back. If you get in, you get amnesty. That's the message they received [Video at URL)"
-      ]
-    },
-    {
-      "topic": "music",
-      "count": 3,
-      "score": 3.63,
-      "sample_titles": [
-        "LNGSHOT - ‘Bananas’ Official Music Video",
-        "Está Consumado - Central Music",
-        "Top 50 Christmas Songs of All Time 🎅 2 Hour Best Christmas Music Playlist 🎄🎁"
-      ]
-    },
-    {
-      "topic": "jensen huang",
+      "topic": "venezuela",
       "count": 2,
       "score": 70.0,
       "sample_titles": [
-        "Nvidia pode valer até 30% menos se Jensen Huang deixar de ser CEO, diz Dan Ives",
-        "Nvidia shares tumble as the company says it's investigating CEO Jensen Huang"
+        "Lula se reúne com Delcy Rodríguez e discute tarifas, petróleo e relação diplomática com Venezuela",
+        "Oil giant ExxonMobil left Venezuela years ago. Now it's considering a return"
+      ]
+    },
+    {
+      "topic": "google",
+      "count": 2,
+      "score": 60.0,
+      "sample_titles": [
+        "Ex-recrutadora do Google ensina a responder 'fale sobre você' em menos de 30 palavras",
+        "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and other job interview mistakes—do this instead"
+      ]
+    },
+    {
+      "topic": "green",
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "green card",
+        "“Green Economic Populism” Candidates Won 39 Out of 56 Races for Congress"
+      ]
+    },
+    {
+      "topic": "online",
+      "count": 2,
+      "score": 10.0,
+      "sample_titles": [
+        "como ganhar dinheiro online",
+        "how to learn online"
+      ]
+    },
+    {
+      "topic": "playlist",
+      "count": 2,
+      "score": 0.09,
+      "sample_titles": [
+        "PABLO 💖 SÓ AS ANTIGAS PLAYLIST 💝 ANTIGAS AS MELHORES",
+        "Top Christmas Songs Of All Time 2027 🎁 Best Christmas Music Playlist 🎄 Merry Christmas Songs 2027"
       ]
     }
   ],
   "cross_platform": [
     {
-      "topic": "inflation",
+      "topic": "deixa",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.03,
+      "sample_titles": [
+        "Me Deixa Bloqueado",
+        "Javier Milei chora em despedida de Papa Leão XIV, que deixa a Argentina rumo ao Peru"
+      ]
+    },
+    {
+      "topic": "imposto",
       "platforms": [
         "news",
         "google_trends"
       ],
       "count": 2,
-      "score": 56.67,
+      "score": 45.0,
       "sample_titles": [
-        "Gas prices dip below $4 but inflation remains stubbornly high",
-        "Harsh new inflation reality",
-        "inflation"
-      ]
-    },
-    {
-      "topic": "house",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 51.63,
-      "sample_titles": [
-        "🌴 DJ PARTY 71 – WILD HEART CALLING | Exotic Tropical House / Tribal Beats / Latin Vibes",
-        "White House doubles down after Trump angers base by floating illegal alien deal with Dems",
-        "EXCLUSIVE: White House Scrambles After Trump Again Floats Amnesty Deal With Democrats",
-        "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
-        "House Republicans to elect a new leader as they look to rebuild from midterm defeat"
-      ]
-    },
-    {
-      "topic": "brasil",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 48.38,
-      "sample_titles": [
-        "Suzane von Richthofen: O que o Tempo Não Apaga | Trailer oficial | Netflix Brasil",
-        "Vitória democrata nos EUA não deve aliviar pressão de Trump sobre Brasil, avaliam analistas",
-        "El Niño: enquanto o Brasil respira, a Colômbia muda as regras para atravessar a seca",
-        "Gigante dos projetores, Epson estreia painéis de LED no Brasil para enfrentar marcas coreanas",
-        "Legacy encerra apostas no Brasil após vitória de Lula e vê estagflação em 2027"
+        "Reforma tributária: sem benefícios aprovados pelo Congresso, imposto do governo cairia de 11,3% para 8,5% em 2027, estima Receita",
+        "imposto nos EUA"
       ]
     },
     {
@@ -649,69 +625,30 @@
         "google_trends"
       ],
       "count": 2,
-      "score": 45.0,
+      "score": 42.0,
       "sample_titles": [
-        "Morgan vê espaço para alta do real se petróleo cair e dólar perder força global",
-        "Dólar ronda a estabilidade e não segue tendência global de olho em riscos locais",
-        "Em outubro, um fluxo cambial recorde, apesar da disparada do dólar",
-        "Ibovespa tenta firmar fundo e dólar encosta em sobrecompra: o que vigiar na segunda?",
-        "Ibovespa Hoje Ao Vivo: Bolsa recua em linha com exterior; dólar dispara"
+        "Dólar sobe e permanece acima de R$ 5,50 com ata do Copom e inflação dos EUA no radar",
+        "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
+        "BB lança cartão de 9 pontos por dólar e reforça aposta no Private",
+        "Gestores dizem que CDI vale pouco em dólar e defendem alocação no exterior",
+        "dólar hoje"
       ]
     },
     {
-      "topic": "abrir",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 45.0,
-      "sample_titles": [
-        "Paraguai: promotores de Justiça tentarão abrir cofre encontrado em casa de verão de Peña",
-        "abrir empresa nos EUA"
-      ]
-    },
-    {
-      "topic": "saúde",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 45.0,
-      "sample_titles": [
-        "Tesouraço no SUS? Na COP31, Padilha diz que a blindagem da saúde se chama Lula",
-        "saúde nos EUA"
-      ]
-    },
-    {
-      "topic": "empresa",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 45.0,
-      "sample_titles": [
-        "Justiça condena empresa a indenizar operadora com TEA que recebia choques elétricos",
-        "abrir empresa nos EUA"
-      ]
-    },
-    {
-      "topic": "prévia",
+      "topic": "mostra",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 40.05,
+      "score": 40.24,
       "sample_titles": [
-        "Vem Cá (Prévia)",
-        "11.11: como evitar problemas nas compras em prévia da Black Friday"
+        "VINGADORES DOOMSDAY NOVO TEASER MOSTRA DEMAIS!!!",
+        "Fiat mostra Argo X e revela detalhes do novo visual que a marca vai adotar no Brasil"
       ]
     },
     {
-      "topic": "healthcare",
+      "topic": "learn",
       "platforms": [
         "news",
         "google_trends"
@@ -719,8 +656,36 @@
       "count": 2,
       "score": 35.0,
       "sample_titles": [
-        "Seven days of chaos in the ER: How this country's healthcare system is unraveling",
-        "healthcare cost"
+        "U.S. officials look to Europe to learn how to make prison better",
+        "how to learn online"
+      ]
+    },
+    {
+      "topic": "inflation",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 32.5,
+      "sample_titles": [
+        "Inflation is proving more stubborn in Australia than elsewhere, making the RBA’s job harder",
+        "Would you push a neighbour into unemployment to reduce inflation?",
+        "Gas prices dip below $4 but inflation remains stubbornly high",
+        "inflation"
+      ]
+    },
+    {
+      "topic": "green",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "“Green Economic Populism” Candidates Won 39 Out of 56 Races for Congress",
+        "green card"
       ]
     },
     {
@@ -730,241 +695,237 @@
         "google_trends"
       ],
       "count": 2,
-      "score": 35.0,
+      "score": 25.0,
       "sample_titles": [
         "The business of El Niño",
         "start a business USA"
       ]
     },
     {
-      "topic": "central",
+      "topic": "brasileiro",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 16.67,
+      "sample_titles": [
+        "De Timbaúba a Massachusetts: o brasileiro que chegou aos 14 anos aos EUA e hoje faz leis para proteger imigrantes",
+        "Brasileiro eleito na Flórida critica abrigo a Flávio Bolsonaro e diz se espelhar em Erika Hilton",
+        "brasileiro nos EUA"
+      ]
+    },
+    {
+      "topic": "falta",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 33.36,
+      "score": 15.04,
       "sample_titles": [
-        "Está Consumado - Central Music",
-        "Banco Central do Paraguai diz que já ressarciu 93% dos clientes do Ueno Bank",
-        "Batalha de Rap Macapá terá duelos de rima e venda de comidas típicas no Mercado Central"
+        "Di Propósito - Falta de Mim / Loka / Ta Tum Tum (Ao Vivo)",
+        "Estamos vivendo uma epidemia de falta de tempo"
       ]
     },
     {
-      "topic": "party",
+      "topic": "conquista",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 30.69,
+      "score": 15.03,
       "sample_titles": [
-        "🌴 DJ PARTY 71 – WILD HEART CALLING | Exotic Tropical House / Tribal Beats / Latin Vibes",
-        "The Democratic Party gained power across the country in the midterms. Now what?"
+        "Mikael Santos - In Brega Conquista - Os anjos cantam",
+        "Norris vence GP de São Paulo e Mercedes conquista o título de construtores da F1"
       ]
     },
     {
-      "topic": "digital",
+      "topic": "carlos",
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "news"
       ],
       "count": 2,
-      "score": 25.0,
+      "score": 10.07,
       "sample_titles": [
-        "'Você está sendo anestesiado para ficar 9 horas por dia no celular': o que diz o especialista digital Ronaldo Lemos sobre a captura da nossa atenção",
-        "digital marketing tips"
-      ]
-    },
-    {
-      "topic": "living",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 25.0,
-      "sample_titles": [
-        "Why cost-of-living concerns are up-ending global politics",
-        "cost of living"
-      ]
-    },
-    {
-      "topic": "cost living",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 25.0,
-      "sample_titles": [
-        "Why cost-of-living concerns are up-ending global politics",
-        "cost of living"
+        "O ESCUDO / SOU UM MILAGRE (Clipe Oficial) |  Régis Danese, Voz da Verdade e  Pr. Carlos Moyses",
+        "Carlinhos Maia apresenta show de humor 'Mas, Carlos!' pela primeira vez no AP"
       ]
     }
   ],
   "niche_ideas": [
     {
-      "main_topic": "inflação",
-      "subtopic": "como a inflação nos EUA afeta os imigrantes brasileiros",
-      "why_trending": "A inflação nos EUA continua alta, impactando preços de bens essenciais e custo de vida. Recentemente, os preços dos combustíveis caíram, mas a inflação geral permanece elevada.",
-      "niche_angle": "Explorar como a inflação afeta as finanças e o dia a dia dos brasileiros que vivem nos EUA, incluindo dicas práticas para economizar.",
+      "main_topic": "imposto",
+      "subtopic": "Reforma Tributária nos EUA: O que brasileiros precisam saber",
+      "why_trending": "Reformas tributárias estão sendo discutidas nos EUA e no Brasil, impactando a carga tributária e como brasileiros imigrantes lidam com impostos.",
+      "niche_angle": "Explorar como as mudanças nas leis tributárias nos EUA afetam brasileiros, especialmente em relação a deduções e obrigações fiscais.",
       "video_format": "long",
       "urgency": "high",
-      "ease": 7,
-      "source": "news",
+      "ease": 5,
+      "source": "G1 Economia",
       "region": "US",
-      "links": [],
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/11/reforma-tributaria-sem-beneficios-aprovados-pelo-congresso-imposto-do-governo-cairia-de-113percent-para-85percent-estima-receita-federal.ghtml"
+      ],
       "platforms": [
-        "youtube",
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-10T19:26:13.454646"
+      "collected_at": "2026-11-11T19:20:39.200934"
     },
     {
       "main_topic": "dólar",
-      "subtopic": "impacto da flutuação do dólar na vida dos brasileiros nos EUA",
-      "why_trending": "O dólar está em um momento de estabilidade, mas há previsões de alta no futuro, o que pode afetar a remessa de dinheiro para o Brasil.",
-      "niche_angle": "Discutir como as mudanças na cotação do dólar impactam os brasileiros que enviam dinheiro para o Brasil e como se preparar para essas flutuações.",
-      "video_format": "long",
+      "subtopic": "Impacto da alta do dólar na vida dos brasileiros nos EUA",
+      "why_trending": "O dólar está em alta, afetando a economia e o custo de vida, especialmente para brasileiros que enviam dinheiro para o Brasil.",
+      "niche_angle": "Discutir como a variação do dólar impacta o envio de remessas e o custo de produtos e serviços para brasileiros nos EUA.",
+      "video_format": "both",
       "urgency": "high",
       "ease": 6,
-      "source": "news",
+      "source": "G1 Economia",
       "region": "US",
-      "links": [],
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/11/dolar-sobe-e-permanece-acima-de-r-550.ghtml"
+      ],
       "platforms": [
-        "youtube",
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-10T19:26:13.454653"
+      "collected_at": "2026-11-11T19:20:39.200941"
     },
     {
-      "main_topic": "abrir empresa",
-      "subtopic": "passo a passo para abrir uma empresa nos EUA",
-      "why_trending": "O empreendedorismo está em alta, especialmente entre imigrantes que buscam novas oportunidades no mercado americano.",
-      "niche_angle": "Fornecer um guia prático sobre como abrir uma empresa nos EUA, incluindo custos, burocracias e dicas para brasileiros.",
+      "main_topic": "inflation",
+      "subtopic": "Como a inflação nos EUA afeta os imigrantes brasileiros",
+      "why_trending": "A inflação está alta e está impactando o custo de vida e a capacidade de compra nos EUA.",
+      "niche_angle": "Analisar como a inflação está afetando o poder aquisitivo de brasileiros e quais estratégias podem ser adotadas para lidar com isso.",
       "video_format": "long",
       "urgency": "medium",
-      "ease": 5,
-      "source": "news",
+      "ease": 7,
+      "source": "G1 Economia",
       "region": "US",
-      "links": [],
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/11/inflacao-e-impactos.ghtml"
+      ],
       "platforms": [
-        "youtube",
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-10T19:26:13.454656"
-    },
-    {
-      "main_topic": "saúde",
-      "subtopic": "como funciona o sistema de saúde nos EUA para imigrantes",
-      "why_trending": "As discussões sobre saúde estão em alta, especialmente com as recentes mudanças nas políticas de saúde pública nos EUA.",
-      "niche_angle": "Analisar o sistema de saúde americano e como ele afeta imigrantes, além de dicas sobre planos de saúde e cuidados médicos.",
-      "video_format": "long",
-      "urgency": "medium",
-      "ease": 5,
-      "source": "news",
-      "region": "US",
-      "links": [],
-      "platforms": [
-        "youtube",
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-11-10T19:26:13.454659"
-    },
-    {
-      "main_topic": "black friday",
-      "subtopic": "como evitar problemas nas compras da Black Friday nos EUA",
-      "why_trending": "Com a Black Friday se aproximando, os consumidores estão em busca de dicas para fazer compras seguras e vantajosas.",
-      "niche_angle": "Criar um vídeo com dicas práticas para brasileiros sobre como comprar na Black Friday nos EUA, focando em evitar fraudes e encontrar os melhores preços.",
-      "video_format": "short",
-      "urgency": "medium",
-      "ease": 4,
-      "source": "news",
-      "region": "US",
-      "links": [],
-      "platforms": [
-        "youtube",
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-11-10T19:26:13.454663"
-    },
-    {
-      "main_topic": "direito e legal",
-      "subtopic": "novidades sobre imigração e vistos nos EUA",
-      "why_trending": "As leis de imigração estão frequentemente mudando, e os imigrantes precisam estar atualizados sobre seus direitos e opções.",
-      "niche_angle": "Discutir as últimas mudanças nas leis de imigração que afetam brasileiros nos EUA, incluindo oportunidades e desafios.",
-      "video_format": "long",
-      "urgency": "medium",
-      "ease": 5,
-      "source": "news",
-      "region": "US",
-      "links": [],
-      "platforms": [
-        "youtube",
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-11-10T19:26:13.454666"
+      "collected_at": "2026-11-11T19:20:39.200945"
     },
     {
       "main_topic": "negócios",
-      "subtopic": "como o El Niño afeta os negócios nos EUA e oportunidades para imigrantes",
-      "why_trending": "As condições climáticas extremas, como o El Niño, têm impacto significativo na economia e nos negócios locais.",
-      "niche_angle": "Explorar como o El Niño pode criar oportunidades de negócio para brasileiros nos EUA, especialmente na agricultura e serviços relacionados.",
+      "subtopic": "Como abrir um negócio nos EUA: O passo a passo",
+      "why_trending": "O interesse por empreendedorismo e abrir negócios nos EUA está crescendo, especialmente entre brasileiros.",
+      "niche_angle": "Criar um guia prático sobre como brasileiros podem abrir negócios nos EUA, incluindo documentação necessária e custos.",
       "video_format": "long",
       "urgency": "medium",
-      "ease": 6,
-      "source": "news",
+      "ease": 4,
+      "source": "G1 Economia",
       "region": "US",
-      "links": [],
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/11/start-a-business-usa.ghtml"
+      ],
       "platforms": [
-        "youtube",
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-10T19:26:13.454668"
+      "collected_at": "2026-11-11T19:20:39.200947"
+    },
+    {
+      "main_topic": "brasileiro",
+      "subtopic": "Histórias de brasileiros que conquistaram sucesso nos EUA",
+      "why_trending": "Histórias inspiradoras de brasileiros nos EUA estão atraindo atenção, especialmente em tempos de incerteza econômica.",
+      "niche_angle": "Compartilhar histórias de brasileiros que se destacaram e como conseguiram superar desafios nos EUA.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "G1 Mundo",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/11/de-timbauba-a-massachusetts.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-11T19:20:39.200950"
     },
     {
       "main_topic": "tecnologia",
-      "subtopic": "como usar IA para empreender nos EUA",
-      "why_trending": "A inteligência artificial está se tornando uma ferramenta essencial para empreendedores, permitindo automação e eficiência nos negócios.",
-      "niche_angle": "Criar conteúdo que ensine brasileiros nos EUA a utilizar ferramentas de IA para melhorar suas empresas e aumentar a produtividade.",
-      "video_format": "long",
+      "subtopic": "Impacto da inteligência artificial no mercado de trabalho nos EUA",
+      "why_trending": "O avanço da IA está transformando o mercado de trabalho e gerando debates sobre futuras profissões.",
+      "niche_angle": "Discutir como a adoção de IA está mudando as oportunidades de emprego para brasileiros nos EUA e quais habilidades são necessárias.",
+      "video_format": "both",
       "urgency": "medium",
       "ease": 6,
-      "source": "news",
+      "source": "G1 Economia",
       "region": "US",
-      "links": [],
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/11/impacto-da-ia.ghtml"
+      ],
       "platforms": [
-        "youtube",
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-10T19:26:13.454674"
+      "collected_at": "2026-11-11T19:20:39.200954"
     },
     {
       "main_topic": "economia",
-      "subtopic": "comparação de custo de vida entre Brasil e EUA",
-      "why_trending": "As flutuações econômicas e a inflação afetam diretamente o custo de vida, gerando interesse em comparações.",
-      "niche_angle": "Realizar uma comparação clara entre o custo de vida nos EUA e no Brasil, ajudando brasileiros a entender onde é mais vantajoso viver.",
+      "subtopic": "Comparação do custo de vida entre Brasil e EUA",
+      "why_trending": "Com a inflação e as mudanças econômicas, muitos brasileiros estão interessados em entender as diferenças de custo entre os países.",
+      "niche_angle": "Fazer uma análise detalhada sobre o custo de vida em diferentes cidades dos EUA e como isso se compara com o Brasil.",
       "video_format": "long",
-      "urgency": "low",
+      "urgency": "medium",
       "ease": 5,
-      "source": "news",
-      "region": "GLOBAL",
-      "links": [],
+      "source": "G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/11/comparacao-custo-de-vida.ghtml"
+      ],
       "platforms": [
-        "youtube",
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-10T19:26:13.454677"
+      "collected_at": "2026-11-11T19:20:39.200959"
+    },
+    {
+      "main_topic": "learn",
+      "subtopic": "Dicas práticas para aprender inglês rapidamente",
+      "why_trending": "Cada vez mais brasileiros buscam aprender inglês para se integrar melhor na sociedade americana.",
+      "niche_angle": "Compartilhar métodos eficazes e recursos acessíveis para brasileiros que desejam aprender inglês rapidamente.",
+      "video_format": "both",
+      "urgency": "low",
+      "ease": 8,
+      "source": "news:google_trends",
+      "region": "US",
+      "links": [
+        "https://www.example.com"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-11T19:20:39.200965"
+    },
+    {
+      "main_topic": "direito",
+      "subtopic": "Direitos dos imigrantes nos EUA: O que você precisa saber",
+      "why_trending": "Com as mudanças nas políticas de imigração, é crucial que brasileiros conheçam seus direitos nos EUA.",
+      "niche_angle": "Informar brasileiros sobre os direitos dos imigrantes e como se proteger em caso de problemas legais.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 5,
+      "source": "news:google_trends",
+      "region": "US",
+      "links": [
+        "https://www.example.com"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-11T19:20:39.200968"
     }
   ]
 }
