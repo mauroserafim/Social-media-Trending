@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 11/11/2026 19:20 UTC
+# 📊 Tendências em Alta — 12/11/2026 19:39 UTC
 
-**Run:** `43086180664` | **BR:** 30 trends | **US:** 26 trends | **Nicho:** 9 ideias
+**Run:** `43292255685` | **BR:** 30 trends | **US:** 26 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. A VIGÍLIA - EPISÓDIO 2 - "A Torre" | Ordem Paranormal RPG · [https://youtube.com/watch?v=dvcQhatskMg](https://youtube.com/watch?v=dvcQhatskMg)
- 2. Valesca Mayssa | Jeito de Adorar [Clipe Oficial] · [https://youtube.com/watch?v=7p5t3Wb3AYA](https://youtube.com/watch?v=7p5t3Wb3AYA)
- 3. VINGADORES DOOMSDAY NOVO TEASER MOSTRA DEMAIS!!! · [https://youtube.com/watch?v=_iOdiP5_n40](https://youtube.com/watch?v=_iOdiP5_n40)
- 4. Perdoa-me - Ramon e Rafael | O Som da Igreja 2 · [https://youtube.com/watch?v=-XUGwH0GHCk](https://youtube.com/watch?v=-XUGwH0GHCk)
- 5. Bala no Gatilho · [https://youtube.com/watch?v=0X_lR76hGBQ](https://youtube.com/watch?v=0X_lR76hGBQ)
- 6. O ESCUDO / SOU UM MILAGRE (Clipe Oficial) |  Régis Danese, Voz da Verdade e  Pr. Carlos Moyses · [https://youtube.com/watch?v=YF6HdspLmMc](https://youtube.com/watch?v=YF6HdspLmMc)
- 7. Emily em Paris: Temporada final | Teaser oficial | Netflix · [https://youtube.com/watch?v=WaFFXMUBKiA](https://youtube.com/watch?v=WaFFXMUBKiA)
- 8. Vergonha pra Mídia · [https://youtube.com/watch?v=m7pBoiUwy_c](https://youtube.com/watch?v=m7pBoiUwy_c)
- 9. Nara Hellen Feat Gerson Rufino - Pela Graça | Clipe Oficial · [https://youtube.com/watch?v=DGycU-PC4jE](https://youtube.com/watch?v=DGycU-PC4jE)
-10. Israel & Rodolffo - Pois É · [https://youtube.com/watch?v=9vtPkDC6OyY](https://youtube.com/watch?v=9vtPkDC6OyY)
+ 1. DON'T CRY! SKYE HAS A FAMILY ! WHAT HAPPEN ! PAW PATROL CHARACTER in garry's mod · [https://youtube.com/watch?v=7T7EzSyLc3A](https://youtube.com/watch?v=7T7EzSyLc3A)
+ 2. Dandy's World 1.0 Cinematic Trailer - Play Nov. 20th, 2026! (Flash Warning) · [https://youtube.com/watch?v=MDhGjithpig](https://youtube.com/watch?v=MDhGjithpig)
+ 3. William e Bidiko - Beijo Longo (Ao Vivo) #NaPuraEssência · [https://youtube.com/watch?v=tLY6U_ynktU](https://youtube.com/watch?v=tLY6U_ynktU)
+ 4. Ai Bebê · [https://youtube.com/watch?v=4IcKRzzWKWs](https://youtube.com/watch?v=4IcKRzzWKWs)
+ 5. Tipo Sasuke V2 ⏾ | (Naruto) Style Trap | MHRAP · [https://youtube.com/watch?v=J5aS7pnjm5w](https://youtube.com/watch?v=J5aS7pnjm5w)
+ 6. PISEIRO NELAS - @washingtonbrasileirooficial · [https://youtube.com/watch?v=uBMqDyIyFG4](https://youtube.com/watch?v=uBMqDyIyFG4)
+ 7. Luan Santana - OLHA A MORAL · [https://youtube.com/watch?v=hnN8z9SM5_U](https://youtube.com/watch?v=hnN8z9SM5_U)
+ 8. Louvores de Adoração 2026, Top 50 Gospel Mais Tocadas , As Melhores Músicas Gospel 2027, Hinos 2026 · [https://youtube.com/watch?v=FpceKUuzJTg](https://youtube.com/watch?v=FpceKUuzJTg)
+ 9. Trailer Eu Sou o Rocky - A ORIGEM DE UM LUTADOR · [https://youtube.com/watch?v=W8WoOx-MoqE](https://youtube.com/watch?v=W8WoOx-MoqE)
+10. Ninguém tá puro, imagina eu -  MC IG, MC Bruno MS, Menor Kau e MC Kadu (DJ Hyago e DJ Glenner) · [https://youtube.com/watch?v=ltgjoRZcjkY](https://youtube.com/watch?v=ltgjoRZcjkY)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. CBS e IBS: entenda os novos impostos da reforma tributária e o que muda em 2027 · [https://g1.globo.com/economia/noticia/2026/11/11/cbs-e-ibs-entenda-os-novos-impostos-da-reforma-tributaria.ghtml](https://g1.globo.com/economia/noticia/2026/11/11/cbs-e-ibs-entenda-os-novos-impostos-da-reforma-tributaria.ghtml)
- 2. Ajuste fiscal em negociação com o Senado vai 'racionalizar algumas despesas'; impacto pode chegar a R$ 60 bi em 2027, diz ministro · [https://g1.globo.com/politica/noticia/2026/11/11/ajuste-fiscal-em-negociacao-com-o-senado-vai-racionalizar-algumas-despesas-impacto-pode-chegar-a-r-60-bi-em-2027-diz-ministro.ghtml](https://g1.globo.com/politica/noticia/2026/11/11/ajuste-fiscal-em-negociacao-com-o-senado-vai-racionalizar-algumas-despesas-impacto-pode-chegar-a-r-60-bi-em-2027-diz-ministro.ghtml)
- 3. Javier Milei chora em despedida de Papa Leão XIV, que deixa a Argentina rumo ao Peru · [https://g1.globo.com/mundo/noticia/2026/11/11/javier-milei-chora-em-despedida-de-papa-leao-xiv-que-deixa-a-argentina-rumo-ao-peru.ghtml](https://g1.globo.com/mundo/noticia/2026/11/11/javier-milei-chora-em-despedida-de-papa-leao-xiv-que-deixa-a-argentina-rumo-ao-peru.ghtml)
- 4. Líderes fazem 'foto de família' na COP31; Trump, Xi e líderes europeus não participaram · [https://g1.globo.com/mundo/noticia/2026/11/11/lideres-fazem-foto-de-familia-na-cop31-trump-xi-e-lideres-europeus-nao-participaram.ghtml](https://g1.globo.com/mundo/noticia/2026/11/11/lideres-fazem-foto-de-familia-na-cop31-trump-xi-e-lideres-europeus-nao-participaram.ghtml)
- 5. Irã ameaça atacar bases dos EUA na Europa se forem usadas contra o país · [https://g1.globo.com/mundo/noticia/2026/11/11/ira-ameaca-atacar-bases-dos-eua-na-europa-se-forem-usadas-contra-o-pais.ghtml](https://g1.globo.com/mundo/noticia/2026/11/11/ira-ameaca-atacar-bases-dos-eua-na-europa-se-forem-usadas-contra-o-pais.ghtml)
- 6. Bebê de 11 meses sobrevive após passar um dia enterrado vivo em gaiola nos EUA · [https://g1.globo.com/mundo/noticia/2026/11/11/bebe-de-11-meses-sobrevive-apos-passar-um-dia-enterrado-vivo-em-gaiola-nos-eua.ghtml](https://g1.globo.com/mundo/noticia/2026/11/11/bebe-de-11-meses-sobrevive-apos-passar-um-dia-enterrado-vivo-em-gaiola-nos-eua.ghtml)
- 7. Quais as leituras do mercado sobre possível ajuste fiscal do governo? · [https://www.infomoney.com.br/mercados/quais-as-primeiras-leituras-do-mercado-sobre-projeto-de-ajuste-fiscal-governo-lula/](https://www.infomoney.com.br/mercados/quais-as-primeiras-leituras-do-mercado-sobre-projeto-de-ajuste-fiscal-governo-lula/)
- 8. Veja uma forma prática de juntar R$ 5 mil, R$ 10 mil ou mais · [https://www.infomoney.com.br/minhas-financas/veja-uma-forma-pratica-de-juntar-r-5-mil-r-10-mil-ou-mais/](https://www.infomoney.com.br/minhas-financas/veja-uma-forma-pratica-de-juntar-r-5-mil-r-10-mil-ou-mais/)
- 9. Embaixador da Rússia nos EUA, Alexander Darchiev, morre “repentinamente” aos 66 anos · [https://www.infomoney.com.br/mundo/embaixador-da-russia-nos-eua-alexander-darchiev-morre-repentinamente-aos-66-anos/](https://www.infomoney.com.br/mundo/embaixador-da-russia-nos-eua-alexander-darchiev-morre-repentinamente-aos-66-anos/)
-10. Angra dos Reis suspende cobrança de taxa de turismo sustentável; veja o que muda · [https://www.infomoney.com.br/brasil/angra-dos-reis-suspende-cobranca-taxa-turismo-sustentavel/](https://www.infomoney.com.br/brasil/angra-dos-reis-suspende-cobranca-taxa-turismo-sustentavel/)
+ 1. Ex-CEO da Nvidia teve relacionamento extraconjugal com uma terceira mulher, diz agência · [https://g1.globo.com/tecnologia/noticia/2026/11/12/ceo-nvidia-caso.ghtml](https://g1.globo.com/tecnologia/noticia/2026/11/12/ceo-nvidia-caso.ghtml)
+ 2. O que são os chips H200, no centro da polêmica que levou à renúncia do CEO da Nvidia · [https://g1.globo.com/tecnologia/noticia/2026/11/12/chips-h200-nvidia.ghtml](https://g1.globo.com/tecnologia/noticia/2026/11/12/chips-h200-nvidia.ghtml)
+ 3. Outlook fora do ar? Serviço de e-mail e IA da Microsoft apresentam instabilidade nesta quinta · [https://g1.globo.com/tecnologia/noticia/2026/11/12/outlook-fora-do-ar.ghtml](https://g1.globo.com/tecnologia/noticia/2026/11/12/outlook-fora-do-ar.ghtml)
+ 4. Lula se reúne com rival de Trump na COP 31, na Turquia · [https://g1.globo.com/mundo/noticia/2026/11/12/lula-se-reune-com-rival-de-trump-na-cop-da-turquia.ghtml](https://g1.globo.com/mundo/noticia/2026/11/12/lula-se-reune-com-rival-de-trump-na-cop-da-turquia.ghtml)
+ 5. VÍDEO mostra transatlântico maior que o Titanic sendo afundado na costa da Flórida · [https://g1.globo.com/mundo/noticia/2026/11/12/video-mostra-transatlantico-historico-sendo-afundado-na-costa-da-florida.ghtml](https://g1.globo.com/mundo/noticia/2026/11/12/video-mostra-transatlantico-historico-sendo-afundado-na-costa-da-florida.ghtml)
+ 6. PDD dos quatro maiores bancos brasileiros bate recorde histórico de R$ 49 bilhões · [https://www.infomoney.com.br/mercados/pdd-dos-quatro-maiores-bancos-brasileiros-bate-recorde-historico-de-r-49-bilhoes/](https://www.infomoney.com.br/mercados/pdd-dos-quatro-maiores-bancos-brasileiros-bate-recorde-historico-de-r-49-bilhoes/)
+ 7. BB tem maior provisão trimestral nominal da história do banco, a R$ 23,2 bi · [https://www.infomoney.com.br/mercados/bb-tem-maior-provisao-trimestral-nominal-da-historia-do-banco-a-r-232-bi/](https://www.infomoney.com.br/mercados/bb-tem-maior-provisao-trimestral-nominal-da-historia-do-banco-a-r-232-bi/)
+ 8. Como a descoberta de Carajás por Breno dos Santos mudou a mineração brasileira · [https://www.infomoney.com.br/mercados/como-a-descoberta-de-carajas-por-breno-dos-santos-mudou-a-mineracao-brasileira/](https://www.infomoney.com.br/mercados/como-a-descoberta-de-carajas-por-breno-dos-santos-mudou-a-mineracao-brasileira/)
+ 9. Gestoras brasileiras defendem ações de IA apesar de correção e ‘black swan’ da Nvidia · [https://www.infomoney.com.br/onde-investir/gestoras-apostam-acoes-inteligencia-artificial-nvidia/](https://www.infomoney.com.br/onde-investir/gestoras-apostam-acoes-inteligencia-artificial-nvidia/)
+10. Congresso dá aval para créditos suplementares e especiais; veja o que foi aprovado · [https://www.infomoney.com.br/politica/congresso-da-aval-para-creditos-suplementares-e-especiais-veja-o-que-foi-aprovado/](https://www.infomoney.com.br/politica/congresso-da-aval-para-creditos-suplementares-e-especiais-veja-o-que-foi-aprovado/)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -57,24 +57,24 @@
 #### 📺 YouTube (US) — Top 6
 
  1. Maatrubhumi - Trailer | Salman Khan, Chitrangda Singh | Apoorva Lakhia | 4th December 2026 · [https://youtube.com/watch?v=fA8-gXDoAk8](https://youtube.com/watch?v=fA8-gXDoAk8)
- 2. Becoming an ELEMENTAL HYDRA on One Chunk.. · [https://youtube.com/watch?v=KeRBXoOtBJE](https://youtube.com/watch?v=KeRBXoOtBJE)
- 3. This Is Just Pathetic · [https://youtube.com/watch?v=bCWeDT2JAV8](https://youtube.com/watch?v=bCWeDT2JAV8)
- 4. Moy Bobadilla - Corazón (Letra) · [https://youtube.com/watch?v=-EOMbfzME4w](https://youtube.com/watch?v=-EOMbfzME4w)
- 5. Honest Trailers | Pan's Labyrinth · [https://youtube.com/watch?v=siPwNXVo6pk](https://youtube.com/watch?v=siPwNXVo6pk)
+ 2. Idupu Kayitham - Official Teaser | Priyadarshi Pulikonda | Naga Durga | Vamsi Reddy Dondapati · [https://youtube.com/watch?v=OOg_F58b1j0](https://youtube.com/watch?v=OOg_F58b1j0)
+ 3. FINDING THE PIRATE TOKEN · [https://youtube.com/watch?v=hmfQoGeKkMw](https://youtube.com/watch?v=hmfQoGeKkMw)
+ 4. GANAMOS trailer final con regreso WANDA y Doctor Doom robó su profecía, escena explicación completa · [https://youtube.com/watch?v=0fZ6xS7vW5M](https://youtube.com/watch?v=0fZ6xS7vW5M)
+ 5. Showing you how I beat all 7 FNAF Online Nights SOLO · [https://youtube.com/watch?v=Ql1x4zAgu_0](https://youtube.com/watch?v=Ql1x4zAgu_0)
  6. Top Christmas Songs Of All Time 2027 🎁 Best Christmas Music Playlist 🎄 Merry Christmas Songs 2027 · [https://youtube.com/watch?v=jqneRAkKiN8](https://youtube.com/watch?v=jqneRAkKiN8)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Scoop: U.S. asks Russia to propose new security agreement with Europe · [https://www.axios.com/2026/11/11/russia-ukraine-europe-war-security-agreement](https://www.axios.com/2026/11/11/russia-ukraine-europe-war-security-agreement)
- 2. Ocasio-Cortez: Massie's Hegseth impeachment articles 'completely legitimate' · [https://thehill.com/homenews/house/6214005-ocasio-cortez-backs-massie/](https://thehill.com/homenews/house/6214005-ocasio-cortez-backs-massie/)
- 3. Senate committee sets key vote for Trump FDA nominee · [https://thehill.com/policy/healthcare/6213972-senate-health-overton-vote/](https://thehill.com/policy/healthcare/6213972-senate-health-overton-vote/)
- 4. Live updates: Trump, Vance mark Veterans Day at Arlington · [https://thehill.com/homenews/administration/6212363-live-trump-vance-veterans-day-congress/](https://thehill.com/homenews/administration/6212363-live-trump-vance-veterans-day-congress/)
- 5. Alina Habba Mildon loses $50M contract after Trump criticism · [https://thehill.com/homenews/administration/6213856-alina-habba-mildon-fired/](https://thehill.com/homenews/administration/6213856-alina-habba-mildon-fired/)
- 6. Jim Justice says GOP can 'forget' retaking Senate majority in 2028 · [https://thehill.com/homenews/senate/6213842-justice-gop-senate-majority-2028/](https://thehill.com/homenews/senate/6213842-justice-gop-senate-majority-2028/)
- 7. Greetings from Senegal, where breakdancers are competing in the Youth Olympics · [https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing](https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing)
- 8. Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave · [https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery](https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery)
- 9. What's behind democratic socialists' historic victories in the midterms? · [https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms](https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms)
-10. Following big Democratic wins, these swing voters are looking for results · [https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress](https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress)
+ 1. 'Punch in the gut': Homes sales fall to their lowest in 16 years · [https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years](https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years)
+ 2. Paxton finalizes divorce after ex-wife filed on 'biblical grounds': Report · [https://thehill.com/homenews/state-watch/6216932-ken-angela-paxton-divorce-finalized/](https://thehill.com/homenews/state-watch/6216932-ken-angela-paxton-divorce-finalized/)
+ 3. Who is interim Nvidia CEO Colette Kress? · [https://thehill.com/policy/technology/6216664-nvidia-interim-ceo-colette-kress-jensen-huang-resignation-affairs/](https://thehill.com/policy/technology/6216664-nvidia-interim-ceo-colette-kress-jensen-huang-resignation-affairs/)
+ 4. Casualties continue to rise after Brooklyn building collapses · [https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos](https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos)
+ 5. Democrats want to stop Trump's arch, golf course and more. What are their options? · [https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight](https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight)
+ 6. The SS United States takes its final voyage to the bottom of the Gulf of Mexico · [https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states](https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states)
+ 7. D.C. shooting leaves 1 person killed, 4 injured. Gunman dead · [https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting](https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting)
+ 8. U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi · [https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks](https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks)
+ 9. Indonesia's VP resigns as his eligibility and academic credentials are questioned · [https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned](https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned)
+10. Nvidia CEO Jensen Huang steps down amid alleged spy scandal · [https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down](https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -96,12 +96,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **imposto** | Reforma Tributária nos EUA: O que brasileiros precisam saber | Reformas tributárias estão sendo discutidas nos EUA e no Brasil, impactando a carga tributária e como brasileiros imigra |
-| 2 🟠 🎯 | **dólar** | Impacto da alta do dólar na vida dos brasileiros nos EUA | O dólar está em alta, afetando a economia e o custo de vida, especialmente para brasileiros que enviam dinheiro para o B |
-| 3 🟡 🎬 | **inflation** | Como a inflação nos EUA afeta os imigrantes brasileiros | A inflação está alta e está impactando o custo de vida e a capacidade de compra nos EUA. |
-| 4 🟡 🎬 | **negócios** | Como abrir um negócio nos EUA: O passo a passo | O interesse por empreendedorismo e abrir negócios nos EUA está crescendo, especialmente entre brasileiros. |
-| 5 🟡 🎯 | **brasileiro** | Histórias de brasileiros que conquistaram sucesso nos EUA | Histórias inspiradoras de brasileiros nos EUA estão atraindo atenção, especialmente em tempos de incerteza econômica. |
-| 6 🟡 🎯 | **tecnologia** | Impacto da inteligência artificial no mercado de trabalho nos EUA | O avanço da IA está transformando o mercado de trabalho e gerando debates sobre futuras profissões. |
-| 7 🟡 🎬 | **economia** | Comparação do custo de vida entre Brasil e EUA | Com a inflação e as mudanças econômicas, muitos brasileiros estão interessados em entender as diferenças de custo entre  |
-| 8 🟢 🎯 | **learn** | Dicas práticas para aprender inglês rapidamente | Cada vez mais brasileiros buscam aprender inglês para se integrar melhor na sociedade americana. |
-| 9 🟢 🎬 | **direito** | Direitos dos imigrantes nos EUA: O que você precisa saber | Com as mudanças nas políticas de imigração, é crucial que brasileiros conheçam seus direitos nos EUA. |
+| 1 🟠 🎬 | **Trabalho nos EUA** | Como conseguir emprego após ser demitido | Com o aumento das demissões e instabilidade econômica, muitos estão em busca de novas oportunidades. Um exemplo é um cas |
+| 2 🟠 🎯 | **Educação financeira** | Como ganhar dinheiro online | A busca por fontes de renda extra aumentou com a crise econômica, e muitas pessoas estão explorando oportunidades online |
+| 3 🟡 🎬 | **Custo de vida nos EUA** | Quanto custa viver em Nova Iorque | Com o aumento da inflação e os preços de aluguel disparando, muitos brasileiros estão questionando o custo de vida em gr |
+| 4 🟡 🎬 | **Empreendedorismo nos EUA** | Abrir uma empresa nos EUA | Com as novas políticas e incentivos, muitos brasileiros estão considerando abrir negócios nos EUA, especialmente após a  |
+| 5 🟡 🎯 | **Direitos dos imigrantes** | Mudanças nas leis de imigração | As mudanças nas políticas de imigração nos EUA têm gerado preocupação entre os imigrantes, especialmente após anúncios r |
+| 6 🟡 🎬 | **Impactos econômicos** | Inflação nos EUA | Com a inflação atingindo níveis altos, a discussão sobre seu impacto na vida dos cidadãos e imigrantes é mais relevante  |
+| 7 🟡 🎯 | **Tecnologia** | Instabilidades em serviços de tecnologia | Recentes falhas em serviços populares como Microsoft 365 e Outlook têm gerado debates sobre a confiabilidade dessas plat |
+| 8 🟡 🎯 | **Renda extra** | Oportunidades de freelancing | A crescente demanda por freelancers e trabalhadores autônomos está mudando a dinâmica do mercado de trabalho. |
+| 9 🟡 🎬 | **Direitos trabalhistas** | Mudanças nas leis trabalhistas | As recentes mudanças nas leis trabalhistas têm impactado diretamente os trabalhadores e empregadores nos EUA. |
