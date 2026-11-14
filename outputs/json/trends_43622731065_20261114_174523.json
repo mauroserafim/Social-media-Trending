@@ -1,0 +1,865 @@
+{
+  "generated_at": "2026-11-14T17:45:23.328985",
+  "run_id": "43622731065",
+  "summary": {
+    "total_br": 30,
+    "total_us": 23,
+    "br_us_connections": 10,
+    "cross_platform_topics": 8,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "Luan Santana - OLHA A MORAL",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=SpsAPnEKT08",
+          "score": 12.26,
+          "region": "BR",
+          "views": 2906310
+        },
+        {
+          "title": "TAF - The Aura Farmer ft. Larper Larry (official song)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=RVsMPZ-EE5Y",
+          "score": 11.88,
+          "region": "BR",
+          "views": 1979376
+        },
+        {
+          "title": "Simaria - Tô Bem (Ao Vivo)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=64zUH9ef7ns",
+          "score": 11.3,
+          "region": "BR",
+          "views": 2384317
+        },
+        {
+          "title": "Hungria - Ninguém é de Ferro (Videoclipe Oficial) #Constelação",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=2aZN2DvMeHE",
+          "score": 8.28,
+          "region": "BR",
+          "views": 1799067
+        },
+        {
+          "title": "Rafael Quadros, @MarianaFagundes - Sabe Ser Linda (DVD Imprevisível)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=x1vYIi2EQmM",
+          "score": 4.53,
+          "region": "BR",
+          "views": 955411
+        },
+        {
+          "title": "Guilherme e Santiago - Vou Te Amar (Cigana) [Vídeo Oficial]",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=hxwsL3AR-54",
+          "score": 2.35,
+          "region": "BR",
+          "views": 496130
+        },
+        {
+          "title": "Pedro Libe, @pandacantoroficial  Nova Flor / Liguei Pra Dizer Que Te Amo / Garçom",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=KGLuoeFQLpM",
+          "score": 1.98,
+          "region": "BR",
+          "views": 582904
+        },
+        {
+          "title": "7 Minutoz - BRINCADEIRA ASSASSINA | Chucky, Annabelle, Fredbear, Jigsaw e M3GAN",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=YwlrUeRy0hw",
+          "score": 1.69,
+          "region": "BR",
+          "views": 278458
+        },
+        {
+          "title": "Dance Se Souber 2026 {tiktok} | Músicas Atualizadas 🎶💜",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=tjhSVVqQykM",
+          "score": 0.97,
+          "region": "BR",
+          "views": 208232
+        },
+        {
+          "title": "Zé Felipe, @felipeamorim \"Aí Bebê\" -  Lyric oficial",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=eI6VB4HOWt8",
+          "score": 0.95,
+          "region": "BR",
+          "views": 172802
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Controle de tráfego aéreo dos EUA ainda opera com disquetes; veja como eles funcionam",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/11/14/controle-de-trafego-aereo-dos-eua-ainda-opera-com-disquetes-veja-como-eles-funcionam.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Brasileiros retidos por mais de 24 horas em aeroporto de Punta Cana conseguem voo de volta para SP",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/14/brasileiros-retidos-por-mais-de-24-horas-em-aeroporto-de-punta-cana-conseguem-voo-de-volta-para-sp.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Após caos aéreo nos EUA, engenheiros brasileiros de IA retidos em Ohio conseguem voo e voltarão ao Brasil na segunda",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/14/apos-caos-aereo-nos-eua-engenheiros-brasileiros-de-ia-retidos-em-ohio-conseguem-voo-e-voltarao-ao-brasil-na-segunda.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "A parte da força de trabalho da Tesla e da Amazon que nunca cansa (nem pede salário)",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/business/global/a-forca-de-trabalho-da-tesla-e-da-amazon-nunca-cansa-nem-pede-salario/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Aos 46 anos, Ronaldinho Gaúcho volta a jogar futebol e reestreia na Itália amanhã",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/ronaldinho-gaucho-volta-a-jogar-futebol-italia/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "EUA levantam hipótese de Ucrânia ceder Donbas à Rússia em troca da Otan",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/eua-levantam-hipotese-de-ucrania-ceder-donbas-a-russia-em-troca-da-otan/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Mpox: variante que causou crise na África avança no Brasil; veja sintomas",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/mpox-variante-que-causou-crise-na-africa-avanca-no-brasil-veja-sintomas/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Sonda Voyager 1 da Nasa atingirá marco histórico a 26 bilhões de km da Terra",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/sonda-voyager-1-da-nasa-atingira-marco-historico-a-26-bilhoes-de-km-da-terra/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Binance prevê retomada total dos saques até a próxima semana",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/onde-investir/binance-preve-retomada-total-dos-saques-ate-a-proxima-semana/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Microsoft alerta sobre tentativas de golpe após falha no Teams e no Outlook",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/11/14/golpe-microsoft-alerta-outlook.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "Five Nights At Freddy's 3 In Real Life",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=AYDlQ7U_TW8",
+          "score": 11.04,
+          "region": "US",
+          "views": 2309160
+        },
+        {
+          "title": "Dandy's World 1.0 Cinematic Trailer - Play Nov. 20th, 2026! (Flash Warning)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=MDhGjithpig",
+          "score": 5.46,
+          "region": "US",
+          "views": 2240088
+        },
+        {
+          "title": "AVENGERS DOOMSDAY NEW PROMO Wolverine & Doctor Doom Breakdown!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=iLS6WqMkivg",
+          "score": 2.13,
+          "region": "US",
+          "views": 591949
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "FAA back at \"full operations\" after Friday outage, Transportation Sec. says",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/14/faa-ground-stop-outage-update",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "New York sued over 'warning label' law for social media applications",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/technology/6220727-netchoice-sues-new-york-social-media/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Some Republicans say rising stars should sit out 2028 after midterm shellacking",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6219720-gop-candidates-considering-2032/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Stop the political warfare against Elon Musk — our very survival may depend on him",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/campaign/6218513-musk-space-civilization-survival/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Fuel crisis and protests pressure Chile's far-right president",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Perspective: A new kind of White House press secretary",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "These economists say in-person work boosts creativity, but office mandates fall short",
+          "source": "news:NPR Economy",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6040158/these-economists-say-in-person-work-boosts-creativity-but-office-mandates-fall-short",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Week in Politics: Battle for Senate leader; young and independent midterm turnout",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6040156/week-in-politics-battle-for-senate-leader-young-and-independent-midterm-turnout",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "nvidia",
+      "count": 7,
+      "score": 56.0,
+      "sample_titles": [
+        "Crise na Nvidia: veja em 8 pontos como traições levaram à renúncia de Jensen Huang",
+        "Escândalo da Nvidia intensifica rivalidade entre China e EUA antes de encontro",
+        "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?",
+        "CEO Jensen Huang resigns from chip giant Nvidia",
+        "Jensen Huang biographer reacts to the Nvidia CEO's resignation"
+      ]
+    },
+    {
+      "topic": "huang",
+      "count": 7,
+      "score": 56.0,
+      "sample_titles": [
+        "Crise na Nvidia: veja em 8 pontos como traições levaram à renúncia de Jensen Huang",
+        "Musk: ‘sem Huang, muitos acordos críticos feitos em aperto de mão serão perdidos’",
+        "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?",
+        "CEO Jensen Huang resigns from chip giant Nvidia",
+        "Jensen Huang biographer reacts to the Nvidia CEO's resignation"
+      ]
+    },
+    {
+      "topic": "trump",
+      "count": 5,
+      "score": 72.0,
+      "sample_titles": [
+        "Governo Trump diz não acreditar em ataque hacker e aponta troca de cabos como causa de apagão aéreo nos EUA",
+        "Troca de cabos de cobre por fibra óptica provocou paralisação de voos nos EUA, diz governo Trump",
+        "Trump faces bipartisan backlash over plan to sell public lands to states and tribes",
+        "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+        "Trump administration delays Medicaid work requirements by six months"
+      ]
+    },
+    {
+      "topic": "jensen",
+      "count": 5,
+      "score": 50.0,
+      "sample_titles": [
+        "Crise na Nvidia: veja em 8 pontos como traições levaram à renúncia de Jensen Huang",
+        "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?",
+        "CEO Jensen Huang resigns from chip giant Nvidia",
+        "Jensen Huang biographer reacts to the Nvidia CEO's resignation"
+      ]
+    },
+    {
+      "topic": "jensen huang",
+      "count": 5,
+      "score": 50.0,
+      "sample_titles": [
+        "Crise na Nvidia: veja em 8 pontos como traições levaram à renúncia de Jensen Huang",
+        "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?",
+        "CEO Jensen Huang resigns from chip giant Nvidia",
+        "Jensen Huang biographer reacts to the Nvidia CEO's resignation"
+      ]
+    },
+    {
+      "topic": "microsoft",
+      "count": 3,
+      "score": 60.0,
+      "sample_titles": [
+        "Microsoft alerta sobre tentativas de golpe após falha no Teams e no Outlook",
+        "Microsoft afirma que serviços foram totalmente restabelecidos após falha global",
+        "A negative Outlook: Microsoft scrambles to fix email outage"
+      ]
+    },
+    {
+      "topic": "china",
+      "count": 2,
+      "score": 80.0,
+      "sample_titles": [
+        "Escândalo da Nvidia intensifica rivalidade entre China e EUA antes de encontro",
+        "MAGA turns on Lutnick amid China spy scandal"
+      ]
+    },
+    {
+      "topic": "stephen",
+      "count": 2,
+      "score": 80.0,
+      "sample_titles": [
+        "Stephen King culpa alienígenas por paralisação de voos nos EUA: 'Eles chegaram'",
+        "Legal scholar Stephen Vladeck on Texas' new Democratic AG and federal litigation"
+      ]
+    },
+    {
+      "topic": "outlook",
+      "count": 2,
+      "score": 60.0,
+      "sample_titles": [
+        "Microsoft alerta sobre tentativas de golpe após falha no Teams e no Outlook",
+        "A negative Outlook: Microsoft scrambles to fix email outage"
+      ]
+    },
+    {
+      "topic": "office",
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "trabalho home office",
+        "These economists say in-person work boosts creativity, but office mandates fall short"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "ainda",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 60.03,
+      "sample_titles": [
+        "Pot-Pourri: Ainda Ontem Chorei De Saudade / Telefone Mudo / Boate Azul (Ao Vivo)",
+        "Controle de tráfego aéreo dos EUA ainda opera com disquetes; veja como eles funcionam",
+        "EUA lançaram 480 mi de agulhas no espaço há 63 anos — e restos ainda orbitam a Terra"
+      ]
+    },
+    {
+      "topic": "warning",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 55.15,
+      "sample_titles": [
+        "Dandy's World 1.0 Cinematic Trailer - Play Nov. 20th, 2026! (Flash Warning)",
+        "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+        "New York sued over 'warning label' law for social media applications"
+      ]
+    },
+    {
+      "topic": "trabalho",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "A parte da força de trabalho da Tesla e da Amazon que nunca cansa (nem pede salário)",
+        "trabalho home office"
+      ]
+    },
+    {
+      "topic": "office",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "These economists say in-person work boosts creativity, but office mandates fall short",
+        "trabalho home office"
+      ]
+    },
+    {
+      "topic": "pecuária",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 30.07,
+      "sample_titles": [
+        "Dá Um Tempo Vaí / Eu Canto, Bebo e Choro Por Você / O Cara Errado  [Ao Vivo na Pecuária de Gyn",
+        "Pecuária de elite: como uma vaca pode valer R$ 54 milhões e render fortunas com genética e clonagem"
+      ]
+    },
+    {
+      "topic": "especial",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 15.32,
+      "sample_titles": [
+        "REY VAQUEIRO 🔥 Repertório Especial 2026 | Só as Melhores do Forró de Vaquejada e Piseiro",
+        "Papa Leão visita cidade remota nos Andes em parada especial de sua viagem ao Peru"
+      ]
+    },
+    {
+      "topic": "tempo",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 15.06,
+      "sample_titles": [
+        "Dá Um Tempo Vaí / Eu Canto, Bebo e Choro Por Você / O Cara Errado  [Ao Vivo na Pecuária de Gyn",
+        "Ciclone afetará o Brasil? Veja como fica previsão do tempo no País"
+      ]
+    },
+    {
+      "topic": "minha",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 10.39,
+      "sample_titles": [
+        "JULLIANY SOUZA, DIANTE DO TRONO - AMOR DA MINHA VIDA / ME AMA (AO VIVO)",
+        "Exposição 'Minha Aldeia' reúne fotografias inspiradas no cotidiano amapaense"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "Trabalho",
+      "subtopic": "A parte da força de trabalho da Tesla e da Amazon que nunca cansa",
+      "why_trending": "Recentemente, foi reportado que uma parte significativa da força de trabalho dessas empresas opera sem receber salário, o que levanta questões sobre direitos trabalhistas.",
+      "niche_angle": "Explorar como esses padrões de trabalho afetam a comunidade imigrante e o que os brasileiros devem saber sobre direitos trabalhistas nos EUA.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 7,
+      "source": "InfoMoney",
+      "region": "BR",
+      "links": [
+        "https://www.infomoney.com.br/business/global/a-forca-de-trabalho-da-tesla-e-da-amazon-nunca-cansa-nem-pede-salario/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-14T17:45:23.324132"
+    },
+    {
+      "main_topic": "Viagem",
+      "subtopic": "Caos aéreo nos EUA e brasileiros retidos",
+      "why_trending": "Após um grande apagão aéreo nos EUA, vários brasileiros foram retidos em aeroportos, afetando seus planos de viagem.",
+      "niche_angle": "Discutir como brasileiros devem se preparar para emergências em viagens e que direitos têm quando situações como essa ocorrem.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "G1 Mundo",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/14/apos-caos-aereo-nos-eua-engenheiros-brasileiros-de-ia-retidos-em-ohio-conseguem-voo-e-voltarao-ao-brasil-na-segunda.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-14T17:45:23.324143"
+    },
+    {
+      "main_topic": "Tecnologia",
+      "subtopic": "Controle de tráfego aéreo dos EUA ainda opera com disquetes",
+      "why_trending": "A revelação de que o sistema de controle de tráfego aéreo dos EUA ainda usa tecnologia obsoleta causou surpresa e preocupação.",
+      "niche_angle": "Analisar como a falta de atualização tecnológica pode impactar a segurança e eficiência do transporte aéreo, especialmente para imigrantes que dependem de voos frequentes.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "G1 Economia",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/tecnologia/noticia/2026/11/14/controle-de-trafego-aereo-dos-eua-ainda-opera-com-disquetes-veja-como-eles-funcionam.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-14T17:45:23.324149"
+    },
+    {
+      "main_topic": "Direito & Legal",
+      "subtopic": "Nova lei de 'etiqueta de aviso' em redes sociais",
+      "why_trending": "Nova legislação em Nova York exige rótulos de aviso em aplicativos de redes sociais, gerando debates sobre censura e liberdade de expressão.",
+      "niche_angle": "Debater como essa nova legislação pode impactar brasileiros que usam redes sociais nos EUA e quais são seus direitos.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "The Hill",
+      "region": "US",
+      "links": [
+        "https://thehill.com/policy/technology/6220727-netchoice-sues-new-york-social-media/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-14T17:45:23.324153"
+    },
+    {
+      "main_topic": "Economia & Mercado",
+      "subtopic": "Pane aérea e suas consequências financeiras",
+      "why_trending": "A recente pane nos sistemas de voos nos EUA gerou impactos financeiros significativos, tanto para companhias aéreas quanto para passageiros.",
+      "niche_angle": "Analisar os impactos financeiros dessa pane nos imigrantes brasileiros, especialmente aqueles que dependem de viagens para negócios ou família.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "InfoMoney",
+      "region": "BR",
+      "links": [
+        "https://www.infomoney.com.br/mercados/pane-aerea-nos-eua-governo-afirma-que-troca-de-cabos-para-fibra-optica-causou-apagao/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-14T17:45:23.324159"
+    },
+    {
+      "main_topic": "Educação",
+      "subtopic": "Como usar IA para aprender idiomas",
+      "why_trending": "Com o crescimento do uso de IA em plataformas de aprendizado, muitos estão explorando novas formas de aprender rapidamente idiomas.",
+      "niche_angle": "Criar um guia prático para brasileiros nos EUA sobre como usar ferramentas de IA para aprender inglês de forma eficiente.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "tiktok",
+      "region": "GLOBAL",
+      "links": [],
+      "platforms": [
+        "youtube",
+        "tiktok"
+      ],
+      "collected_at": "2026-11-14T17:45:23.324164"
+    },
+    {
+      "main_topic": "Negócios & Dinheiro",
+      "subtopic": "Dívidas do MEI e perdão automático",
+      "why_trending": "A nova medida que perdoa dívidas do MEI está gerando interesse entre empreendedores, especialmente no Brasil.",
+      "niche_angle": "Discutir como essa medida pode impactar brasileiros empreendedores nos EUA e as opções que eles têm para regularizar suas situações financeiras.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "G1 Economia",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/empreendedorismo/noticia/2026/11/14/dividas-do-mei-serao-perdoadas-automaticamente.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-14T17:45:23.324169"
+    },
+    {
+      "main_topic": "Lifestyle",
+      "subtopic": "Rotina de trabalho home office",
+      "why_trending": "Com a crescente adoção do home office, muitos estão discutindo a eficácia e os desafios dessa nova forma de trabalho.",
+      "niche_angle": "Compartilhar dicas sobre como brasileiros podem otimizar sua rotina de trabalho em casa, incluindo como equilibrar vida pessoal e profissional.",
+      "video_format": "both",
+      "urgency": "low",
+      "ease": 6,
+      "source": "news",
+      "region": "GLOBAL",
+      "links": [],
+      "platforms": [
+        "youtube",
+        "reddit",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-14T17:45:23.324181"
+    },
+    {
+      "main_topic": "Comunidade & Opinião",
+      "subtopic": "Debate sobre a influência de Elon Musk na política",
+      "why_trending": "Elon Musk tem sido uma figura polarizadora na política atual, levando a discussões sobre seu impacto e a sobrevivência de certas indústrias.",
+      "niche_angle": "Debater como a presença de figuras como Musk pode afetar a comunidade imigrante e as indústrias que eles trabalham nos EUA.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 5,
+      "source": "The Hill",
+      "region": "US",
+      "links": [
+        "https://thehill.com/opinion/campaign/6218513-musk-space-civilization-survival/"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-14T17:45:23.324189"
+    }
+  ]
+}
