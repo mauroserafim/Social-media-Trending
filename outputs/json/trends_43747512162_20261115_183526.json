@@ -1,0 +1,889 @@
+{
+  "generated_at": "2026-11-15T18:35:26.458118",
+  "run_id": "43747512162",
+  "summary": {
+    "total_br": 30,
+    "total_us": 22,
+    "br_us_connections": 10,
+    "cross_platform_topics": 10,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "Rafael Quadros, @MarianaFagundes - Sabe Ser Linda (DVD Imprevisível)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=x1vYIi2EQmM",
+          "score": 6.17,
+          "region": "BR",
+          "views": 2098273
+        },
+        {
+          "title": "Guilherme e Santiago - Vou Te Amar (Cigana) [Vídeo Oficial]",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=hxwsL3AR-54",
+          "score": 3.33,
+          "region": "BR",
+          "views": 1132038
+        },
+        {
+          "title": "Zé Felipe, @felipeamorim \"Aí Bebê\" -  Lyric oficial",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=eI6VB4HOWt8",
+          "score": 1.55,
+          "region": "BR",
+          "views": 496520
+        },
+        {
+          "title": "VOU FUGIR DA PRISÃO NA BASE DO SOCO | Punch the Walls",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=HFIIx1cjBPo",
+          "score": 1.45,
+          "region": "BR",
+          "views": 47579
+        },
+        {
+          "title": "Jonas Esticado, Natanzinho Lima - Mentes Tão Bem (Ao Vivo)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=36hNu-d0kRM",
+          "score": 0.54,
+          "region": "BR",
+          "views": 185071
+        },
+        {
+          "title": "Dance Se Souber atualizadas 2026 {tiktok}🎶💜",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=X4DF3dxL9w4",
+          "score": 0.43,
+          "region": "BR",
+          "views": 18974
+        },
+        {
+          "title": "ANÁLISE DO NOVO TEASER DE VINGADORES: DOOMSDAY! STEVE ROGERS É UM VILÃO?!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=_kVNANHXtMo",
+          "score": 0.38,
+          "region": "BR",
+          "views": 113964
+        },
+        {
+          "title": "FAMOSO IMÃ - O PODEROSO CHATÃO - MC Lele JP, MC Leozinho ZS, MC Poze do Rodo (DJ Gordinho da VF)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=_Mf9ljiqXyQ",
+          "score": 0.33,
+          "region": "BR",
+          "views": 182187
+        },
+        {
+          "title": "PABLO 💖 SÓ AS ANTIGAS PLAYLIST 💝 ANTIGAS AS MELHORES",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Y0Z3Gc-g20k",
+          "score": 0.32,
+          "region": "BR",
+          "views": 53844
+        },
+        {
+          "title": "Renatinha MC - Hoje Eu Acordei (Progresso Funk) ",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=ni_NgZmwlPk",
+          "score": 0.29,
+          "region": "BR",
+          "views": 39959
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Governo Trump diz que problemas nos voos dos EUA podem seguir até segunda-feira",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/15/governo-trump-diz-que-problemas-nos-voos-dos-eua-podem-seguir-ate-segunda-feira.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Vasco tem menos de 1% de chance de ser rebaixado; Corinthians chega a 50%",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/vasco-tem-menos-de-1-de-chance-de-ser-rebaixado-corinthians-chega-a-50/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Transtornos no tráfego aéreo dos EUA chegam ao terceiro dia",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/transtornos-no-trafego-aereo-dos-eua-chegam-ao-terceiro-dia/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Espanha x Inglaterra: Onde assistir à Liga das Nações?",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/espanha-inglaterra-onde-assistir-liga-nacoes/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Bessent diz que Nvidia precisa procurar novo presidente-executivo “fora da empresa”",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/bessent-diz-que-nvidia-precisa-procurar-novo-presidente-executivo-fora-da-empresa/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ajuste fiscal: Alckmin afirma que projeto do governo 'vai na direção correta' e diz esperar votação na Câmara nesta semana",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/15/ajuste-fiscal-alckmin-afirma-que-projeto-do-governo-vai-na-direcao-correta-e-diz-esperar-votacao-na-camara-nesta-semana.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Canadá anuncia até R$ 2,2 bilhões para fundo de proteção de florestas liderado pelo Brasil",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/15/canada-fundo-de-protecao-de-florestas-brasil.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Mega-Sena 3086: prêmio acumula e vai a R$ 34 milhões; confira os números sorteados",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/15/mega-sena-3086-confira-os-numeros-sorteados.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "15 de novembro é feriado de quê? Por que historiadores acreditam que a monarquia sofreu 'um golpe'",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/15/15-de-novembro-e-feriado-de-que-por-que-historiadores-acreditam-que-a-monarquia-sofreu-um-golpe.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Secretário do Tesouro dos EUA defende que Nvidia busque novo CEO fora da empresa após saída de Jensen Huang",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/11/15/eua-bessent-nvidia-novo-ceo-jensen-huang.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "AVENGERS: DOOMSDAY \"3000 Incursions\" Trailer (NEW 2026)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=knvS_lRxaGc",
+          "score": 4.05,
+          "region": "US",
+          "views": 824858
+        },
+        {
+          "title": "Top Christmas Songs of All Time 🎅 Best Christmas Music Playlist 🎄 Merry Christmas Songs 2027",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=bPVI_NZOl24",
+          "score": 0.39,
+          "region": "US",
+          "views": 100062
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Live updates: Trump cabinet talks Nvidia, FAA scandals; Van Hollen discusses Senate majority elections",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6221144-live-trump-cabinet-faa-nvidia-alaska/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "For Democrats, it is time to get serious",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/congress-blog/6220053-hegseth-impeachment-vote-failed/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Bahrain intercepts Iranian strikes on US airbase",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/international/6221436-iran-drone-attack-bahrain/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Huckabee Sanders doesn't rule out future presidential bid",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6221423-sanders-leaves-presidential-run-open/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "PREVENTING BLACK LUNG DISEASE",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "In calling for an end to the Iran War, Vance walks a fine line with Trump",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-fine-line-with-trump",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Politics chat: Duffy calls for more funding, Democrats plans for accountability",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6040041/politics-chat-duffy-calls-for-more-funding-democrats-plans-for-accountability",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Bessent questions did Nvidia \"goose\" earnings with suspect China chip sales",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump's border crackdown faces a new blue wall of governors and House members",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/15/blue-border-wall-democrats-governors-immigration",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "nvidia",
+      "count": 12,
+      "score": 66.67,
+      "sample_titles": [
+        "Secretário do Tesouro dos EUA defende que Nvidia busque novo CEO fora da empresa após saída de Jensen Huang",
+        "Bessent diz que Nvidia precisa procurar novo presidente-executivo “fora da empresa”",
+        "Caso Nvidia: Megaspeed afirma que Alice Huang não tem cargo na empresa desde 2025",
+        "Commerce Department under pressure for delaying export controls on Nvidia chips",
+        "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?"
+      ]
+    },
+    {
+      "topic": "huang",
+      "count": 7,
+      "score": 56.67,
+      "sample_titles": [
+        "Secretário do Tesouro dos EUA defende que Nvidia busque novo CEO fora da empresa após saída de Jensen Huang",
+        "Megaspeed afirma que Alice Huang deixou a empresa em agosto de 2025",
+        "Caso Nvidia: Megaspeed afirma que Alice Huang não tem cargo na empresa desde 2025",
+        "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?",
+        "CEO Jensen Huang resigns from chip giant Nvidia"
+      ]
+    },
+    {
+      "topic": "trump",
+      "count": 6,
+      "score": 80.0,
+      "sample_titles": [
+        "Governo Trump diz que problemas nos voos dos EUA podem seguir até segunda-feira",
+        "Trump culpa governo Biden por paralisação nacional de voos nos EUA",
+        "Trump blasts judge for halting his Washington golf project and says he will appeal",
+        "In calling for an end to the Iran War, Vance walks a fine line with Trump",
+        "Trump's border crackdown faces a new blue wall of governors and House members"
+      ]
+    },
+    {
+      "topic": "jensen",
+      "count": 5,
+      "score": 45.0,
+      "sample_titles": [
+        "Secretário do Tesouro dos EUA defende que Nvidia busque novo CEO fora da empresa após saída de Jensen Huang",
+        "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?",
+        "CEO Jensen Huang resigns from chip giant Nvidia",
+        "Jensen Huang biographer reacts to the Nvidia CEO's resignation"
+      ]
+    },
+    {
+      "topic": "jensen huang",
+      "count": 5,
+      "score": 45.0,
+      "sample_titles": [
+        "Secretário do Tesouro dos EUA defende que Nvidia busque novo CEO fora da empresa após saída de Jensen Huang",
+        "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?",
+        "CEO Jensen Huang resigns from chip giant Nvidia",
+        "Jensen Huang biographer reacts to the Nvidia CEO's resignation"
+      ]
+    },
+    {
+      "topic": "china",
+      "count": 4,
+      "score": 57.5,
+      "sample_titles": [
+        "Filipinas e Austrália assinam acordo militar em meio a tensões com a China",
+        "EUA temem que China tenha aliciado ex-CEO da Nvidia para espionagem",
+        "Bessent questions did Nvidia \"goose\" earnings with suspect China chip sales",
+        "MAGA turns on Lutnick amid China spy scandal"
+      ]
+    },
+    {
+      "topic": "bessent",
+      "count": 2,
+      "score": 90.0,
+      "sample_titles": [
+        "Bessent diz que Nvidia precisa procurar novo presidente-executivo “fora da empresa”",
+        "Bessent questions did Nvidia \"goose\" earnings with suspect China chip sales"
+      ]
+    },
+    {
+      "topic": "spacex",
+      "count": 2,
+      "score": 60.0,
+      "sample_titles": [
+        "Fusão entre SpaceX e Tesla pode obrigar fundos a comprar US$ 100 bilhões em ações",
+        "SpaceX's giant rocket may leave NASA in the dust"
+      ]
+    },
+    {
+      "topic": "marketing",
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "O que é o marketing integrado?",
+        "digital marketing tips"
+      ]
+    },
+    {
+      "topic": "office",
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "trabalho home office",
+        "These economists say in-person work boosts creativity, but office mandates fall short"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "empresa",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 70.0,
+      "sample_titles": [
+        "Secretário do Tesouro dos EUA defende que Nvidia busque novo CEO fora da empresa após saída de Jensen Huang",
+        "Megaspeed afirma que Alice Huang deixou a empresa em agosto de 2025",
+        "Bessent diz que Nvidia precisa procurar novo presidente-executivo “fora da empresa”",
+        "Caso Nvidia: Megaspeed afirma que Alice Huang não tem cargo na empresa desde 2025",
+        "abrir empresa nos EUA"
+      ]
+    },
+    {
+      "topic": "abrir",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 56.67,
+      "sample_titles": [
+        "15 franquias baratas a partir de R$ 249 para abrir o próprio negócio em 2026",
+        "Os planos de Milei para o segundo mandato: abrir mercados, cortar impostos e devolver US$ 500 bi",
+        "abrir empresa nos EUA"
+      ]
+    },
+    {
+      "topic": "marketing",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "O que é o marketing integrado?",
+        "digital marketing tips"
+      ]
+    },
+    {
+      "topic": "business",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "This week on The Hill: House and Senate race to wrap up business before recess",
+        "start a business USA"
+      ]
+    },
+    {
+      "topic": "novembro",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.1,
+      "sample_titles": [
+        "MILSINHO TOQUE DEZ 2026 - CD NOVO NOVEMBRO 2026 - MÚSICAS ATUALIZADAS - MÚIDO NA MÁXIMA PRA PAREDÃO",
+        "15 de novembro é feriado de quê? Por que historiadores acreditam que a monarquia sofreu 'um golpe'"
+      ]
+    },
+    {
+      "topic": "nacional",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.05,
+      "sample_titles": [
+        "Raul Seixas — As 20 Melhores Músicas | Clássicos Imortais do Rock Nacional",
+        "Trump culpa governo Biden por paralisação nacional de voos nos EUA"
+      ]
+    },
+    {
+      "topic": "custa",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "'Descobriram um tratamento para a demência do meu filho de 5 anos, mas ele custa mais de R$ 20 milhões'",
+        "quanto custa viajar para os EUA"
+      ]
+    },
+    {
+      "topic": "office",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "These economists say in-person work boosts creativity, but office mandates fall short",
+        "trabalho home office"
+      ]
+    },
+    {
+      "topic": "punch",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 20.73,
+      "sample_titles": [
+        "VOU FUGIR DA PRISÃO NA BASE DO SOCO | Punch the Walls",
+        "'Punch in the gut': Homes sales fall to their lowest in 16 years"
+      ]
+    },
+    {
+      "topic": "prisão",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 10.72,
+      "sample_titles": [
+        "VOU FUGIR DA PRISÃO NA BASE DO SOCO | Punch the Walls",
+        "Acusado do assassinato de duas crianças em Viçosa do Ceará é condenado a 50 anos de prisão"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "abrir empresa",
+      "subtopic": "como abrir uma empresa nos EUA",
+      "why_trending": "As buscas sobre abrir empresas nos EUA estão aumentando, com muitos brasileiros interessados em empreender fora do país.",
+      "niche_angle": "Vamos discutir os passos práticos e legais para abrir uma empresa nos EUA, destacando as diferenças em relação ao Brasil e como isso pode ser uma oportunidade para imigrantes.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 7,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://exame.com/negocios/15-franquias-baratas-a-partir-de-r-249-para-abrir-o-proprio-negocio-em-2026/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-15T18:35:26.433411"
+    },
+    {
+      "main_topic": "custo de vida",
+      "subtopic": "quanto custa viajar para os EUA",
+      "why_trending": "Com o aumento do turismo e a inflação, muitos brasileiros estão buscando informações sobre os custos de viajar para os EUA.",
+      "niche_angle": "Vamos detalhar os custos reais de uma viagem para os EUA, incluindo passagens, hospedagem e alimentação, para ajudar imigrantes e turistas a se planejarem melhor.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "news:G1 Mundo",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/15/trump-culpa-governo-biden-por-paralisacao-nacional-de-voos-nos-eua.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-15T18:35:26.433419"
+    },
+    {
+      "main_topic": "tráfego aéreo",
+      "subtopic": "impacto nos voos nos EUA",
+      "why_trending": "Problemas nos voos nos EUA têm gerado discussões sobre como isso afeta os imigrantes e brasileiros que viajam.",
+      "niche_angle": "Analisaremos como as paralisações e transtornos no tráfego aéreo afetam os planos de viagem e a vida dos brasileiros nos EUA.",
+      "video_format": "both",
+      "urgency": "high",
+      "ease": 5,
+      "source": "news:G1 Mundo",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/15/governo-trump-diz-que-problemas-nos-voos-dos-eua-podem-seguir-ate-segunda-feira.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "reddit"
+      ],
+      "collected_at": "2026-11-15T18:35:26.433424"
+    },
+    {
+      "main_topic": "educação",
+      "subtopic": "ferramentas para aprender inglês",
+      "why_trending": "O interesse em aprender inglês continua a crescer entre brasileiros que buscam oportunidades nos EUA.",
+      "niche_angle": "Vamos compartilhar dicas práticas e ferramentas de aprendizado que ajudam brasileiros a dominar o inglês rapidamente e se integrar melhor na cultura americana.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "news:Exame",
+      "region": "GLOBAL",
+      "links": [
+        "https://exame.com/mundo/ex-agente-do-fbi-desviou-r-13-milhoes-e-planejou-fuga-a-portugal-com-ajuda-do-chatgpt/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-15T18:35:26.433430"
+    },
+    {
+      "main_topic": "marketing",
+      "subtopic": "táticas de marketing digital para brasileiros",
+      "why_trending": "As empresas estão cada vez mais buscando táticas de marketing digital para se destacar no mercado competitivo dos EUA.",
+      "niche_angle": "Vamos explorar estratégias de marketing digital que brasileiros podem usar para alavancar seus negócios nos EUA, com exemplos práticos.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://exame.com/bussola/o-que-e-o-marketing-integrado/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-15T18:35:26.433434"
+    },
+    {
+      "main_topic": "direitos",
+      "subtopic": "direitos dos imigrantes nos EUA",
+      "why_trending": "O debate sobre imigração e direitos dos imigrantes está em alta, especialmente com novas políticas sendo discutidas.",
+      "niche_angle": "Vamos discutir os direitos dos imigrantes nos EUA, abordando questões comuns e como se proteger legalmente.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "news:InfoMoney",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mundo/ilhas-canarias-recebem-quase-1-500-imigrantes-em-um-dia-recorde-historico/"
+      ],
+      "platforms": [
+        "news",
+        "reddit"
+      ],
+      "collected_at": "2026-11-15T18:35:26.433438"
+    },
+    {
+      "main_topic": "economia",
+      "subtopic": "impacto da inflação nos custos de vida",
+      "why_trending": "A inflação continua a impactar a economia dos EUA, afetando os custos de vida e os salários.",
+      "niche_angle": "Analisaremos como a inflação nos EUA está afetando o custo de vida dos brasileiros e o que isso significa para quem vive aqui.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news:InfoMoney",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/economia/el-nino-deve-pesar-mais-na-inflacao-em-2027-veja-o-que-pode-ficar-mais-caro/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-15T18:35:26.433448"
+    },
+    {
+      "main_topic": "negócios",
+      "subtopic": "franquias baratas nos EUA",
+      "why_trending": "O interesse por franquias baratas está crescendo, especialmente entre imigrantes que buscam oportunidades de negócio.",
+      "niche_angle": "Vamos listar as melhores franquias para abrir nos EUA, com foco em custos e retorno sobre investimento para brasileiros.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://exame.com/negocios/15-franquias-baratas-a-partir-de-r-249-para-abrir-o-proprio-negocio-em-2026/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-15T18:35:26.433457"
+    },
+    {
+      "main_topic": "tecnologia",
+      "subtopic": "novas ferramentas de IA",
+      "why_trending": "Com o crescimento do uso de inteligência artificial, muitas pessoas estão procurando aprender a utilizá-la.",
+      "niche_angle": "Vamos apresentar as ferramentas de IA mais úteis para brasileiros que querem aumentar sua produtividade e ganhar dinheiro nos EUA.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:Exame",
+      "region": "GLOBAL",
+      "links": [
+        "https://exame.com/mundo/ex-agente-do-fbi-desviou-r-13-milhoes-e-planejou-fuga-a-portugal-com-ajuda-do-chatgpt/"
+      ],
+      "platforms": [
+        "news",
+        "reddit"
+      ],
+      "collected_at": "2026-11-15T18:35:26.433462"
+    }
+  ]
+}
