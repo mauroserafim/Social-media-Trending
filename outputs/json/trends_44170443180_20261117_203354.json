@@ -1,0 +1,903 @@
+{
+  "generated_at": "2026-11-17T20:33:54.427825",
+  "run_id": "44170443180",
+  "summary": {
+    "total_br": 30,
+    "total_us": 22,
+    "br_us_connections": 10,
+    "cross_platform_topics": 11,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "Avengers: Doomsday | TV SPOT “DARKNESS” CONCEPT | Marvel Studios",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=z59xy3GvSrk",
+          "score": 11.19,
+          "region": "BR",
+          "views": 638373
+        },
+        {
+          "title": "\"PINKY UP\" (Official EYEKONS Video) | KATSEYE",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Cp-72VPlBzQ",
+          "score": 10.62,
+          "region": "BR",
+          "views": 460425
+        },
+        {
+          "title": "I.N \"NO RETURN\" | [Stray Kids : SKZ-PLAYER]",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=masFBnN7jsA",
+          "score": 9.44,
+          "region": "BR",
+          "views": 978031
+        },
+        {
+          "title": "Avengers Doomsday Final Trailer | \"We Are Doomed\"",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=BV0nOUX3DcA",
+          "score": 2.29,
+          "region": "BR",
+          "views": 939881
+        },
+        {
+          "title": "The Beatles - In My Life (Official Teaser Trailer starring Owen Cooper)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=usvWh-7lPyw",
+          "score": 1.54,
+          "region": "BR",
+          "views": 66999
+        },
+        {
+          "title": "Maiara & Maraisa, Naiara, Fred & Fabricio - VOCÊ VAI VER/JEJUM DE AMOR  [ SERTANEJO SÉRIE A ]",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=wqn3za2Ze24",
+          "score": 1.37,
+          "region": "BR",
+          "views": 689117
+        },
+        {
+          "title": "COMPREI UMA CASA BARATA E DESCOBRI O MOTIVO | Scawy Game",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=9mtNxgTYZXI",
+          "score": 1.05,
+          "region": "BR",
+          "views": 55212
+        },
+        {
+          "title": "Basara - Forjado no Fogo | Garp (One Piece) ft. Rhaychu",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Ax-kqLsfIXQ",
+          "score": 0.81,
+          "region": "BR",
+          "views": 154590
+        },
+        {
+          "title": "Shakira, Rihanna - Can't Remember To Forget You (Letra/Lyrics)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=gcUsYEbm8UU",
+          "score": 0.81,
+          "region": "BR",
+          "views": 332894
+        },
+        {
+          "title": "O Problema dos 3 Corpos: Temporada 2 | Teaser oficial | Netflix",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=0ckRTchffS0",
+          "score": 0.75,
+          "region": "BR",
+          "views": 39423
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Caças dos EUA atacam ilha do Irã",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/17/eua-atacam-ilha-do-ira.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "B3 anuncia nova metodologia com a inclusão de BDRs na Bolsa a partir de maio",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/b3-anuncia-nova-metodologia-com-a-inclusao-de-bdrs-na-bolsa-a-partir-de-maio/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Tesouro Direto hoje: prefixados recuam após disparada e IPCA+ tem movimento misto",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/onde-investir/tesouro-direto-hoje-prefixados-recuam-apos-disparada-e-ipca-tem-movimento-misto/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Deputado do PL apresenta “lei Richthofen” contra o lucro com histórias de crimes",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/deputado-do-pl-apresenta-lei-richthofen-contra-o-lucro-com-historias-de-crimes/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Como IPO da Anthropic pode gerar bilhões para Ashton Kutcher e empresário de Madonna",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/empresario-de-madonna-ashton-kutcher-ipo-anthropic/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Lula sugeriu encontro entre Trump, Xi e Putin para discutir Ucrânia, diz Canadá",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/lula-sugeriu-encontro-entre-trump-xi-e-putin-para-discutir-ucrania-diz-canada/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "STJ suspende decisão que impedia cobrança de taxa da Uber para motoristas em todo o país",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/17/stj-cobranca-taxa-uber-motoristas.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Na expectativa de votar ajuste fiscal na Câmara, governo retira urgência de projeto sobre criminalização de bets",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "JAMES BOND TRAILER 2028 Robert Pattinson",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Y6cPcmQDtio",
+          "score": 1.78,
+          "region": "US",
+          "views": 328670
+        },
+        {
+          "title": "Honest Trailers | Resident Evil (2026)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=N4T1WcU4qHA",
+          "score": 1.75,
+          "region": "US",
+          "views": 43475
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "FAA pauses tech upgrade linked to nationwide ground stop",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/17/faa-air-traffic-control-router-upgrade-ground-stop",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "CNBC host presses Mullin on flight to football game amid FAA outage fallout",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6226126-homeland-security-secretary-lsu-game/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "What to know about Iran's 'dirty bomb' threat",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/national-security/6226127-iranian-dirty-bomb-threat-warning/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Kalshi halts Trump mention markets",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/technology/6225878-kalshi-halts-mention-markets-donald-trump/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Vance, Duffy give absurd responses to FAA outage",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/lindseys-lens/6226114-faa-system-failure-trump/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Donald Trump wants Jensen Huang back, casts doubt on Chinese spy story",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/robbys-radar/6226022-trump-jensen-huang-nvidia/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "FAA halts router upgrades after ground stop fuels infrastructure concerns",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/transportation/6225978-faa-halts-router-upgrades/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Van Hollen's 2016 opponent backs his bid for majority leader",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/the-120/6226013-donna-edwards-supports-van-hollen/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Many Americans view Schumer unfavorably as leadership fight heats up: Poll",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/the-120/6225885-chuck-schumer-democrats-unpopularity-poll-results/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "nvidia",
+      "count": 11,
+      "score": 68.0,
+      "sample_titles": [
+        "Ex-CEO da Nvidia pede desculpas por erros e diz que aceitaria voltar ao comando: 'Assumo meus erros'",
+        "Jensen Huang, ex-CEO da Nvidia, vai depor no Congresso dos EUA após caso com suposta espiã chinesa",
+        "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
+        "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+        "Commerce Department under pressure for delaying export controls on Nvidia chips"
+      ]
+    },
+    {
+      "topic": "trump",
+      "count": 10,
+      "score": 76.67,
+      "sample_titles": [
+        "Vladimir Putin chega à China para reunião trilateral com Xi Jinping e Trump",
+        "Ideia de reunião trilateral entre Trump, Putin e Xi partiu de Lula, diz premiê do Canadá",
+        "Pescadores do Equador processam governo Trump por suposto ataque com drones",
+        "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+        "Trump arrives in Philippines to kick off Asia trip"
+      ]
+    },
+    {
+      "topic": "huang",
+      "count": 7,
+      "score": 60.0,
+      "sample_titles": [
+        "Jensen Huang, ex-CEO da Nvidia, vai depor no Congresso dos EUA após caso com suposta espiã chinesa",
+        "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
+        "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+        "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?"
+      ]
+    },
+    {
+      "topic": "jensen",
+      "count": 6,
+      "score": 65.0,
+      "sample_titles": [
+        "Jensen Huang, ex-CEO da Nvidia, vai depor no Congresso dos EUA após caso com suposta espiã chinesa",
+        "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?",
+        "Jensen Huang agrees to face Congress over Nvidia scandal",
+        "Jensen Huang says he'd be \"honored\" to return as Nvidia CEO"
+      ]
+    },
+    {
+      "topic": "jensen huang",
+      "count": 5,
+      "score": 65.0,
+      "sample_titles": [
+        "Jensen Huang, ex-CEO da Nvidia, vai depor no Congresso dos EUA após caso com suposta espiã chinesa",
+        "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?",
+        "Jensen Huang agrees to face Congress over Nvidia scandal",
+        "Jensen Huang says he'd be \"honored\" to return as Nvidia CEO"
+      ]
+    },
+    {
+      "topic": "putin",
+      "count": 4,
+      "score": 80.0,
+      "sample_titles": [
+        "Vladimir Putin chega à China para reunião trilateral com Xi Jinping e Trump",
+        "Ideia de reunião trilateral entre Trump, Putin e Xi partiu de Lula, diz premiê do Canadá",
+        "Lula sugeriu encontro entre Trump, Xi e Putin para discutir Ucrânia, diz Canadá",
+        "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia"
+      ]
+    },
+    {
+      "topic": "trailer",
+      "count": 4,
+      "score": 1.48,
+      "sample_titles": [
+        "The Beatles - In My Life (Official Teaser Trailer starring Owen Cooper)",
+        "Avengers Doomsday Final Trailer | \"We Are Doomed\"",
+        "Vestígios | Trailer Oficial Legendado | Suspense de M. Night Shyamalan",
+        "JAMES BOND TRAILER 2028 Robert Pattinson"
+      ]
+    },
+    {
+      "topic": "return",
+      "count": 3,
+      "score": 56.48,
+      "sample_titles": [
+        "I.N \"NO RETURN\" | [Stray Kids : SKZ-PLAYER]",
+        "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
+        "Jensen Huang says he'd be \"honored\" to return as Nvidia CEO"
+      ]
+    },
+    {
+      "topic": "apple",
+      "count": 2,
+      "score": 80.0,
+      "sample_titles": [
+        "Apple diz que falha não foi causada por ciberataque",
+        "Is Apple down? Users report problems with iOS"
+      ]
+    },
+    {
+      "topic": "chips",
+      "count": 2,
+      "score": 60.0,
+      "sample_titles": [
+        "China ameaça retaliar contra EUA por restrições a chips de IA que também afetam o Brasil",
+        "Commerce Department under pressure for delaying export controls on Nvidia chips"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "nacional",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 60.05,
+      "sample_titles": [
+        "RAUL SEIXAS 🎸 TOP 20 MELHORES MÚSICAS | CLÁSSICOS IMORTAIS DO ROCK NACIONAL",
+        "ENAC: mais de 7,6 mil candidatos farão exame nacional obrigatório para concursos de cartórios",
+        "EUA fazem teste nacional em serviço de emergência; mensagem foi transmitida em rádios e TVs",
+        "Rede ultrassecreta de comunicações de segurança nacional dos EUA fica fora do ar"
+      ]
+    },
+    {
+      "topic": "return",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 56.48,
+      "sample_titles": [
+        "I.N \"NO RETURN\" | [Stray Kids : SKZ-PLAYER]",
+        "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
+        "Jensen Huang says he'd be \"honored\" to return as Nvidia CEO"
+      ]
+    },
+    {
+      "topic": "gente",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.02,
+      "sample_titles": [
+        "Thiago Soares Ao Vivo - Disfarça / Duvido / Dividido / Quando A Gente Ama",
+        "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas"
+      ]
+    },
+    {
+      "topic": "final",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 41.15,
+      "sample_titles": [
+        "Avengers Doomsday Final Trailer | \"We Are Doomed\"",
+        "Motta e Alcolumbre pedem a Moraes que STF analise dosimetria até o final deste ano"
+      ]
+    },
+    {
+      "topic": "volta",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.12,
+      "sample_titles": [
+        "Bruno & Marrone - Só Sei Te Amar (Ao Vivo)  De Volta aos Bares II",
+        "Protestos no Irã pedem volta da monarquia após morte de 13 trabalhadores em acidente de ônibus"
+      ]
+    },
+    {
+      "topic": "ainda",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.03,
+      "sample_titles": [
+        "Você Ainda Cantará",
+        "Congresso instala comissão do novo Desenrola e tenta votar medida ainda neste ano"
+      ]
+    },
+    {
+      "topic": "start",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Nvidia's earnings mark start of post-Jensen era",
+        "start a business USA"
+      ]
+    },
+    {
+      "topic": "americano",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 20.0,
+      "sample_titles": [
+        "Irlandês invade aeroporto e destrói avião militar americano de US$ 60 milhões",
+        "visto americano"
+      ]
+    },
+    {
+      "topic": "dólar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 20.0,
+      "sample_titles": [
+        "Até onde o dólar pode subir? Por que o real é a moeda que mais perdeu valor desde a reeleição de Lula",
+        "dólar hoje"
+      ]
+    },
+    {
+      "topic": "série",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 15.69,
+      "sample_titles": [
+        "Maiara & Maraisa, Naiara, Fred & Fabricio - VOCÊ VAI VER/JEJUM DE AMOR  [ SERTANEJO SÉRIE A ]",
+        "Enquanto série de falhas tecnológicas causa preocupação, Trump diz que está \"tudo bem\""
+      ]
+    },
+    {
+      "topic": "office",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 15.0,
+      "sample_titles": [
+        "These economists say in-person work boosts creativity, but office mandates fall short",
+        "trabalho home office"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "ajuste fiscal",
+      "subtopic": "impacto do ajuste fiscal brasileiro na vida de imigrantes nos EUA",
+      "why_trending": "O governo brasileiro está discutindo um ajuste fiscal que pode afetar a economia e a vida dos brasileiros no exterior.",
+      "niche_angle": "Como o ajuste fiscal pode impactar a remessa de dinheiro e o custo de vida de brasileiros que vivem nos EUA.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "G1 Economia",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "youtube"
+      ],
+      "collected_at": "2026-11-17T20:33:54.408313"
+    },
+    {
+      "main_topic": "visto americano",
+      "subtopic": "o que precisa saber sobre o visto americano em 2023",
+      "why_trending": "Com a nova onda de imigração e a busca por vistos, muitos brasileiros estão se informando sobre o processo.",
+      "niche_angle": "Dicas práticas e atualizações sobre o processo de visto americano para brasileiros, especialmente os que estão pensando em se mudar para os EUA.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 5,
+      "source": "G1 Mundo",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/17/eua-fazem-teste-nacional-em-servico-de-emergencia-mensagem-foi-exibida-em-radios-e-tvs.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "youtube"
+      ],
+      "collected_at": "2026-11-17T20:33:54.408322"
+    },
+    {
+      "main_topic": "custo de vida",
+      "subtopic": "comparação do custo de vida entre Brasil e EUA",
+      "why_trending": "Com a alta do dólar e a inflação, há um aumento no interesse por comparações de custo de vida.",
+      "niche_angle": "Como os brasileiros podem planejar sua mudança ou viagem para os EUA, considerando as diferenças de custo de vida agora.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "youtube"
+      ],
+      "collected_at": "2026-11-17T20:33:54.408326"
+    },
+    {
+      "main_topic": "tecnologia",
+      "subtopic": "atualizações sobre o FAA e o impacto na aviação",
+      "why_trending": "Recentes falhas no sistema da FAA levantaram preocupações sobre a infraestrutura aérea nos EUA.",
+      "niche_angle": "O que brasileiros que viajam ou moram nos EUA precisam saber sobre a segurança das viagens aéreas após as falhas recentes.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "The Hill",
+      "region": "US",
+      "links": [
+        "https://thehill.com/policy/transportation/6225978-faa-halts-router-upgrades/"
+      ],
+      "platforms": [
+        "news",
+        "youtube"
+      ],
+      "collected_at": "2026-11-17T20:33:54.408330"
+    },
+    {
+      "main_topic": "imigração",
+      "subtopic": "como as tensões internacionais afetam a imigração para os EUA",
+      "why_trending": "As relações entre países, como EUA e Irã, podem impactar as políticas de imigração e segurança.",
+      "niche_angle": "Discutir como a política internacional pode afetar a vida dos imigrantes brasileiros nos EUA e o que isso significa para seus futuros.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "G1 Mundo",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/17/eua-atacam-ilha-do-ira.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "youtube"
+      ],
+      "collected_at": "2026-11-17T20:33:54.408333"
+    },
+    {
+      "main_topic": "emprego",
+      "subtopic": "tendências de trabalho remoto e como isso afeta brasileiros",
+      "why_trending": "O home office continua a ser um tema relevante, com muitas empresas mudando suas políticas.",
+      "niche_angle": "Como essa tendência pode ser uma oportunidade ou desafio para brasileiros que trabalham ou buscam emprego nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/17/stj-cobranca-taxa-uber-motoristas.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "youtube"
+      ],
+      "collected_at": "2026-11-17T20:33:54.408339"
+    },
+    {
+      "main_topic": "negócios",
+      "subtopic": "como abrir um negócio nos EUA",
+      "why_trending": "Com o aumento do empreendedorismo, muitos brasileiros estão interessados em abrir empresas nos EUA.",
+      "niche_angle": "Um guia prático para brasileiros que querem entender como abrir um negócio nos EUA e quais os desafios que poderão enfrentar.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "youtube"
+      ],
+      "collected_at": "2026-11-17T20:33:54.408346"
+    },
+    {
+      "main_topic": "crimes",
+      "subtopic": "legislação sobre crimes nos EUA e seu impacto",
+      "why_trending": "Novas leis estão sendo discutidas e podem afetar a segurança e direitos dos imigrantes.",
+      "niche_angle": "Analisar como as mudanças na legislação criminal nos EUA podem impactar a vida dos brasileiros que residem no país.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "G1 Economia",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "youtube"
+      ],
+      "collected_at": "2026-11-17T20:33:54.408353"
+    },
+    {
+      "main_topic": "viagem",
+      "subtopic": "preparações para viajar para os EUA em 2023",
+      "why_trending": "Com a retomada das viagens, muitos brasileiros estão se preparando para viajar aos EUA.",
+      "niche_angle": "Dicas práticas sobre o que esperar ao viajar para os EUA em 2023, incluindo vistos, custos e segurança.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "G1 Mundo",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/17/eua-suspendem-instalacao-de-roteadores-que-levaram-a-paralisacao-de-voos-no-pais.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "youtube"
+      ],
+      "collected_at": "2026-11-17T20:33:54.408357"
+    }
+  ]
+}

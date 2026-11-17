@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 16/11/2026 21:44 UTC
+# 📊 Tendências em Alta — 17/11/2026 20:33 UTC
 
-**Run:** `43962935800` | **BR:** 30 trends | **US:** 25 trends | **Nicho:** 9 ideias
+**Run:** `44170443180` | **BR:** 30 trends | **US:** 22 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. TXT (투모로우바이투게더) 'Angel Bite' Official MV · [https://youtube.com/watch?v=M9G4guYg-i8](https://youtube.com/watch?v=M9G4guYg-i8)
- 2. OBRIGADO RIOT! O ORNN AGORA CARREGA DE VERDADE · [https://youtube.com/watch?v=ufDXbCZkIZE](https://youtube.com/watch?v=ufDXbCZkIZE)
- 3. Avengers Doomsday Final Trailer | "We Are Doomed" · [https://youtube.com/watch?v=BV0nOUX3DcA](https://youtube.com/watch?v=BV0nOUX3DcA)
- 4. ♪ Controle (Makima, Doflamingo e Kenjaku) | AniRap ft. @nikmouu @7mzPedroAlvez @Hawkyyy · [https://youtube.com/watch?v=fPr2JHx0oyk](https://youtube.com/watch?v=fPr2JHx0oyk)
- 5. QUEBREI E SUGUEI TUDO PRA FUGIR DA CADEIA | Punch the Walls #2 · [https://youtube.com/watch?v=eIA2zgC-4uA](https://youtube.com/watch?v=eIA2zgC-4uA)
- 6. Mike Posner - I Took A Pill In Ibiza (Akmalov & Lynoria Cover) 2026 · [https://youtube.com/watch?v=ZwgCqyp6reY](https://youtube.com/watch?v=ZwgCqyp6reY)
- 7. Dance Se Souber atualizadas 2026 {tiktok}🎶💜 · [https://youtube.com/watch?v=X4DF3dxL9w4](https://youtube.com/watch?v=X4DF3dxL9w4)
- 8. Oscar & Deep - After Love · [https://youtube.com/watch?v=je6vFZRuK9E](https://youtube.com/watch?v=je6vFZRuK9E)
- 9. The Chainsmokers - Closer ft. Halsey ❤️ (lyrics) · [https://youtube.com/watch?v=nYDdr9BBJZI](https://youtube.com/watch?v=nYDdr9BBJZI)
-10. Paul Lock - Never Letting Go · [https://youtube.com/watch?v=tJ5Ir2Of6RM](https://youtube.com/watch?v=tJ5Ir2Of6RM)
+ 1. Avengers: Doomsday | TV SPOT “DARKNESS” CONCEPT | Marvel Studios · [https://youtube.com/watch?v=z59xy3GvSrk](https://youtube.com/watch?v=z59xy3GvSrk)
+ 2. "PINKY UP" (Official EYEKONS Video) | KATSEYE · [https://youtube.com/watch?v=Cp-72VPlBzQ](https://youtube.com/watch?v=Cp-72VPlBzQ)
+ 3. I.N "NO RETURN" | [Stray Kids : SKZ-PLAYER] · [https://youtube.com/watch?v=masFBnN7jsA](https://youtube.com/watch?v=masFBnN7jsA)
+ 4. Avengers Doomsday Final Trailer | "We Are Doomed" · [https://youtube.com/watch?v=BV0nOUX3DcA](https://youtube.com/watch?v=BV0nOUX3DcA)
+ 5. The Beatles - In My Life (Official Teaser Trailer starring Owen Cooper) · [https://youtube.com/watch?v=usvWh-7lPyw](https://youtube.com/watch?v=usvWh-7lPyw)
+ 6. Maiara & Maraisa, Naiara, Fred & Fabricio - VOCÊ VAI VER/JEJUM DE AMOR  [ SERTANEJO SÉRIE A ] · [https://youtube.com/watch?v=wqn3za2Ze24](https://youtube.com/watch?v=wqn3za2Ze24)
+ 7. COMPREI UMA CASA BARATA E DESCOBRI O MOTIVO | Scawy Game · [https://youtube.com/watch?v=9mtNxgTYZXI](https://youtube.com/watch?v=9mtNxgTYZXI)
+ 8. Basara - Forjado no Fogo | Garp (One Piece) ft. Rhaychu · [https://youtube.com/watch?v=Ax-kqLsfIXQ](https://youtube.com/watch?v=Ax-kqLsfIXQ)
+ 9. Shakira, Rihanna - Can't Remember To Forget You (Letra/Lyrics) · [https://youtube.com/watch?v=gcUsYEbm8UU](https://youtube.com/watch?v=gcUsYEbm8UU)
+10. O Problema dos 3 Corpos: Temporada 2 | Teaser oficial | Netflix · [https://youtube.com/watch?v=0ckRTchffS0](https://youtube.com/watch?v=0ckRTchffS0)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Falha técnica afeta serviços de grandes bancos dos Estados Unidos · [https://g1.globo.com/mundo/noticia/2026/11/16/grandes-bancos-dos-eua-relatam-interrupcoes-generalizadas-em-seus-servicos.ghtml](https://g1.globo.com/mundo/noticia/2026/11/16/grandes-bancos-dos-eua-relatam-interrupcoes-generalizadas-em-seus-servicos.ghtml)
- 2. FOTOS e VÍDEOS mostram momento em que Starship, da SpaceX, é capturada por braços mecânicos · [https://g1.globo.com/mundo/noticia/2026/11/16/fotos-starship-spacex-capturada-bracos-mecanicos-retorno-orbita.ghtml](https://g1.globo.com/mundo/noticia/2026/11/16/fotos-starship-spacex-capturada-bracos-mecanicos-retorno-orbita.ghtml)
- 3. Wall Street cai com preocupação sobre IA, antes de dados da Nvidia e IPO da Anthropic · [https://www.infomoney.com.br/mercados/wall-street-cai-com-preocupacao-sobre-ia-antes-de-dados-da-nvidia-e-ipo-da-anthropic/](https://www.infomoney.com.br/mercados/wall-street-cai-com-preocupacao-sobre-ia-antes-de-dados-da-nvidia-e-ipo-da-anthropic/)
- 4. Cinco países europeus anunciam centro em Ruanda para deportados · [https://www.infomoney.com.br/mundo/cinco-paises-europeus-anunciam-centro-em-ruanda-para-deportados/](https://www.infomoney.com.br/mundo/cinco-paises-europeus-anunciam-centro-em-ruanda-para-deportados/)
- 5. Ibovespa cai cerca de 2% e fica abaixo dos 170 mil pontos: o que explica forte queda? · [https://www.infomoney.com.br/mercados/ibovespa-cai-15-e-fica-abaixo-dos-170-mil-pontos-o-que-explica-queda-nesta-2a/](https://www.infomoney.com.br/mercados/ibovespa-cai-15-e-fica-abaixo-dos-170-mil-pontos-o-que-explica-queda-nesta-2a/)
- 6. Moedas Globais: força do dólar segue e DXY sobe a maior nível desde Dia da Libertação · [https://www.infomoney.com.br/mercados/moedas-globais-forca-do-dolar-segue-e-dxy-sobe-a-maior-nivel-desde-dia-da-libertacao/](https://www.infomoney.com.br/mercados/moedas-globais-forca-do-dolar-segue-e-dxy-sobe-a-maior-nivel-desde-dia-da-libertacao/)
- 7. Vale (VALE3): ações caem 4% com minério na mínima em 16 meses · [https://www.infomoney.com.br/mercados/vale-vale3-acoes-caem-mais-de-3-com-minerio-na-minima-em-16-meses/](https://www.infomoney.com.br/mercados/vale-vale3-acoes-caem-mais-de-3-com-minerio-na-minima-em-16-meses/)
- 8. Ibovespa desaba quase 2% e dólar sobe 2,15%, com preocupações fiscais · [https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16112026/](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16112026/)
- 9. Petróleo fecha em queda de 3% com aumento da oferta no Oriente Médio · [https://www.infomoney.com.br/mercados/petroleo-fecha-em-queda-de-3-com-aumento-da-oferta-no-oriente-medio/](https://www.infomoney.com.br/mercados/petroleo-fecha-em-queda-de-3-com-aumento-da-oferta-no-oriente-medio/)
-10. XP anuncia dividendos de R$ 1,3 bilhão e aprova nova recompra de ações · [https://www.infomoney.com.br/mercados/xp-anuncia-dividendos-de-r-13-bilhao-e-aprova-nova-recompra-de-acoes/](https://www.infomoney.com.br/mercados/xp-anuncia-dividendos-de-r-13-bilhao-e-aprova-nova-recompra-de-acoes/)
+ 1. O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas · [https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml](https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml)
+ 2. Caças dos EUA atacam ilha do Irã · [https://g1.globo.com/mundo/noticia/2026/11/17/eua-atacam-ilha-do-ira.ghtml](https://g1.globo.com/mundo/noticia/2026/11/17/eua-atacam-ilha-do-ira.ghtml)
+ 3. B3 anuncia nova metodologia com a inclusão de BDRs na Bolsa a partir de maio · [https://www.infomoney.com.br/mercados/b3-anuncia-nova-metodologia-com-a-inclusao-de-bdrs-na-bolsa-a-partir-de-maio/](https://www.infomoney.com.br/mercados/b3-anuncia-nova-metodologia-com-a-inclusao-de-bdrs-na-bolsa-a-partir-de-maio/)
+ 4. Tesouro Direto hoje: prefixados recuam após disparada e IPCA+ tem movimento misto · [https://www.infomoney.com.br/onde-investir/tesouro-direto-hoje-prefixados-recuam-apos-disparada-e-ipca-tem-movimento-misto/](https://www.infomoney.com.br/onde-investir/tesouro-direto-hoje-prefixados-recuam-apos-disparada-e-ipca-tem-movimento-misto/)
+ 5. Deputado do PL apresenta “lei Richthofen” contra o lucro com histórias de crimes · [https://www.infomoney.com.br/politica/deputado-do-pl-apresenta-lei-richthofen-contra-o-lucro-com-historias-de-crimes/](https://www.infomoney.com.br/politica/deputado-do-pl-apresenta-lei-richthofen-contra-o-lucro-com-historias-de-crimes/)
+ 6. Como IPO da Anthropic pode gerar bilhões para Ashton Kutcher e empresário de Madonna · [https://www.infomoney.com.br/mercados/empresario-de-madonna-ashton-kutcher-ipo-anthropic/](https://www.infomoney.com.br/mercados/empresario-de-madonna-ashton-kutcher-ipo-anthropic/)
+ 7. Lula sugeriu encontro entre Trump, Xi e Putin para discutir Ucrânia, diz Canadá · [https://www.infomoney.com.br/mundo/lula-sugeriu-encontro-entre-trump-xi-e-putin-para-discutir-ucrania-diz-canada/](https://www.infomoney.com.br/mundo/lula-sugeriu-encontro-entre-trump-xi-e-putin-para-discutir-ucrania-diz-canada/)
+ 8. Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal · [https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml](https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml)
+ 9. STJ suspende decisão que impedia cobrança de taxa da Uber para motoristas em todo o país · [https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/17/stj-cobranca-taxa-uber-motoristas.ghtml](https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/17/stj-cobranca-taxa-uber-motoristas.ghtml)
+10. Na expectativa de votar ajuste fiscal na Câmara, governo retira urgência de projeto sobre criminalização de bets · [https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml](https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,26 +54,23 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 5
+#### 📺 YouTube (US) — Top 2
 
- 1. Aakasamlo Oka Tara Trailer | Dulquer Salmaan | Satvika | Shruti Haasan | GV Prakash | Pavan Sadineni · [https://youtube.com/watch?v=hXPXHfgHvzU](https://youtube.com/watch?v=hXPXHfgHvzU)
- 2. Top 50 Christmas Songs of ALL Time 🎅 Best Christmas Music Playlist 🎄🎁 Merry Christmas Songs · [https://youtube.com/watch?v=o2LLvKf608Y](https://youtube.com/watch?v=o2LLvKf608Y)
- 3. Marvel Teases Secret Wars, Doomsday Trailer Details, & Iron Man 4 Rumor!! · [https://youtube.com/watch?v=D00NvT2zU3M](https://youtube.com/watch?v=D00NvT2zU3M)
- 4. 2026 Box Office - Ebenezer Johnny Depp, Avengers Doomsday vs Dune 3, VisionQuest Finale Viewership · [https://youtube.com/watch?v=AE6Cljd5qmM](https://youtube.com/watch?v=AE6Cljd5qmM)
- 5. Lenny Rivers | All shut eyes ain't sleep | Southern Trap Soul love ballad  · [https://youtube.com/watch?v=pdzpGKLN9Tc](https://youtube.com/watch?v=pdzpGKLN9Tc)
+ 1. JAMES BOND TRAILER 2028 Robert Pattinson · [https://youtube.com/watch?v=Y6cPcmQDtio](https://youtube.com/watch?v=Y6cPcmQDtio)
+ 2. Honest Trailers | Resident Evil (2026) · [https://youtube.com/watch?v=N4T1WcU4qHA](https://youtube.com/watch?v=N4T1WcU4qHA)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Fewer international students, billions at stake · [https://www.axios.com/2026/11/16/international-student-enrollment-decline-college-budgets](https://www.axios.com/2026/11/16/international-student-enrollment-decline-college-budgets)
- 2. Chase, Bank of America, Wells Fargo customers report trouble accessing accounts · [https://thehill.com/policy/technology/6223551-chase-wells-fargo-boa-access-problems/](https://thehill.com/policy/technology/6223551-chase-wells-fargo-boa-access-problems/)
- 3. Nvidia's board not considering return of Huang as CEO · [https://thehill.com/policy/technology/6223454-nvidia-board-rejects-huang-return/](https://thehill.com/policy/technology/6223454-nvidia-board-rejects-huang-return/)
- 4. U.S. tightens controls on remote access to AI technology amid Nvidia fallout · [https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department](https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department)
- 5. U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow · [https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones](https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones)
- 6. Nearly two million people are behind bars in the US. How did we get here? · [https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here](https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here)
- 7. Lindsay Clancy to face a new trial in spring of 2027 over children's killing · [https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges](https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges)
- 8. What we know about what caused the FAA's nationwide ground stop · [https://www.axios.com/2026/11/16/faa-flights-ground-stop-router-cause-reasons](https://www.axios.com/2026/11/16/faa-flights-ground-stop-router-cause-reasons)
- 9. SCOTUS gives DEI a boost after national assault · [https://www.axios.com/2026/11/16/supreme-court-diversity-equity-inclusion-grants](https://www.axios.com/2026/11/16/supreme-court-diversity-equity-inclusion-grants)
-10. Exclusive: White House requires signoff before staffers testify to Congress · [https://www.axios.com/2026/11/16/exclusive-white-house-requires-signoff-before-agency-staffers-testify-to-congress](https://www.axios.com/2026/11/16/exclusive-white-house-requires-signoff-before-agency-staffers-testify-to-congress)
+ 1. FAA pauses tech upgrade linked to nationwide ground stop · [https://www.axios.com/2026/11/17/faa-air-traffic-control-router-upgrade-ground-stop](https://www.axios.com/2026/11/17/faa-air-traffic-control-router-upgrade-ground-stop)
+ 2. CNBC host presses Mullin on flight to football game amid FAA outage fallout · [https://thehill.com/homenews/administration/6226126-homeland-security-secretary-lsu-game/](https://thehill.com/homenews/administration/6226126-homeland-security-secretary-lsu-game/)
+ 3. What to know about Iran's 'dirty bomb' threat · [https://thehill.com/policy/national-security/6226127-iranian-dirty-bomb-threat-warning/](https://thehill.com/policy/national-security/6226127-iranian-dirty-bomb-threat-warning/)
+ 4. Kalshi halts Trump mention markets · [https://thehill.com/policy/technology/6225878-kalshi-halts-mention-markets-donald-trump/](https://thehill.com/policy/technology/6225878-kalshi-halts-mention-markets-donald-trump/)
+ 5. Vance, Duffy give absurd responses to FAA outage · [https://thehill.com/opinion/lindseys-lens/6226114-faa-system-failure-trump/](https://thehill.com/opinion/lindseys-lens/6226114-faa-system-failure-trump/)
+ 6. Donald Trump wants Jensen Huang back, casts doubt on Chinese spy story · [https://thehill.com/opinion/robbys-radar/6226022-trump-jensen-huang-nvidia/](https://thehill.com/opinion/robbys-radar/6226022-trump-jensen-huang-nvidia/)
+ 7. FAA halts router upgrades after ground stop fuels infrastructure concerns · [https://thehill.com/policy/transportation/6225978-faa-halts-router-upgrades/](https://thehill.com/policy/transportation/6225978-faa-halts-router-upgrades/)
+ 8. Van Hollen's 2016 opponent backs his bid for majority leader · [https://thehill.com/the-120/6226013-donna-edwards-supports-van-hollen/](https://thehill.com/the-120/6226013-donna-edwards-supports-van-hollen/)
+ 9. Many Americans view Schumer unfavorably as leadership fight heats up: Poll · [https://thehill.com/the-120/6225885-chuck-schumer-democrats-unpopularity-poll-results/](https://thehill.com/the-120/6225885-chuck-schumer-democrats-unpopularity-poll-results/)
+10. Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet · [https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain](https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -95,12 +92,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **Dólar** | Como a alta do dólar impacta brasileiros nos EUA | O dólar atingiu a maior alta desde a reeleição de Lula, chegando a R$ 5,77, impactando a economia brasileira e a vida do |
-| 2 🟠 🎬 | **Visto** | Mudanças nas leis de imigração e seu impacto nos brasileiros | O governo Trump defende mais restrições para trabalhadores estrangeiros permanentes, afetando diretamente a comunidade i |
-| 3 🟡 🎬 | **Educação** | Declínio de estudantes internacionais e suas consequências | Um relatório aponta que o número de estudantes internacionais caiu significativamente, resultando em bilhões de dólares  |
-| 4 🟡 🎬 | **Economia** | Impacto das flutuações do mercado sobre a vida dos imigrantes | Wall Street está enfrentando quedas devido a preocupações com a inteligência artificial e sua regulamentação. |
-| 5 🟡 🎬 | **Tecnologia** | Regulamentações de IA e suas implicações | Os EUA estão apertando os controles sobre o acesso remoto à tecnologia de IA após o impacto da Nvidia. |
-| 6 🟡 ⚡ | **Serviços Bancários** | Falhas técnicas em grandes bancos dos EUA | Clientes de grandes bancos como Chase e Bank of America relataram problemas para acessar contas, afetando muitos usuário |
-| 7 🟡 🎬 | **Empreendedorismo** | Iniciativas para startups em tempos de crise | Fundo de até R$ 500M é lançado para comprar fatias de sócios de startups, indicando um movimento no mercado de investime |
-| 8 🟡 🎬 | **Custo de Vida** | Comparação de custos entre Brasil e EUA | Com a alta do dólar e o impacto na economia, muitos estão se perguntando sobre o custo de vida nos EUA comparado ao Bras |
-| 9 🟢 🎬 | **Entretenimento** | Impacto da cultura brasileira nos EUA | O Brasil é um dos principais países de origem de imigrantes nos EUA, trazendo sua cultura e entretenimento. |
+| 1 🟠 🎬 | **ajuste fiscal** | impacto do ajuste fiscal brasileiro na vida de imigrantes nos EUA | O governo brasileiro está discutindo um ajuste fiscal que pode afetar a economia e a vida dos brasileiros no exterior. |
+| 2 🟠 🎬 | **visto americano** | o que precisa saber sobre o visto americano em 2023 | Com a nova onda de imigração e a busca por vistos, muitos brasileiros estão se informando sobre o processo. |
+| 3 🟡 🎬 | **custo de vida** | comparação do custo de vida entre Brasil e EUA | Com a alta do dólar e a inflação, há um aumento no interesse por comparações de custo de vida. |
+| 4 🟡 🎬 | **tecnologia** | atualizações sobre o FAA e o impacto na aviação | Recentes falhas no sistema da FAA levantaram preocupações sobre a infraestrutura aérea nos EUA. |
+| 5 🟡 🎬 | **imigração** | como as tensões internacionais afetam a imigração para os EUA | As relações entre países, como EUA e Irã, podem impactar as políticas de imigração e segurança. |
+| 6 🟡 🎬 | **emprego** | tendências de trabalho remoto e como isso afeta brasileiros | O home office continua a ser um tema relevante, com muitas empresas mudando suas políticas. |
+| 7 🟡 🎬 | **negócios** | como abrir um negócio nos EUA | Com o aumento do empreendedorismo, muitos brasileiros estão interessados em abrir empresas nos EUA. |
+| 8 🟡 🎬 | **crimes** | legislação sobre crimes nos EUA e seu impacto | Novas leis estão sendo discutidas e podem afetar a segurança e direitos dos imigrantes. |
+| 9 🟡 🎬 | **viagem** | preparações para viajar para os EUA em 2023 | Com a retomada das viagens, muitos brasileiros estão se preparando para viajar aos EUA. |
