@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 17/11/2026 20:33 UTC
+# 📊 Tendências em Alta — 18/11/2026 20:06 UTC
 
-**Run:** `44170443180` | **BR:** 30 trends | **US:** 22 trends | **Nicho:** 9 ideias
+**Run:** `44387317642` | **BR:** 30 trends | **US:** 23 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. Avengers: Doomsday | TV SPOT “DARKNESS” CONCEPT | Marvel Studios · [https://youtube.com/watch?v=z59xy3GvSrk](https://youtube.com/watch?v=z59xy3GvSrk)
- 2. "PINKY UP" (Official EYEKONS Video) | KATSEYE · [https://youtube.com/watch?v=Cp-72VPlBzQ](https://youtube.com/watch?v=Cp-72VPlBzQ)
+ 1. "PINKY UP" (Official EYEKONS Video) | KATSEYE · [https://youtube.com/watch?v=Cp-72VPlBzQ](https://youtube.com/watch?v=Cp-72VPlBzQ)
+ 2. Avengers: Doomsday | TV SPOT “DARKNESS” CONCEPT | Marvel Studios · [https://youtube.com/watch?v=z59xy3GvSrk](https://youtube.com/watch?v=z59xy3GvSrk)
  3. I.N "NO RETURN" | [Stray Kids : SKZ-PLAYER] · [https://youtube.com/watch?v=masFBnN7jsA](https://youtube.com/watch?v=masFBnN7jsA)
- 4. Avengers Doomsday Final Trailer | "We Are Doomed" · [https://youtube.com/watch?v=BV0nOUX3DcA](https://youtube.com/watch?v=BV0nOUX3DcA)
- 5. The Beatles - In My Life (Official Teaser Trailer starring Owen Cooper) · [https://youtube.com/watch?v=usvWh-7lPyw](https://youtube.com/watch?v=usvWh-7lPyw)
- 6. Maiara & Maraisa, Naiara, Fred & Fabricio - VOCÊ VAI VER/JEJUM DE AMOR  [ SERTANEJO SÉRIE A ] · [https://youtube.com/watch?v=wqn3za2Ze24](https://youtube.com/watch?v=wqn3za2Ze24)
- 7. COMPREI UMA CASA BARATA E DESCOBRI O MOTIVO | Scawy Game · [https://youtube.com/watch?v=9mtNxgTYZXI](https://youtube.com/watch?v=9mtNxgTYZXI)
- 8. Basara - Forjado no Fogo | Garp (One Piece) ft. Rhaychu · [https://youtube.com/watch?v=Ax-kqLsfIXQ](https://youtube.com/watch?v=Ax-kqLsfIXQ)
- 9. Shakira, Rihanna - Can't Remember To Forget You (Letra/Lyrics) · [https://youtube.com/watch?v=gcUsYEbm8UU](https://youtube.com/watch?v=gcUsYEbm8UU)
+ 4. Maiara & Maraisa, Naiara, Fred & Fabricio - UM NOVO AMOR  [ SERTANEJO SÉRIE A ] · [https://youtube.com/watch?v=qhQipGefVOg](https://youtube.com/watch?v=qhQipGefVOg)
+ 5. Tentei limpar a LUA INTEIRA com uma ESCOVA DE DENTE (Moon Sweepers) · [https://youtube.com/watch?v=AbwvD3kMCe0](https://youtube.com/watch?v=AbwvD3kMCe0)
+ 6. REVELANDO - A VÍGILIA | Ordem Paranormal RPG · [https://youtube.com/watch?v=Pvu_IeaZU3c](https://youtube.com/watch?v=Pvu_IeaZU3c)
+ 7. 💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶 · [https://youtube.com/watch?v=_-DycjQV2u0](https://youtube.com/watch?v=_-DycjQV2u0)
+ 8. REY VAQUEIRO 🔥 Repertório Especial 2026 | Só as Melhores do Forró de Vaquejada e Piseiro · [https://youtube.com/watch?v=1WhRJqAYpQ8](https://youtube.com/watch?v=1WhRJqAYpQ8)
+ 9. Willy Vaqueiro - OBRIGADO MEU DEUS (Clipe Oficial) · [https://youtube.com/watch?v=WnuySf4Mo-g](https://youtube.com/watch?v=WnuySf4Mo-g)
 10. O Problema dos 3 Corpos: Temporada 2 | Teaser oficial | Netflix · [https://youtube.com/watch?v=0ckRTchffS0](https://youtube.com/watch?v=0ckRTchffS0)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas · [https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml](https://g1.globo.com/economia/noticia/2026/11/17/o-que-e-o-ajuste-fiscal-que-o-mercado-cobra-de-lula-entenda-por-que-ele-desagrada-muita-gente-e-divide-economistas.ghtml)
- 2. Caças dos EUA atacam ilha do Irã · [https://g1.globo.com/mundo/noticia/2026/11/17/eua-atacam-ilha-do-ira.ghtml](https://g1.globo.com/mundo/noticia/2026/11/17/eua-atacam-ilha-do-ira.ghtml)
- 3. B3 anuncia nova metodologia com a inclusão de BDRs na Bolsa a partir de maio · [https://www.infomoney.com.br/mercados/b3-anuncia-nova-metodologia-com-a-inclusao-de-bdrs-na-bolsa-a-partir-de-maio/](https://www.infomoney.com.br/mercados/b3-anuncia-nova-metodologia-com-a-inclusao-de-bdrs-na-bolsa-a-partir-de-maio/)
- 4. Tesouro Direto hoje: prefixados recuam após disparada e IPCA+ tem movimento misto · [https://www.infomoney.com.br/onde-investir/tesouro-direto-hoje-prefixados-recuam-apos-disparada-e-ipca-tem-movimento-misto/](https://www.infomoney.com.br/onde-investir/tesouro-direto-hoje-prefixados-recuam-apos-disparada-e-ipca-tem-movimento-misto/)
- 5. Deputado do PL apresenta “lei Richthofen” contra o lucro com histórias de crimes · [https://www.infomoney.com.br/politica/deputado-do-pl-apresenta-lei-richthofen-contra-o-lucro-com-historias-de-crimes/](https://www.infomoney.com.br/politica/deputado-do-pl-apresenta-lei-richthofen-contra-o-lucro-com-historias-de-crimes/)
- 6. Como IPO da Anthropic pode gerar bilhões para Ashton Kutcher e empresário de Madonna · [https://www.infomoney.com.br/mercados/empresario-de-madonna-ashton-kutcher-ipo-anthropic/](https://www.infomoney.com.br/mercados/empresario-de-madonna-ashton-kutcher-ipo-anthropic/)
- 7. Lula sugeriu encontro entre Trump, Xi e Putin para discutir Ucrânia, diz Canadá · [https://www.infomoney.com.br/mundo/lula-sugeriu-encontro-entre-trump-xi-e-putin-para-discutir-ucrania-diz-canada/](https://www.infomoney.com.br/mundo/lula-sugeriu-encontro-entre-trump-xi-e-putin-para-discutir-ucrania-diz-canada/)
- 8. Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal · [https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml](https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml)
- 9. STJ suspende decisão que impedia cobrança de taxa da Uber para motoristas em todo o país · [https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/17/stj-cobranca-taxa-uber-motoristas.ghtml](https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/17/stj-cobranca-taxa-uber-motoristas.ghtml)
-10. Na expectativa de votar ajuste fiscal na Câmara, governo retira urgência de projeto sobre criminalização de bets · [https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml](https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml)
+ 1. Banco do Brasil alerta clientes sobre vazamento de dados pessoais e risco de golpes; veja o que foi exposto · [https://g1.globo.com/tecnologia/noticia/2026/11/18/banco-do-brasil-dados.ghtml](https://g1.globo.com/tecnologia/noticia/2026/11/18/banco-do-brasil-dados.ghtml)
+ 2. 'Estamos fartos': policiais cobram governo francês por aumento e falam em 'desgaste' após protestos · [https://g1.globo.com/mundo/noticia/2026/11/18/protesto-policiais-franca.ghtml](https://g1.globo.com/mundo/noticia/2026/11/18/protesto-policiais-franca.ghtml)
+ 3. Por que o real caiu mais que outras moedas? Commodities explicam só parte · [https://www.infomoney.com.br/mercados/real-cai-mais-outras-moedas-commodities-dolar/](https://www.infomoney.com.br/mercados/real-cai-mais-outras-moedas-commodities-dolar/)
+ 4. Chefe da PF vai entregar a Fachin relatórios produzidos por delegados afastados · [https://www.infomoney.com.br/politica/chefe-da-pf-vai-entregar-a-fachin-relatorios-produzidos-por-delegados-afastados/](https://www.infomoney.com.br/politica/chefe-da-pf-vai-entregar-a-fachin-relatorios-produzidos-por-delegados-afastados/)
+ 5. Dólar hoje sobe mais de 1%, a R$ 5,87, com foco em pacote fiscal e ata do Fed · [https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-18112026/](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-18112026/)
+ 6. Após tombo da Bolsa: 3 ações para ficar de olho e 2 setores para evitar · [https://www.infomoney.com.br/mercados/apos-tombo-da-bolsa-3-acoes-para-ficar-de-olho-2-setores-para-evitar/](https://www.infomoney.com.br/mercados/apos-tombo-da-bolsa-3-acoes-para-ficar-de-olho-2-setores-para-evitar/)
+ 7. Dirigentes do Fed projetam altas de juros e tem cautela com IA na inflação, diz ata · [https://www.infomoney.com.br/mercados/dirigentes-do-fed-projetam-altas-de-juros-e-tem-cautela-com-ia-na-inflacao-diz-ata/](https://www.infomoney.com.br/mercados/dirigentes-do-fed-projetam-altas-de-juros-e-tem-cautela-com-ia-na-inflacao-diz-ata/)
+ 8. PIB de 0,5%, inflação de 5,5% e juros altos: os desafios do Brasil em 2027 · [https://www.infomoney.com.br/economia/pib-de-05-inflacao-de-55-e-juros-altos-os-desafios-do-brasil-em-2027/](https://www.infomoney.com.br/economia/pib-de-05-inflacao-de-55-e-juros-altos-os-desafios-do-brasil-em-2027/)
+ 9. Anthropic desafia a turbulência do mercado e se aproxima do maior IPO da história · [https://www.infomoney.com.br/mercados/anthropic-desafia-a-turbulencia-do-mercado-e-se-aproxima-do-maior-ipo-da-historia/](https://www.infomoney.com.br/mercados/anthropic-desafia-a-turbulencia-do-mercado-e-se-aproxima-do-maior-ipo-da-historia/)
+10. Toyota Tacoma feita na Argentina será vendida no Brasil · [https://g1.globo.com/carros/noticia/2026/11/18/toyota-tacoma-feita-na-argentina-sera-vendida-no-brasil.ghtml](https://g1.globo.com/carros/noticia/2026/11/18/toyota-tacoma-feita-na-argentina-sera-vendida-no-brasil.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,23 +54,24 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 2
+#### 📺 YouTube (US) — Top 3
 
- 1. JAMES BOND TRAILER 2028 Robert Pattinson · [https://youtube.com/watch?v=Y6cPcmQDtio](https://youtube.com/watch?v=Y6cPcmQDtio)
+ 1. AVENGERS DOOMSDAY NEW PROMO X-Men, Doctor Doom & Kang · [https://youtube.com/watch?v=jJlxLNeiCvw](https://youtube.com/watch?v=jJlxLNeiCvw)
  2. Honest Trailers | Resident Evil (2026) · [https://youtube.com/watch?v=N4T1WcU4qHA](https://youtube.com/watch?v=N4T1WcU4qHA)
+ 3. LILO & SCRATCH Official First Look Teaser (2026) · [https://youtube.com/watch?v=EU_jeuxn2ag](https://youtube.com/watch?v=EU_jeuxn2ag)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. FAA pauses tech upgrade linked to nationwide ground stop · [https://www.axios.com/2026/11/17/faa-air-traffic-control-router-upgrade-ground-stop](https://www.axios.com/2026/11/17/faa-air-traffic-control-router-upgrade-ground-stop)
- 2. CNBC host presses Mullin on flight to football game amid FAA outage fallout · [https://thehill.com/homenews/administration/6226126-homeland-security-secretary-lsu-game/](https://thehill.com/homenews/administration/6226126-homeland-security-secretary-lsu-game/)
- 3. What to know about Iran's 'dirty bomb' threat · [https://thehill.com/policy/national-security/6226127-iranian-dirty-bomb-threat-warning/](https://thehill.com/policy/national-security/6226127-iranian-dirty-bomb-threat-warning/)
- 4. Kalshi halts Trump mention markets · [https://thehill.com/policy/technology/6225878-kalshi-halts-mention-markets-donald-trump/](https://thehill.com/policy/technology/6225878-kalshi-halts-mention-markets-donald-trump/)
- 5. Vance, Duffy give absurd responses to FAA outage · [https://thehill.com/opinion/lindseys-lens/6226114-faa-system-failure-trump/](https://thehill.com/opinion/lindseys-lens/6226114-faa-system-failure-trump/)
- 6. Donald Trump wants Jensen Huang back, casts doubt on Chinese spy story · [https://thehill.com/opinion/robbys-radar/6226022-trump-jensen-huang-nvidia/](https://thehill.com/opinion/robbys-radar/6226022-trump-jensen-huang-nvidia/)
- 7. FAA halts router upgrades after ground stop fuels infrastructure concerns · [https://thehill.com/policy/transportation/6225978-faa-halts-router-upgrades/](https://thehill.com/policy/transportation/6225978-faa-halts-router-upgrades/)
- 8. Van Hollen's 2016 opponent backs his bid for majority leader · [https://thehill.com/the-120/6226013-donna-edwards-supports-van-hollen/](https://thehill.com/the-120/6226013-donna-edwards-supports-van-hollen/)
- 9. Many Americans view Schumer unfavorably as leadership fight heats up: Poll · [https://thehill.com/the-120/6225885-chuck-schumer-democrats-unpopularity-poll-results/](https://thehill.com/the-120/6225885-chuck-schumer-democrats-unpopularity-poll-results/)
-10. Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet · [https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain](https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain)
+ 1. Trust, but prepare: How to make sense of AI's age of upheaval · [https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare](https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare)
+ 2. House panel requests briefings from interim Nvidia CEO, Lutnick · [https://thehill.com/homenews/house/6228335-house-committee-energy-commerce-nvidia-hearings/](https://thehill.com/homenews/house/6228335-house-committee-energy-commerce-nvidia-hearings/)
+ 3. Lawmakers push for Medicare coverage of Alzheimer’s screening tests · [https://thehill.com/policy/healthcare/6228435-lawmakers-push-asap-act/](https://thehill.com/policy/healthcare/6228435-lawmakers-push-asap-act/)
+ 4. Watch live: Johnson honors late Egyptian President Anwar Sadat with Congressional Gold Medal · [https://thehill.com/homenews/house/6228424-watch-live-mike-johnson-anwar-sadat-congressional-gold-medal/](https://thehill.com/homenews/house/6228424-watch-live-mike-johnson-anwar-sadat-congressional-gold-medal/)
+ 5. Mullin defends taking government plane to LSU-Texas game after nationwide ground stop · [https://thehill.com/homenews/administration/6228456-homeland-security-secretary-flight-controversy/](https://thehill.com/homenews/administration/6228456-homeland-security-secretary-flight-controversy/)
+ 6. Joe Biden reveals Nancy Pelosi force him out, exposed false polling · [https://thehill.com/opinion/robbys-radar/6228468-pelosi-forced-biden-withdrawal/](https://thehill.com/opinion/robbys-radar/6228468-pelosi-forced-biden-withdrawal/)
+ 7. Ex-Penn State student faces federal charges after fraternity drug bust · [https://thehill.com/homenews/state-watch/6228451-penn-state-student-cocaine-trafficking/](https://thehill.com/homenews/state-watch/6228451-penn-state-student-cocaine-trafficking/)
+ 8. Senate further advances bipartisan permitting reform bill · [https://thehill.com/policy/energy-environment/6227652-baaja-bipartisan-permitting-reform-bill-vote/](https://thehill.com/policy/energy-environment/6227652-baaja-bipartisan-permitting-reform-bill-vote/)
+ 9. FAA chief, lawmakers tussle over $50B funding request: 4 takeaways · [https://thehill.com/policy/transportation/6228226-faa-funding-debate-aviation-safety/](https://thehill.com/policy/transportation/6228226-faa-funding-debate-aviation-safety/)
+10. Federalist Society weighs midterm shock, Trump’s judicial legacy and Supreme Court · [https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6228325-federalist-society-midterm-shock-trump-legacy-supreme-court-discussion/](https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6228325-federalist-society-midterm-shock-trump-legacy-supreme-court-discussion/)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -92,12 +93,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **ajuste fiscal** | impacto do ajuste fiscal brasileiro na vida de imigrantes nos EUA | O governo brasileiro está discutindo um ajuste fiscal que pode afetar a economia e a vida dos brasileiros no exterior. |
-| 2 🟠 🎬 | **visto americano** | o que precisa saber sobre o visto americano em 2023 | Com a nova onda de imigração e a busca por vistos, muitos brasileiros estão se informando sobre o processo. |
-| 3 🟡 🎬 | **custo de vida** | comparação do custo de vida entre Brasil e EUA | Com a alta do dólar e a inflação, há um aumento no interesse por comparações de custo de vida. |
-| 4 🟡 🎬 | **tecnologia** | atualizações sobre o FAA e o impacto na aviação | Recentes falhas no sistema da FAA levantaram preocupações sobre a infraestrutura aérea nos EUA. |
-| 5 🟡 🎬 | **imigração** | como as tensões internacionais afetam a imigração para os EUA | As relações entre países, como EUA e Irã, podem impactar as políticas de imigração e segurança. |
-| 6 🟡 🎬 | **emprego** | tendências de trabalho remoto e como isso afeta brasileiros | O home office continua a ser um tema relevante, com muitas empresas mudando suas políticas. |
-| 7 🟡 🎬 | **negócios** | como abrir um negócio nos EUA | Com o aumento do empreendedorismo, muitos brasileiros estão interessados em abrir empresas nos EUA. |
-| 8 🟡 🎬 | **crimes** | legislação sobre crimes nos EUA e seu impacto | Novas leis estão sendo discutidas e podem afetar a segurança e direitos dos imigrantes. |
-| 9 🟡 🎬 | **viagem** | preparações para viajar para os EUA em 2023 | Com a retomada das viagens, muitos brasileiros estão se preparando para viajar aos EUA. |
+| 1 🟠 🎯 | **Dólar hoje** | Como a alta do dólar afeta brasileiros nos EUA | O dólar está em alta, atingindo R$ 5,87, com foco em fatores econômicos que impactam sua valorização. |
+| 2 🟡 🎬 | **Imposto** | Mudanças na legislação fiscal nos EUA e seus impactos | Discussões sobre possíveis alterações nas alíquotas de impostos que podem afetar a vida financeira dos imigrantes. |
+| 3 🟡 🎬 | **Inteligência Artificial** | Como usar ferramentas de IA para trabalho e renda extra | O aumento do uso de ferramentas de IA está transformando o mercado de trabalho e criando novas oportunidades. |
+| 4 🟡 🎬 | **Negócios** | Como abrir uma empresa nos EUA como imigrante | O número de brasileiros empreendendo nos EUA está crescendo, especialmente em setores de tecnologia e serviços. |
+| 5 🟡 🎬 | **Custo de Vida** | Comparação de custo de vida entre Brasil e EUA | Com a alta do dólar e inflação nos EUA, muitos brasileiros estão reconsiderando sua permanência no país. |
+| 6 🟡 🎯 | **Renda Extra** | Oportunidades de renda extra com marketing digital | O marketing digital continua a crescer, com cada vez mais pessoas buscando maneiras de aumentar sua renda. |
+| 7 🟡 🎬 | **Viagem** | Quanto custa viajar para os EUA atualmente? | O aumento do dólar e os custos de viagem estão em debate, especialmente com as festas de fim de ano se aproximando. |
+| 8 🟢 ⚡ | **Entretenimento** | Memes sobre a vida de imigrante nos EUA | Memes e conteúdo humorístico sobre a experiência de ser imigrante estão se espalhando nas redes sociais. |
+| 9 🟢 🎬 | **Economia** | Desafios econômicos do Brasil em 2027 | As previsões econômicas para o Brasil estão gerando discussões sobre possíveis oportunidades e riscos para imigrantes. |
