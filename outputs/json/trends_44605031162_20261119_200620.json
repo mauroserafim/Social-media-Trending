@@ -1,0 +1,975 @@
+{
+  "generated_at": "2026-11-19T20:06:20.440883",
+  "run_id": "44605031162",
+  "summary": {
+    "total_br": 30,
+    "total_us": 23,
+    "br_us_connections": 10,
+    "cross_platform_topics": 15,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "Avengers: Doomsday | The Return | In Theaters December 18",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Fg0jyss_YnU",
+          "score": 31.55,
+          "region": "BR",
+          "views": 6726754
+        },
+        {
+          "title": "Taylor Swift - I Knew It, I Knew You x Our Song (Live From The 60th CMA Awards)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=LJC7mgjp5FQ",
+          "score": 16.81,
+          "region": "BR",
+          "views": 1400745
+        },
+        {
+          "title": "Dandy's World 1.0 Devlog 💉 Play Nov. 20th, 2026!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=61zPppIwcQo",
+          "score": 14.16,
+          "region": "BR",
+          "views": 686537
+        },
+        {
+          "title": "Luan Santana - AMÉM",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=9XgHfwMXD2o",
+          "score": 12.56,
+          "region": "BR",
+          "views": 614584
+        },
+        {
+          "title": "Maiara & Maraisa, Naiara, Fred & Fabricio - SHOW COMPLETO  [ SERTANEJO SÉRIE A ]",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=PnQrO_gQBsE",
+          "score": 2.44,
+          "region": "BR",
+          "views": 1460633
+        },
+        {
+          "title": "DOOMSDAY: NOVO TEASER OFICIAL ENTREGA MUITO!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=1eeCyu6ObYQ",
+          "score": 0.64,
+          "region": "BR",
+          "views": 130103
+        },
+        {
+          "title": "Dance Se Souber 2026 {tiktok} | Músicas Atualizadas 🎶💜",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=sDku2U_NIt4",
+          "score": 0.51,
+          "region": "BR",
+          "views": 25757
+        },
+        {
+          "title": "Kemilly Santos e Misaias Oliveira | Vai Tudo Bem [Clipe Oficial]",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=0Ca7Zk3QTG0",
+          "score": 0.45,
+          "region": "BR",
+          "views": 29512
+        },
+        {
+          "title": "O Rouxinol | Teaser Trailer Oficial Dublado",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=uRor8IyKE_0",
+          "score": 0.44,
+          "region": "BR",
+          "views": 24506
+        },
+        {
+          "title": "100 Louvores Para Expulsar Todo Mal da Sua Vida | Top Gospel 2026: Hinos Poderosos de Fé e Oração",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=3xdyCEDEzrc",
+          "score": 0.41,
+          "region": "BR",
+          "views": 78038
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Mercado de câmbio trava após fala de Lula sobre escolha de ministros e BC intervém com leilão de dólar",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/mercado-de-cambio-trava-apos-fala-de-lula-sobre-escolha-de-ministros-e-bc-intervem-com-leilao-de-dolar.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Após queda da Bolsa, por que analista prefere exportadoras a ações ligadas aos juros?",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/apos-queda-da-bolsa-por-que-analista-prefere-exportadoras-acoes-ligadas-aos-juros/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ações da AMD caem forte após fundo alegar “negócio potencialmente arriscado na China”",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/acoes-da-amd-caem-forte-apos-fundo-alegar-negocio-potencialmente-arriscado-na-china/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Lula pode definir nome da Fazenda na próxima semana; Fonteles e Alckmin são favoritos",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/lula-pode-definir-nome-da-fazenda-na-proxima-semana-fonteles-e-alckmin-sao-favoritos/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Trump comprou até US$ 265.000 em ações da Nvidia em setembro",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/trump-comprou-ate-us-265-000-em-acoes-da-nvidia-em-setembro/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Retração de 1,1% ou alta de 1,6%? XP avalia o que pode destravar o PIB de 2027",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/economia/pib-de-2027-xp-projecao-cenarios-economia/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Gastos públicos federais no ano superam valor de mercado de todas as empresas da B3",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/gastos-publicos-federais-no-ano-superam-valor-de-mercado-de-todas-as-empresas-da-b3/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Fachin nega soltura de primo de Vorcaro apontado como ‘ponte’ para propina a senador",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/brasil/fachin-nega-soltura-de-primo-de-vorcaro-apontado-como-ponte-para-propina-a-senador/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Senado aprova regras para compartilhamento de postes entre energia e telecomunicações",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/brasil/senado-aprova-regras-para-compartilhamento-de-postes-entre-energia-e-telecomunicacoes/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Relatórios sobre ministros não chegaram à PGR e podem ultrapassar prazo de Fachin",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/relatorios-sobre-ministros-nao-chegaram-a-pgr-e-podem-ultrapassar-prazo-de-fachin/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "AVENGERS 5: DOOMSDAY Official “Doctor Doom” Special Look (2026) Marvel",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=2tHNP_le1gM",
+          "score": 3.33,
+          "region": "US",
+          "views": 703259
+        },
+        {
+          "title": "AVENGERS DOOMSDAY TRAILER Doctor Doom and Iron Man Legacy",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Qi0Pc-cEKD8",
+          "score": 1.73,
+          "region": "US",
+          "views": 261380
+        },
+        {
+          "title": "Top 100 Christmas Songs of All Time 2027 🎅 Best Pop Christmas Hits & Holiday Music Playlist 🎁🎄",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Ri5o5HPwxSQ",
+          "score": 0.41,
+          "region": "US",
+          "views": 99135
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "DOJ, DHS launch hub to fight cybercrime",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6231274-dhs-doj-cybercrime-hub/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Senate Republicans reject war powers resolution to end Iran war",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/senate/6231044-senate-republicans-war-powers-resolution-vote-fails/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "O’Reilly suggests building technology like Iron Dome to prevent hackers: ‘They’re not going away’",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/technology/6231139-oreilly-proposes-infrastructure-defense/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Pentagon has no department-wide plan to address munitions shortages, watchdog report finds",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/defense/6231155-pentagon-lacks-munitions-plan-gao/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump brushes off Musk distancing from MAGA",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6231156-trump-musk-maga-distance/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "UN court rules that Myanmar committed genocide against Rohingya",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "The 'Magic Six': How to strengthen your marriage in midlife",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "The midterms were the largest win for either party in 50 years",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 17,
+      "score": 53.33,
+      "sample_titles": [
+        "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
+        "Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel",
+        "Trump comprou até US$ 265 mil em ações da Nvidia enquanto governo avaliava regras para chips",
+        "Thanksgiving Prices Jump 11% Under Trump, Gobbling Up More of Families’ Budgets",
+        "Stars who told Trump to stop using their music: From Beyonce to Adele"
+      ]
+    },
+    {
+      "topic": "anthropic",
+      "count": 8,
+      "score": 63.33,
+      "sample_titles": [
+        "Você pode investir no Claude por menos de R$ 100; IPO da Anthropic é nesta quinta",
+        "Anthropic entra para grupo das empresas mais valiosas do mundo; veja ranking",
+        "Anthropic abre a US$ 111,50 por ação, alta de 34,3%; valor da empresa chega a US$ 2 trilhões",
+        "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+        "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO"
+      ]
+    },
+    {
+      "topic": "nvidia",
+      "count": 8,
+      "score": 60.0,
+      "sample_titles": [
+        "Trump comprou até US$ 265 mil em ações da Nvidia enquanto governo avaliava regras para chips",
+        "Trump comprou até US$ 265.000 em ações da Nvidia em setembro",
+        "Nvidia interim CEO Colette Kress tells staff not to worry about their pay",
+        "Nvidia hold first earnings call since former CEO's departure",
+        "Nvidia needs more than a new CEO. An expert offers a way forward"
+      ]
+    },
+    {
+      "topic": "china",
+      "count": 6,
+      "score": 70.0,
+      "sample_titles": [
+        "Música usada por Trump em eventos, YMCA é tocada durante visita à China",
+        "VÍDEO: Trump fecha os olhos e aparenta 'cochilar' durante discurso de Xi Jinping na China",
+        "Europa se preocupa com resultado de reunião trilateral entre Estados Unidos, China e Rússia",
+        "New alarm over China controlling drug supply chains"
+      ]
+    },
+    {
+      "topic": "doomsday",
+      "count": 5,
+      "score": 19.45,
+      "sample_titles": [
+        "Avengers: Doomsday | The Return | In Theaters December 18",
+        "DOOMSDAY: NOVO TEASER OFICIAL ENTREGA MUITO!",
+        "AVENGERS DOOMSDAY TRAILER Doctor Doom and Iron Man Legacy",
+        "AVENGERS 5: DOOMSDAY Official “Doctor Doom” Special Look (2026) Marvel",
+        "Doomsday prepping goes mainstream"
+      ]
+    },
+    {
+      "topic": "putin",
+      "count": 4,
+      "score": 65.0,
+      "sample_titles": [
+        "Trump, Xi e Putin ignoram guerras e passam ao largo do multilateralismo em 'declaração de paz'",
+        "Putin diz que reunião com Trump e Xi não definiu compromissos obrigatórios; Rússia pode participar de encontro do G20",
+        "Veja principais declarações de Trump, Putin e Xi em reunião trilateral histórica",
+        "Trump, Xi and Putin meet as global alliances hang in the balance"
+      ]
+    },
+    {
+      "topic": "rohingya",
+      "count": 3,
+      "score": 73.33,
+      "sample_titles": [
+        "Mianmar cometeu genocídio contra os muçulmanos rohingya, diz ONU",
+        "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+        "UN court rules that Myanmar committed genocide against Rohingya"
+      ]
+    },
+    {
+      "topic": "trump putin",
+      "count": 3,
+      "score": 66.67,
+      "sample_titles": [
+        "Trump, Xi e Putin ignoram guerras e passam ao largo do multilateralismo em 'declaração de paz'",
+        "Veja principais declarações de Trump, Putin e Xi em reunião trilateral histórica",
+        "Trump, Xi and Putin meet as global alliances hang in the balance"
+      ]
+    },
+    {
+      "topic": "december",
+      "count": 3,
+      "score": 37.18,
+      "sample_titles": [
+        "Avengers: Doomsday | The Return | In Theaters December 18",
+        "Fed Minutes Show Officials Raised Possibility of Bigger December Hike",
+        "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes"
+      ]
+    },
+    {
+      "topic": "avengers",
+      "count": 3,
+      "score": 12.2,
+      "sample_titles": [
+        "Avengers: Doomsday | The Return | In Theaters December 18",
+        "AVENGERS DOOMSDAY TRAILER Doctor Doom and Iron Man Legacy",
+        "AVENGERS 5: DOOMSDAY Official “Doctor Doom” Special Look (2026) Marvel"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "vídeo",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 53.36,
+      "sample_titles": [
+        "VITINHO - Sobrenome/Daria Tudo/12 de Junho (Vídeo Oficial)",
+        "Pacientes com câncer jogam cinzas em comissário europeu em protesto contra agrotóxicos; VÍDEO",
+        "VÍDEO: Trump fecha os olhos e aparenta 'cochilar' durante discurso de Xi Jinping na China"
+      ]
+    },
+    {
+      "topic": "dólar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 46.0,
+      "sample_titles": [
+        "Dólar forte e juros nos EUA levam TS Lombard a reduzir exposição ao Brasil",
+        "Apesar de estresse no câmbio, dólar corrigido pela inflação está longe do pico de R$ 8,45 de 2002",
+        "Dólar sobe a R$ 5,80, em linha com tendência global e de olho em ajuste fiscal",
+        "Mercado de câmbio trava após fala de Lula sobre escolha de ministros e BC intervém com leilão de dólar",
+        "dólar hoje"
+      ]
+    },
+    {
+      "topic": "brasil",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.06,
+      "sample_titles": [
+        "Os Crentes | Trailer oficial | Netflix Brasil",
+        "PIB de 0,5%, inflação de 5,5% e juros altos: os desafios do Brasil em 2027",
+        "Dólar forte e juros nos EUA levam TS Lombard a reduzir exposição ao Brasil",
+        "Toyota promete nova Hilux para 2027 e confirma Tacoma híbrida flex no Brasil",
+        "Qual é o preço de GTA 6 no Brasil? Veja valores para PS5 e Xbox"
+      ]
+    },
+    {
+      "topic": "december",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 37.18,
+      "sample_titles": [
+        "Avengers: Doomsday | The Return | In Theaters December 18",
+        "Fed Minutes Show Officials Raised Possibility of Bigger December Hike",
+        "Fed officials expect to hike rates in December after last meeting marked by dissension: minutes"
+      ]
+    },
+    {
+      "topic": "world",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 37.08,
+      "sample_titles": [
+        "Dandy's World 1.0 Devlog 💉 Play Nov. 20th, 2026!",
+        "World Toilet Day is a funny idea with a serious goal: A world awash in toilets"
+      ]
+    },
+    {
+      "topic": "empresa",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 36.67,
+      "sample_titles": [
+        "Fernanda Cortes: 5 passos para empresários que querem abrir um negócio nos EUA",
+        "Anthropic abre a US$ 111,50 por ação, alta de 34,3%; valor da empresa chega a US$ 2 trilhões",
+        "abrir empresa nos EUA"
+      ]
+    },
+    {
+      "topic": "brasileiro",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 36.67,
+      "sample_titles": [
+        "De Timbaúba a Massachusetts: o brasileiro que chegou aos 14 anos aos EUA e hoje faz leis para proteger imigrantes",
+        "Portos e hidrovias podem limitar o avanço do agro brasileiro? Entenda o desafio da infraestrutura",
+        "brasileiro nos EUA"
+      ]
+    },
+    {
+      "topic": "estados unidos",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Europa se preocupa com resultado de reunião trilateral entre Estados Unidos, China e Rússia",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "unidos",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Europa se preocupa com resultado de reunião trilateral entre Estados Unidos, China e Rússia",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "estados",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Europa se preocupa com resultado de reunião trilateral entre Estados Unidos, China e Rússia",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "melhores",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 33.39,
+      "sample_titles": [
+        "RAÇA NEGRA 💥 AS MELHORES MÚSICAS ROMÂNTICAS 💕 SÓ RECORDAÇÕES ANTIGAS",
+        "PABLO - SÓ AS MELHORES - MÚSICAS ANTIGAS  - PABLO DO ARROCHA",
+        "Romance de Itamar Vieira Junior entra na lista de melhores livros do ano do FT"
+      ]
+    },
+    {
+      "topic": "inflation",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 30.0,
+      "sample_titles": [
+        "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
+        "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+        "inflation"
+      ]
+    },
+    {
+      "topic": "imposto",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
+        "imposto nos EUA"
+      ]
+    },
+    {
+      "topic": "business",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "Nvidia tries to get back to business",
+        "start a business USA"
+      ]
+    },
+    {
+      "topic": "holiday",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 20.2,
+      "sample_titles": [
+        "Top 100 Christmas Songs of All Time 2027 🎅 Best Pop Christmas Hits & Holiday Music Playlist 🎁🎄",
+        "Dream job? Chennai company announces paid holiday so employees can play GTA 6"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "Dólar",
+      "subtopic": "Como a alta do dólar afeta brasileiros nos EUA",
+      "why_trending": "O dólar está em alta, com uma recente cotação de R$ 5,80, refletindo tendências globais e ajustes fiscais nos EUA.",
+      "niche_angle": "Explorar como a valorização do dólar impacta a vida financeira dos brasileiros imigrantes, desde remessas até compras em moeda local.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "news",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/mercado-de-cambio-trava-apos-fala-de-lula-sobre-escolha-de-ministros-e-bc-intervem-com-leilao-de-dolar.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-19T20:06:20.435993"
+    },
+    {
+      "main_topic": "Empreendedorismo",
+      "subtopic": "Como abrir uma empresa nos EUA",
+      "why_trending": "O interesse por abrir negócios nos EUA continua crescendo, com novos empreendedores buscando informações práticas.",
+      "niche_angle": "Fornecer um guia passo a passo sobre o processo de abertura de empresas, incluindo custos e documentação necessária para brasileiros.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mercados/apos-queda-da-bolsa-por-que-analista-prefere-exportadoras-acoes-ligadas-aos-juros/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-19T20:06:20.436002"
+    },
+    {
+      "main_topic": "Custo de Vida",
+      "subtopic": "Comparação de salários e custos nos EUA e Brasil",
+      "why_trending": "A inflação e os altos custos de vida estão gerando debates sobre a viabilidade de viver nos EUA em comparação ao Brasil.",
+      "niche_angle": "Analisar como o custo de vida e os salários se comparam entre os dois países, ajudando imigrantes a planejarem suas finanças.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "news",
+      "region": "BR|US",
+      "links": [
+        "https://www.infomoney.com.br/economia/pib-de-2027-xp-projecao-cenarios-economia/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-19T20:06:20.436006"
+    },
+    {
+      "main_topic": "Inflação",
+      "subtopic": "Impacto da inflação nos EUA em brasileiros",
+      "why_trending": "As preocupações com a inflação estão em alta, com autoridades do Fed discutindo aumentos nas taxas de juros para controle.",
+      "niche_angle": "Discutir como a inflação nos EUA afeta a vida dos brasileiros, desde o custo de produtos até investimentos.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mercados/acoes-da-amd-caem-forte-apos-fundo-alegar-negocio-potencialmente-arriscado-na-china/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-19T20:06:20.436010"
+    },
+    {
+      "main_topic": "Cibersegurança",
+      "subtopic": "Como se proteger de ataques cibernéticos",
+      "why_trending": "Recentes ataques cibernéticos a instituições financeiras e empresas como iFood mostram a vulnerabilidade digital.",
+      "niche_angle": "Fornecer dicas práticas para brasileiros nos EUA sobre como proteger suas informações e finanças online.",
+      "video_format": "short",
+      "urgency": "medium",
+      "ease": 8,
+      "source": "news",
+      "region": "BR|US",
+      "links": [
+        "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/19/instituicoes-financeiras-ataque-cibernetico.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-19T20:06:20.436015"
+    },
+    {
+      "main_topic": "Vida nos EUA",
+      "subtopic": "Desafios enfrentados por brasileiros imigrantes",
+      "why_trending": "Histórias inspiradoras de brasileiros que superaram dificuldades nos EUA estão ganhando destaque.",
+      "niche_angle": "Compartilhar relatos reais de brasileiros que enfrentam desafios, destacando como eles lidam com o dia a dia.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/19/trump-acoes-nvidia.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-19T20:06:20.436018"
+    },
+    {
+      "main_topic": "Tecnologia",
+      "subtopic": "Impacto da IA na vida cotidiana",
+      "why_trending": "A discussão sobre o impacto da inteligência artificial e automação está crescendo, especialmente em setores de trabalho.",
+      "niche_angle": "Explorar como a IA está mudando o mercado de trabalho e oportunidades de renda extra para brasileiros nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://thehill.com/policy/technology/6231139-oreilly-proposes-infrastructure-defense/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-19T20:06:20.436021"
+    },
+    {
+      "main_topic": "Empreendedorismo",
+      "subtopic": "Renda extra nos EUA",
+      "why_trending": "A busca por novas fontes de renda está em alta à medida que as pessoas procuram melhorar sua situação financeira.",
+      "niche_angle": "Discutir opções viáveis de renda extra para brasileiros nos EUA, incluindo trabalhos remotos e freelancing.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/mercados/gastos-publicos-federais-no-ano-superam-valor-de-mercado-de-todas-as-empresas-da-b3/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-19T20:06:20.436028"
+    },
+    {
+      "main_topic": "Viagem",
+      "subtopic": "Dicas de turismo nos EUA",
+      "why_trending": "Com a volta do turismo pós-pandemia, brasileiros estão buscando informações sobre viagens e custos nos EUA.",
+      "niche_angle": "Oferecer um guia prático sobre como planejar viagens nos EUA, focando em custos e experiências para brasileiros.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 7,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/19/romance-de-itamar-vieira-junior-entra-na-lista-de-melhores-livros-do-ano-do-ft/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-19T20:06:20.436034"
+    }
+  ]
+}
