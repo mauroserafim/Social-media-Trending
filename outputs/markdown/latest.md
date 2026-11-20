@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 19/11/2026 20:06 UTC
+# 📊 Tendências em Alta — 20/11/2026 19:42 UTC
 
-**Run:** `44605031162` | **BR:** 30 trends | **US:** 23 trends | **Nicho:** 9 ideias
+**Run:** `44804525022` | **BR:** 30 trends | **US:** 22 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. Avengers: Doomsday | The Return | In Theaters December 18 · [https://youtube.com/watch?v=Fg0jyss_YnU](https://youtube.com/watch?v=Fg0jyss_YnU)
- 2. Taylor Swift - I Knew It, I Knew You x Our Song (Live From The 60th CMA Awards) · [https://youtube.com/watch?v=LJC7mgjp5FQ](https://youtube.com/watch?v=LJC7mgjp5FQ)
- 3. Dandy's World 1.0 Devlog 💉 Play Nov. 20th, 2026! · [https://youtube.com/watch?v=61zPppIwcQo](https://youtube.com/watch?v=61zPppIwcQo)
- 4. Luan Santana - AMÉM · [https://youtube.com/watch?v=9XgHfwMXD2o](https://youtube.com/watch?v=9XgHfwMXD2o)
- 5. Maiara & Maraisa, Naiara, Fred & Fabricio - SHOW COMPLETO  [ SERTANEJO SÉRIE A ] · [https://youtube.com/watch?v=PnQrO_gQBsE](https://youtube.com/watch?v=PnQrO_gQBsE)
- 6. DOOMSDAY: NOVO TEASER OFICIAL ENTREGA MUITO! · [https://youtube.com/watch?v=1eeCyu6ObYQ](https://youtube.com/watch?v=1eeCyu6ObYQ)
- 7. Dance Se Souber 2026 {tiktok} | Músicas Atualizadas 🎶💜 · [https://youtube.com/watch?v=sDku2U_NIt4](https://youtube.com/watch?v=sDku2U_NIt4)
- 8. Kemilly Santos e Misaias Oliveira | Vai Tudo Bem [Clipe Oficial] · [https://youtube.com/watch?v=0Ca7Zk3QTG0](https://youtube.com/watch?v=0Ca7Zk3QTG0)
- 9. O Rouxinol | Teaser Trailer Oficial Dublado · [https://youtube.com/watch?v=uRor8IyKE_0](https://youtube.com/watch?v=uRor8IyKE_0)
-10. 100 Louvores Para Expulsar Todo Mal da Sua Vida | Top Gospel 2026: Hinos Poderosos de Fé e Oração · [https://youtube.com/watch?v=3xdyCEDEzrc](https://youtube.com/watch?v=3xdyCEDEzrc)
+ 1. CL - ‘ICONIC’ M/V · [https://youtube.com/watch?v=A_H1EH6p4A0](https://youtube.com/watch?v=A_H1EH6p4A0)
+ 2. skibidi toilet 83 (part 2) · [https://youtube.com/watch?v=hMapmHG0nIs](https://youtube.com/watch?v=hMapmHG0nIs)
+ 3. NAYEON “BABY ANGEL” M/V · [https://youtube.com/watch?v=0JQ9k6kcKVs](https://youtube.com/watch?v=0JQ9k6kcKVs)
+ 4. Hungria - Viver do que Postar (Videoclipe Oficial) #Constelação · [https://youtube.com/watch?v=Uz6VWW2WvjE](https://youtube.com/watch?v=Uz6VWW2WvjE)
+ 5. Zezé Di Camargo, Alexandre Pires | Depois do Prazer - Rústico - Essência (Videoclipe Oficial) · [https://youtube.com/watch?v=aHzvSmHPEtg](https://youtube.com/watch?v=aHzvSmHPEtg)
+ 6. HOLLYWOOD - LUAN PEREIRA, HEITOR SANTOS (EU TE AMO RODEIO) · [https://youtube.com/watch?v=Ze0yT4CqlOk](https://youtube.com/watch?v=Ze0yT4CqlOk)
+ 7. SANTOS BRAVOS x &TEAM - “ORIGAMI” OFFICIAL MV · [https://youtube.com/watch?v=j_Z3_4aFQxQ](https://youtube.com/watch?v=j_Z3_4aFQxQ)
+ 8. Abelha Sem Mel - Fiorella, Guilherme & Benuto  | 019 Sertanejo · [https://youtube.com/watch?v=ZEFj7R1t7qA](https://youtube.com/watch?v=ZEFj7R1t7qA)
+ 9. Teaser “Saga O Senhor dos Anéis” | 26.11 no Canal PeeWee · [https://youtube.com/watch?v=lg07psJshB4](https://youtube.com/watch?v=lg07psJshB4)
+10. 🔥 DJ PARTY 71 – REWIND THE NIGHT | Eurodance / Hip House / Techno #2026music · [https://youtube.com/watch?v=n4g3syf8DJ0](https://youtube.com/watch?v=n4g3syf8DJ0)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Mercado de câmbio trava após fala de Lula sobre escolha de ministros e BC intervém com leilão de dólar · [https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/mercado-de-cambio-trava-apos-fala-de-lula-sobre-escolha-de-ministros-e-bc-intervem-com-leilao-de-dolar.ghtml](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/mercado-de-cambio-trava-apos-fala-de-lula-sobre-escolha-de-ministros-e-bc-intervem-com-leilao-de-dolar.ghtml)
- 2. Após queda da Bolsa, por que analista prefere exportadoras a ações ligadas aos juros? · [https://www.infomoney.com.br/mercados/apos-queda-da-bolsa-por-que-analista-prefere-exportadoras-acoes-ligadas-aos-juros/](https://www.infomoney.com.br/mercados/apos-queda-da-bolsa-por-que-analista-prefere-exportadoras-acoes-ligadas-aos-juros/)
- 3. Ações da AMD caem forte após fundo alegar “negócio potencialmente arriscado na China” · [https://www.infomoney.com.br/mercados/acoes-da-amd-caem-forte-apos-fundo-alegar-negocio-potencialmente-arriscado-na-china/](https://www.infomoney.com.br/mercados/acoes-da-amd-caem-forte-apos-fundo-alegar-negocio-potencialmente-arriscado-na-china/)
- 4. Lula pode definir nome da Fazenda na próxima semana; Fonteles e Alckmin são favoritos · [https://www.infomoney.com.br/politica/lula-pode-definir-nome-da-fazenda-na-proxima-semana-fonteles-e-alckmin-sao-favoritos/](https://www.infomoney.com.br/politica/lula-pode-definir-nome-da-fazenda-na-proxima-semana-fonteles-e-alckmin-sao-favoritos/)
- 5. Trump comprou até US$ 265.000 em ações da Nvidia em setembro · [https://www.infomoney.com.br/mercados/trump-comprou-ate-us-265-000-em-acoes-da-nvidia-em-setembro/](https://www.infomoney.com.br/mercados/trump-comprou-ate-us-265-000-em-acoes-da-nvidia-em-setembro/)
- 6. Retração de 1,1% ou alta de 1,6%? XP avalia o que pode destravar o PIB de 2027 · [https://www.infomoney.com.br/economia/pib-de-2027-xp-projecao-cenarios-economia/](https://www.infomoney.com.br/economia/pib-de-2027-xp-projecao-cenarios-economia/)
- 7. Gastos públicos federais no ano superam valor de mercado de todas as empresas da B3 · [https://www.infomoney.com.br/mercados/gastos-publicos-federais-no-ano-superam-valor-de-mercado-de-todas-as-empresas-da-b3/](https://www.infomoney.com.br/mercados/gastos-publicos-federais-no-ano-superam-valor-de-mercado-de-todas-as-empresas-da-b3/)
- 8. Fachin nega soltura de primo de Vorcaro apontado como ‘ponte’ para propina a senador · [https://www.infomoney.com.br/brasil/fachin-nega-soltura-de-primo-de-vorcaro-apontado-como-ponte-para-propina-a-senador/](https://www.infomoney.com.br/brasil/fachin-nega-soltura-de-primo-de-vorcaro-apontado-como-ponte-para-propina-a-senador/)
- 9. Senado aprova regras para compartilhamento de postes entre energia e telecomunicações · [https://www.infomoney.com.br/brasil/senado-aprova-regras-para-compartilhamento-de-postes-entre-energia-e-telecomunicacoes/](https://www.infomoney.com.br/brasil/senado-aprova-regras-para-compartilhamento-de-postes-entre-energia-e-telecomunicacoes/)
-10. Relatórios sobre ministros não chegaram à PGR e podem ultrapassar prazo de Fachin · [https://www.infomoney.com.br/politica/relatorios-sobre-ministros-nao-chegaram-a-pgr-e-podem-ultrapassar-prazo-de-fachin/](https://www.infomoney.com.br/politica/relatorios-sobre-ministros-nao-chegaram-a-pgr-e-podem-ultrapassar-prazo-de-fachin/)
+ 1. Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA · [https://g1.globo.com/mundo/noticia/2026/11/20/trump-brasil-filipinas.ghtml](https://g1.globo.com/mundo/noticia/2026/11/20/trump-brasil-filipinas.ghtml)
+ 2. Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008 · [https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml](https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml)
+ 3. Dois salvadorenhos morrem no Haiti enquanto manuseavam explosivos, diz Exército · [https://g1.globo.com/mundo/noticia/2026/11/20/salvadorenhos-morte-haiti.ghtml](https://g1.globo.com/mundo/noticia/2026/11/20/salvadorenhos-morte-haiti.ghtml)
+ 4. Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos · [https://g1.globo.com/mundo/noticia/2026/11/20/execucao-texas-estados-unidos.ghtml](https://g1.globo.com/mundo/noticia/2026/11/20/execucao-texas-estados-unidos.ghtml)
+ 5. Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos · [https://www.infomoney.com.br/mercados/ouro-fecha-no-menor-nivel-em-ano-com-commodities-pressionadas-por-juros-mais-altos/](https://www.infomoney.com.br/mercados/ouro-fecha-no-menor-nivel-em-ano-com-commodities-pressionadas-por-juros-mais-altos/)
+ 6. Supercélula de tempestade: entenda o que é fenômeno que devastou Tupanciretã, no RS · [https://www.infomoney.com.br/brasil/supercelula-de-tempestade-entenda-o-que-e-fenomeno-que-devastou-tupancireta-no-rs/](https://www.infomoney.com.br/brasil/supercelula-de-tempestade-entenda-o-que-e-fenomeno-que-devastou-tupancireta-no-rs/)
+ 7. Governo federal envia equipe a Tupanciretã (RS) após temporal destruir 8 mil casas · [https://www.infomoney.com.br/brasil/governo-federal-envia-equipe-a-tupancireta-rs-apos-temporal-destruir-8-mil-casas/](https://www.infomoney.com.br/brasil/governo-federal-envia-equipe-a-tupancireta-rs-apos-temporal-destruir-8-mil-casas/)
+ 8. Trump defende volta de Huang à Nvidia: ‘Tomou decisões erradas, mas é brilhante’ · [https://www.infomoney.com.br/mundo/trump-defende-volta-de-huang-a-nvidia-tomou-decisoes-erradas-mas-e-brilhante/](https://www.infomoney.com.br/mundo/trump-defende-volta-de-huang-a-nvidia-tomou-decisoes-erradas-mas-e-brilhante/)
+ 9. Defesa Civil: Tempestades causam danos em 25 cidades e afetam 3,4 mil pessoas no RS · [https://www.infomoney.com.br/brasil/defesa-civil-tempestades-causam-danos-em-25-cidades-e-afetam-34-mil-pessoas-no-rs/](https://www.infomoney.com.br/brasil/defesa-civil-tempestades-causam-danos-em-25-cidades-e-afetam-34-mil-pessoas-no-rs/)
+10. Fuvest 2027: antecipa divulgação de aprovados para 2ª fase e locais de provas · [https://www.infomoney.com.br/brasil/fuvest-2027-antecipa-divulgacao-de-aprovados-para-2a-fase-e-locais-de-provas/](https://www.infomoney.com.br/brasil/fuvest-2027-antecipa-divulgacao-de-aprovados-para-2a-fase-e-locais-de-provas/)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,24 +54,23 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 3
+#### 📺 YouTube (US) — Top 2
 
- 1. AVENGERS 5: DOOMSDAY Official “Doctor Doom” Special Look (2026) Marvel · [https://youtube.com/watch?v=2tHNP_le1gM](https://youtube.com/watch?v=2tHNP_le1gM)
- 2. AVENGERS DOOMSDAY TRAILER Doctor Doom and Iron Man Legacy · [https://youtube.com/watch?v=Qi0Pc-cEKD8](https://youtube.com/watch?v=Qi0Pc-cEKD8)
- 3. Top 100 Christmas Songs of All Time 2027 🎅 Best Pop Christmas Hits & Holiday Music Playlist 🎁🎄 · [https://youtube.com/watch?v=Ri5o5HPwxSQ](https://youtube.com/watch?v=Ri5o5HPwxSQ)
+ 1. Dandy's World 1.0 Devlog 💉 Play Nov. 20th, 2026! · [https://youtube.com/watch?v=61zPppIwcQo](https://youtube.com/watch?v=61zPppIwcQo)
+ 2. Man of Tomorrow Footage, The Batman 2 Update, No Doomsday Final Trailer & MORE!! · [https://youtube.com/watch?v=shWuftoim7k](https://youtube.com/watch?v=shWuftoim7k)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Judges have put Trump's arch and golf course on hold, but only for a matter of days · [https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders](https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders)
- 2. DOJ, DHS launch hub to fight cybercrime · [https://thehill.com/homenews/administration/6231274-dhs-doj-cybercrime-hub/](https://thehill.com/homenews/administration/6231274-dhs-doj-cybercrime-hub/)
- 3. Senate Republicans reject war powers resolution to end Iran war · [https://thehill.com/homenews/senate/6231044-senate-republicans-war-powers-resolution-vote-fails/](https://thehill.com/homenews/senate/6231044-senate-republicans-war-powers-resolution-vote-fails/)
- 4. O’Reilly suggests building technology like Iron Dome to prevent hackers: ‘They’re not going away’ · [https://thehill.com/policy/technology/6231139-oreilly-proposes-infrastructure-defense/](https://thehill.com/policy/technology/6231139-oreilly-proposes-infrastructure-defense/)
- 5. Pentagon has no department-wide plan to address munitions shortages, watchdog report finds · [https://thehill.com/policy/defense/6231155-pentagon-lacks-munitions-plan-gao/](https://thehill.com/policy/defense/6231155-pentagon-lacks-munitions-plan-gao/)
- 6. Trump brushes off Musk distancing from MAGA · [https://thehill.com/homenews/administration/6231156-trump-musk-maga-distance/](https://thehill.com/homenews/administration/6231156-trump-musk-maga-distance/)
- 7. UN court rules that Myanmar committed genocide against Rohingya · [https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/](https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/)
- 8. The 'Magic Six': How to strengthen your marriage in midlife · [https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships](https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships)
- 9. 'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race · [https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race](https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race)
-10. The midterms were the largest win for either party in 50 years · [https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority](https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority)
+ 1. Trump floats major tax on U.S. companies constructing data centers overseas · [https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas](https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas)
+ 2. Second judge blocks Trump's contested D.C. arch · [https://www.axios.com/2026/11/20/trump-arch-blocked-again](https://www.axios.com/2026/11/20/trump-arch-blocked-again)
+ 3. Vance deflects on whether Iran war worth political price · [https://thehill.com/homenews/administration/6233999-vance-iran-war-midterm-elections/](https://thehill.com/homenews/administration/6233999-vance-iran-war-midterm-elections/)
+ 4. New report highlights mental health struggles of NHL goalies · [https://thehill.com/policy/healthcare/6231966-mental-health-struggles-nhl-goalies-study/](https://thehill.com/policy/healthcare/6231966-mental-health-struggles-nhl-goalies-study/)
+ 5. Trump opens door to deals with Democrats on healthcare, Hollywood, college sports · [https://thehill.com/homenews/administration/6233986-trump-open-democrat-cooperation-healthcare/](https://thehill.com/homenews/administration/6233986-trump-open-democrat-cooperation-healthcare/)
+ 6. Consistent bedtimes could protect your heart health, new study · [https://thehill.com/policy/healthcare/6233877-consistent-bedtimes-protection-heart-health-study/](https://thehill.com/policy/healthcare/6233877-consistent-bedtimes-protection-heart-health-study/)
+ 7. Justice Department taps new attorney to lead controversial review of Trump probes · [https://thehill.com/homenews/6233875-essayli-doj-florida-investigation/](https://thehill.com/homenews/6233875-essayli-doj-florida-investigation/)
+ 8. A second judge blocks Trump's arch, saying it's unlikely to succeed in court · [https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington](https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington)
+ 9. Trump initially accepted the midterm results, but most GOP voters doubt they were fair · [https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans](https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans)
+10. How Orchestra Noir turned classical music into a cultural movement · [https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music](https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -93,12 +92,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **Dólar** | Como a alta do dólar afeta brasileiros nos EUA | O dólar está em alta, com uma recente cotação de R$ 5,80, refletindo tendências globais e ajustes fiscais nos EUA. |
-| 2 🟠 🎬 | **Empreendedorismo** | Como abrir uma empresa nos EUA | O interesse por abrir negócios nos EUA continua crescendo, com novos empreendedores buscando informações práticas. |
-| 3 🟡 🎬 | **Custo de Vida** | Comparação de salários e custos nos EUA e Brasil | A inflação e os altos custos de vida estão gerando debates sobre a viabilidade de viver nos EUA em comparação ao Brasil. |
-| 4 🟡 🎬 | **Inflação** | Impacto da inflação nos EUA em brasileiros | As preocupações com a inflação estão em alta, com autoridades do Fed discutindo aumentos nas taxas de juros para control |
-| 5 🟡 ⚡ | **Cibersegurança** | Como se proteger de ataques cibernéticos | Recentes ataques cibernéticos a instituições financeiras e empresas como iFood mostram a vulnerabilidade digital. |
-| 6 🟡 🎬 | **Vida nos EUA** | Desafios enfrentados por brasileiros imigrantes | Histórias inspiradoras de brasileiros que superaram dificuldades nos EUA estão ganhando destaque. |
-| 7 🟡 🎬 | **Tecnologia** | Impacto da IA na vida cotidiana | A discussão sobre o impacto da inteligência artificial e automação está crescendo, especialmente em setores de trabalho. |
-| 8 🟡 🎬 | **Empreendedorismo** | Renda extra nos EUA | A busca por novas fontes de renda está em alta à medida que as pessoas procuram melhorar sua situação financeira. |
-| 9 🟢 🎬 | **Viagem** | Dicas de turismo nos EUA | Com a volta do turismo pós-pandemia, brasileiros estão buscando informações sobre viagens e custos nos EUA. |
+| 1 🟠 🎬 | **imposto** | Como a recente decisão da justiça dos EUA sobre permanência de estudantes impacta a tributação | A Justiça dos EUA derrubou limite de permanência de estudantes imposto por Trump, o que pode afetar a tributação de muit |
+| 2 🟠 🎬 | **dólar** | Impacto da alta do dólar na vida dos brasileiros nos EUA | O dólar continua em alta, e a situação fiscal do Brasil pode piorar, afetando a economia e os imigrantes brasileiros. |
+| 3 🟠 🎬 | **empresa** | 5 passos para abrir um negócio nos EUA | Aumenta o interesse de brasileiros em empreender nos EUA, especialmente na era digital. |
+| 4 🟡 🎬 | **healthcare** | Como as mudanças na política de saúde dos EUA afetam os imigrantes | Trump sinalizou uma abertura para cooperar com os democratas em questões de saúde, o que pode impactar políticas de saúd |
+| 5 🟡 🎯 | **entretenimento** | A cultura pop e seu impacto na vida dos brasileiros nos EUA | A crescente influência da cultura pop americana, especialmente em Hollywood, afeta a vida e a identidade dos imigrantes. |
+| 6 🟡 🎬 | **deportation** | Amnistia para imigrantes: o que significa para os brasileiros? | A discussão sobre anistia para imigrantes ilegais nos EUA está em alta, especialmente com novas propostas sendo introduz |
+| 7 🟡 🎬 | **tecnologia** | Como a crise da IA afeta o mercado de trabalho | A recente queda das ações da Nvidia e a crise gerada pela IA estão impactando diversos setores. |
+| 8 🟡 🎬 | **economia** | O impacto das decisões políticas sobre a economia dos EUA | As decisões políticas atuais estão moldando a economia americana e podem afetar a vida dos imigrantes. |
+| 9 🟢 🎬 | **viagem** | Quanto custa viajar para NY em 2026? | Os custos de viagem para destinos populares estão mudando devido à inflação e custos elevados. |

@@ -1,0 +1,963 @@
+{
+  "generated_at": "2026-11-20T19:42:48.096765",
+  "run_id": "44804525022",
+  "summary": {
+    "total_br": 30,
+    "total_us": 22,
+    "br_us_connections": 10,
+    "cross_platform_topics": 15,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "CL - ‘ICONIC’ M/V",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=A_H1EH6p4A0",
+          "score": 52.33,
+          "region": "BR",
+          "views": 5065190
+        },
+        {
+          "title": "skibidi toilet 83 (part 2)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=hMapmHG0nIs",
+          "score": 49.01,
+          "region": "BR",
+          "views": 2422828
+        },
+        {
+          "title": "NAYEON “BABY ANGEL” M/V",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=0JQ9k6kcKVs",
+          "score": 23.17,
+          "region": "BR",
+          "views": 2970037
+        },
+        {
+          "title": "Hungria - Viver do que Postar (Videoclipe Oficial) #Constelação",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Uz6VWW2WvjE",
+          "score": 7.24,
+          "region": "BR",
+          "views": 390507
+        },
+        {
+          "title": "Zezé Di Camargo, Alexandre Pires | Depois do Prazer - Rústico - Essência (Videoclipe Oficial)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=aHzvSmHPEtg",
+          "score": 6.05,
+          "region": "BR",
+          "views": 996417
+        },
+        {
+          "title": "HOLLYWOOD - LUAN PEREIRA, HEITOR SANTOS (EU TE AMO RODEIO)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Ze0yT4CqlOk",
+          "score": 5.44,
+          "region": "BR",
+          "views": 244410
+        },
+        {
+          "title": "SANTOS BRAVOS x &TEAM - “ORIGAMI” OFFICIAL MV",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=j_Z3_4aFQxQ",
+          "score": 4.52,
+          "region": "BR",
+          "views": 243949
+        },
+        {
+          "title": "Abelha Sem Mel - Fiorella, Guilherme & Benuto  | 019 Sertanejo",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=ZEFj7R1t7qA",
+          "score": 1.77,
+          "region": "BR",
+          "views": 291500
+        },
+        {
+          "title": "Teaser “Saga O Senhor dos Anéis” | 26.11 no Canal PeeWee",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=lg07psJshB4",
+          "score": 1.66,
+          "region": "BR",
+          "views": 62036
+        },
+        {
+          "title": "🔥 DJ PARTY 71 – REWIND THE NIGHT | Eurodance / Hip House / Techno #2026music",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=n4g3syf8DJ0",
+          "score": 1.29,
+          "region": "BR",
+          "views": 852686
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-brasil-filipinas.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Dois salvadorenhos morrem no Haiti enquanto manuseavam explosivos, diz Exército",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/20/salvadorenhos-morte-haiti.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/20/execucao-texas-estados-unidos.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/ouro-fecha-no-menor-nivel-em-ano-com-commodities-pressionadas-por-juros-mais-altos/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Supercélula de tempestade: entenda o que é fenômeno que devastou Tupanciretã, no RS",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/brasil/supercelula-de-tempestade-entenda-o-que-e-fenomeno-que-devastou-tupancireta-no-rs/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Governo federal envia equipe a Tupanciretã (RS) após temporal destruir 8 mil casas",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/brasil/governo-federal-envia-equipe-a-tupancireta-rs-apos-temporal-destruir-8-mil-casas/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Trump defende volta de Huang à Nvidia: ‘Tomou decisões erradas, mas é brilhante’",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/trump-defende-volta-de-huang-a-nvidia-tomou-decisoes-erradas-mas-e-brilhante/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Defesa Civil: Tempestades causam danos em 25 cidades e afetam 3,4 mil pessoas no RS",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/brasil/defesa-civil-tempestades-causam-danos-em-25-cidades-e-afetam-34-mil-pessoas-no-rs/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Fuvest 2027: antecipa divulgação de aprovados para 2ª fase e locais de provas",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/brasil/fuvest-2027-antecipa-divulgacao-de-aprovados-para-2a-fase-e-locais-de-provas/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "Dandy's World 1.0 Devlog 💉 Play Nov. 20th, 2026!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=61zPppIwcQo",
+          "score": 9.49,
+          "region": "US",
+          "views": 2117263
+        },
+        {
+          "title": "Man of Tomorrow Footage, The Batman 2 Update, No Doomsday Final Trailer & MORE!!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=shWuftoim7k",
+          "score": 0.76,
+          "region": "US",
+          "views": 132911
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "Trump floats major tax on U.S. companies constructing data centers overseas",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Second judge blocks Trump's contested D.C. arch",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/20/trump-arch-blocked-again",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Vance deflects on whether Iran war worth political price",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6233999-vance-iran-war-midterm-elections/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "New report highlights mental health struggles of NHL goalies",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/healthcare/6231966-mental-health-struggles-nhl-goalies-study/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump opens door to deals with Democrats on healthcare, Hollywood, college sports",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6233986-trump-open-democrat-cooperation-healthcare/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Consistent bedtimes could protect your heart health, new study",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/healthcare/6233877-consistent-bedtimes-protection-heart-health-study/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Justice Department taps new attorney to lead controversial review of Trump probes",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/6233875-essayli-doj-florida-investigation/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "How Orchestra Noir turned classical music into a cultural movement",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 31,
+      "score": 50.0,
+      "sample_titles": [
+        "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
+        "Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel",
+        "Trump é acusado de cochilar durante discurso de Xi Jinping em cúpula na China",
+        "Appeals court grants Trump request to halt order restoring Venezuelan TPS",
+        "A second judge blocks Trump's arch, saying it's unlikely to succeed in court"
+      ]
+    },
+    {
+      "topic": "anthropic",
+      "count": 8,
+      "score": 47.5,
+      "sample_titles": [
+        "Executivo faz fortuna com IPO da Anthropic, mas ganho poderia ser maior",
+        "The state school boy set to become AI mega-billionaire: Anthropic co-founder Jack Clark who was born and bred in Brighton will be worth $19.7BN as AI giant makes stock market debut",
+        "Critics are worried about Anthropic's influence after first day of public trading",
+        "AI giant Anthropic's shares pop in debut after blockbuster IPO"
+      ]
+    },
+    {
+      "topic": "data centers",
+      "count": 5,
+      "score": 74.0,
+      "sample_titles": [
+        "Trump diz que não permitirá que empresas construam data centers fora dos EUA",
+        "Trump ameaça proibir empresas dos EUA de construírem data centers no exterior",
+        "Trump ameaça impor taxas pesadas a empresas dos EUA que construírem data centers no exterior",
+        "Trump floats major tax on U.S. companies constructing data centers overseas",
+        "Trump seeks curbs on US companies building data centers overseas"
+      ]
+    },
+    {
+      "topic": "centers",
+      "count": 5,
+      "score": 74.0,
+      "sample_titles": [
+        "Trump diz que não permitirá que empresas construam data centers fora dos EUA",
+        "Trump ameaça proibir empresas dos EUA de construírem data centers no exterior",
+        "Trump ameaça impor taxas pesadas a empresas dos EUA que construírem data centers no exterior",
+        "Trump floats major tax on U.S. companies constructing data centers overseas",
+        "Trump seeks curbs on US companies building data centers overseas"
+      ]
+    },
+    {
+      "topic": "nvidia",
+      "count": 5,
+      "score": 72.0,
+      "sample_titles": [
+        "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
+        "Trump pede 'segunda chance' para Jensen Huang e defende volta do executivo à Nvidia",
+        "Trump defende volta de Huang à Nvidia: ‘Tomou decisões erradas, mas é brilhante’",
+        "Nvidia hold first earnings call since former CEO's departure",
+        "Nvidia needs more than a new CEO. An expert offers a way forward"
+      ]
+    },
+    {
+      "topic": "house",
+      "count": 3,
+      "score": 27.1,
+      "sample_titles": [
+        "🔥 DJ PARTY 71 – REWIND THE NIGHT | Eurodance / Hip House / Techno #2026music",
+        "House Dems float bill to give some illegal migrants green cards",
+        "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker"
+      ]
+    },
+    {
+      "topic": "final",
+      "count": 3,
+      "score": 13.68,
+      "sample_titles": [
+        "VAZOU O TRAILER FINAL DE VINGADORES DOOMSDAY!! E É DEVASTADOR...",
+        "Man of Tomorrow Footage, The Batman 2 Update, No Doomsday Final Trailer & MORE!!",
+        "Democrats Introduce Amnesty for Illegal Aliens with Final Deportation Orders"
+      ]
+    },
+    {
+      "topic": "trailer",
+      "count": 3,
+      "score": 0.58,
+      "sample_titles": [
+        "INVENCÍVEL Temporada 5 Trailer Dublado Oficial (2027)",
+        "VAZOU O TRAILER FINAL DE VINGADORES DOOMSDAY!! E É DEVASTADOR...",
+        "Man of Tomorrow Footage, The Batman 2 Update, No Doomsday Final Trailer & MORE!!"
+      ]
+    },
+    {
+      "topic": "putin",
+      "count": 2,
+      "score": 80.0,
+      "sample_titles": [
+        "Trump elogia reunião com Putin e Xi Jinping e diz que tem \"ótima\" relação com os líderes",
+        "Trump touts meeting with Xi and Putin but offers little results"
+      ]
+    },
+    {
+      "topic": "texas",
+      "count": 2,
+      "score": 80.0,
+      "sample_titles": [
+        "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
+        "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "estados",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "estados unidos",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "unidos",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
+        "vida nos Estados Unidos"
+      ]
+    },
+    {
+      "topic": "healthcare",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "Trump opens door to deals with Democrats on healthcare, Hollywood, college sports",
+        "healthcare cost"
+      ]
+    },
+    {
+      "topic": "hollywood",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 52.72,
+      "sample_titles": [
+        "HOLLYWOOD - LUAN PEREIRA, HEITOR SANTOS (EU TE AMO RODEIO)",
+        "Trump opens door to deals with Democrats on healthcare, Hollywood, college sports"
+      ]
+    },
+    {
+      "topic": "empresa",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 36.67,
+      "sample_titles": [
+        "Fernanda Cortes: 5 passos para empresários que querem abrir um negócio nos EUA",
+        "Como não deixar sua empresa cair na ‘falácia do planejamento’",
+        "abrir empresa nos EUA"
+      ]
+    },
+    {
+      "topic": "dólar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 30.0,
+      "sample_titles": [
+        "O pior cenário para a disparada do dólar se Lula não resolver a questão fiscal",
+        "Como o ajuste fiscal e o aumento do dólar podem direcionar suas ações em um mundo turbulento",
+        "dólar hoje"
+      ]
+    },
+    {
+      "topic": "house",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 27.1,
+      "sample_titles": [
+        "🔥 DJ PARTY 71 – REWIND THE NIGHT | Eurodance / Hip House / Techno #2026music",
+        "House Dems float bill to give some illegal migrants green cards",
+        "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker"
+      ]
+    },
+    {
+      "topic": "imposto",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
+        "imposto nos EUA"
+      ]
+    },
+    {
+      "topic": "deportation",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "Democrats Introduce Amnesty for Illegal Aliens with Final Deportation Orders",
+        "deportation"
+      ]
+    },
+    {
+      "topic": "green",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "House Dems float bill to give some illegal migrants green cards",
+        "green card"
+      ]
+    },
+    {
+      "topic": "party",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 20.64,
+      "sample_titles": [
+        "🔥 DJ PARTY 71 – REWIND THE NIGHT | Eurodance / Hip House / Techno #2026music",
+        "‘Same arrogance from Democratic Party’: Stephen A. Smith sends clear message to Democrats"
+      ]
+    },
+    {
+      "topic": "abrir",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 15.0,
+      "sample_titles": [
+        "Fernanda Cortes: 5 passos para empresários que querem abrir um negócio nos EUA",
+        "abrir empresa nos EUA"
+      ]
+    },
+    {
+      "topic": "imigração",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 15.0,
+      "sample_titles": [
+        "Metrópoles estreia podcast sobre imigração brasileira para os EUA",
+        "imigração EUA"
+      ]
+    },
+    {
+      "topic": "brasileiro",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 15.0,
+      "sample_titles": [
+        "De Timbaúba a Massachusetts: o brasileiro que chegou aos 14 anos aos EUA e hoje faz leis para proteger imigrantes",
+        "brasileiro nos EUA"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "imposto",
+      "subtopic": "Como a recente decisão da justiça dos EUA sobre permanência de estudantes impacta a tributação",
+      "why_trending": "A Justiça dos EUA derrubou limite de permanência de estudantes imposto por Trump, o que pode afetar a tributação de muitos imigrantes.",
+      "niche_angle": "Explorar como essa mudança pode impactar a vida financeira de estudantes imigrantes e suas obrigações fiscais nos EUA.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 7,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/20/justica-dos-eua-derruba-limite-de-permanencia-de-estudantes-imposto-por-trump.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-20T19:42:48.091320"
+    },
+    {
+      "main_topic": "dólar",
+      "subtopic": "Impacto da alta do dólar na vida dos brasileiros nos EUA",
+      "why_trending": "O dólar continua em alta, e a situação fiscal do Brasil pode piorar, afetando a economia e os imigrantes brasileiros.",
+      "niche_angle": "Discutir como a valorização do dólar impacta remessas, compras e investimentos de brasileiros vivendo nos EUA.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "news",
+      "region": "BR|US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/20/o-pior-cenario-para-a-disparada-do-dolar-se-lula-nao-resolver-a-questao-fiscal.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-20T19:42:48.091331"
+    },
+    {
+      "main_topic": "empresa",
+      "subtopic": "5 passos para abrir um negócio nos EUA",
+      "why_trending": "Aumenta o interesse de brasileiros em empreender nos EUA, especialmente na era digital.",
+      "niche_angle": "Apresentar um guia prático e realista para brasileiros que desejam abrir um negócio nos EUA, abordando desafios e oportunidades.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/20/fernanda-cortes-5-passos-para-empresarios-que-querem-abrir-um-negocio-nos-eua.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-20T19:42:48.091336"
+    },
+    {
+      "main_topic": "healthcare",
+      "subtopic": "Como as mudanças na política de saúde dos EUA afetam os imigrantes",
+      "why_trending": "Trump sinalizou uma abertura para cooperar com os democratas em questões de saúde, o que pode impactar políticas de saúde pública.",
+      "niche_angle": "Analisar como as mudanças propostas podem afetar a cobertura de saúde e custos para brasileiros vivendo nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://thehill.com/homenews/administration/6233986-trump-open-democrat-cooperation-healthcare/"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-20T19:42:48.091341"
+    },
+    {
+      "main_topic": "entretenimento",
+      "subtopic": "A cultura pop e seu impacto na vida dos brasileiros nos EUA",
+      "why_trending": "A crescente influência da cultura pop americana, especialmente em Hollywood, afeta a vida e a identidade dos imigrantes.",
+      "niche_angle": "Explorar como a cultura pop americana molda a experiência cotidiana dos brasileiros nos EUA e suas interações sociais.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "youtube",
+      "region": "US",
+      "links": [
+        "https://thehill.com/homenews/administration/6233986-trump-open-democrat-cooperation-healthcare/"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "reddit"
+      ],
+      "collected_at": "2026-11-20T19:42:48.091348"
+    },
+    {
+      "main_topic": "deportation",
+      "subtopic": "Amnistia para imigrantes: o que significa para os brasileiros?",
+      "why_trending": "A discussão sobre anistia para imigrantes ilegais nos EUA está em alta, especialmente com novas propostas sendo introduzidas.",
+      "niche_angle": "Explicar o que a possível anistia significaria para os brasileiros que vivem nos EUA sem documentos.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://thehill.com/homenews/administration/6231986-trump-open-democrat-cooperation-healthcare/"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-20T19:42:48.091353"
+    },
+    {
+      "main_topic": "tecnologia",
+      "subtopic": "Como a crise da IA afeta o mercado de trabalho",
+      "why_trending": "A recente queda das ações da Nvidia e a crise gerada pela IA estão impactando diversos setores.",
+      "niche_angle": "Discutir como a crise da IA pode afetar as oportunidades de emprego para brasileiros nos EUA, especialmente em tecnologia.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-20T19:42:48.091357"
+    },
+    {
+      "main_topic": "economia",
+      "subtopic": "O impacto das decisões políticas sobre a economia dos EUA",
+      "why_trending": "As decisões políticas atuais estão moldando a economia americana e podem afetar a vida dos imigrantes.",
+      "niche_angle": "Analisar como as mudanças políticas podem influenciar os empregos e o custo de vida dos brasileiros nos EUA.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/20/trump-diz-que-filipinas-trocarao-agro-do-brasil-pelo-dos-eua.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "collected_at": "2026-11-20T19:42:48.091366"
+    },
+    {
+      "main_topic": "viagem",
+      "subtopic": "Quanto custa viajar para NY em 2026?",
+      "why_trending": "Os custos de viagem para destinos populares estão mudando devido à inflação e custos elevados.",
+      "niche_angle": "Fornecer uma análise detalhada dos custos atuais para brasileiros planejando visitar Nova York, incluindo voos, hospedagem e alimentação.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/20/quanto-custa-viajar-para-ny.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-20T19:42:48.091371"
+    }
+  ]
+}
