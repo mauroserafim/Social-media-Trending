@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 20/11/2026 19:42 UTC
+# 📊 Tendências em Alta — 21/11/2026 18:48 UTC
 
-**Run:** `44804525022` | **BR:** 30 trends | **US:** 22 trends | **Nicho:** 9 ideias
+**Run:** `44937445106` | **BR:** 30 trends | **US:** 22 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. CL - ‘ICONIC’ M/V · [https://youtube.com/watch?v=A_H1EH6p4A0](https://youtube.com/watch?v=A_H1EH6p4A0)
- 2. skibidi toilet 83 (part 2) · [https://youtube.com/watch?v=hMapmHG0nIs](https://youtube.com/watch?v=hMapmHG0nIs)
- 3. NAYEON “BABY ANGEL” M/V · [https://youtube.com/watch?v=0JQ9k6kcKVs](https://youtube.com/watch?v=0JQ9k6kcKVs)
- 4. Hungria - Viver do que Postar (Videoclipe Oficial) #Constelação · [https://youtube.com/watch?v=Uz6VWW2WvjE](https://youtube.com/watch?v=Uz6VWW2WvjE)
- 5. Zezé Di Camargo, Alexandre Pires | Depois do Prazer - Rústico - Essência (Videoclipe Oficial) · [https://youtube.com/watch?v=aHzvSmHPEtg](https://youtube.com/watch?v=aHzvSmHPEtg)
- 6. HOLLYWOOD - LUAN PEREIRA, HEITOR SANTOS (EU TE AMO RODEIO) · [https://youtube.com/watch?v=Ze0yT4CqlOk](https://youtube.com/watch?v=Ze0yT4CqlOk)
- 7. SANTOS BRAVOS x &TEAM - “ORIGAMI” OFFICIAL MV · [https://youtube.com/watch?v=j_Z3_4aFQxQ](https://youtube.com/watch?v=j_Z3_4aFQxQ)
- 8. Abelha Sem Mel - Fiorella, Guilherme & Benuto  | 019 Sertanejo · [https://youtube.com/watch?v=ZEFj7R1t7qA](https://youtube.com/watch?v=ZEFj7R1t7qA)
- 9. Teaser “Saga O Senhor dos Anéis” | 26.11 no Canal PeeWee · [https://youtube.com/watch?v=lg07psJshB4](https://youtube.com/watch?v=lg07psJshB4)
-10. 🔥 DJ PARTY 71 – REWIND THE NIGHT | Eurodance / Hip House / Techno #2026music · [https://youtube.com/watch?v=n4g3syf8DJ0](https://youtube.com/watch?v=n4g3syf8DJ0)
+ 1. Eduardo Costa – Legítima Defesa (Ao Vivo) | Eduardo Costa do Velho Testamento · [https://youtube.com/watch?v=PoIyUHdw2wk](https://youtube.com/watch?v=PoIyUHdw2wk)
+ 2. Hungria - Viver do que Postar (Videoclipe Oficial) #Constelação · [https://youtube.com/watch?v=Uz6VWW2WvjE](https://youtube.com/watch?v=Uz6VWW2WvjE)
+ 3. 💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶 · [https://youtube.com/watch?v=h6gIKoHyHqE](https://youtube.com/watch?v=h6gIKoHyHqE)
+ 4. HOLLYWOOD - LUAN PEREIRA, HEITOR SANTOS (EU TE AMO RODEIO) · [https://youtube.com/watch?v=Ze0yT4CqlOk](https://youtube.com/watch?v=Ze0yT4CqlOk)
+ 5. 7 Minutoz - GUERREIRO | Tai Lung (Kung Fu Panda) · [https://youtube.com/watch?v=bkIt9CUGfCc](https://youtube.com/watch?v=bkIt9CUGfCc)
+ 6. Edy Britto & Samuel, @NandoMorenoOficial - Me Larga Que Mereço | Dois Diferentes, Ao Vivo · [https://youtube.com/watch?v=YNgMUNEpkIg](https://youtube.com/watch?v=YNgMUNEpkIg)
+ 7. Dance Se Souber Musicas Atualizadas ~ 2026 {tiktok}🎶💜 · [https://youtube.com/watch?v=R9Fn-SsnEu8](https://youtube.com/watch?v=R9Fn-SsnEu8)
+ 8. Shaggy - Angel (Visualizer) Feat. Rayvon · [https://youtube.com/watch?v=YtDoNL7yPaM](https://youtube.com/watch?v=YtDoNL7yPaM)
+ 9. QUASE FOI - Netto Brito, Kamisa 10 | Ilha do Arrocha (Ao Vivo em São Luís/MA) - OFICIAL · [https://youtube.com/watch?v=M2LlPQ32cXQ](https://youtube.com/watch?v=M2LlPQ32cXQ)
+10. Creed - One Last Breath (Official Audio) · [https://youtube.com/watch?v=vd07qPsJmhU](https://youtube.com/watch?v=vd07qPsJmhU)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA · [https://g1.globo.com/mundo/noticia/2026/11/20/trump-brasil-filipinas.ghtml](https://g1.globo.com/mundo/noticia/2026/11/20/trump-brasil-filipinas.ghtml)
- 2. Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008 · [https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml](https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml)
- 3. Dois salvadorenhos morrem no Haiti enquanto manuseavam explosivos, diz Exército · [https://g1.globo.com/mundo/noticia/2026/11/20/salvadorenhos-morte-haiti.ghtml](https://g1.globo.com/mundo/noticia/2026/11/20/salvadorenhos-morte-haiti.ghtml)
- 4. Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos · [https://g1.globo.com/mundo/noticia/2026/11/20/execucao-texas-estados-unidos.ghtml](https://g1.globo.com/mundo/noticia/2026/11/20/execucao-texas-estados-unidos.ghtml)
- 5. Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos · [https://www.infomoney.com.br/mercados/ouro-fecha-no-menor-nivel-em-ano-com-commodities-pressionadas-por-juros-mais-altos/](https://www.infomoney.com.br/mercados/ouro-fecha-no-menor-nivel-em-ano-com-commodities-pressionadas-por-juros-mais-altos/)
- 6. Supercélula de tempestade: entenda o que é fenômeno que devastou Tupanciretã, no RS · [https://www.infomoney.com.br/brasil/supercelula-de-tempestade-entenda-o-que-e-fenomeno-que-devastou-tupancireta-no-rs/](https://www.infomoney.com.br/brasil/supercelula-de-tempestade-entenda-o-que-e-fenomeno-que-devastou-tupancireta-no-rs/)
- 7. Governo federal envia equipe a Tupanciretã (RS) após temporal destruir 8 mil casas · [https://www.infomoney.com.br/brasil/governo-federal-envia-equipe-a-tupancireta-rs-apos-temporal-destruir-8-mil-casas/](https://www.infomoney.com.br/brasil/governo-federal-envia-equipe-a-tupancireta-rs-apos-temporal-destruir-8-mil-casas/)
- 8. Trump defende volta de Huang à Nvidia: ‘Tomou decisões erradas, mas é brilhante’ · [https://www.infomoney.com.br/mundo/trump-defende-volta-de-huang-a-nvidia-tomou-decisoes-erradas-mas-e-brilhante/](https://www.infomoney.com.br/mundo/trump-defende-volta-de-huang-a-nvidia-tomou-decisoes-erradas-mas-e-brilhante/)
- 9. Defesa Civil: Tempestades causam danos em 25 cidades e afetam 3,4 mil pessoas no RS · [https://www.infomoney.com.br/brasil/defesa-civil-tempestades-causam-danos-em-25-cidades-e-afetam-34-mil-pessoas-no-rs/](https://www.infomoney.com.br/brasil/defesa-civil-tempestades-causam-danos-em-25-cidades-e-afetam-34-mil-pessoas-no-rs/)
-10. Fuvest 2027: antecipa divulgação de aprovados para 2ª fase e locais de provas · [https://www.infomoney.com.br/brasil/fuvest-2027-antecipa-divulgacao-de-aprovados-para-2a-fase-e-locais-de-provas/](https://www.infomoney.com.br/brasil/fuvest-2027-antecipa-divulgacao-de-aprovados-para-2a-fase-e-locais-de-provas/)
+ 1. Britânico atravessa Estreito de Ormuz a nado para alertar sobre o impacto ambiental da guerra · [https://g1.globo.com/mundo/noticia/2026/11/21/britanico-atravessa-estreito-de-ormuz-a-nado-para-alertar-sobre-o-impacto-ambiental-da-guerra.ghtml](https://g1.globo.com/mundo/noticia/2026/11/21/britanico-atravessa-estreito-de-ormuz-a-nado-para-alertar-sobre-o-impacto-ambiental-da-guerra.ghtml)
+ 2. Terremoto de magnitude 6,7 deixou 15 feridos no Peru e danificou 127 casas · [https://g1.globo.com/mundo/noticia/2026/11/21/terremoto-de-magnitude-67-deixou-15-feridos-no-peru-e-danificou-127-casas.ghtml](https://g1.globo.com/mundo/noticia/2026/11/21/terremoto-de-magnitude-67-deixou-15-feridos-no-peru-e-danificou-127-casas.ghtml)
+ 3. FBI investiga possível ataque hacker a banco de dados criminais dos EUA · [https://www.infomoney.com.br/mundo/fbi-investiga-possivel-ataque-hacker-a-banco-de-dados-criminais-dos-eua/](https://www.infomoney.com.br/mundo/fbi-investiga-possivel-ataque-hacker-a-banco-de-dados-criminais-dos-eua/)
+ 4. França quer ação de Conselho da ONU após Mianmar rejeitar decisão sobre genocídio · [https://www.infomoney.com.br/mundo/franca-quer-acao-de-conselho-da-onu-apos-mianmar-rejeitar-decisao-sobre-genocidio/](https://www.infomoney.com.br/mundo/franca-quer-acao-de-conselho-da-onu-apos-mianmar-rejeitar-decisao-sobre-genocidio/)
+ 5. Miss Brasil levará o guaraná como tema no desfile típico do Miss Universo · [https://www.infomoney.com.br/brasil/miss-brasil-levara-o-guarana-como-tema-no-desfile-tipico-do-miss-universo/](https://www.infomoney.com.br/brasil/miss-brasil-levara-o-guarana-como-tema-no-desfile-tipico-do-miss-universo/)
+ 6. Joe Wallach, um dos executivos que participaram da inauguração da Globo, morre aos 103 anos · [https://g1.globo.com/economia/midia-e-marketing/noticia/2026/11/21/joe-wallach-morre-aos-103-anos.ghtml](https://g1.globo.com/economia/midia-e-marketing/noticia/2026/11/21/joe-wallach-morre-aos-103-anos.ghtml)
+ 7. Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027, e critica Faria Lima · [https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml](https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml)
+ 8. 'O câncer muda você': princesa Kate Middleton fala sobre doença em documentário da BBC · [https://g1.globo.com/mundo/noticia/2026/11/21/o-cancer-muda-voce-princesa-catherine-fala-sobre-doenca-em-documentario-da-bbc.ghtml](https://g1.globo.com/mundo/noticia/2026/11/21/o-cancer-muda-voce-princesa-catherine-fala-sobre-doenca-em-documentario-da-bbc.ghtml)
+ 9. 'Ainda não há compromisso' na COP31 do clima para um acordo, afirma União Europeia · [https://g1.globo.com/meio-ambiente/noticia/2026/11/21/ainda-nao-ha-compromisso-na-cop31-do-clima-para-um-acordo-afirma-uniao-europeia.ghtml](https://g1.globo.com/meio-ambiente/noticia/2026/11/21/ainda-nao-ha-compromisso-na-cop31-do-clima-para-um-acordo-afirma-uniao-europeia.ghtml)
+10. O que uma antiga cidade subterrânea da Turquia pode nos ensinar sobre como escapar do calor e do frio extremos · [https://g1.globo.com/meio-ambiente/noticia/2026/11/21/o-que-uma-antiga-cidade-subterranea-da-turquia-pode-nos-ensinar-sobre-como-escapar-do-calor-e-do-frio-extremos.ghtml](https://g1.globo.com/meio-ambiente/noticia/2026/11/21/o-que-uma-antiga-cidade-subterranea-da-turquia-pode-nos-ensinar-sobre-como-escapar-do-calor-e-do-frio-extremos.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -56,21 +56,21 @@
 
 #### 📺 YouTube (US) — Top 2
 
- 1. Dandy's World 1.0 Devlog 💉 Play Nov. 20th, 2026! · [https://youtube.com/watch?v=61zPppIwcQo](https://youtube.com/watch?v=61zPppIwcQo)
- 2. Man of Tomorrow Footage, The Batman 2 Update, No Doomsday Final Trailer & MORE!! · [https://youtube.com/watch?v=shWuftoim7k](https://youtube.com/watch?v=shWuftoim7k)
+ 1. skibidi toilet 83 (part 2) · [https://youtube.com/watch?v=hMapmHG0nIs](https://youtube.com/watch?v=hMapmHG0nIs)
+ 2. Top 50 Christmas Songs of All Time 🎅🏼 Classic Christmas Music with Fireplace 🎅🏼 Merry Christmas 2027 · [https://youtube.com/watch?v=qEF9Q0cIjDQ](https://youtube.com/watch?v=qEF9Q0cIjDQ)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Trump floats major tax on U.S. companies constructing data centers overseas · [https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas](https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas)
- 2. Second judge blocks Trump's contested D.C. arch · [https://www.axios.com/2026/11/20/trump-arch-blocked-again](https://www.axios.com/2026/11/20/trump-arch-blocked-again)
- 3. Vance deflects on whether Iran war worth political price · [https://thehill.com/homenews/administration/6233999-vance-iran-war-midterm-elections/](https://thehill.com/homenews/administration/6233999-vance-iran-war-midterm-elections/)
- 4. New report highlights mental health struggles of NHL goalies · [https://thehill.com/policy/healthcare/6231966-mental-health-struggles-nhl-goalies-study/](https://thehill.com/policy/healthcare/6231966-mental-health-struggles-nhl-goalies-study/)
- 5. Trump opens door to deals with Democrats on healthcare, Hollywood, college sports · [https://thehill.com/homenews/administration/6233986-trump-open-democrat-cooperation-healthcare/](https://thehill.com/homenews/administration/6233986-trump-open-democrat-cooperation-healthcare/)
- 6. Consistent bedtimes could protect your heart health, new study · [https://thehill.com/policy/healthcare/6233877-consistent-bedtimes-protection-heart-health-study/](https://thehill.com/policy/healthcare/6233877-consistent-bedtimes-protection-heart-health-study/)
- 7. Justice Department taps new attorney to lead controversial review of Trump probes · [https://thehill.com/homenews/6233875-essayli-doj-florida-investigation/](https://thehill.com/homenews/6233875-essayli-doj-florida-investigation/)
- 8. A second judge blocks Trump's arch, saying it's unlikely to succeed in court · [https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington](https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington)
- 9. Trump initially accepted the midterm results, but most GOP voters doubt they were fair · [https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans](https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans)
-10. How Orchestra Noir turned classical music into a cultural movement · [https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music](https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music)
+ 1. Storms expected on both coasts threatens Thanksgiving travel · [https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino](https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino)
+ 2. Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence · [https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained](https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained)
+ 3. Jeffries says Jordan contacted him after Speaker vote, but not Trump or Vance · [https://thehill.com/homenews/house/6235280-jeffries-openness-working-gop/](https://thehill.com/homenews/house/6235280-jeffries-openness-working-gop/)
+ 4. Cancer is no longer America’s biggest fear · [https://thehill.com/opinion/technology/6231006-ai-threat-vs-terminal-illness/](https://thehill.com/opinion/technology/6231006-ai-threat-vs-terminal-illness/)
+ 5. Killer robots: U.N. talks fall short of hopes for legally binding rules · [https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones](https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones)
+ 6. Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles · [https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction](https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction)
+ 7. Perspective: Defining 'human' · [https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human](https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human)
+ 8. Trump says he'd work with Dems to cap credit card interest, fees · [https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren](https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren)
+ 9. Trump says FBI hack might expose Russia "hoax" · [https://www.axios.com/2026/11/21/trump-russia-fbi-hack](https://www.axios.com/2026/11/21/trump-russia-fbi-hack)
+10. Hannity vows to broadcast names, numbers of GOP lawmakers missing votes · [https://thehill.com/homenews/house/6235234-sean-hannity-mike-johnson-house-attendance/](https://thehill.com/homenews/house/6235234-sean-hannity-mike-johnson-house-attendance/)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -92,12 +92,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **imposto** | Como a recente decisão da justiça dos EUA sobre permanência de estudantes impacta a tributação | A Justiça dos EUA derrubou limite de permanência de estudantes imposto por Trump, o que pode afetar a tributação de muit |
-| 2 🟠 🎬 | **dólar** | Impacto da alta do dólar na vida dos brasileiros nos EUA | O dólar continua em alta, e a situação fiscal do Brasil pode piorar, afetando a economia e os imigrantes brasileiros. |
-| 3 🟠 🎬 | **empresa** | 5 passos para abrir um negócio nos EUA | Aumenta o interesse de brasileiros em empreender nos EUA, especialmente na era digital. |
-| 4 🟡 🎬 | **healthcare** | Como as mudanças na política de saúde dos EUA afetam os imigrantes | Trump sinalizou uma abertura para cooperar com os democratas em questões de saúde, o que pode impactar políticas de saúd |
-| 5 🟡 🎯 | **entretenimento** | A cultura pop e seu impacto na vida dos brasileiros nos EUA | A crescente influência da cultura pop americana, especialmente em Hollywood, afeta a vida e a identidade dos imigrantes. |
-| 6 🟡 🎬 | **deportation** | Amnistia para imigrantes: o que significa para os brasileiros? | A discussão sobre anistia para imigrantes ilegais nos EUA está em alta, especialmente com novas propostas sendo introduz |
-| 7 🟡 🎬 | **tecnologia** | Como a crise da IA afeta o mercado de trabalho | A recente queda das ações da Nvidia e a crise gerada pela IA estão impactando diversos setores. |
-| 8 🟡 🎬 | **economia** | O impacto das decisões políticas sobre a economia dos EUA | As decisões políticas atuais estão moldando a economia americana e podem afetar a vida dos imigrantes. |
-| 9 🟢 🎬 | **viagem** | Quanto custa viajar para NY em 2026? | Os custos de viagem para destinos populares estão mudando devido à inflação e custos elevados. |
+| 1 🟠 🎬 | **custo de vida** | Como o custo de vida nos EUA está mudando? | Jovens organizam protestos em várias partes do mundo contra o aumento do custo de vida, refletindo uma preocupação globa |
+| 2 🟠 🎬 | **dinheiro** | Como ganhar dinheiro online nos EUA? | O tema de ganhar dinheiro online está cada vez mais em alta, com muitas pessoas buscando alternativas de renda extra dev |
+| 3 🟡 🎬 | **imigração** | Mudanças nas leis de imigração nos EUA | As discussões sobre imigração estão intensas com novas propostas e reformas sendo debatidas, impactando diretamente bras |
+| 4 🟡 🎬 | **economia** | Impacto do dólar na economia dos imigrantes | A variação do dólar e seu impacto na economia está em evidência, especialmente com a alta do dólar que afeta diretamente |
+| 5 🟡 🎬 | **tecnologia** | Como a tecnologia está mudando o mercado de trabalho? | Com a crescente automação e uso de IA, o mercado de trabalho está mudando rapidamente, afetando as oportunidades disponí |
+| 6 🟡 🎯 | **lifestyle** | Rotina de brasileiros nos EUA: desafios e conquistas | Histórias de brasileiros imigrantes estão ganhando espaço nas mídias, mostrando a realidade e os desafios enfrentados no |
+| 7 🟢 ⚡ | **entretenimento** | Memes sobre a vida de imigrante nos EUA | O humor sobre a vida de imigrantes está em alta, com muitos criando memes e conteúdos engraçados sobre suas experiências |
+| 8 🟢 🎬 | **vida familiar** | Como manter laços familiares à distância? | Com muitos brasileiros vivendo fora, a busca por manter conexões familiares à distância é um tema relevante e emocional. |
+| 9 🟢 🎬 | **viagem** | Dicas para economizar em viagens nos EUA | Com as férias se aproximando, muitos brasileiros planejam viajar e buscam dicas para economizar. |
