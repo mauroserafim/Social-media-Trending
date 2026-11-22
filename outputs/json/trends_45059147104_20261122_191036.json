@@ -1,0 +1,939 @@
+{
+  "generated_at": "2026-11-22T19:10:36.889396",
+  "run_id": "45059147104",
+  "summary": {
+    "total_br": 30,
+    "total_us": 22,
+    "br_us_connections": 9,
+    "cross_platform_topics": 15,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=1fQd2oxMBN0",
+          "score": 11.63,
+          "region": "BR",
+          "views": 183493
+        },
+        {
+          "title": "Eduardo Costa – Legítima Defesa (Ao Vivo) | Eduardo Costa do Velho Testamento",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=PoIyUHdw2wk",
+          "score": 11.38,
+          "region": "BR",
+          "views": 3905332
+        },
+        {
+          "title": "HOLLYWOOD - LUAN PEREIRA, HEITOR SANTOS (EU TE AMO RODEIO)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Ze0yT4CqlOk",
+          "score": 8.57,
+          "region": "BR",
+          "views": 2937071
+        },
+        {
+          "title": "M4rkim - INGLATERRA (Blue Lock)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=DTOcOGYfMxk",
+          "score": 2.88,
+          "region": "BR",
+          "views": 512360
+        },
+        {
+          "title": "7 Minutoz - GUERREIRO | Tai Lung (Kung Fu Panda)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=bkIt9CUGfCc",
+          "score": 2.48,
+          "region": "BR",
+          "views": 772790
+        },
+        {
+          "title": "Shaggy - Angel (Visualizer) Feat. Rayvon",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=YtDoNL7yPaM",
+          "score": 1.56,
+          "region": "BR",
+          "views": 652664
+        },
+        {
+          "title": "♪ Yu (The Boxer) | Maquina de Treino | AniRap",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=xl0GJlXddEE",
+          "score": 1.52,
+          "region": "BR",
+          "views": 254741
+        },
+        {
+          "title": "Enrique Iglesias - Bailando ft. Descemer Bueno, Gente De Zona (Letra)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=txdZ805O-Rg",
+          "score": 1.23,
+          "region": "BR",
+          "views": 259188
+        },
+        {
+          "title": "REY VAQUEIRO 2027 - VAI MATAR PAPAI (MÚSICA NOVA) FORRÓ PRA PAREDÃO",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=e1pmhV6Wyd4",
+          "score": 0.35,
+          "region": "BR",
+          "views": 108904
+        },
+        {
+          "title": "NÃO SOU COMPROMETIDO, GOSTO MUITO DISSO - MC Tuto (DJ Oreia)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=SIRmZjVHY_U",
+          "score": 0.35,
+          "region": "BR",
+          "views": 121517
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "EUA: Chá de bebê termina em tiroteio com 3 mortos e 1 ferido",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/22/eua-cha-de-bebe-termina-em-tiroteio-com-3-mortos-e-1-ferido.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Bancada democrata na Câmara dos EUA atinge marca histórica e é a maior em 34 anos",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/22/bancada-democrata-na-camara-dos-eua-atinge-marca-historica.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Estrondos de madrugada assustam moradores de Barretos (SP); USP investiga causa",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/brasil/estrondos-de-madrugada-assustam-moradores-de-barretos-sp-usp-investiga-causa/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "“Uma minoria pode descarrilar tudo”: UE explica por que rejeitou acordo da COP31",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/uma-minoria-pode-descarrilar-tudo-ue-explica-por-que-rejeitou-acordo-da-cop31/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Ataque a navio comercial na Líbia leva guerra dos drones ao Mediterrâneo",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/ataque-a-navio-comercial-na-libia-leva-guerra-dos-drones-ao-mediterraneo/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Voos, bancos e e-mail fora do ar: EUA admitem que vem mais pane por aí",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/voos-bancos-e-e-mail-fora-do-ar-eua-admitem-que-vem-mais-pane-por-ai/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Juros do cartão a 10%: a proposta de Trump que une rivais e assusta bancos",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/juros-do-cartao-a-10-a-proposta-de-trump-que-une-rivais-e-assusta-bancos/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Rebeldes do Iêmen dizem ter atingido refinaria gigante da Arábia Saudita",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/rebeldes-do-iemen-dizem-ter-atingido-refinaria-gigante-da-arabia-saudita/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Mega-Sena 3089 acumula e prêmio vai a R$ 65 milhões; confira os números sorteados",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Incêndio em fábrica de doces deixa mortos e dezenas de desaparecidos na Indonésia",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/22/incendio-em-fabrica-de-doces-deixa-mortos-e-dezenas-de-desaparecidos-na-indonesia.ghtml",
+          "score": 80.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "This is a nightmare for Rockstar..",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=yqVoKXV8DZc",
+          "score": 33.65,
+          "region": "US",
+          "views": 2527436
+        },
+        {
+          "title": "Top 50 Christmas Songs of All Time 🎅🏼 Classic Christmas Music with Fireplace 🎅🏼 Merry Christmas 2027",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=qEF9Q0cIjDQ",
+          "score": 1.08,
+          "region": "US",
+          "views": 317523
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "Bessent compares tech outages to vaccines",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6236005-bessent-bank-outage-vaccine-analogy/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Flanagan says she 'appreciates' Schumer, but Van Hollen leads 'like an organizer'",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/senate/6235792-peggy-flanagan-van-hollen/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Climate change talks fall apart in final hours over fossil fuels",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Christian nationalist conference hosts Nick Fuentes, vows to keep pushing MAGA agenda",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Scoop: The Pentagon's case for Canada to \"get serious\" on defense",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/22/pentagon-canada-defense-restrictions-fact-sheet",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Behind the Curtain — AI 2027: The reckoning",
+          "source": "news:Axios",
+          "url": "https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "trump",
+      "count": 21,
+      "score": 33.33,
+      "sample_titles": [
+        "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
+        "Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel",
+        "Trump diz que trabalhará com Democratas para limitar juros do cartão de crédito",
+        "Stephen Miller sharpens the ax for Trump cabinet chief: White House purge plot revealed after cyber crisis fiasco and lavish multimillion-dollar trips… insiders leak 'stop the bleeding' order from president's right-hand man",
+        "Voters want to 'move on' from the president, former Trump official claims as reason for GOP's midterm defeat"
+      ]
+    },
+    {
+      "topic": "cop31",
+      "count": 8,
+      "score": 65.0,
+      "sample_titles": [
+        "‘Ainda não há compromisso’, afirma UE sobre texto final da COP31",
+        "Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades",
+        "COP31: após fracasso nas negociações, conferência termina sem acordo final",
+        "Governments fail to reach agreement at COP31 over fossil fuel clash"
+      ]
+    },
+    {
+      "topic": "final",
+      "count": 4,
+      "score": 65.0,
+      "sample_titles": [
+        "‘Ainda não há compromisso’, afirma UE sobre texto final da COP31",
+        "Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades",
+        "COP31: após fracasso nas negociações, conferência termina sem acordo final",
+        "Climate change talks fall apart in final hours over fossil fuels"
+      ]
+    },
+    {
+      "topic": "global",
+      "count": 3,
+      "score": 53.33,
+      "sample_titles": [
+        "Brasil corre risco de perder ciclo global favorável sem ajuste fiscal, alerta Ashmore",
+        "COP31 termina sem acordo global: entenda os seis pontos que levaram ao fracasso da conferência",
+        "Global investing isn’t a piece of cake"
+      ]
+    },
+    {
+      "topic": "online",
+      "count": 3,
+      "score": 26.67,
+      "sample_titles": [
+        "Como um adolescente e sua mãe ajudaram a resgatar uma garota desaparecida após um encontro em um jogo online",
+        "como ganhar dinheiro online",
+        "how to learn online"
+      ]
+    },
+    {
+      "topic": "google",
+      "count": 2,
+      "score": 70.0,
+      "sample_titles": [
+        "Google Maps pode avisar quando alguém chega? Veja como configurar",
+        "Google employees protest AI in schools policy"
+      ]
+    },
+    {
+      "topic": "princeton",
+      "count": 2,
+      "score": 60.0,
+      "sample_titles": [
+        "Polícia de imigração dos EUA prende pesquisadora chinesa de Princeton em aeroporto",
+        "'Worst of the Worst?' ICE blasted for detaining Princeton Neuroscience PhD Student"
+      ]
+    },
+    {
+      "topic": "putin",
+      "count": 2,
+      "score": 60.0,
+      "sample_titles": [
+        "Trump, Xi, Putin. Uma cimeira de fotos não governa o mundo",
+        "Director of National Intelligence: Putin is 'not America's friend in Ukraine'"
+      ]
+    },
+    {
+      "topic": "podcast",
+      "count": 2,
+      "score": 40.0,
+      "sample_titles": [
+        "Metrópoles estreia podcast sobre imigração brasileira para os EUA",
+        "NPR's Senior Podcast Challenge: Early entries we love"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "nightmare",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 46.83,
+      "sample_titles": [
+        "This is a nightmare for Rockstar..",
+        "He expected a small-business loan. He got a 7-year nightmare"
+      ]
+    },
+    {
+      "topic": "domingo",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 42.53,
+      "sample_titles": [
+        "Domingo 22 de Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Mega-Sena 3089 pode pagar R$ 45 milhões neste domingo; g1 transmite ao vivo",
+        "Falha técnica na Delta atrasa milhares de voos nos EUA neste domingo",
+        "Onde assistir Athletico x Remo ao vivo neste domingo (22) pelo Brasileirão"
+      ]
+    },
+    {
+      "topic": "imigração",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 36.67,
+      "sample_titles": [
+        "Metrópoles estreia podcast sobre imigração brasileira para os EUA",
+        "Polícia de imigração dos EUA prende pesquisadora chinesa de Princeton em aeroporto",
+        "imigração EUA"
+      ]
+    },
+    {
+      "topic": "business",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "He expected a small-business loan. He got a 7-year nightmare",
+        "start a business USA"
+      ]
+    },
+    {
+      "topic": "dólar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 30.0,
+      "sample_titles": [
+        "Investir no exterior exige mais do que aproveitar alta do dólar, orientam assessores",
+        "Real tem 2ª pior semana do ano com disparada de 5% do dólar no período; BC intervém, mas não contém movimento",
+        "dólar hoje"
+      ]
+    },
+    {
+      "topic": "online",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 26.67,
+      "sample_titles": [
+        "Como um adolescente e sua mãe ajudaram a resgatar uma garota desaparecida após um encontro em um jogo online",
+        "como ganhar dinheiro online",
+        "how to learn online"
+      ]
+    },
+    {
+      "topic": "custo",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "Milhares marcham em Lisboa conforme custo de vida alimenta indignação",
+        "custo de vida EUA"
+      ]
+    },
+    {
+      "topic": "custo vida",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "Milhares marcham em Lisboa conforme custo de vida alimenta indignação",
+        "custo de vida EUA"
+      ]
+    },
+    {
+      "topic": "visto",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "Problemas no visto teriam motivado volta de Harry e Meghan ao Reino Unido",
+        "visto americano"
+      ]
+    },
+    {
+      "topic": "income",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "Highmark Health Reports Revenue of $26.5 billion, $741 million in Operating Income, for Nine Months ended Sept. 30, 2026",
+        "passive income ideas"
+      ]
+    },
+    {
+      "topic": "inflation",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "President Donald Trump's Economy and the AI-Driven Stock Market Are in Trouble, Thanks to a Newly Identified Source of Inflation",
+        "inflation"
+      ]
+    },
+    {
+      "topic": "marketing",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "How To Choose A Digital Marketing Agency In Muscat, Oman",
+        "digital marketing tips"
+      ]
+    },
+    {
+      "topic": "digital",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "How To Choose A Digital Marketing Agency In Muscat, Oman",
+        "digital marketing tips"
+      ]
+    },
+    {
+      "topic": "digital marketing",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "How To Choose A Digital Marketing Agency In Muscat, Oman",
+        "digital marketing tips"
+      ]
+    },
+    {
+      "topic": "defesa",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 20.69,
+      "sample_titles": [
+        "Eduardo Costa – Legítima Defesa (Ao Vivo) | Eduardo Costa do Velho Testamento",
+        "Após 3 mortes na Ucrânia, Zelensky cobra dos EUA mísseis de defesa"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "imigração",
+      "subtopic": "Mudanças nas leis de imigração e impacto para brasileiros",
+      "why_trending": "A imigração está em destaque devido a novas políticas e mudanças nas leis nos EUA, afetando milhares de imigrantes.",
+      "niche_angle": "Explorar as recentes mudanças nas leis de imigração e como elas impactam os brasileiros que residem nos EUA, além de dicas práticas para quem está pensando em imigrar.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://exame.com/mundo/policia-de-imigracao-dos-eua-prende-pesquisadora-chinesa-de-princeton-em-aeroporto/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-22T19:10:36.885716"
+    },
+    {
+      "main_topic": "custo de vida",
+      "subtopic": "Comparação do custo de vida entre Brasil e EUA",
+      "why_trending": "Com a inflação e o aumento dos preços nos EUA, muitos estão discutindo o custo de vida e como isso afeta imigrantes e brasileiros que desejam se mudar.",
+      "niche_angle": "Analisar o custo de vida atual nos EUA em comparação com o Brasil, focando em itens essenciais como moradia, alimentação e transporte.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/22/falha-tecnica-na-delta-atrasa-milhares-de-voos-nos-eua-neste-domingo.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-22T19:10:36.885727"
+    },
+    {
+      "main_topic": "negócios",
+      "subtopic": "Como iniciar um negócio nos EUA",
+      "why_trending": "O empreendedorismo está crescendo, especialmente entre imigrantes que buscam novas oportunidades nos EUA.",
+      "niche_angle": "Fornecer um guia prático sobre como iniciar um negócio nos EUA, abordando desde a burocracia até dicas de marketing e financiamento.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/22/juros-do-cartao-a-10-a-proposta-de-trump-que-une-rivais-e-assusta-bancos.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-22T19:10:36.885733"
+    },
+    {
+      "main_topic": "dólar",
+      "subtopic": "Impacto da alta do dólar nas finanças pessoais",
+      "why_trending": "O dólar está em alta, afetando tanto brasileiros no Brasil quanto imigrantes nos EUA, especialmente em compras e investimentos.",
+      "niche_angle": "Discutir como a alta do dólar impacta as finanças pessoais dos brasileiros nos EUA e como eles podem se proteger contra essa volatilidade.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "GLOBAL",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/22/dolar-hoje.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-22T19:10:36.885738"
+    },
+    {
+      "main_topic": "direito",
+      "subtopic": "O que fazer em caso de problemas com o visto",
+      "why_trending": "Casos recentes de problemas com vistos estão gerando preocupação entre imigrantes e potenciais imigrantes.",
+      "niche_angle": "Fornecer orientações sobre o que brasileiros devem fazer se enfrentarem problemas com o visto nos EUA, incluindo recursos disponíveis.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/22/visto-americano.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-22T19:10:36.885745"
+    },
+    {
+      "main_topic": "tecnologia",
+      "subtopic": "Como a IA está mudando o mercado de trabalho",
+      "why_trending": "A inteligência artificial está em alta, afetando diversas indústrias e criando novas oportunidades de trabalho.",
+      "niche_angle": "Explorar como a IA está transformando o mercado de trabalho nos EUA e o que isso significa para brasileiros que buscam emprego ou mudança de carreira.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/22/china-usa-servico-de-espionagem-para-obter-chips-de-ia.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-22T19:10:36.885750"
+    },
+    {
+      "main_topic": "finanças",
+      "subtopic": "Renda passiva: como gerar dinheiro enquanto dorme",
+      "why_trending": "A busca por renda passiva está crescendo, especialmente entre aqueles que buscam segurança financeira nos EUA.",
+      "niche_angle": "Discutir diferentes formas de gerar renda passiva nos EUA, com foco em brasileiros que querem construir riqueza a longo prazo.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/22/passive-income-ideas.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-22T19:10:36.885754"
+    },
+    {
+      "main_topic": "entretenimento",
+      "subtopic": "Tendências de humor e memes nos EUA",
+      "why_trending": "Memes e tendências de humor estão sempre em alta nas redes sociais, especialmente entre os jovens.",
+      "niche_angle": "Analisar as últimas tendências de humor e memes que estão fazendo sucesso nos EUA e como os brasileiros podem se relacionar com isso.",
+      "video_format": "short",
+      "urgency": "low",
+      "ease": 5,
+      "source": "tiktok",
+      "region": "US",
+      "links": [
+        "https://www.tiktok.com/"
+      ],
+      "platforms": [
+        "tiktok"
+      ],
+      "collected_at": "2026-11-22T19:10:36.885763"
+    },
+    {
+      "main_topic": "economia",
+      "subtopic": "Inflação e seu impacto no dia a dia",
+      "why_trending": "A inflação é uma preocupação crescente, afetando os preços e o poder de compra em muitos países, incluindo os EUA.",
+      "niche_angle": "Explorar como a inflação está afetando o dia a dia dos brasileiros nos EUA, incluindo dicas para lidar com os aumentos de preços.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 5,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/22/inflation.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-22T19:10:36.885768"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 21/11/2026 18:48 UTC
+# 📊 Tendências em Alta — 22/11/2026 19:10 UTC
 
-**Run:** `44937445106` | **BR:** 30 trends | **US:** 22 trends | **Nicho:** 9 ideias
+**Run:** `45059147104` | **BR:** 30 trends | **US:** 22 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. Eduardo Costa – Legítima Defesa (Ao Vivo) | Eduardo Costa do Velho Testamento · [https://youtube.com/watch?v=PoIyUHdw2wk](https://youtube.com/watch?v=PoIyUHdw2wk)
- 2. Hungria - Viver do que Postar (Videoclipe Oficial) #Constelação · [https://youtube.com/watch?v=Uz6VWW2WvjE](https://youtube.com/watch?v=Uz6VWW2WvjE)
- 3. 💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶 · [https://youtube.com/watch?v=h6gIKoHyHqE](https://youtube.com/watch?v=h6gIKoHyHqE)
- 4. HOLLYWOOD - LUAN PEREIRA, HEITOR SANTOS (EU TE AMO RODEIO) · [https://youtube.com/watch?v=Ze0yT4CqlOk](https://youtube.com/watch?v=Ze0yT4CqlOk)
+ 1. 💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶 · [https://youtube.com/watch?v=1fQd2oxMBN0](https://youtube.com/watch?v=1fQd2oxMBN0)
+ 2. Eduardo Costa – Legítima Defesa (Ao Vivo) | Eduardo Costa do Velho Testamento · [https://youtube.com/watch?v=PoIyUHdw2wk](https://youtube.com/watch?v=PoIyUHdw2wk)
+ 3. HOLLYWOOD - LUAN PEREIRA, HEITOR SANTOS (EU TE AMO RODEIO) · [https://youtube.com/watch?v=Ze0yT4CqlOk](https://youtube.com/watch?v=Ze0yT4CqlOk)
+ 4. M4rkim - INGLATERRA (Blue Lock) · [https://youtube.com/watch?v=DTOcOGYfMxk](https://youtube.com/watch?v=DTOcOGYfMxk)
  5. 7 Minutoz - GUERREIRO | Tai Lung (Kung Fu Panda) · [https://youtube.com/watch?v=bkIt9CUGfCc](https://youtube.com/watch?v=bkIt9CUGfCc)
- 6. Edy Britto & Samuel, @NandoMorenoOficial - Me Larga Que Mereço | Dois Diferentes, Ao Vivo · [https://youtube.com/watch?v=YNgMUNEpkIg](https://youtube.com/watch?v=YNgMUNEpkIg)
- 7. Dance Se Souber Musicas Atualizadas ~ 2026 {tiktok}🎶💜 · [https://youtube.com/watch?v=R9Fn-SsnEu8](https://youtube.com/watch?v=R9Fn-SsnEu8)
- 8. Shaggy - Angel (Visualizer) Feat. Rayvon · [https://youtube.com/watch?v=YtDoNL7yPaM](https://youtube.com/watch?v=YtDoNL7yPaM)
- 9. QUASE FOI - Netto Brito, Kamisa 10 | Ilha do Arrocha (Ao Vivo em São Luís/MA) - OFICIAL · [https://youtube.com/watch?v=M2LlPQ32cXQ](https://youtube.com/watch?v=M2LlPQ32cXQ)
-10. Creed - One Last Breath (Official Audio) · [https://youtube.com/watch?v=vd07qPsJmhU](https://youtube.com/watch?v=vd07qPsJmhU)
+ 6. Shaggy - Angel (Visualizer) Feat. Rayvon · [https://youtube.com/watch?v=YtDoNL7yPaM](https://youtube.com/watch?v=YtDoNL7yPaM)
+ 7. ♪ Yu (The Boxer) | Maquina de Treino | AniRap · [https://youtube.com/watch?v=xl0GJlXddEE](https://youtube.com/watch?v=xl0GJlXddEE)
+ 8. Enrique Iglesias - Bailando ft. Descemer Bueno, Gente De Zona (Letra) · [https://youtube.com/watch?v=txdZ805O-Rg](https://youtube.com/watch?v=txdZ805O-Rg)
+ 9. REY VAQUEIRO 2027 - VAI MATAR PAPAI (MÚSICA NOVA) FORRÓ PRA PAREDÃO · [https://youtube.com/watch?v=e1pmhV6Wyd4](https://youtube.com/watch?v=e1pmhV6Wyd4)
+10. NÃO SOU COMPROMETIDO, GOSTO MUITO DISSO - MC Tuto (DJ Oreia) · [https://youtube.com/watch?v=SIRmZjVHY_U](https://youtube.com/watch?v=SIRmZjVHY_U)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Britânico atravessa Estreito de Ormuz a nado para alertar sobre o impacto ambiental da guerra · [https://g1.globo.com/mundo/noticia/2026/11/21/britanico-atravessa-estreito-de-ormuz-a-nado-para-alertar-sobre-o-impacto-ambiental-da-guerra.ghtml](https://g1.globo.com/mundo/noticia/2026/11/21/britanico-atravessa-estreito-de-ormuz-a-nado-para-alertar-sobre-o-impacto-ambiental-da-guerra.ghtml)
- 2. Terremoto de magnitude 6,7 deixou 15 feridos no Peru e danificou 127 casas · [https://g1.globo.com/mundo/noticia/2026/11/21/terremoto-de-magnitude-67-deixou-15-feridos-no-peru-e-danificou-127-casas.ghtml](https://g1.globo.com/mundo/noticia/2026/11/21/terremoto-de-magnitude-67-deixou-15-feridos-no-peru-e-danificou-127-casas.ghtml)
- 3. FBI investiga possível ataque hacker a banco de dados criminais dos EUA · [https://www.infomoney.com.br/mundo/fbi-investiga-possivel-ataque-hacker-a-banco-de-dados-criminais-dos-eua/](https://www.infomoney.com.br/mundo/fbi-investiga-possivel-ataque-hacker-a-banco-de-dados-criminais-dos-eua/)
- 4. França quer ação de Conselho da ONU após Mianmar rejeitar decisão sobre genocídio · [https://www.infomoney.com.br/mundo/franca-quer-acao-de-conselho-da-onu-apos-mianmar-rejeitar-decisao-sobre-genocidio/](https://www.infomoney.com.br/mundo/franca-quer-acao-de-conselho-da-onu-apos-mianmar-rejeitar-decisao-sobre-genocidio/)
- 5. Miss Brasil levará o guaraná como tema no desfile típico do Miss Universo · [https://www.infomoney.com.br/brasil/miss-brasil-levara-o-guarana-como-tema-no-desfile-tipico-do-miss-universo/](https://www.infomoney.com.br/brasil/miss-brasil-levara-o-guarana-como-tema-no-desfile-tipico-do-miss-universo/)
- 6. Joe Wallach, um dos executivos que participaram da inauguração da Globo, morre aos 103 anos · [https://g1.globo.com/economia/midia-e-marketing/noticia/2026/11/21/joe-wallach-morre-aos-103-anos.ghtml](https://g1.globo.com/economia/midia-e-marketing/noticia/2026/11/21/joe-wallach-morre-aos-103-anos.ghtml)
- 7. Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027, e critica Faria Lima · [https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml](https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml)
- 8. 'O câncer muda você': princesa Kate Middleton fala sobre doença em documentário da BBC · [https://g1.globo.com/mundo/noticia/2026/11/21/o-cancer-muda-voce-princesa-catherine-fala-sobre-doenca-em-documentario-da-bbc.ghtml](https://g1.globo.com/mundo/noticia/2026/11/21/o-cancer-muda-voce-princesa-catherine-fala-sobre-doenca-em-documentario-da-bbc.ghtml)
- 9. 'Ainda não há compromisso' na COP31 do clima para um acordo, afirma União Europeia · [https://g1.globo.com/meio-ambiente/noticia/2026/11/21/ainda-nao-ha-compromisso-na-cop31-do-clima-para-um-acordo-afirma-uniao-europeia.ghtml](https://g1.globo.com/meio-ambiente/noticia/2026/11/21/ainda-nao-ha-compromisso-na-cop31-do-clima-para-um-acordo-afirma-uniao-europeia.ghtml)
-10. O que uma antiga cidade subterrânea da Turquia pode nos ensinar sobre como escapar do calor e do frio extremos · [https://g1.globo.com/meio-ambiente/noticia/2026/11/21/o-que-uma-antiga-cidade-subterranea-da-turquia-pode-nos-ensinar-sobre-como-escapar-do-calor-e-do-frio-extremos.ghtml](https://g1.globo.com/meio-ambiente/noticia/2026/11/21/o-que-uma-antiga-cidade-subterranea-da-turquia-pode-nos-ensinar-sobre-como-escapar-do-calor-e-do-frio-extremos.ghtml)
+ 1. EUA: Chá de bebê termina em tiroteio com 3 mortos e 1 ferido · [https://g1.globo.com/mundo/noticia/2026/11/22/eua-cha-de-bebe-termina-em-tiroteio-com-3-mortos-e-1-ferido.ghtml](https://g1.globo.com/mundo/noticia/2026/11/22/eua-cha-de-bebe-termina-em-tiroteio-com-3-mortos-e-1-ferido.ghtml)
+ 2. Bancada democrata na Câmara dos EUA atinge marca histórica e é a maior em 34 anos · [https://g1.globo.com/mundo/noticia/2026/11/22/bancada-democrata-na-camara-dos-eua-atinge-marca-historica.ghtml](https://g1.globo.com/mundo/noticia/2026/11/22/bancada-democrata-na-camara-dos-eua-atinge-marca-historica.ghtml)
+ 3. Estrondos de madrugada assustam moradores de Barretos (SP); USP investiga causa · [https://www.infomoney.com.br/brasil/estrondos-de-madrugada-assustam-moradores-de-barretos-sp-usp-investiga-causa/](https://www.infomoney.com.br/brasil/estrondos-de-madrugada-assustam-moradores-de-barretos-sp-usp-investiga-causa/)
+ 4. “Uma minoria pode descarrilar tudo”: UE explica por que rejeitou acordo da COP31 · [https://www.infomoney.com.br/mundo/uma-minoria-pode-descarrilar-tudo-ue-explica-por-que-rejeitou-acordo-da-cop31/](https://www.infomoney.com.br/mundo/uma-minoria-pode-descarrilar-tudo-ue-explica-por-que-rejeitou-acordo-da-cop31/)
+ 5. Ataque a navio comercial na Líbia leva guerra dos drones ao Mediterrâneo · [https://www.infomoney.com.br/mundo/ataque-a-navio-comercial-na-libia-leva-guerra-dos-drones-ao-mediterraneo/](https://www.infomoney.com.br/mundo/ataque-a-navio-comercial-na-libia-leva-guerra-dos-drones-ao-mediterraneo/)
+ 6. Voos, bancos e e-mail fora do ar: EUA admitem que vem mais pane por aí · [https://www.infomoney.com.br/mundo/voos-bancos-e-e-mail-fora-do-ar-eua-admitem-que-vem-mais-pane-por-ai/](https://www.infomoney.com.br/mundo/voos-bancos-e-e-mail-fora-do-ar-eua-admitem-que-vem-mais-pane-por-ai/)
+ 7. Juros do cartão a 10%: a proposta de Trump que une rivais e assusta bancos · [https://www.infomoney.com.br/mundo/juros-do-cartao-a-10-a-proposta-de-trump-que-une-rivais-e-assusta-bancos/](https://www.infomoney.com.br/mundo/juros-do-cartao-a-10-a-proposta-de-trump-que-une-rivais-e-assusta-bancos/)
+ 8. Rebeldes do Iêmen dizem ter atingido refinaria gigante da Arábia Saudita · [https://www.infomoney.com.br/mundo/rebeldes-do-iemen-dizem-ter-atingido-refinaria-gigante-da-arabia-saudita/](https://www.infomoney.com.br/mundo/rebeldes-do-iemen-dizem-ter-atingido-refinaria-gigante-da-arabia-saudita/)
+ 9. Mega-Sena 3089 acumula e prêmio vai a R$ 65 milhões; confira os números sorteados · [https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml](https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml)
+10. Incêndio em fábrica de doces deixa mortos e dezenas de desaparecidos na Indonésia · [https://g1.globo.com/mundo/noticia/2026/11/22/incendio-em-fabrica-de-doces-deixa-mortos-e-dezenas-de-desaparecidos-na-indonesia.ghtml](https://g1.globo.com/mundo/noticia/2026/11/22/incendio-em-fabrica-de-doces-deixa-mortos-e-dezenas-de-desaparecidos-na-indonesia.ghtml)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -56,21 +56,21 @@
 
 #### 📺 YouTube (US) — Top 2
 
- 1. skibidi toilet 83 (part 2) · [https://youtube.com/watch?v=hMapmHG0nIs](https://youtube.com/watch?v=hMapmHG0nIs)
+ 1. This is a nightmare for Rockstar.. · [https://youtube.com/watch?v=yqVoKXV8DZc](https://youtube.com/watch?v=yqVoKXV8DZc)
  2. Top 50 Christmas Songs of All Time 🎅🏼 Classic Christmas Music with Fireplace 🎅🏼 Merry Christmas 2027 · [https://youtube.com/watch?v=qEF9Q0cIjDQ](https://youtube.com/watch?v=qEF9Q0cIjDQ)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Storms expected on both coasts threatens Thanksgiving travel · [https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino](https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino)
- 2. Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence · [https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained](https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained)
- 3. Jeffries says Jordan contacted him after Speaker vote, but not Trump or Vance · [https://thehill.com/homenews/house/6235280-jeffries-openness-working-gop/](https://thehill.com/homenews/house/6235280-jeffries-openness-working-gop/)
- 4. Cancer is no longer America’s biggest fear · [https://thehill.com/opinion/technology/6231006-ai-threat-vs-terminal-illness/](https://thehill.com/opinion/technology/6231006-ai-threat-vs-terminal-illness/)
- 5. Killer robots: U.N. talks fall short of hopes for legally binding rules · [https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones](https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones)
- 6. Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles · [https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction](https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction)
- 7. Perspective: Defining 'human' · [https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human](https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human)
- 8. Trump says he'd work with Dems to cap credit card interest, fees · [https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren](https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren)
- 9. Trump says FBI hack might expose Russia "hoax" · [https://www.axios.com/2026/11/21/trump-russia-fbi-hack](https://www.axios.com/2026/11/21/trump-russia-fbi-hack)
-10. Hannity vows to broadcast names, numbers of GOP lawmakers missing votes · [https://thehill.com/homenews/house/6235234-sean-hannity-mike-johnson-house-attendance/](https://thehill.com/homenews/house/6235234-sean-hannity-mike-johnson-house-attendance/)
+ 1. Bessent compares tech outages to vaccines · [https://thehill.com/homenews/administration/6236005-bessent-bank-outage-vaccine-analogy/](https://thehill.com/homenews/administration/6236005-bessent-bank-outage-vaccine-analogy/)
+ 2. Flanagan says she 'appreciates' Schumer, but Van Hollen leads 'like an organizer' · [https://thehill.com/homenews/senate/6235792-peggy-flanagan-van-hollen/](https://thehill.com/homenews/senate/6235792-peggy-flanagan-van-hollen/)
+ 3. Lebanese villagers return to wrecked homes as the Israeli army pulls back · [https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes](https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes)
+ 4. Meet the young authors! A literacy program inspires kids in South Africa · [https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy](https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy)
+ 5. Climate change talks fall apart in final hours over fossil fuels · [https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment](https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment)
+ 6. Medicare looks a bit different in 2027, so don't miss open enrollment · [https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027](https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027)
+ 7. Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress · [https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress](https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress)
+ 8. Christian nationalist conference hosts Nick Fuentes, vows to keep pushing MAGA agenda · [https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda](https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda)
+ 9. Scoop: The Pentagon's case for Canada to "get serious" on defense · [https://www.axios.com/2026/11/22/pentagon-canada-defense-restrictions-fact-sheet](https://www.axios.com/2026/11/22/pentagon-canada-defense-restrictions-fact-sheet)
+10. Behind the Curtain — AI 2027: The reckoning · [https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning](https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -92,12 +92,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **custo de vida** | Como o custo de vida nos EUA está mudando? | Jovens organizam protestos em várias partes do mundo contra o aumento do custo de vida, refletindo uma preocupação globa |
-| 2 🟠 🎬 | **dinheiro** | Como ganhar dinheiro online nos EUA? | O tema de ganhar dinheiro online está cada vez mais em alta, com muitas pessoas buscando alternativas de renda extra dev |
-| 3 🟡 🎬 | **imigração** | Mudanças nas leis de imigração nos EUA | As discussões sobre imigração estão intensas com novas propostas e reformas sendo debatidas, impactando diretamente bras |
-| 4 🟡 🎬 | **economia** | Impacto do dólar na economia dos imigrantes | A variação do dólar e seu impacto na economia está em evidência, especialmente com a alta do dólar que afeta diretamente |
-| 5 🟡 🎬 | **tecnologia** | Como a tecnologia está mudando o mercado de trabalho? | Com a crescente automação e uso de IA, o mercado de trabalho está mudando rapidamente, afetando as oportunidades disponí |
-| 6 🟡 🎯 | **lifestyle** | Rotina de brasileiros nos EUA: desafios e conquistas | Histórias de brasileiros imigrantes estão ganhando espaço nas mídias, mostrando a realidade e os desafios enfrentados no |
-| 7 🟢 ⚡ | **entretenimento** | Memes sobre a vida de imigrante nos EUA | O humor sobre a vida de imigrantes está em alta, com muitos criando memes e conteúdos engraçados sobre suas experiências |
-| 8 🟢 🎬 | **vida familiar** | Como manter laços familiares à distância? | Com muitos brasileiros vivendo fora, a busca por manter conexões familiares à distância é um tema relevante e emocional. |
-| 9 🟢 🎬 | **viagem** | Dicas para economizar em viagens nos EUA | Com as férias se aproximando, muitos brasileiros planejam viajar e buscam dicas para economizar. |
+| 1 🟠 🎬 | **imigração** | Mudanças nas leis de imigração e impacto para brasileiros | A imigração está em destaque devido a novas políticas e mudanças nas leis nos EUA, afetando milhares de imigrantes. |
+| 2 🟠 🎬 | **custo de vida** | Comparação do custo de vida entre Brasil e EUA | Com a inflação e o aumento dos preços nos EUA, muitos estão discutindo o custo de vida e como isso afeta imigrantes e br |
+| 3 🟡 🎬 | **negócios** | Como iniciar um negócio nos EUA | O empreendedorismo está crescendo, especialmente entre imigrantes que buscam novas oportunidades nos EUA. |
+| 4 🟡 🎯 | **dólar** | Impacto da alta do dólar nas finanças pessoais | O dólar está em alta, afetando tanto brasileiros no Brasil quanto imigrantes nos EUA, especialmente em compras e investi |
+| 5 🟡 🎬 | **direito** | O que fazer em caso de problemas com o visto | Casos recentes de problemas com vistos estão gerando preocupação entre imigrantes e potenciais imigrantes. |
+| 6 🟡 🎬 | **tecnologia** | Como a IA está mudando o mercado de trabalho | A inteligência artificial está em alta, afetando diversas indústrias e criando novas oportunidades de trabalho. |
+| 7 🟡 🎯 | **finanças** | Renda passiva: como gerar dinheiro enquanto dorme | A busca por renda passiva está crescendo, especialmente entre aqueles que buscam segurança financeira nos EUA. |
+| 8 🟢 ⚡ | **entretenimento** | Tendências de humor e memes nos EUA | Memes e tendências de humor estão sempre em alta nas redes sociais, especialmente entre os jovens. |
+| 9 🟢 🎬 | **economia** | Inflação e seu impacto no dia a dia | A inflação é uma preocupação crescente, afetando os preços e o poder de compra em muitos países, incluindo os EUA. |

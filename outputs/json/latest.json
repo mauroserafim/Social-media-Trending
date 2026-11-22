@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-21T18:48:36.070192",
-  "run_id": "44937445106",
+  "generated_at": "2026-11-22T19:10:36.889396",
+  "run_id": "45059147104",
   "summary": {
     "total_br": 30,
     "total_us": 22,
-    "br_us_connections": 7,
+    "br_us_connections": 9,
     "cross_platform_topics": 15,
     "niche_ideas": 9
   },
@@ -15,84 +15,84 @@
       "label": "YouTube (BR)",
       "trends": [
         {
+          "title": "💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=1fQd2oxMBN0",
+          "score": 11.63,
+          "region": "BR",
+          "views": 183493
+        },
+        {
           "title": "Eduardo Costa – Legítima Defesa (Ao Vivo) | Eduardo Costa do Velho Testamento",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=PoIyUHdw2wk",
-          "score": 9.87,
+          "score": 11.38,
           "region": "BR",
-          "views": 2149570
-        },
-        {
-          "title": "Hungria - Viver do que Postar (Videoclipe Oficial) #Constelação",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=Uz6VWW2WvjE",
-          "score": 7.84,
-          "region": "BR",
-          "views": 1753463
-        },
-        {
-          "title": "💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=h6gIKoHyHqE",
-          "score": 5.7,
-          "region": "BR",
-          "views": 56411
+          "views": 3905332
         },
         {
           "title": "HOLLYWOOD - LUAN PEREIRA, HEITOR SANTOS (EU TE AMO RODEIO)",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=Ze0yT4CqlOk",
-          "score": 5.26,
+          "score": 8.57,
           "region": "BR",
-          "views": 1145187
+          "views": 2937071
+        },
+        {
+          "title": "M4rkim - INGLATERRA (Blue Lock)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=DTOcOGYfMxk",
+          "score": 2.88,
+          "region": "BR",
+          "views": 512360
         },
         {
           "title": "7 Minutoz - GUERREIRO | Tai Lung (Kung Fu Panda)",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=bkIt9CUGfCc",
-          "score": 2.93,
+          "score": 2.48,
           "region": "BR",
-          "views": 504274
-        },
-        {
-          "title": "Edy Britto & Samuel, @NandoMorenoOficial - Me Larga Que Mereço | Dois Diferentes, Ao Vivo",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=YNgMUNEpkIg",
-          "score": 1.26,
-          "region": "BR",
-          "views": 274021
-        },
-        {
-          "title": "Dance Se Souber Musicas Atualizadas ~ 2026 {tiktok}🎶💜",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=R9Fn-SsnEu8",
-          "score": 0.93,
-          "region": "BR",
-          "views": 205303
+          "views": 772790
         },
         {
           "title": "Shaggy - Angel (Visualizer) Feat. Rayvon",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=YtDoNL7yPaM",
-          "score": 0.92,
+          "score": 1.56,
           "region": "BR",
-          "views": 295618
+          "views": 652664
         },
         {
-          "title": "QUASE FOI - Netto Brito, Kamisa 10 | Ilha do Arrocha (Ao Vivo em São Luís/MA) - OFICIAL",
+          "title": "♪ Yu (The Boxer) | Maquina de Treino | AniRap",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=M2LlPQ32cXQ",
-          "score": 0.86,
+          "url": "https://youtube.com/watch?v=xl0GJlXddEE",
+          "score": 1.52,
           "region": "BR",
-          "views": 187783
+          "views": 254741
         },
         {
-          "title": "Creed - One Last Breath (Official Audio)",
+          "title": "Enrique Iglesias - Bailando ft. Descemer Bueno, Gente De Zona (Letra)",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=vd07qPsJmhU",
-          "score": 0.82,
+          "url": "https://youtube.com/watch?v=txdZ805O-Rg",
+          "score": 1.23,
           "region": "BR",
-          "views": 223827
+          "views": 259188
+        },
+        {
+          "title": "REY VAQUEIRO 2027 - VAI MATAR PAPAI (MÚSICA NOVA) FORRÓ PRA PAREDÃO",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=e1pmhV6Wyd4",
+          "score": 0.35,
+          "region": "BR",
+          "views": 108904
+        },
+        {
+          "title": "NÃO SOU COMPROMETIDO, GOSTO MUITO DISSO - MC Tuto (DJ Oreia)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=SIRmZjVHY_U",
+          "score": 0.35,
+          "region": "BR",
+          "views": 121517
         }
       ]
     },
@@ -102,81 +102,81 @@
       "label": "Notícias (BR)",
       "trends": [
         {
-          "title": "Britânico atravessa Estreito de Ormuz a nado para alertar sobre o impacto ambiental da guerra",
+          "title": "EUA: Chá de bebê termina em tiroteio com 3 mortos e 1 ferido",
           "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/21/britanico-atravessa-estreito-de-ormuz-a-nado-para-alertar-sobre-o-impacto-ambiental-da-guerra.ghtml",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/22/eua-cha-de-bebe-termina-em-tiroteio-com-3-mortos-e-1-ferido.ghtml",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Terremoto de magnitude 6,7 deixou 15 feridos no Peru e danificou 127 casas",
+          "title": "Bancada democrata na Câmara dos EUA atinge marca histórica e é a maior em 34 anos",
           "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/21/terremoto-de-magnitude-67-deixou-15-feridos-no-peru-e-danificou-127-casas.ghtml",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/22/bancada-democrata-na-camara-dos-eua-atinge-marca-historica.ghtml",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "FBI investiga possível ataque hacker a banco de dados criminais dos EUA",
+          "title": "Estrondos de madrugada assustam moradores de Barretos (SP); USP investiga causa",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/fbi-investiga-possivel-ataque-hacker-a-banco-de-dados-criminais-dos-eua/",
+          "url": "https://www.infomoney.com.br/brasil/estrondos-de-madrugada-assustam-moradores-de-barretos-sp-usp-investiga-causa/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "França quer ação de Conselho da ONU após Mianmar rejeitar decisão sobre genocídio",
+          "title": "“Uma minoria pode descarrilar tudo”: UE explica por que rejeitou acordo da COP31",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/franca-quer-acao-de-conselho-da-onu-apos-mianmar-rejeitar-decisao-sobre-genocidio/",
+          "url": "https://www.infomoney.com.br/mundo/uma-minoria-pode-descarrilar-tudo-ue-explica-por-que-rejeitou-acordo-da-cop31/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Miss Brasil levará o guaraná como tema no desfile típico do Miss Universo",
+          "title": "Ataque a navio comercial na Líbia leva guerra dos drones ao Mediterrâneo",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/brasil/miss-brasil-levara-o-guarana-como-tema-no-desfile-tipico-do-miss-universo/",
+          "url": "https://www.infomoney.com.br/mundo/ataque-a-navio-comercial-na-libia-leva-guerra-dos-drones-ao-mediterraneo/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Joe Wallach, um dos executivos que participaram da inauguração da Globo, morre aos 103 anos",
+          "title": "Voos, bancos e e-mail fora do ar: EUA admitem que vem mais pane por aí",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/voos-bancos-e-e-mail-fora-do-ar-eua-admitem-que-vem-mais-pane-por-ai/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Juros do cartão a 10%: a proposta de Trump que une rivais e assusta bancos",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/juros-do-cartao-a-10-a-proposta-de-trump-que-une-rivais-e-assusta-bancos/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Rebeldes do Iêmen dizem ter atingido refinaria gigante da Arábia Saudita",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/rebeldes-do-iemen-dizem-ter-atingido-refinaria-gigante-da-arabia-saudita/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Mega-Sena 3089 acumula e prêmio vai a R$ 65 milhões; confira os números sorteados",
           "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/11/21/joe-wallach-morre-aos-103-anos.ghtml",
+          "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml",
           "score": 80.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027, e critica Faria Lima",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml",
-          "score": 80.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "'O câncer muda você': princesa Kate Middleton fala sobre doença em documentário da BBC",
+          "title": "Incêndio em fábrica de doces deixa mortos e dezenas de desaparecidos na Indonésia",
           "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/21/o-cancer-muda-voce-princesa-catherine-fala-sobre-doenca-em-documentario-da-bbc.ghtml",
-          "score": 80.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "'Ainda não há compromisso' na COP31 do clima para um acordo, afirma União Europeia",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/21/ainda-nao-ha-compromisso-na-cop31-do-clima-para-um-acordo-afirma-uniao-europeia.ghtml",
-          "score": 80.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "O que uma antiga cidade subterrânea da Turquia pode nos ensinar sobre como escapar do calor e do frio extremos",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/21/o-que-uma-antiga-cidade-subterranea-da-turquia-pode-nos-ensinar-sobre-como-escapar-do-calor-e-do-frio-extremos.ghtml",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/22/incendio-em-fabrica-de-doces-deixa-mortos-e-dezenas-de-desaparecidos-na-indonesia.ghtml",
           "score": 80.0,
           "region": "BR",
           "views": null
@@ -278,20 +278,20 @@
       "label": "YouTube (US)",
       "trends": [
         {
-          "title": "skibidi toilet 83 (part 2)",
+          "title": "This is a nightmare for Rockstar..",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=hMapmHG0nIs",
-          "score": 27.49,
+          "url": "https://youtube.com/watch?v=yqVoKXV8DZc",
+          "score": 33.65,
           "region": "US",
-          "views": 6063495
+          "views": 2527436
         },
         {
           "title": "Top 50 Christmas Songs of All Time 🎅🏼 Classic Christmas Music with Fireplace 🎅🏼 Merry Christmas 2027",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=qEF9Q0cIjDQ",
-          "score": 0.44,
+          "score": 1.08,
           "region": "US",
-          "views": 64954
+          "views": 317523
         }
       ]
     },
@@ -301,81 +301,81 @@
       "label": "Notícias (US)",
       "trends": [
         {
-          "title": "Storms expected on both coasts threatens Thanksgiving travel",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Jeffries says Jordan contacted him after Speaker vote, but not Trump or Vance",
+          "title": "Bessent compares tech outages to vaccines",
           "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/house/6235280-jeffries-openness-working-gop/",
+          "url": "https://thehill.com/homenews/administration/6236005-bessent-bank-outage-vaccine-analogy/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Cancer is no longer America’s biggest fear",
+          "title": "Flanagan says she 'appreciates' Schumer, but Van Hollen leads 'like an organizer'",
           "source": "news:The Hill",
-          "url": "https://thehill.com/opinion/technology/6231006-ai-threat-vs-terminal-illness/",
+          "url": "https://thehill.com/homenews/senate/6235792-peggy-flanagan-van-hollen/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+          "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+          "title": "Meet the young authors! A literacy program inspires kids in South Africa",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+          "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Perspective: Defining 'human'",
+          "title": "Climate change talks fall apart in final hours over fossil fuels",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Trump says he'd work with Dems to cap credit card interest, fees",
+          "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+          "source": "news:NPR News",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Christian nationalist conference hosts Nick Fuentes, vows to keep pushing MAGA agenda",
+          "source": "news:NPR Politics",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Scoop: The Pentagon's case for Canada to \"get serious\" on defense",
           "source": "news:Axios",
-          "url": "https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren",
+          "url": "https://www.axios.com/2026/11/22/pentagon-canada-defense-restrictions-fact-sheet",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Trump says FBI hack might expose Russia \"hoax\"",
+          "title": "Behind the Curtain — AI 2027: The reckoning",
           "source": "news:Axios",
-          "url": "https://www.axios.com/2026/11/21/trump-russia-fbi-hack",
-          "score": 80.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Hannity vows to broadcast names, numbers of GOP lawmakers missing votes",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/house/6235234-sean-hannity-mike-johnson-house-attendance/",
+          "url": "https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning",
           "score": 80.0,
           "region": "US",
           "views": null
@@ -474,157 +474,148 @@
     {
       "topic": "trump",
       "count": 21,
-      "score": 32.0,
+      "score": 33.33,
       "sample_titles": [
         "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
         "Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel",
-        "‘It might be too tough’: Trump second-guessed his immigration crackdown after the midterms. Then his Labor Department doubled down",
-        "First Lady Melania Trump Fires Back at Democrats Over Planned Investigations Into Her Family: 'We Went Through a Lot Already'",
-        "Top US Democrat warns Trump admin against destroying records"
+        "Trump diz que trabalhará com Democratas para limitar juros do cartão de crédito",
+        "Stephen Miller sharpens the ax for Trump cabinet chief: White House purge plot revealed after cyber crisis fiasco and lavish multimillion-dollar trips… insiders leak 'stop the bleeding' order from president's right-hand man",
+        "Voters want to 'move on' from the president, former Trump official claims as reason for GOP's midterm defeat"
       ]
     },
     {
-      "topic": "anthropic",
+      "topic": "cop31",
       "count": 8,
-      "score": 60.0,
+      "score": 65.0,
       "sample_titles": [
-        "Nasdaq tem pior semana desde 2020, e nem IPO da Anthropic segurou o setor de tecnologia",
-        "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
-        "Anthropic says it will put humanity first. Will its IPO change that?",
-        "Critics are worried about Anthropic's influence after first day of public trading"
+        "‘Ainda não há compromisso’, afirma UE sobre texto final da COP31",
+        "Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades",
+        "COP31: após fracasso nas negociações, conferência termina sem acordo final",
+        "Governments fail to reach agreement at COP31 over fossil fuel clash"
       ]
     },
     {
-      "topic": "texas",
-      "count": 3,
-      "score": 40.0,
+      "topic": "final",
+      "count": 4,
+      "score": 65.0,
       "sample_titles": [
-        "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
-        "A Texas Police Department Got $100K After a Single Immigration Arrest. It Stands to Earn Much More.",
-        "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain"
-      ]
-    },
-    {
-      "topic": "nasdaq",
-      "count": 2,
-      "score": 70.0,
-      "sample_titles": [
-        "Nasdaq tem pior semana desde 2020, e nem IPO da Anthropic segurou o setor de tecnologia",
-        "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year"
-      ]
-    },
-    {
-      "topic": "nvidia",
-      "count": 2,
-      "score": 50.0,
-      "sample_titles": [
-        "Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
-        "What’s So Important About Nvidia’s Chips?"
+        "‘Ainda não há compromisso’, afirma UE sobre texto final da COP31",
+        "Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades",
+        "COP31: após fracasso nas negociações, conferência termina sem acordo final",
+        "Climate change talks fall apart in final hours over fossil fuels"
       ]
     },
     {
       "topic": "global",
-      "count": 2,
-      "score": 40.0,
+      "count": 3,
+      "score": 53.33,
       "sample_titles": [
         "Brasil corre risco de perder ciclo global favorável sem ajuste fiscal, alerta Ashmore",
-        "Climate Change Overshoot: A First-Class Global Apocalypse in the Making"
+        "COP31 termina sem acordo global: entenda os seis pontos que levaram ao fracasso da conferência",
+        "Global investing isn’t a piece of cake"
       ]
     },
     {
       "topic": "online",
-      "count": 2,
-      "score": 10.0,
+      "count": 3,
+      "score": 26.67,
       "sample_titles": [
+        "Como um adolescente e sua mãe ajudaram a resgatar uma garota desaparecida após um encontro em um jogo online",
         "como ganhar dinheiro online",
         "how to learn online"
+      ]
+    },
+    {
+      "topic": "google",
+      "count": 2,
+      "score": 70.0,
+      "sample_titles": [
+        "Google Maps pode avisar quando alguém chega? Veja como configurar",
+        "Google employees protest AI in schools policy"
+      ]
+    },
+    {
+      "topic": "princeton",
+      "count": 2,
+      "score": 60.0,
+      "sample_titles": [
+        "Polícia de imigração dos EUA prende pesquisadora chinesa de Princeton em aeroporto",
+        "'Worst of the Worst?' ICE blasted for detaining Princeton Neuroscience PhD Student"
+      ]
+    },
+    {
+      "topic": "putin",
+      "count": 2,
+      "score": 60.0,
+      "sample_titles": [
+        "Trump, Xi, Putin. Uma cimeira de fotos não governa o mundo",
+        "Director of National Intelligence: Putin is 'not America's friend in Ukraine'"
+      ]
+    },
+    {
+      "topic": "podcast",
+      "count": 2,
+      "score": 40.0,
+      "sample_titles": [
+        "Metrópoles estreia podcast sobre imigração brasileira para os EUA",
+        "NPR's Senior Podcast Challenge: Early entries we love"
       ]
     }
   ],
   "cross_platform": [
     {
-      "topic": "muito",
+      "topic": "nightmare",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 45.04,
+      "score": 46.83,
       "sample_titles": [
-        "NÃO SOU COMPROMETIDO, GOSTO MUITO DISSO - MC Tuto (DJ Oreia)",
-        "Em SP, Mike Tyson exalta Éder Jofre: \"Gostava e respeitava muito ele\"",
-        "O que aprendi ao passar 14 anos acompanhando famílias que não saem da pobreza: 'Muito além de decisões pessoais'",
-        "Cúpula na China foi 'muito malsucedida' para a Rússia, diz Zelensky"
+        "This is a nightmare for Rockstar..",
+        "He expected a small-business loan. He got a 7-year nightmare"
       ]
     },
     {
-      "topic": "custo vida",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 43.33,
-      "sample_titles": [
-        "Jovens organizam protestos em mais de 25 países europeus contra custo de vida",
-        "França tem sexto sábado seguido de protestos contra o custo de vida",
-        "custo de vida EUA"
-      ]
-    },
-    {
-      "topic": "custo",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 43.33,
-      "sample_titles": [
-        "Jovens organizam protestos em mais de 25 países europeus contra custo de vida",
-        "França tem sexto sábado seguido de protestos contra o custo de vida",
-        "custo de vida EUA"
-      ]
-    },
-    {
-      "topic": "larga",
+      "topic": "domingo",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 40.63,
+      "score": 42.53,
       "sample_titles": [
-        "Edy Britto & Samuel, @NandoMorenoOficial - Me Larga Que Mereço | Dois Diferentes, Ao Vivo",
-        "Antonelli é o mais rápido, mas Verstappen larga na frente em Las Vegas"
+        "Domingo 22 de Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Mega-Sena 3089 pode pagar R$ 45 milhões neste domingo; g1 transmite ao vivo",
+        "Falha técnica na Delta atrasa milhares de voos nos EUA neste domingo",
+        "Onde assistir Athletico x Remo ao vivo neste domingo (22) pelo Brasileirão"
       ]
     },
     {
-      "topic": "semana",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 40.04,
-      "sample_titles": [
-        "O LEGADO: CHUVA CAI, TIRO DE 12, FIM DE SEMANA (Os Atuais, Brilha Som e Rainha Musical)",
-        "Real tem 2ª pior semana do ano com disparada de 5% do dólar no período; BC intervém, mas não contém movimento",
-        "Nasdaq tem pior semana desde 2020, e nem IPO da Anthropic segurou o setor de tecnologia"
-      ]
-    },
-    {
-      "topic": "immigration",
+      "topic": "imigração",
       "platforms": [
         "news",
         "google_trends"
       ],
       "count": 2,
-      "score": 32.5,
+      "score": 36.67,
       "sample_titles": [
-        "‘It might be too tough’: Trump second-guessed his immigration crackdown after the midterms. Then his Labor Department doubled down",
-        "Blurred Line between Federal Immigration Enforcement and Local Police Harms Communities",
-        "A Texas Police Department Got $100K After a Single Immigration Arrest. It Stands to Earn Much More.",
-        "immigration USA"
+        "Metrópoles estreia podcast sobre imigração brasileira para os EUA",
+        "Polícia de imigração dos EUA prende pesquisadora chinesa de Princeton em aeroporto",
+        "imigração EUA"
+      ]
+    },
+    {
+      "topic": "business",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "He expected a small-business loan. He got a 7-year nightmare",
+        "start a business USA"
       ]
     },
     {
@@ -642,7 +633,21 @@
       ]
     },
     {
-      "topic": "dinheiro",
+      "topic": "online",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 26.67,
+      "sample_titles": [
+        "Como um adolescente e sua mãe ajudaram a resgatar uma garota desaparecida após um encontro em um jogo online",
+        "como ganhar dinheiro online",
+        "how to learn online"
+      ]
+    },
+    {
+      "topic": "custo",
       "platforms": [
         "news",
         "google_trends"
@@ -650,12 +655,12 @@
       "count": 2,
       "score": 25.0,
       "sample_titles": [
-        "Jogadores de GTA 6 se recusam a usar bug que dá dinheiro infinito, pois afirmam que estraga a experiência",
-        "como ganhar dinheiro online"
+        "Milhares marcham em Lisboa conforme custo de vida alimenta indignação",
+        "custo de vida EUA"
       ]
     },
     {
-      "topic": "estados unidos",
+      "topic": "custo vida",
       "platforms": [
         "news",
         "google_trends"
@@ -663,12 +668,12 @@
       "count": 2,
       "score": 25.0,
       "sample_titles": [
-        "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
-        "vida nos Estados Unidos"
+        "Milhares marcham em Lisboa conforme custo de vida alimenta indignação",
+        "custo de vida EUA"
       ]
     },
     {
-      "topic": "unidos",
+      "topic": "visto",
       "platforms": [
         "news",
         "google_trends"
@@ -676,12 +681,12 @@
       "count": 2,
       "score": 25.0,
       "sample_titles": [
-        "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
-        "vida nos Estados Unidos"
+        "Problemas no visto teriam motivado volta de Harry e Meghan ao Reino Unido",
+        "visto americano"
       ]
     },
     {
-      "topic": "estados",
+      "topic": "income",
       "platforms": [
         "news",
         "google_trends"
@@ -689,234 +694,246 @@
       "count": 2,
       "score": 25.0,
       "sample_titles": [
-        "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
-        "vida nos Estados Unidos"
+        "Highmark Health Reports Revenue of $26.5 billion, $741 million in Operating Income, for Nine Months ended Sept. 30, 2026",
+        "passive income ideas"
       ]
     },
     {
-      "topic": "geração",
+      "topic": "inflation",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "President Donald Trump's Economy and the AI-Driven Stock Market Are in Trouble, Thanks to a Newly Identified Source of Inflation",
+        "inflation"
+      ]
+    },
+    {
+      "topic": "marketing",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "How To Choose A Digital Marketing Agency In Muscat, Oman",
+        "digital marketing tips"
+      ]
+    },
+    {
+      "topic": "digital",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "How To Choose A Digital Marketing Agency In Muscat, Oman",
+        "digital marketing tips"
+      ]
+    },
+    {
+      "topic": "digital marketing",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 25.0,
+      "sample_titles": [
+        "How To Choose A Digital Marketing Agency In Muscat, Oman",
+        "digital marketing tips"
+      ]
+    },
+    {
+      "topic": "defesa",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 20.06,
+      "score": 20.69,
       "sample_titles": [
-        "João Bosco e Vinícius - Ex Amor / Só Fazendo Amor / Preciso Amar de Novo | A Voz de Uma Geração",
-        "Geração Z protagoniza protestos por educação e justiça climática na Europa"
-      ]
-    },
-    {
-      "topic": "imposto",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 15.0,
-      "sample_titles": [
-        "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
-        "imposto nos EUA"
-      ]
-    },
-    {
-      "topic": "empresa",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 15.0,
-      "sample_titles": [
-        "Fernanda Cortes: 5 passos para empresários que querem abrir um negócio nos EUA",
-        "abrir empresa nos EUA"
-      ]
-    },
-    {
-      "topic": "abrir",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 15.0,
-      "sample_titles": [
-        "Fernanda Cortes: 5 passos para empresários que querem abrir um negócio nos EUA",
-        "abrir empresa nos EUA"
+        "Eduardo Costa – Legítima Defesa (Ao Vivo) | Eduardo Costa do Velho Testamento",
+        "Após 3 mortes na Ucrânia, Zelensky cobra dos EUA mísseis de defesa"
       ]
     }
   ],
   "niche_ideas": [
     {
-      "main_topic": "custo de vida",
-      "subtopic": "Como o custo de vida nos EUA está mudando?",
-      "why_trending": "Jovens organizam protestos em várias partes do mundo contra o aumento do custo de vida, refletindo uma preocupação global. Nos EUA, o aumento da inflação e dos preços afeta diretamente as famílias.",
-      "niche_angle": "Explorar como o custo de vida nos EUA impacta diretamente a vida dos brasileiros imigrantes, incluindo comparações com o Brasil e dicas para economizar.",
-      "video_format": "long",
-      "urgency": "high",
-      "ease": 6,
-      "source": "news",
-      "region": "US",
-      "links": [
-        "https://www.infomoney.com.br/mundo/franca-tem-sexto-sabado-seguido-de-protestos-contra-o-custo-de-vida/"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-11-21T18:48:36.067069"
-    },
-    {
-      "main_topic": "dinheiro",
-      "subtopic": "Como ganhar dinheiro online nos EUA?",
-      "why_trending": "O tema de ganhar dinheiro online está cada vez mais em alta, com muitas pessoas buscando alternativas de renda extra devido ao aumento do custo de vida.",
-      "niche_angle": "Apresentar opções de trabalho remoto e renda extra que são populares entre brasileiros nos EUA, incluindo plataformas e dicas práticas.",
+      "main_topic": "imigração",
+      "subtopic": "Mudanças nas leis de imigração e impacto para brasileiros",
+      "why_trending": "A imigração está em destaque devido a novas políticas e mudanças nas leis nos EUA, afetando milhares de imigrantes.",
+      "niche_angle": "Explorar as recentes mudanças nas leis de imigração e como elas impactam os brasileiros que residem nos EUA, além de dicas práticas para quem está pensando em imigrar.",
       "video_format": "long",
       "urgency": "high",
       "ease": 5,
       "source": "news",
       "region": "US",
       "links": [
-        "https://www.infomoney.com.br/mundo/franca-tem-sexto-sabado-seguido-de-protestos-contra-o-custo-de-vida/"
+        "https://exame.com/mundo/policia-de-imigracao-dos-eua-prende-pesquisadora-chinesa-de-princeton-em-aeroporto/"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-21T18:48:36.067076"
+      "collected_at": "2026-11-22T19:10:36.885716"
     },
     {
-      "main_topic": "imigração",
-      "subtopic": "Mudanças nas leis de imigração nos EUA",
-      "why_trending": "As discussões sobre imigração estão intensas com novas propostas e reformas sendo debatidas, impactando diretamente brasileiros que desejam imigrar ou regularizar sua situação.",
-      "niche_angle": "Informar brasileiros sobre as possíveis mudanças nas leis e como isso pode afetar seus planos de imigração ou estadia nos EUA.",
+      "main_topic": "custo de vida",
+      "subtopic": "Comparação do custo de vida entre Brasil e EUA",
+      "why_trending": "Com a inflação e o aumento dos preços nos EUA, muitos estão discutindo o custo de vida e como isso afeta imigrantes e brasileiros que desejam se mudar.",
+      "niche_angle": "Analisar o custo de vida atual nos EUA em comparação com o Brasil, focando em itens essenciais como moradia, alimentação e transporte.",
       "video_format": "long",
-      "urgency": "medium",
-      "ease": 7,
+      "urgency": "high",
+      "ease": 6,
       "source": "news",
       "region": "US",
       "links": [
-        "https://www.infomoney.com.br/mundo/franca-tem-sexto-sabado-seguido-de-protestos-contra-o-custo-de-vida/"
+        "https://g1.globo.com/mundo/noticia/2026/11/22/falha-tecnica-na-delta-atrasa-milhares-de-voos-nos-eua-neste-domingo.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-21T18:48:36.067080"
+      "collected_at": "2026-11-22T19:10:36.885727"
     },
     {
-      "main_topic": "economia",
-      "subtopic": "Impacto do dólar na economia dos imigrantes",
-      "why_trending": "A variação do dólar e seu impacto na economia está em evidência, especialmente com a alta do dólar que afeta diretamente as remessas e o poder de compra dos imigrantes.",
-      "niche_angle": "Explorar como a alta do dólar impacta os brasileiros que vivem nos EUA e suas famílias no Brasil, incluindo dicas sobre como lidar com a situação.",
+      "main_topic": "negócios",
+      "subtopic": "Como iniciar um negócio nos EUA",
+      "why_trending": "O empreendedorismo está crescendo, especialmente entre imigrantes que buscam novas oportunidades nos EUA.",
+      "niche_angle": "Fornecer um guia prático sobre como iniciar um negócio nos EUA, abordando desde a burocracia até dicas de marketing e financiamento.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/22/juros-do-cartao-a-10-a-proposta-de-trump-que-une-rivais-e-assusta-bancos.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-22T19:10:36.885733"
+    },
+    {
+      "main_topic": "dólar",
+      "subtopic": "Impacto da alta do dólar nas finanças pessoais",
+      "why_trending": "O dólar está em alta, afetando tanto brasileiros no Brasil quanto imigrantes nos EUA, especialmente em compras e investimentos.",
+      "niche_angle": "Discutir como a alta do dólar impacta as finanças pessoais dos brasileiros nos EUA e como eles podem se proteger contra essa volatilidade.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news",
+      "region": "GLOBAL",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/22/dolar-hoje.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-22T19:10:36.885738"
+    },
+    {
+      "main_topic": "direito",
+      "subtopic": "O que fazer em caso de problemas com o visto",
+      "why_trending": "Casos recentes de problemas com vistos estão gerando preocupação entre imigrantes e potenciais imigrantes.",
+      "niche_angle": "Fornecer orientações sobre o que brasileiros devem fazer se enfrentarem problemas com o visto nos EUA, incluindo recursos disponíveis.",
       "video_format": "long",
       "urgency": "medium",
       "ease": 6,
       "source": "news",
       "region": "US",
       "links": [
-        "https://www.infomoney.com.br/mundo/franca-tem-sexto-sabado-seguido-de-protestos-contra-o-custo-de-vida/"
+        "https://g1.globo.com/mundo/noticia/2026/11/22/visto-americano.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-21T18:48:36.067083"
+      "collected_at": "2026-11-22T19:10:36.885745"
     },
     {
       "main_topic": "tecnologia",
-      "subtopic": "Como a tecnologia está mudando o mercado de trabalho?",
-      "why_trending": "Com a crescente automação e uso de IA, o mercado de trabalho está mudando rapidamente, afetando as oportunidades disponíveis para brasileiros imigrantes.",
-      "niche_angle": "Discutir como a tecnologia, especialmente IA, pode ser uma aliada para brasileiros que buscam se destacar no mercado de trabalho nos EUA.",
+      "subtopic": "Como a IA está mudando o mercado de trabalho",
+      "why_trending": "A inteligência artificial está em alta, afetando diversas indústrias e criando novas oportunidades de trabalho.",
+      "niche_angle": "Explorar como a IA está transformando o mercado de trabalho nos EUA e o que isso significa para brasileiros que buscam emprego ou mudança de carreira.",
       "video_format": "long",
       "urgency": "medium",
       "ease": 5,
       "source": "news",
       "region": "US",
       "links": [
-        "https://www.infomoney.com.br/mundo/franca-tem-sexto-sabado-seguido-de-protestos-contra-o-custo-de-vida/"
+        "https://g1.globo.com/mundo/noticia/2026/11/22/china-usa-servico-de-espionagem-para-obter-chips-de-ia.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-21T18:48:36.067087"
+      "collected_at": "2026-11-22T19:10:36.885750"
     },
     {
-      "main_topic": "lifestyle",
-      "subtopic": "Rotina de brasileiros nos EUA: desafios e conquistas",
-      "why_trending": "Histórias de brasileiros imigrantes estão ganhando espaço nas mídias, mostrando a realidade e os desafios enfrentados no dia a dia.",
-      "niche_angle": "Compartilhar uma rotina real de brasileiros nos EUA, incluindo desafios financeiros, sociais e culturais, para conectar e inspirar outros imigrantes.",
+      "main_topic": "finanças",
+      "subtopic": "Renda passiva: como gerar dinheiro enquanto dorme",
+      "why_trending": "A busca por renda passiva está crescendo, especialmente entre aqueles que buscam segurança financeira nos EUA.",
+      "niche_angle": "Discutir diferentes formas de gerar renda passiva nos EUA, com foco em brasileiros que querem construir riqueza a longo prazo.",
       "video_format": "both",
       "urgency": "medium",
       "ease": 4,
       "source": "news",
       "region": "US",
       "links": [
-        "https://www.infomoney.com.br/mundo/franca-tem-sexto-sabado-seguido-de-protestos-contra-o-custo-de-vida/"
+        "https://g1.globo.com/mundo/noticia/2026/11/22/passive-income-ideas.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-21T18:48:36.067090"
+      "collected_at": "2026-11-22T19:10:36.885754"
     },
     {
       "main_topic": "entretenimento",
-      "subtopic": "Memes sobre a vida de imigrante nos EUA",
-      "why_trending": "O humor sobre a vida de imigrantes está em alta, com muitos criando memes e conteúdos engraçados sobre suas experiências.",
-      "niche_angle": "Criar uma série de memes ou vídeos engraçados que retratem a realidade dos brasileiros imigrantes de forma leve e divertida.",
+      "subtopic": "Tendências de humor e memes nos EUA",
+      "why_trending": "Memes e tendências de humor estão sempre em alta nas redes sociais, especialmente entre os jovens.",
+      "niche_angle": "Analisar as últimas tendências de humor e memes que estão fazendo sucesso nos EUA e como os brasileiros podem se relacionar com isso.",
       "video_format": "short",
       "urgency": "low",
-      "ease": 3,
-      "source": "news",
+      "ease": 5,
+      "source": "tiktok",
       "region": "US",
       "links": [
-        "https://www.infomoney.com.br/mundo/franca-tem-sexto-sabado-seguido-de-protestos-contra-o-custo-de-vida/"
+        "https://www.tiktok.com/"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "tiktok"
       ],
-      "collected_at": "2026-11-21T18:48:36.067092"
+      "collected_at": "2026-11-22T19:10:36.885763"
     },
     {
-      "main_topic": "vida familiar",
-      "subtopic": "Como manter laços familiares à distância?",
-      "why_trending": "Com muitos brasileiros vivendo fora, a busca por manter conexões familiares à distância é um tema relevante e emocional.",
-      "niche_angle": "Discutir estratégias e ferramentas que ajudam brasileiros a manter laços com suas famílias no Brasil, incluindo tecnologia e dicas práticas.",
+      "main_topic": "economia",
+      "subtopic": "Inflação e seu impacto no dia a dia",
+      "why_trending": "A inflação é uma preocupação crescente, afetando os preços e o poder de compra em muitos países, incluindo os EUA.",
+      "niche_angle": "Explorar como a inflação está afetando o dia a dia dos brasileiros nos EUA, incluindo dicas para lidar com os aumentos de preços.",
       "video_format": "long",
       "urgency": "low",
       "ease": 5,
       "source": "news",
       "region": "US",
       "links": [
-        "https://www.infomoney.com.br/mundo/franca-tem-sexto-sabado-seguido-de-protestos-contra-o-custo-de-vida/"
+        "https://g1.globo.com/mundo/noticia/2026/11/22/inflation.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-21T18:48:36.067099"
-    },
-    {
-      "main_topic": "viagem",
-      "subtopic": "Dicas para economizar em viagens nos EUA",
-      "why_trending": "Com as férias se aproximando, muitos brasileiros planejam viajar e buscam dicas para economizar.",
-      "niche_angle": "Oferecer dicas práticas sobre como brasileiros podem economizar em viagens dentro dos EUA, considerando o custo de vida atual.",
-      "video_format": "long",
-      "urgency": "low",
-      "ease": 4,
-      "source": "news",
-      "region": "US",
-      "links": [
-        "https://www.infomoney.com.br/mundo/franca-tem-sexto-sabado-seguido-de-protestos-contra-o-custo-de-vida/"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-11-21T18:48:36.067102"
+      "collected_at": "2026-11-22T19:10:36.885768"
     }
   ]
 }
