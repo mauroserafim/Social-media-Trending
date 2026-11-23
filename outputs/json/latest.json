@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-22T19:10:36.889396",
-  "run_id": "45059147104",
+  "generated_at": "2026-11-23T23:31:40.757671",
+  "run_id": "45289441102",
   "summary": {
     "total_br": 30,
-    "total_us": 22,
-    "br_us_connections": 9,
+    "total_us": 30,
+    "br_us_connections": 10,
     "cross_platform_topics": 15,
     "niche_ideas": 9
   },
@@ -15,84 +15,84 @@
       "label": "YouTube (BR)",
       "trends": [
         {
-          "title": "💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶",
+          "title": "Vingadores: Doutor Destino | Trailer Dublado",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=1fQd2oxMBN0",
+          "url": "https://youtube.com/watch?v=OCvR-nay2K0",
+          "score": 24.09,
+          "region": "BR",
+          "views": 2025062
+        },
+        {
+          "title": "REACT DO TRAILER FINAL - VINGADORES: DOUTOR DESTINO",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=Js6XYTp0d74",
           "score": 11.63,
           "region": "BR",
-          "views": 183493
+          "views": 501940
         },
         {
-          "title": "Eduardo Costa – Legítima Defesa (Ao Vivo) | Eduardo Costa do Velho Testamento",
+          "title": "AVENGERS DOOMSDAY FINAL TRAILER REACTION!",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=PoIyUHdw2wk",
-          "score": 11.38,
+          "url": "https://youtube.com/watch?v=LfIXOqxQCsg",
+          "score": 6.42,
           "region": "BR",
-          "views": 3905332
+          "views": 490080
         },
         {
-          "title": "HOLLYWOOD - LUAN PEREIRA, HEITOR SANTOS (EU TE AMO RODEIO)",
+          "title": "EXPLICADO! VINGADORES DOOMSDAY TRAILER FINAL (DETALHES + REFERÊNCIAS + EASTER EGGS)",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=Ze0yT4CqlOk",
-          "score": 8.57,
+          "url": "https://youtube.com/watch?v=crRXX5rjTew",
+          "score": 2.87,
           "region": "BR",
-          "views": 2937071
+          "views": 128831
         },
         {
           "title": "M4rkim - INGLATERRA (Blue Lock)",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=DTOcOGYfMxk",
-          "score": 2.88,
+          "score": 2.72,
           "region": "BR",
-          "views": 512360
+          "views": 906228
         },
         {
-          "title": "7 Minutoz - GUERREIRO | Tai Lung (Kung Fu Panda)",
+          "title": "RAÇA NEGRA - AS MELHORES MÚSICAS ROMÂNTICAS - SÓ RECORDAÇÕES ANTIGAS",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=bkIt9CUGfCc",
-          "score": 2.48,
+          "url": "https://youtube.com/watch?v=i6O3pneapAU",
+          "score": 2.71,
           "region": "BR",
-          "views": 772790
+          "views": 41979
         },
         {
-          "title": "Shaggy - Angel (Visualizer) Feat. Rayvon",
+          "title": "My Moon My Man",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=YtDoNL7yPaM",
-          "score": 1.56,
+          "url": "https://youtube.com/watch?v=pQ_3P-0WwvU",
+          "score": 2.44,
           "region": "BR",
-          "views": 652664
+          "views": 1209168
         },
         {
-          "title": "♪ Yu (The Boxer) | Maquina de Treino | AniRap",
+          "title": "AVENGERS: DOOMSDAY FINAL TRAILER REACTION! (I CRIED OMG)",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=xl0GJlXddEE",
-          "score": 1.52,
+          "url": "https://youtube.com/watch?v=DWrLax5ifDg",
+          "score": 2.36,
           "region": "BR",
-          "views": 254741
+          "views": 199339
         },
         {
-          "title": "Enrique Iglesias - Bailando ft. Descemer Bueno, Gente De Zona (Letra)",
+          "title": "🚨VINGADORES: DOUTOR DESTINO | TRAILER FINAL: REAÇÃO E ANÁLISE",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=txdZ805O-Rg",
-          "score": 1.23,
+          "url": "https://youtube.com/watch?v=NVM-WXwqxSs",
+          "score": 1.87,
           "region": "BR",
-          "views": 259188
+          "views": 146024
         },
         {
-          "title": "REY VAQUEIRO 2027 - VAI MATAR PAPAI (MÚSICA NOVA) FORRÓ PRA PAREDÃO",
+          "title": "SAIU!!! ANÁLISE COMPLETA do TRAILER FINAL de VINGADORES DOOMSDAY",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=e1pmhV6Wyd4",
-          "score": 0.35,
+          "url": "https://youtube.com/watch?v=WnRR1PJL1Wo",
+          "score": 1.77,
           "region": "BR",
-          "views": 108904
-        },
-        {
-          "title": "NÃO SOU COMPROMETIDO, GOSTO MUITO DISSO - MC Tuto (DJ Oreia)",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=SIRmZjVHY_U",
-          "score": 0.35,
-          "region": "BR",
-          "views": 121517
+          "views": 130429
         }
       ]
     },
@@ -102,82 +102,82 @@
       "label": "Notícias (BR)",
       "trends": [
         {
-          "title": "EUA: Chá de bebê termina em tiroteio com 3 mortos e 1 ferido",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/22/eua-cha-de-bebe-termina-em-tiroteio-com-3-mortos-e-1-ferido.ghtml",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Bancada democrata na Câmara dos EUA atinge marca histórica e é a maior em 34 anos",
-          "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/22/bancada-democrata-na-camara-dos-eua-atinge-marca-historica.ghtml",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Estrondos de madrugada assustam moradores de Barretos (SP); USP investiga causa",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/brasil/estrondos-de-madrugada-assustam-moradores-de-barretos-sp-usp-investiga-causa/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "“Uma minoria pode descarrilar tudo”: UE explica por que rejeitou acordo da COP31",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/uma-minoria-pode-descarrilar-tudo-ue-explica-por-que-rejeitou-acordo-da-cop31/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Ataque a navio comercial na Líbia leva guerra dos drones ao Mediterrâneo",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/ataque-a-navio-comercial-na-libia-leva-guerra-dos-drones-ao-mediterraneo/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Voos, bancos e e-mail fora do ar: EUA admitem que vem mais pane por aí",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/voos-bancos-e-e-mail-fora-do-ar-eua-admitem-que-vem-mais-pane-por-ai/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Juros do cartão a 10%: a proposta de Trump que une rivais e assusta bancos",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/juros-do-cartao-a-10-a-proposta-de-trump-que-une-rivais-e-assusta-bancos/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Rebeldes do Iêmen dizem ter atingido refinaria gigante da Arábia Saudita",
-          "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/rebeldes-do-iemen-dizem-ter-atingido-refinaria-gigante-da-arabia-saudita/",
-          "score": 100.0,
-          "region": "BR",
-          "views": null
-        },
-        {
-          "title": "Mega-Sena 3089 acumula e prêmio vai a R$ 65 milhões; confira os números sorteados",
+          "title": "BRB diz que segue com atividades bancárias, mesmo com registro suspenso na CVM e bloqueio para negociar ações",
           "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml",
-          "score": 80.0,
+          "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/23/brb-afirma-que-segue-com-atividades-bancarias-apos-cvm-suspender-registro-de-companhia-aberta.ghtml",
+          "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Incêndio em fábrica de doces deixa mortos e dezenas de desaparecidos na Indonésia",
+          "title": "Petrobras volta ao mercado de etanol com compra de 42% de produtora por R$ 2,8 bilhões",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/negocios/noticia/2026/11/23/petrobras-etanol.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Petrobras prevê investir US$ 122 bilhões até 2031, alta de 11,9% em relação ao plano anterior",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/23/petrobras-investimento-2027-a-2031.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "China condena funcionário à morte por espionagem e vazamento de segredos de Estado",
           "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/22/incendio-em-fabrica-de-doces-deixa-mortos-e-dezenas-de-desaparecidos-na-indonesia.ghtml",
-          "score": 80.0,
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/23/china-condena-funcionario-a-morte-por-espionagem-e-vazamento-de-segredos-de-estado.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Irã aplica pena de 74 chibatadas em cantora que se apresentou sem hijab",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/23/ira-aplica-pena-de-74-chibatadas-em-cantora-e-equipe.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Meta suspende ações sem direito a voto com Zuckerberg diante de disputa judicial",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/meta-suspende-acoes-sem-direito-a-voto-com-zuckerberg-diante-de-disputa-judicial/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Petrobras vai aportar R$1,8 bi em produtora de etanol de milho, diz CerradinhoBio",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/petrobras-vai-aportar-r18-bi-em-produtora-de-etanol-de-milho-diz-cerradinhobio/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Câmara aprova urgência para deputados votarem ajuste fiscal ainda nesta segunda-feira",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/camara-aprova-urgencia-para-deputados-votarem-ajuste-fiscal-ainda-nesta-segunda-feira/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Petrobras (PETR4) aprova investimentos de US$ 122 bi em plano de negócios 2027-2031",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-aprova-investimentos-de-us-122-bi-em-plano-de-negocios-2027-2031/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Petrobras aprova R$15,6 bi em remuneração extra a acionistas",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/petrobras-aprova-r156-bi-em-remuneracao-extra-a-acionistas/",
+          "score": 100.0,
           "region": "BR",
           "views": null
         }
@@ -278,20 +278,84 @@
       "label": "YouTube (US)",
       "trends": [
         {
-          "title": "This is a nightmare for Rockstar..",
+          "title": "DOOMSDAY FINAL TRAILER | Reaction and Q&A! | New Rockstars",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=yqVoKXV8DZc",
-          "score": 33.65,
+          "url": "https://youtube.com/watch?v=7vkXwEp3oak",
+          "score": 8.32,
           "region": "US",
-          "views": 2527436
+          "views": 378737
         },
         {
-          "title": "Top 50 Christmas Songs of All Time 🎅🏼 Classic Christmas Music with Fireplace 🎅🏼 Merry Christmas 2027",
+          "title": "Smosh Winter Games 2026 Trailer",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=qEF9Q0cIjDQ",
-          "score": 1.08,
+          "url": "https://youtube.com/watch?v=D6azmeRWwCc",
+          "score": 6.83,
           "region": "US",
-          "views": 317523
+          "views": 356960
+        },
+        {
+          "title": "AVENGERS DOOMSDAY FINAL TRAILER Doctor Doom, X-Men & Every Hidden Detail!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=-wNMKJaUE6M",
+          "score": 5.27,
+          "region": "US",
+          "views": 303270
+        },
+        {
+          "title": "TO ME, MY X-MEN! Avengers Doomsday FINAL TRAILER REACTION!! - Doctor Doom",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=6eblkecysvY",
+          "score": 4.75,
+          "region": "US",
+          "views": 358117
+        },
+        {
+          "title": "FINAL AVENGERS DOOMSDAY TRAILER | Emergency Pod #4",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=c_7JBX4uvkQ",
+          "score": 4.16,
+          "region": "US",
+          "views": 222907
+        },
+        {
+          "title": "NO WAY THEY SHOWED THAT!! Avengers: Doomsday FINAL Trailer REACTION!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=tNR44wUPmig",
+          "score": 2.79,
+          "region": "US",
+          "views": 230970
+        },
+        {
+          "title": "The Escape Podcast REACT TO THE AVENGERS DOOMSDAY FINAL TRAILER…",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=FT3H-TQV0i4",
+          "score": 2.64,
+          "region": "US",
+          "views": 169760
+        },
+        {
+          "title": "SO HYPE!🔥AVENGERS: DOOMSDAY FINAL TRAILER REACTION!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=TMsBM9rCnME",
+          "score": 2.25,
+          "region": "US",
+          "views": 176239
+        },
+        {
+          "title": "Avengers Doomsday Final Trailer REACTION",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=E-vhD2cnKpQ",
+          "score": 1.93,
+          "region": "US",
+          "views": 153857
+        },
+        {
+          "title": "Avengers: Doomsday | Final Trailer Reaction!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=1dUjhJfNX_M",
+          "score": 1.72,
+          "region": "US",
+          "views": 124693
         }
       ]
     },
@@ -301,81 +365,81 @@
       "label": "Notícias (US)",
       "trends": [
         {
-          "title": "Bessent compares tech outages to vaccines",
+          "title": "Appeals court declines to halt Iowa lead detonation as Sand says feds should make call",
           "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/administration/6236005-bessent-bank-outage-vaccine-analogy/",
+          "url": "https://thehill.com/regulation/court-battles/6238765-appeals-court-army-iowa-lead-detonation-sand-trump-epa/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Flanagan says she 'appreciates' Schumer, but Van Hollen leads 'like an organizer'",
+          "title": "Trump: DOJ working to overturn Newsom's death row commutations",
           "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/senate/6235792-peggy-flanagan-van-hollen/",
+          "url": "https://thehill.com/homenews/administration/6238764-trump-slams-newsom-commutations/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+          "title": "Jensen Huang’s dramatic return to Nvidia: Five takeaways",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/analysis/6238763-trump-drives-nvidia-ceo-return/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Appeals court invalidates pregnant workers’ protection law",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/newsletters/healthcare/6238718-appeals-court-invalidates-pregnant-workers-protection-law/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Jensen's back",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/newsletters/technology/6238707-jensens-back/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Commerce Department adds Megaspeed to trade blacklist amid Nvidia scandal",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/technology/6238594-commerce-blacklists-megaspeed-nvidia/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Key House Democrat will oppose permitting reform bill",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/energy-environment/6238574-mike-levin-opposes-baaja/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Stocks surge after Huang returns to Nvidia",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/newsletters/business-economy/6238640-stocks-surge-after-huang-returns-to-nvidia/",
+          "score": 100.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+          "title": "They attended Trump's controversial meme coin dinner. It didn't go well",
           "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
-          "score": 80.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Climate change talks fall apart in final hours over fossil fuels",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
-          "score": 80.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
-          "score": 80.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
-          "source": "news:NPR Politics",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress",
-          "score": 80.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Christian nationalist conference hosts Nick Fuentes, vows to keep pushing MAGA agenda",
-          "source": "news:NPR Politics",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda",
-          "score": 80.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Scoop: The Pentagon's case for Canada to \"get serious\" on defense",
-          "source": "news:Axios",
-          "url": "https://www.axios.com/2026/11/22/pentagon-canada-defense-restrictions-fact-sheet",
-          "score": 80.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Behind the Curtain — AI 2027: The reckoning",
-          "source": "news:Axios",
-          "url": "https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning",
+          "url": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
           "score": 80.0,
           "region": "US",
           "views": null
@@ -472,150 +536,203 @@
   ],
   "br_us_connections": [
     {
-      "topic": "trump",
-      "count": 21,
-      "score": 33.33,
+      "topic": "trailer",
+      "count": 25,
+      "score": 9.49,
       "sample_titles": [
-        "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
-        "Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel",
-        "Trump diz que trabalhará com Democratas para limitar juros do cartão de crédito",
-        "Stephen Miller sharpens the ax for Trump cabinet chief: White House purge plot revealed after cyber crisis fiasco and lavish multimillion-dollar trips… insiders leak 'stop the bleeding' order from president's right-hand man",
-        "Voters want to 'move on' from the president, former Trump official claims as reason for GOP's midterm defeat"
-      ]
-    },
-    {
-      "topic": "cop31",
-      "count": 8,
-      "score": 65.0,
-      "sample_titles": [
-        "‘Ainda não há compromisso’, afirma UE sobre texto final da COP31",
-        "Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades",
-        "COP31: após fracasso nas negociações, conferência termina sem acordo final",
-        "Governments fail to reach agreement at COP31 over fossil fuel clash"
+        "Vingadores: Doutor Destino | Trailer Dublado",
+        "REACT DO TRAILER FINAL - VINGADORES: DOUTOR DESTINO",
+        "EXPLICADO! VINGADORES DOOMSDAY TRAILER FINAL (DETALHES + REFERÊNCIAS + EASTER EGGS)",
+        "DOOMSDAY FINAL TRAILER | Reaction and Q&A! | New Rockstars",
+        "AVENGERS DOOMSDAY FINAL TRAILER Doctor Doom, X-Men & Every Hidden Detail!"
       ]
     },
     {
       "topic": "final",
-      "count": 4,
-      "score": 65.0,
+      "count": 23,
+      "score": 5.77,
       "sample_titles": [
-        "‘Ainda não há compromisso’, afirma UE sobre texto final da COP31",
-        "Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades",
-        "COP31: após fracasso nas negociações, conferência termina sem acordo final",
-        "Climate change talks fall apart in final hours over fossil fuels"
+        "REACT DO TRAILER FINAL - VINGADORES: DOUTOR DESTINO",
+        "EXPLICADO! VINGADORES DOOMSDAY TRAILER FINAL (DETALHES + REFERÊNCIAS + EASTER EGGS)",
+        "SAIU!!! ANÁLISE COMPLETA do TRAILER FINAL de VINGADORES DOOMSDAY",
+        "DOOMSDAY FINAL TRAILER | Reaction and Q&A! | New Rockstars",
+        "AVENGERS DOOMSDAY FINAL TRAILER Doctor Doom, X-Men & Every Hidden Detail!"
       ]
     },
     {
-      "topic": "global",
-      "count": 3,
-      "score": 53.33,
-      "sample_titles": [
-        "Brasil corre risco de perder ciclo global favorável sem ajuste fiscal, alerta Ashmore",
-        "COP31 termina sem acordo global: entenda os seis pontos que levaram ao fracasso da conferência",
-        "Global investing isn’t a piece of cake"
-      ]
-    },
-    {
-      "topic": "online",
-      "count": 3,
-      "score": 26.67,
-      "sample_titles": [
-        "Como um adolescente e sua mãe ajudaram a resgatar uma garota desaparecida após um encontro em um jogo online",
-        "como ganhar dinheiro online",
-        "how to learn online"
-      ]
-    },
-    {
-      "topic": "google",
-      "count": 2,
-      "score": 70.0,
-      "sample_titles": [
-        "Google Maps pode avisar quando alguém chega? Veja como configurar",
-        "Google employees protest AI in schools policy"
-      ]
-    },
-    {
-      "topic": "princeton",
-      "count": 2,
-      "score": 60.0,
-      "sample_titles": [
-        "Polícia de imigração dos EUA prende pesquisadora chinesa de Princeton em aeroporto",
-        "'Worst of the Worst?' ICE blasted for detaining Princeton Neuroscience PhD Student"
-      ]
-    },
-    {
-      "topic": "putin",
-      "count": 2,
-      "score": 60.0,
-      "sample_titles": [
-        "Trump, Xi, Putin. Uma cimeira de fotos não governa o mundo",
-        "Director of National Intelligence: Putin is 'not America's friend in Ukraine'"
-      ]
-    },
-    {
-      "topic": "podcast",
-      "count": 2,
+      "topic": "trump",
+      "count": 20,
       "score": 40.0,
       "sample_titles": [
-        "Metrópoles estreia podcast sobre imigração brasileira para os EUA",
-        "NPR's Senior Podcast Challenge: Early entries we love"
+        "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
+        "Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel",
+        "Trump faz evento com famílias de pessoas assassinadas para criticar governador cotado para a Casa Branca",
+        "Tehran threatens to 'break legs' as 'Trump corridor' prepares to launch on Iran's border",
+        "Trump Says He Saved USA from Open Borders That 'Destroy Nations'"
+      ]
+    },
+    {
+      "topic": "doomsday",
+      "count": 20,
+      "score": 3.96,
+      "sample_titles": [
+        "EXPLICADO! VINGADORES DOOMSDAY TRAILER FINAL (DETALHES + REFERÊNCIAS + EASTER EGGS)",
+        "SAIU!!! ANÁLISE COMPLETA do TRAILER FINAL de VINGADORES DOOMSDAY",
+        "TRAILER FINAL VINGADORES DOOMSDAY: ANALISE FRAME A FRAME",
+        "DOOMSDAY FINAL TRAILER | Reaction and Q&A! | New Rockstars",
+        "AVENGERS DOOMSDAY FINAL TRAILER Doctor Doom, X-Men & Every Hidden Detail!"
+      ]
+    },
+    {
+      "topic": "nvidia",
+      "count": 14,
+      "score": 76.67,
+      "sample_titles": [
+        "Nvidia recupera US$ 953 bilhões em um dia com volta de CEO, valor maior que o de toda a B3",
+        "Jensen Huang é aplaudido por funcionários no retorno à Nvidia; VIDEO",
+        "Nvidia recupera US$ 953 bi com volta de Jensen Huang, mas segue US$ 1,17 tri abaixo do pico",
+        "Trump claims credit as Jensen Huang returns to Nvidia",
+        "\"Troubling and problematic\": Gov. Moore rips Trump's Nvidia actions on \"The Axios Show\""
+      ]
+    },
+    {
+      "topic": "doomsday final",
+      "count": 11,
+      "score": 4.69,
+      "sample_titles": [
+        "AVENGERS DOOMSDAY FINAL TRAILER REACTION!",
+        "AVENGERS: DOOMSDAY FINAL TRAILER REACTION! (I CRIED OMG)",
+        "Avengers: Doomsday Final Trailer Mega Reaction Mashup | 100+ Reactors | Marvel",
+        "DOOMSDAY FINAL TRAILER | Reaction and Q&A! | New Rockstars",
+        "AVENGERS DOOMSDAY FINAL TRAILER Doctor Doom, X-Men & Every Hidden Detail!"
+      ]
+    },
+    {
+      "topic": "final trailer",
+      "count": 11,
+      "score": 4.69,
+      "sample_titles": [
+        "AVENGERS DOOMSDAY FINAL TRAILER REACTION!",
+        "AVENGERS: DOOMSDAY FINAL TRAILER REACTION! (I CRIED OMG)",
+        "Avengers: Doomsday Final Trailer Mega Reaction Mashup | 100+ Reactors | Marvel",
+        "DOOMSDAY FINAL TRAILER | Reaction and Q&A! | New Rockstars",
+        "AVENGERS DOOMSDAY FINAL TRAILER Doctor Doom, X-Men & Every Hidden Detail!"
+      ]
+    },
+    {
+      "topic": "avengers doomsday",
+      "count": 11,
+      "score": 3.99,
+      "sample_titles": [
+        "AVENGERS DOOMSDAY FINAL TRAILER REACTION!",
+        "AVENGERS: DOOMSDAY FINAL TRAILER REACTION! (I CRIED OMG)",
+        "Avengers: Doomsday Final Trailer Mega Reaction Mashup | 100+ Reactors | Marvel",
+        "AVENGERS DOOMSDAY FINAL TRAILER Doctor Doom, X-Men & Every Hidden Detail!",
+        "TO ME, MY X-MEN! Avengers Doomsday FINAL TRAILER REACTION!! - Doctor Doom"
+      ]
+    },
+    {
+      "topic": "avengers",
+      "count": 11,
+      "score": 3.99,
+      "sample_titles": [
+        "AVENGERS DOOMSDAY FINAL TRAILER REACTION!",
+        "AVENGERS: DOOMSDAY FINAL TRAILER REACTION! (I CRIED OMG)",
+        "Avengers: Doomsday Final Trailer Mega Reaction Mashup | 100+ Reactors | Marvel",
+        "AVENGERS DOOMSDAY FINAL TRAILER Doctor Doom, X-Men & Every Hidden Detail!",
+        "TO ME, MY X-MEN! Avengers Doomsday FINAL TRAILER REACTION!! - Doctor Doom"
+      ]
+    },
+    {
+      "topic": "huang",
+      "count": 10,
+      "score": 68.33,
+      "sample_titles": [
+        "Jensen Huang é aplaudido por funcionários no retorno à Nvidia; VIDEO",
+        "Nvidia recupera US$ 953 bi com volta de Jensen Huang, mas segue US$ 1,17 tri abaixo do pico",
+        "Huang é recebido com aplausos ao retornar à sede da Nvidia; veja vídeo",
+        "Some women in tech have concerns about Huang's return",
+        "Trump claims credit as Jensen Huang returns to Nvidia"
       ]
     }
   ],
   "cross_platform": [
     {
-      "topic": "nightmare",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 46.83,
-      "sample_titles": [
-        "This is a nightmare for Rockstar..",
-        "He expected a small-business loan. He got a 7-year nightmare"
-      ]
-    },
-    {
-      "topic": "domingo",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 42.53,
-      "sample_titles": [
-        "Domingo 22 de Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
-        "Mega-Sena 3089 pode pagar R$ 45 milhões neste domingo; g1 transmite ao vivo",
-        "Falha técnica na Delta atrasa milhares de voos nos EUA neste domingo",
-        "Onde assistir Athletico x Remo ao vivo neste domingo (22) pelo Brasileirão"
-      ]
-    },
-    {
-      "topic": "imigração",
+      "topic": "extra",
       "platforms": [
         "news",
         "google_trends"
       ],
       "count": 2,
-      "score": 36.67,
+      "score": 55.0,
       "sample_titles": [
-        "Metrópoles estreia podcast sobre imigração brasileira para os EUA",
-        "Polícia de imigração dos EUA prende pesquisadora chinesa de Princeton em aeroporto",
-        "imigração EUA"
+        "Petrobras aprova R$15,6 bi em remuneração extra a acionistas",
+        "renda extra"
       ]
     },
     {
-      "topic": "business",
+      "topic": "segunda feira",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.05,
+      "sample_titles": [
+        "Segunda Feira 23 de Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Câmara aprova urgência para deputados votarem ajuste fiscal ainda nesta segunda-feira"
+      ]
+    },
+    {
+      "topic": "segunda",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.05,
+      "sample_titles": [
+        "Segunda Feira 23 de Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Câmara aprova urgência para deputados votarem ajuste fiscal ainda nesta segunda-feira"
+      ]
+    },
+    {
+      "topic": "feira",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.05,
+      "sample_titles": [
+        "Segunda Feira 23 de Novembro - Izael Lopes | Bom dia Deus 🙏🏻",
+        "Câmara aprova urgência para deputados votarem ajuste fiscal ainda nesta segunda-feira"
+      ]
+    },
+    {
+      "topic": "trabalho",
       "platforms": [
         "news",
         "google_trends"
       ],
       "count": 2,
-      "score": 35.0,
+      "score": 45.0,
       "sample_titles": [
-        "He expected a small-business loan. He got a 7-year nightmare",
-        "start a business USA"
+        "Ministério do Trabalho publica portaria que regulamenta descansos da escala 5x2; entenda",
+        "trabalho home office"
+      ]
+    },
+    {
+      "topic": "melhores",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 41.35,
+      "sample_titles": [
+        "RAÇA NEGRA - AS MELHORES MÚSICAS ROMÂNTICAS - SÓ RECORDAÇÕES ANTIGAS",
+        "'50 Best' divulga ranking ampliado dos melhores restaurantes da América Latina; Brasil emplaca 6"
       ]
     },
     {
@@ -625,29 +742,44 @@
         "google_trends"
       ],
       "count": 2,
-      "score": 30.0,
+      "score": 32.5,
       "sample_titles": [
         "Investir no exterior exige mais do que aproveitar alta do dólar, orientam assessores",
         "Real tem 2ª pior semana do ano com disparada de 5% do dólar no período; BC intervém, mas não contém movimento",
+        "Moedas Globais: dólar avança com impulso nas ações reforçando alta nos juros pelo Fed",
         "dólar hoje"
       ]
     },
     {
-      "topic": "online",
+      "topic": "immigration",
       "platforms": [
         "news",
         "google_trends"
       ],
       "count": 2,
-      "score": 26.67,
+      "score": 30.0,
       "sample_titles": [
-        "Como um adolescente e sua mãe ajudaram a resgatar uma garota desaparecida após um encontro em um jogo online",
-        "como ganhar dinheiro online",
-        "how to learn online"
+        "Arizona Immigration Charges Top 600 in Two Weeks",
+        "Trump Administration Is Hiking Immigration Bond Costs to Keep Migrants Locked Up",
+        "immigration USA"
       ]
     },
     {
-      "topic": "custo",
+      "topic": "inflation",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 30.0,
+      "sample_titles": [
+        "Single-digit: Test of dropping inflation",
+        "On food inflation and agriculture",
+        "inflation"
+      ]
+    },
+    {
+      "topic": "digital",
       "platforms": [
         "news",
         "google_trends"
@@ -655,34 +787,8 @@
       "count": 2,
       "score": 25.0,
       "sample_titles": [
-        "Milhares marcham em Lisboa conforme custo de vida alimenta indignação",
-        "custo de vida EUA"
-      ]
-    },
-    {
-      "topic": "custo vida",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 25.0,
-      "sample_titles": [
-        "Milhares marcham em Lisboa conforme custo de vida alimenta indignação",
-        "custo de vida EUA"
-      ]
-    },
-    {
-      "topic": "visto",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 25.0,
-      "sample_titles": [
-        "Problemas no visto teriam motivado volta de Harry e Meghan ao Reino Unido",
-        "visto americano"
+        "Brasil precisa discutir criação do Ministério da Soberania Digital",
+        "digital marketing tips"
       ]
     },
     {
@@ -699,7 +805,7 @@
       ]
     },
     {
-      "topic": "inflation",
+      "topic": "business",
       "platforms": [
         "news",
         "google_trends"
@@ -707,233 +813,232 @@
       "count": 2,
       "score": 25.0,
       "sample_titles": [
-        "President Donald Trump's Economy and the AI-Driven Stock Market Are in Trouble, Thanks to a Newly Identified Source of Inflation",
-        "inflation"
+        "He expected a small-business loan. He got a 7-year nightmare",
+        "start a business USA"
       ]
     },
     {
-      "topic": "marketing",
+      "topic": "imigração",
       "platforms": [
         "news",
         "google_trends"
       ],
       "count": 2,
-      "score": 25.0,
+      "score": 23.33,
       "sample_titles": [
-        "How To Choose A Digital Marketing Agency In Muscat, Oman",
-        "digital marketing tips"
+        "Metrópoles estreia podcast sobre imigração brasileira para os EUA",
+        "Como o Governo quer chegar ao \"gold standard\" da imigração",
+        "imigração EUA"
       ]
     },
     {
-      "topic": "digital",
+      "topic": "empresa",
       "platforms": [
         "news",
         "google_trends"
       ],
       "count": 2,
-      "score": 25.0,
+      "score": 20.0,
       "sample_titles": [
-        "How To Choose A Digital Marketing Agency In Muscat, Oman",
-        "digital marketing tips"
+        "Fernanda Cortes: 5 passos para empresários que querem abrir um negócio nos EUA",
+        "EUA impõe restrições à Megaspeed, empresa ligada a escândalo da Nvidia",
+        "abrir empresa nos EUA"
       ]
     },
     {
-      "topic": "digital marketing",
+      "topic": "imposto",
       "platforms": [
         "news",
         "google_trends"
       ],
       "count": 2,
-      "score": 25.0,
+      "score": 15.0,
       "sample_titles": [
-        "How To Choose A Digital Marketing Agency In Muscat, Oman",
-        "digital marketing tips"
-      ]
-    },
-    {
-      "topic": "defesa",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 20.69,
-      "sample_titles": [
-        "Eduardo Costa – Legítima Defesa (Ao Vivo) | Eduardo Costa do Velho Testamento",
-        "Após 3 mortes na Ucrânia, Zelensky cobra dos EUA mísseis de defesa"
+        "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
+        "imposto nos EUA"
       ]
     }
   ],
   "niche_ideas": [
     {
-      "main_topic": "imigração",
-      "subtopic": "Mudanças nas leis de imigração e impacto para brasileiros",
-      "why_trending": "A imigração está em destaque devido a novas políticas e mudanças nas leis nos EUA, afetando milhares de imigrantes.",
-      "niche_angle": "Explorar as recentes mudanças nas leis de imigração e como elas impactam os brasileiros que residem nos EUA, além de dicas práticas para quem está pensando em imigrar.",
-      "video_format": "long",
-      "urgency": "high",
-      "ease": 5,
-      "source": "news",
-      "region": "US",
-      "links": [
-        "https://exame.com/mundo/policia-de-imigracao-dos-eua-prende-pesquisadora-chinesa-de-princeton-em-aeroporto/"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-11-22T19:10:36.885716"
-    },
-    {
-      "main_topic": "custo de vida",
-      "subtopic": "Comparação do custo de vida entre Brasil e EUA",
-      "why_trending": "Com a inflação e o aumento dos preços nos EUA, muitos estão discutindo o custo de vida e como isso afeta imigrantes e brasileiros que desejam se mudar.",
-      "niche_angle": "Analisar o custo de vida atual nos EUA em comparação com o Brasil, focando em itens essenciais como moradia, alimentação e transporte.",
+      "main_topic": "Imigração",
+      "subtopic": "Como a nova legislação de imigração nos EUA afeta brasileiros?",
+      "why_trending": "Recentes mudanças na legislação de imigração nos EUA estão gerando incertezas entre imigrantes, especialmente com o aumento de taxas e regulamentações.",
+      "niche_angle": "Explorar como essas mudanças podem impactar brasileiros que vivem nos EUA, abordando questões como vistos e processos de regularização.",
       "video_format": "long",
       "urgency": "high",
       "ease": 6,
-      "source": "news",
+      "source": "news:g1",
       "region": "US",
       "links": [
-        "https://g1.globo.com/mundo/noticia/2026/11/22/falha-tecnica-na-delta-atrasa-milhares-de-voos-nos-eua-neste-domingo.ghtml"
+        "https://thehill.com/homenews/administration/6238764-trump-slams-newsom-commutations/"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "google_trends",
+        "news"
       ],
-      "collected_at": "2026-11-22T19:10:36.885727"
+      "collected_at": "2026-11-23T23:31:40.754758"
     },
     {
-      "main_topic": "negócios",
-      "subtopic": "Como iniciar um negócio nos EUA",
-      "why_trending": "O empreendedorismo está crescendo, especialmente entre imigrantes que buscam novas oportunidades nos EUA.",
-      "niche_angle": "Fornecer um guia prático sobre como iniciar um negócio nos EUA, abordando desde a burocracia até dicas de marketing e financiamento.",
+      "main_topic": "Economia",
+      "subtopic": "Impacto da inflação nos EUA na vida dos imigrantes brasileiros",
+      "why_trending": "A inflação nos EUA continua alta, afetando o custo de vida e gerando preocupações entre os imigrantes sobre suas finanças.",
+      "niche_angle": "Discutir como a inflação tem mudado o custo de bens essenciais e qual a melhor forma de se preparar financeiramente.",
       "video_format": "long",
-      "urgency": "medium",
-      "ease": 4,
-      "source": "news",
+      "urgency": "high",
+      "ease": 7,
+      "source": "news:g1",
       "region": "US",
       "links": [
-        "https://g1.globo.com/mundo/noticia/2026/11/22/juros-do-cartao-a-10-a-proposta-de-trump-que-une-rivais-e-assusta-bancos.ghtml"
+        "https://g1.globo.com/economia/noticia/2026/11/23/inflacao.ghtml"
       ],
       "platforms": [
+        "youtube",
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-22T19:10:36.885733"
+      "collected_at": "2026-11-23T23:31:40.754766"
     },
     {
-      "main_topic": "dólar",
-      "subtopic": "Impacto da alta do dólar nas finanças pessoais",
-      "why_trending": "O dólar está em alta, afetando tanto brasileiros no Brasil quanto imigrantes nos EUA, especialmente em compras e investimentos.",
-      "niche_angle": "Discutir como a alta do dólar impacta as finanças pessoais dos brasileiros nos EUA e como eles podem se proteger contra essa volatilidade.",
-      "video_format": "both",
-      "urgency": "medium",
-      "ease": 5,
-      "source": "news",
-      "region": "GLOBAL",
-      "links": [
-        "https://g1.globo.com/mundo/noticia/2026/11/22/dolar-hoje.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-11-22T19:10:36.885738"
-    },
-    {
-      "main_topic": "direito",
-      "subtopic": "O que fazer em caso de problemas com o visto",
-      "why_trending": "Casos recentes de problemas com vistos estão gerando preocupação entre imigrantes e potenciais imigrantes.",
-      "niche_angle": "Fornecer orientações sobre o que brasileiros devem fazer se enfrentarem problemas com o visto nos EUA, incluindo recursos disponíveis.",
-      "video_format": "long",
-      "urgency": "medium",
-      "ease": 6,
-      "source": "news",
-      "region": "US",
-      "links": [
-        "https://g1.globo.com/mundo/noticia/2026/11/22/visto-americano.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-11-22T19:10:36.885745"
-    },
-    {
-      "main_topic": "tecnologia",
-      "subtopic": "Como a IA está mudando o mercado de trabalho",
-      "why_trending": "A inteligência artificial está em alta, afetando diversas indústrias e criando novas oportunidades de trabalho.",
-      "niche_angle": "Explorar como a IA está transformando o mercado de trabalho nos EUA e o que isso significa para brasileiros que buscam emprego ou mudança de carreira.",
+      "main_topic": "Negócios & Dinheiro",
+      "subtopic": "Como abrir uma empresa nos EUA: desafios e oportunidades",
+      "why_trending": "O aumento do empreendedorismo entre brasileiros nos EUA está em alta, principalmente com novas oportunidades no mercado local.",
+      "niche_angle": "Apresentar um guia prático para brasileiros que desejam abrir um negócio nos EUA, incluindo custos, registros e dicas para ter sucesso.",
       "video_format": "long",
       "urgency": "medium",
       "ease": 5,
-      "source": "news",
+      "source": "news:thehill",
       "region": "US",
       "links": [
-        "https://g1.globo.com/mundo/noticia/2026/11/22/china-usa-servico-de-espionagem-para-obter-chips-de-ia.ghtml"
+        "https://thehill.com/policy/technology/6238594-commerce-blacklists-megaspeed-nvidia/"
       ],
       "platforms": [
+        "youtube",
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-22T19:10:36.885750"
+      "collected_at": "2026-11-23T23:31:40.754769"
     },
     {
-      "main_topic": "finanças",
-      "subtopic": "Renda passiva: como gerar dinheiro enquanto dorme",
-      "why_trending": "A busca por renda passiva está crescendo, especialmente entre aqueles que buscam segurança financeira nos EUA.",
-      "niche_angle": "Discutir diferentes formas de gerar renda passiva nos EUA, com foco em brasileiros que querem construir riqueza a longo prazo.",
-      "video_format": "both",
+      "main_topic": "Educação",
+      "subtopic": "Investindo em educação: como aprender inglês nos EUA",
+      "why_trending": "Com a alta demanda por fluência em inglês, muitos brasileiros estão buscando maneiras eficazes de aprender o idioma.",
+      "niche_angle": "Criar um conteúdo que mostre métodos práticos e acessíveis para brasileiros imigrantes aprenderem inglês rapidamente, considerando o custo e as opções disponíveis.",
+      "video_format": "long",
       "urgency": "medium",
       "ease": 4,
-      "source": "news",
+      "source": "news:g1",
       "region": "US",
       "links": [
-        "https://g1.globo.com/mundo/noticia/2026/11/22/passive-income-ideas.ghtml"
+        "https://g1.globo.com/educacao/noticia/2026/11/23/aprender-ingles.ghtml"
       ],
       "platforms": [
-        "news",
-        "google_trends"
+        "youtube",
+        "google_trends",
+        "news"
       ],
-      "collected_at": "2026-11-22T19:10:36.885754"
+      "collected_at": "2026-11-23T23:31:40.754772"
     },
     {
-      "main_topic": "entretenimento",
-      "subtopic": "Tendências de humor e memes nos EUA",
-      "why_trending": "Memes e tendências de humor estão sempre em alta nas redes sociais, especialmente entre os jovens.",
-      "niche_angle": "Analisar as últimas tendências de humor e memes que estão fazendo sucesso nos EUA e como os brasileiros podem se relacionar com isso.",
+      "main_topic": "Tecnologia",
+      "subtopic": "Como usar IA para aumentar sua renda",
+      "why_trending": "O uso de inteligência artificial para geração de renda extra tem sido um tópico crescente, com muitos procurando formas práticas de aproveitar essas tecnologias.",
+      "niche_angle": "Explorar maneiras práticas e acessíveis para brasileiros nos EUA utilizarem ferramentas de IA para aumentar sua renda, seja através de investimentos ou negócios.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:g1",
+      "region": "US",
+      "links": [
+        "https://exame.com/tecnologia/a-ia-pode-enxergar-o-mundo/"
+      ],
+      "platforms": [
+        "youtube",
+        "google_trends",
+        "news"
+      ],
+      "collected_at": "2026-11-23T23:31:40.754775"
+    },
+    {
+      "main_topic": "Entretenimento",
+      "subtopic": "Como o humor ajuda na adaptação dos imigrantes brasileiros",
+      "why_trending": "Com a crescente população de imigrantes brasileiros nos EUA, o humor tem se mostrado uma ferramenta eficaz para lidar com a cultura e o estresse do dia a dia.",
+      "niche_angle": "Criar um vídeo mostrando como o humor pode ser uma forma de adaptação e alívio para brasileiros que vivem nos EUA, com exemplos de memes e situações engraçadas.",
       "video_format": "short",
-      "urgency": "low",
-      "ease": 5,
-      "source": "tiktok",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news:exame",
       "region": "US",
       "links": [
-        "https://www.tiktok.com/"
+        "https://www.infomoney.com.br/negocios/o-humor-como-ferramenta-de-adaptacao/"
       ],
       "platforms": [
-        "tiktok"
+        "youtube",
+        "tiktok",
+        "reddit"
       ],
-      "collected_at": "2026-11-22T19:10:36.885763"
+      "collected_at": "2026-11-23T23:31:40.754778"
     },
     {
-      "main_topic": "economia",
-      "subtopic": "Inflação e seu impacto no dia a dia",
-      "why_trending": "A inflação é uma preocupação crescente, afetando os preços e o poder de compra em muitos países, incluindo os EUA.",
-      "niche_angle": "Explorar como a inflação está afetando o dia a dia dos brasileiros nos EUA, incluindo dicas para lidar com os aumentos de preços.",
+      "main_topic": "Viagem",
+      "subtopic": "Quanto custa viajar para NY: Dicas para brasileiros",
+      "why_trending": "O turismo nos EUA está se recuperando e muitos brasileiros estão planejando viagens para cidades icônicas como Nova York.",
+      "niche_angle": "Fornecer um guia detalhado sobre os custos e dicas práticas para brasileiros que desejam visitar Nova York, desde passagens até acomodação.",
       "video_format": "long",
-      "urgency": "low",
-      "ease": 5,
-      "source": "news",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "news:g1",
       "region": "US",
       "links": [
-        "https://g1.globo.com/mundo/noticia/2026/11/22/inflation.ghtml"
+        "https://g1.globo.com/turismo-e-viagem/noticia/2026/11/23/quanto-custa-viajar-para-ny.ghtml"
       ],
       "platforms": [
+        "youtube",
+        "google_trends",
+        "news"
+      ],
+      "collected_at": "2026-11-23T23:31:40.754783"
+    },
+    {
+      "main_topic": "Direito & Legal",
+      "subtopic": "Mudanças nas leis trabalhistas nos EUA e como elas impactam os imigrantes",
+      "why_trending": "Novas regulamentações trabalhistas estão sendo discutidas nos EUA, o que pode afetar diretamente a vida de imigrantes e suas condições de trabalho.",
+      "niche_angle": "Discutir as mudanças nas leis trabalhistas e como elas podem beneficiar ou prejudicar brasileiros que trabalham nos EUA, incluindo direitos e deveres.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:g1",
+      "region": "US",
+      "links": [
+        "https://thehill.com/newsletters/healthcare/6238718-appeals-court-invalidates-pregnant-workers-protection-law/"
+      ],
+      "platforms": [
+        "youtube",
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-22T19:10:36.885768"
+      "collected_at": "2026-11-23T23:31:40.754790"
+    },
+    {
+      "main_topic": "Economia",
+      "subtopic": "O que a alta do dólar significa para brasileiros nos EUA",
+      "why_trending": "A valorização do dólar está impactando diretamente o poder de compra dos brasileiros que vivem nos EUA e aqueles que enviam remessas para o Brasil.",
+      "niche_angle": "Analisar como a alta do dólar pode afetar as finanças dos brasileiros nos EUA e estratégias para lidar com isso.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:g1",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/23/alta-do-dolar.ghtml"
+      ],
+      "platforms": [
+        "youtube",
+        "google_trends",
+        "news"
+      ],
+      "collected_at": "2026-11-23T23:31:40.754793"
     }
   ]
 }
