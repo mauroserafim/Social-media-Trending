@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T21:14:18.469229",
-  "run_id": "45702320354",
+  "generated_at": "2026-11-26T21:03:24.941810",
+  "run_id": "45895294502",
   "summary": {
     "total_br": 30,
-    "total_us": 30,
+    "total_us": 25,
     "br_us_connections": 10,
     "cross_platform_topics": 15,
-    "niche_ideas": 8
+    "niche_ideas": 9
   },
   "sections_br": [
     {
@@ -15,84 +15,84 @@
       "label": "YouTube (BR)",
       "trends": [
         {
-          "title": "🔴 SABAH X BARCELONA | AO VIVO | CHAMPIONS LEAGUE | JOGO AO VIVO COM IMAGENS DO OLÍMPICO DE BAKÚ",
+          "title": "Avengers Doomsday | Magneto vs Doom | Get Your Tickets at TGV Now",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=1DzHWA5AkYA",
-          "score": 31.97,
+          "url": "https://youtube.com/watch?v=DzgorMtx38c",
+          "score": 16.77,
           "region": "BR",
-          "views": 316580
+          "views": 2440519
         },
         {
           "title": "Avengers: Doomsday | “DESTINY” TRAILER CONCEPT | Marvel Studios",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=-htnBIywgfM",
-          "score": 17.3,
+          "score": 15.5,
           "region": "BR",
-          "views": 1090336
-        },
-        {
-          "title": "Stray Kids 『SUIATSU』 Music Video",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=vNpbvIU1kWg",
-          "score": 10.76,
-          "region": "BR",
-          "views": 2496994
+          "views": 3627301
         },
         {
           "title": "Vingadores: Doutor Destino | Trailer Dublado",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=OCvR-nay2K0",
-          "score": 10.08,
+          "score": 8.88,
           "region": "BR",
-          "views": 3572963
+          "views": 3908935
         },
         {
-          "title": "Avengers: Doomsday | New International Teaser Trailer | Get Your Tickets at TGV Now",
+          "title": "SINDAROV Vs GUKESH - TEREMOS UM LÍDER HOJE???  MUNDIAL DE XADREZ AO VIVO!!!",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=g_5cTwVFU4k",
-          "score": 8.29,
+          "url": "https://youtube.com/watch?v=UdKYFJcUCYk",
+          "score": 8.11,
           "region": "BR",
-          "views": 1434180
+          "views": 149081
         },
         {
-          "title": "REACT DO TRAILER FINAL - VINGADORES: DOUTOR DESTINO",
+          "title": "NAYEON “BOY” M/V",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=Js6XYTp0d74",
-          "score": 5.5,
+          "url": "https://youtube.com/watch?v=QrxDetnioXA",
+          "score": 8.03,
           "region": "BR",
-          "views": 1838725
+          "views": 597443
         },
         {
-          "title": "ESSE JOGO CAUSA BRIGA ENTRE AMIGOS *Brigamos ? ",
+          "title": "AVENGERS: DOOMSDAY \"Magneto Removes Doctor Doom's Mask\" TV Spot Trailer (2026)",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=NHFzUzDnZv0",
-          "score": 4.26,
+          "url": "https://youtube.com/watch?v=dnGJmIrdbls",
+          "score": 5.9,
           "region": "BR",
-          "views": 803232
+          "views": 564653
         },
         {
           "title": "Jamie Miller - Babydoll (Official Music Video)",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=HQoB61gvVOw",
-          "score": 3.26,
+          "score": 5.88,
           "region": "BR",
-          "views": 191203
+          "views": 1359400
         },
         {
-          "title": "PETER e os VINGADORES - REACT do REACT, com REACT no REACT do TRAILER. 😊😊😊",
+          "title": "ANÁLISE DO TRAILER FINAL DE VINGADORES DOOMSDAY!",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=w7C31VlzuaU",
-          "score": 2.38,
+          "url": "https://youtube.com/watch?v=8RWlTeSrZSA",
+          "score": 4.99,
           "region": "BR",
-          "views": 139479
+          "views": 879704
         },
         {
-          "title": "EXPLICADO! VINGADORES DOOMSDAY TRAILER FINAL (DETALHES + REFERÊNCIAS + EASTER EGGS)",
+          "title": "AVENGERS: DOOMSDAY | MAGNETO vs DOOM NEW TEASER TRAILER!",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=crRXX5rjTew",
-          "score": 2.09,
+          "url": "https://youtube.com/watch?v=_qb0yKFj2nc",
+          "score": 3.28,
           "region": "BR",
-          "views": 700106
+          "views": 404433
+        },
+        {
+          "title": "A MAIOR RESENHA DO MUNDO AO VIVO - RESENHA 011 | DG e Batidão Stronda e Convidados",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=im45iuYwIZg",
+          "score": 1.45,
+          "region": "BR",
+          "views": 291192
         }
       ]
     },
@@ -102,82 +102,82 @@
       "label": "Notícias (BR)",
       "trends": [
         {
-          "title": "Luiz Trabuco: quem é o executivo do Bradesco que está entre os cotados para assumir Ministério da Fazenda",
+          "title": "Luiz Trabuco chega a Brasília para se reunir com Lula; executivo do Bradesco é cotado para assumir Ministério da Fazenda",
           "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/politica/noticia/2026/11/25/luiz-trabuco-quem-e-o-executivo-cotado-para-ser-ministro-da-fazenda.ghtml",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/26/luiz-trabuco-chega-a-brasilia-para-se-reunir-com-lula-executivo-do-bradesco-e-cotado-para-assumir-ministerio-da-fazenda.ghtml",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Governo Lula diz estar indignado com nova proposta de tarifa dos EUA contra o Brasil e que não 'cederá a esse tipo de ameaça'",
+          "title": "EUA divulgam arquivos oficiais sobre Pé-Grande e reacendem mistério",
           "source": "news:G1 Mundo",
-          "url": "https://g1.globo.com/economia/noticia/2026/11/25/governo-lula-diz-estar-indignado-com-nova-proposta-de-tarifa-dos-eua-contra-o-brasil-e-que-nao-cedera-a-esse-tipo-de-ameaca.ghtml",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/26/eua-divulgam-arquivos-oficiais-sobre-pe-grande-e-reacendem-misterio.ghtml",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Petróleo fecha em alta com tensão entre Houthis e Arábia Saudita e ataques da Ucrânia",
+          "title": "São Paulo x Remo: Onde assistir ao Brasileirão?",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-25112026/",
+          "url": "https://www.infomoney.com.br/esportes/sao-paulo-remo-onde-assistir-brasileirao/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Bitcoin oscila perto da estabilidade com apostas em juros em alta e fuga de risco",
+          "title": "Ibovespa salta 6% com notícia de ida de Trabuco a Brasília para encontrar Lula",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/bitcoin-oscila-perto-da-estabilidade-com-apostas-em-juros-em-alta-e-fuga-de-risco/",
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-salta-3-e-supera-os-172-mil-pontos-com-possibilidade-de-trabuco-na-fazenda/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "‘Não conversei nada sobre indicação do STF, só ouvi e é segredo’, diz Alcolumbre",
+          "title": "Cotado para assumir a Fazenda, Trabuco deve ter reunião com Lula nesta 5ª, diz fonte",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/nao-conversei-nada-sobre-indicacao-do-stf-so-ouvi-e-e-segredo-diz-alcolumbre/",
+          "url": "https://www.infomoney.com.br/politica/cotado-para-assumir-a-fazenda-trabuco-deve-ter-reuniao-com-lula-nesta-5a-diz-fonte/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Taxas dos DIs caem com ajuste fiscal novamente no centro das atenções",
+          "title": "Dólar futuro cai mais de 3% após notícia de encontro entre Trabuco e Lula em Brasília",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/taxas-dos-dis-caem-com-ajuste-fiscal-novamente-no-centro-das-atencoes/",
+          "url": "https://www.infomoney.com.br/mercados/dolar-futuro-cai-mais-de-2-apos-noticia-encontro-entre-trabuco-e-lula-em-brasilia/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Pé-Grande deixou um rastro de documentos que agora todos podem ver nos EUA",
+          "title": "Michelle comenta dieta de Bolsonaro: ‘podia ajudar mastigando bem os alimentos’",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/business/global/pe-grande-deixou-um-rastro-de-documentos-que-agora-todos-podem-ver-nos-eua/",
+          "url": "https://www.infomoney.com.br/politica/michelle-comenta-dieta-de-bolsonaro-podia-ajudar-mastigando-bem-os-alimentos/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Dólar fecha com queda de 1,5%, a R$ 5,82, com especulações sobre ministro da Fazenda",
+          "title": "Câmara aprova projeto que prevê alerta sonoro em tornozeleira de agressores de mulher",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-25112026/",
+          "url": "https://www.infomoney.com.br/politica/camara-aprova-projeto-que-preve-alerta-sonoro-em-tornozeleira-de-agressores-de-mulher/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Embraer: ação ameniza queda após cair 9% com possível tarifa: mercado exagerou?",
+          "title": "PF realiza operação contra fraude de R$ 494 mil em benefícios assistenciais",
           "source": "news:InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/embraer-embj3-acao-cai-forte-com-proposta-dos-eua-para-taxar-aeronaves-brasileiras/",
+          "url": "https://www.infomoney.com.br/brasil/pf-realiza-operacao-contra-fraude-de-r-494-mil-em-beneficios-assistenciais/",
           "score": 100.0,
           "region": "BR",
           "views": null
         },
         {
-          "title": "Inscrições para concurso do IBGE com 27 mil vagas são prorrogadas; veja como participar",
-          "source": "news:G1 Economia",
-          "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/25/inscricoes-concurso-do-ibge-prorrogadas.ghtml",
-          "score": 80.0,
+          "title": "Taxas caem com expectativa de Trabuco na Fazenda e IPCA-15 abaixo do esperado",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/taxas-caem-com-expectativa-de-trabuco-na-fazenda-e-ipca-15-abaixo-do-esperado/",
+          "score": 100.0,
           "region": "BR",
           "views": null
         }
@@ -278,84 +278,44 @@
       "label": "YouTube (US)",
       "trends": [
         {
+          "title": "Alias Rukmini Trailer | Nani Presents Nithiin | Aafiya Sayed | Unanimous Productions | December 4",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=cRLn0QiWoxY",
+          "score": 29.28,
+          "region": "US",
+          "views": 2278332
+        },
+        {
           "title": "Don't Do That",
           "source": "youtube",
           "url": "https://youtube.com/watch?v=9B1ljU7lv-E",
-          "score": 17.84,
+          "score": 22.57,
           "region": "US",
-          "views": 723076
+          "views": 4943148
         },
         {
-          "title": "Why Does Doomsday Look Like That?",
+          "title": "AVENGERS Doomsday MAGNETO VS DOOM Fight Breakdown + A Massive Theory About the Movie",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=9J6QBb9rzVM",
-          "score": 3.86,
+          "url": "https://youtube.com/watch?v=RZDPDteBKKw",
+          "score": 2.48,
           "region": "US",
-          "views": 317646
+          "views": 219563
         },
         {
-          "title": "AVENGERS DOOMSDAY TRAILER We Found Tobey Maguire Spider-Man & More Hidden Details!",
+          "title": "AVENGERS DOOMSDAY TRAILER Doom Throne Room Battle Breakdown!",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=xZtw-ftNBv8",
-          "score": 2.95,
+          "url": "https://youtube.com/watch?v=LD3LjdnDvS0",
+          "score": 1.44,
           "region": "US",
-          "views": 552096
+          "views": 266216
         },
         {
-          "title": "CHURCH OF MARVEL STAND UP! | Avengers: Doomsday | Final Trailer Reaction",
+          "title": "Avengers: Doomsday - Magneto Vs. Doctor Doom - TV Spot - Reaction!",
           "source": "youtube",
-          "url": "https://youtube.com/watch?v=KObcZDqBoSs",
-          "score": 1.67,
+          "url": "https://youtube.com/watch?v=W7KbbF3HJ3Q",
+          "score": 0.97,
           "region": "US",
-          "views": 470539
-        },
-        {
-          "title": "FINAL AVENGERS DOOMSDAY TRAILER | Emergency Pod #4",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=c_7JBX4uvkQ",
-          "score": 1.62,
-          "region": "US",
-          "views": 549254
-        },
-        {
-          "title": "That Epic Team Up Is NOT The Final Battle! AVENGERS DOOMSDAY FINAL TRAILER REACTION",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=NTRd-Jv5EYw",
-          "score": 1.58,
-          "region": "US",
-          "views": 527539
-        },
-        {
-          "title": "Avengers: Doomsday | Final Trailer REACTION!!",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=tYsEP6Z6jyM",
-          "score": 1.55,
-          "region": "US",
-          "views": 277245
-        },
-        {
-          "title": "They made a GREAT Doomsday trailer!",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=za92udPFpm8",
-          "score": 0.87,
-          "region": "US",
-          "views": 48726
-        },
-        {
-          "title": "Avengers Doomsday Beast New Scene Breakdown & New International Teaser Explained",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=0R3J6QEdAWY",
-          "score": 0.81,
-          "region": "US",
-          "views": 53357
-        },
-        {
-          "title": "Joe Budden REACTS To Avengers Doomsday Trailer: \"I'm On Doom's Side\" | Joe Budden Podcast Clips",
-          "source": "youtube",
-          "url": "https://youtube.com/watch?v=eKL0BfhDERA",
-          "score": 0.68,
-          "region": "US",
-          "views": 24270
+          "views": 135585
         }
       ]
     },
@@ -365,81 +325,81 @@
       "label": "Notícias (US)",
       "trends": [
         {
-          "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-community-connection",
+          "title": "Emmer: GOP should have said it wasn't 'realistic' to fix economy in 2 years",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/house/6244906-tom-emmer-republicans-economy-messaging/",
           "score": 100.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Macy's Thanksgiving parade postponed for the first time in the event's history",
+          "title": "Trump demands investigation into GDP data revisions",
           "source": "news:Axios",
-          "url": "https://www.axios.com/2026/11/25/macys-thanksgiving-parade-2026-balloons-weather",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI",
-          "source": "news:Axios",
-          "url": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Miller touts Iowa blast as 'tremendous display of unity' under Trump",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/homenews/administration/6243542-miller-praises-iowa-munitions-detonation-trump/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "House expected to take up permitting reform bill next week",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/policy/energy-environment/6243540-house-permitting-reform-bill-energy-infrastructure/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "FCC approves SpaceX's plan to launch up to 1 million data centers into space",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/policy/technology/6243528-fcc-approves-spacex-orbital-ai-data-centers/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "'Ship has definitely sailed': Aaron Rodgers says he's done in Pittsburgh",
-          "source": "news:The Hill",
-          "url": "https://thehill.com/policy/sports-gaming/6243559-ship-has-definitely-sailed-aaron-rodgers-says-hes-done-in-pittsburgh/",
-          "score": 100.0,
-          "region": "US",
-          "views": null
-        },
-        {
-          "title": "Group of Senate Democrats push to add freshman to leadership",
-          "source": "news:NPR News",
-          "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
+          "url": "https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
+          "title": "Musk makes $18 billion SpaceX stock pledge for every kid in America",
           "source": "news:Axios",
-          "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
+          "url": "https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts",
           "score": 80.0,
           "region": "US",
           "views": null
         },
         {
-          "title": "Scoop: Kushner urges Netanyahu to make good on Gaza commitments",
-          "source": "news:Axios",
-          "url": "https://www.axios.com/2026/11/25/kushner-presses-netanyahu-gaza-peace-plan",
+          "title": "Musk pledges 2 SpaceX shares per American child",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/technology/6244857-elon-musk-pledges-spacex-shares-to-american-children/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump unloads on critics in wide-ranging Thanksgiving Day rant",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6244831-trump-thanksgiving-message-critics-gdp-somali-community/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Thanksgiving has a bumpy history",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/congress-blog/6239022-thanksgiving-partisan-politics-evolution/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Zeldin: No airborne lead detected in Iowa a day after Army blast",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/energy-environment/6244772-lead-azide-airborne-epa-lee-zeldin/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "FIFA: 'Limited set of personal and business information' stolen in cyber attack",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/technology/6244786-fifa-cyberattack-personal-data/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Stop chasing billionaires — fix the broken corporate tax system instead",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/campaign/6240367-california-billionaire-tax-failure/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "New IRS audits of top earners drop sharply: Here's what to know",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/business/6244500-irs-audits-high-earners/",
           "score": 80.0,
           "region": "US",
           "views": null
@@ -536,179 +496,120 @@
   ],
   "br_us_connections": [
     {
-      "topic": "trailer",
-      "count": 22,
-      "score": 3.29,
+      "topic": "trump",
+      "count": 16,
+      "score": 40.0,
       "sample_titles": [
+        "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
+        "Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel",
+        "Trump pede a Putin que interrompa ataques 'por toda a Europa': 'É um banho de sangue'",
+        "Van Hollen Says Trump Pursued ‘Vendetta’ Against Kilmar Abrego Garcia",
+        "US stocks tumble as AI rout and Trump tariffs rattle markets"
+      ]
+    },
+    {
+      "topic": "trailer",
+      "count": 13,
+      "score": 8.56,
+      "sample_titles": [
+        "ANÁLISE DO TRAILER FINAL DE VINGADORES DOOMSDAY!",
+        "AVENGERS: DOOMSDAY \"Magneto Removes Doctor Doom's Mask\" TV Spot Trailer (2026)",
         "Trailer FINAL de \"Vingadores: Doutor Destino\" | Análise e Expectativas para o Filme",
-        "PETER e os VINGADORES - REACT do REACT, com REACT no REACT do TRAILER. 😊😊😊",
-        "Vingadores: Doutor Destino | Trailer Dublado",
-        "AVENGERS DOOMSDAY TRAILER We Found Tobey Maguire Spider-Man & More Hidden Details!",
-        "They made a GREAT Doomsday trailer!"
+        "Alias Rukmini Trailer | Nani Presents Nithiin | Aafiya Sayed | Unanimous Productions | December 4",
+        "AVENGERS DOOMSDAY TRAILER Doom Throne Room Battle Breakdown!"
       ]
     },
     {
       "topic": "doomsday",
-      "count": 18,
-      "score": 2.52,
+      "count": 12,
+      "score": 2.75,
       "sample_titles": [
-        "VINGADORES DOOMSDAY TRAILER FINAL | \"A MIM, MEUS X MEN!\" | Tudo o Que o Trailer Final Esconde",
-        "DOOM MATA [SPOILER] em VINGADORES DOOMSDAY: TRAILER FINAL DESMONTADO, NOVOS DETALHES EXPLICADOS",
-        "Avengers: Doomsday | New International Teaser Trailer | Get Your Tickets at TGV Now",
-        "AVENGERS DOOMSDAY TRAILER We Found Tobey Maguire Spider-Man & More Hidden Details!",
-        "They made a GREAT Doomsday trailer!"
-      ]
-    },
-    {
-      "topic": "trump",
-      "count": 16,
-      "score": 33.33,
-      "sample_titles": [
-        "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
-        "Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel",
-        "Trump não vai incluir Brasil em novas tarifas que devem ser anunciadas hoje",
-        "Trump’s DOJ Is Already Working to Undermine Congressional Oversight",
-        "Data: Sanctuary Cities Have Freed Over 34,000 Illegal Aliens Since Trump Took Office"
-      ]
-    },
-    {
-      "topic": "final",
-      "count": 10,
-      "score": 2.2,
-      "sample_titles": [
-        "Trailer FINAL de \"Vingadores: Doutor Destino\" | Análise e Expectativas para o Filme",
-        "VINGADORES DOOMSDAY TRAILER FINAL | \"A MIM, MEUS X MEN!\" | Tudo o Que o Trailer Final Esconde",
-        "REACT DO TRAILER FINAL - VINGADORES: DOUTOR DESTINO",
-        "Avengers: Doomsday | Final Trailer REACTION!!",
-        "CHURCH OF MARVEL STAND UP! | Avengers: Doomsday | Final Trailer Reaction"
+        "ANÁLISE DO TRAILER FINAL DE VINGADORES DOOMSDAY!",
+        "AVENGERS: DOOMSDAY \"Magneto Removes Doctor Doom's Mask\" TV Spot Trailer (2026)",
+        "VINGADORES DOOMSDAY | Quem vai TRAIR os HERÓIS? Os aliados do Doutor Destino",
+        "AVENGERS Doomsday MAGNETO VS DOOM Fight Breakdown + A Massive Theory About the Movie",
+        "AVENGERS DOOMSDAY TRAILER Doom Throne Room Battle Breakdown!"
       ]
     },
     {
       "topic": "avengers",
-      "count": 9,
-      "score": 6.35,
+      "count": 7,
+      "score": 7.18,
       "sample_titles": [
-        "Avengers: Doomsday | New International Teaser Trailer | Get Your Tickets at TGV Now",
+        "AVENGERS: DOOMSDAY \"Magneto Removes Doctor Doom's Mask\" TV Spot Trailer (2026)",
+        "Avengers Doomsday | Magneto vs Doom | Get Your Tickets at TGV Now",
         "Avengers: Doomsday | “DESTINY” TRAILER CONCEPT | Marvel Studios",
-        "AVENGERS DOOMSDAY TRAILER We Found Tobey Maguire Spider-Man & More Hidden Details!",
-        "Avengers: Doomsday | Final Trailer REACTION!!",
-        "CHURCH OF MARVEL STAND UP! | Avengers: Doomsday | Final Trailer Reaction"
+        "AVENGERS Doomsday MAGNETO VS DOOM Fight Breakdown + A Massive Theory About the Movie",
+        "AVENGERS DOOMSDAY TRAILER Doom Throne Room Battle Breakdown!"
       ]
     },
     {
       "topic": "avengers doomsday",
-      "count": 9,
-      "score": 6.35,
+      "count": 7,
+      "score": 7.18,
       "sample_titles": [
-        "Avengers: Doomsday | New International Teaser Trailer | Get Your Tickets at TGV Now",
+        "AVENGERS: DOOMSDAY \"Magneto Removes Doctor Doom's Mask\" TV Spot Trailer (2026)",
+        "Avengers Doomsday | Magneto vs Doom | Get Your Tickets at TGV Now",
         "Avengers: Doomsday | “DESTINY” TRAILER CONCEPT | Marvel Studios",
-        "AVENGERS DOOMSDAY TRAILER We Found Tobey Maguire Spider-Man & More Hidden Details!",
-        "Avengers: Doomsday | Final Trailer REACTION!!",
-        "CHURCH OF MARVEL STAND UP! | Avengers: Doomsday | Final Trailer Reaction"
+        "AVENGERS Doomsday MAGNETO VS DOOM Fight Breakdown + A Massive Theory About the Movie",
+        "AVENGERS DOOMSDAY TRAILER Doom Throne Room Battle Breakdown!"
       ]
     },
     {
-      "topic": "doomsday trailer",
-      "count": 8,
-      "score": 1.34,
+      "topic": "magneto",
+      "count": 7,
+      "score": 5.39,
       "sample_titles": [
-        "VINGADORES DOOMSDAY TRAILER FINAL | \"A MIM, MEUS X MEN!\" | Tudo o Que o Trailer Final Esconde",
-        "DOOM MATA [SPOILER] em VINGADORES DOOMSDAY: TRAILER FINAL DESMONTADO, NOVOS DETALHES EXPLICADOS",
-        "EXPLICADO! VINGADORES DOOMSDAY TRAILER FINAL (DETALHES + REFERÊNCIAS + EASTER EGGS)",
-        "AVENGERS DOOMSDAY TRAILER We Found Tobey Maguire Spider-Man & More Hidden Details!",
-        "They made a GREAT Doomsday trailer!"
+        "AVENGERS: DOOMSDAY \"Magneto Removes Doctor Doom's Mask\" TV Spot Trailer (2026)",
+        "Avengers Doomsday | Magneto vs Doom | Get Your Tickets at TGV Now",
+        "Vingadores Doutor Destino: TEASER OFICIAL \"Magneto VS Destino\"",
+        "AVENGERS Doomsday MAGNETO VS DOOM Fight Breakdown + A Massive Theory About the Movie",
+        "Avengers: Doomsday - Magneto Vs. Doctor Doom - TV Spot - Reaction!"
       ]
     },
     {
-      "topic": "black",
-      "count": 6,
-      "score": 75.0,
+      "topic": "doomsday magneto",
+      "count": 5,
+      "score": 5.88,
       "sample_titles": [
-        "Batedeira na Black Friday 2026: Oster, Philco e Mondial empatam nas indicações do ChatGPT",
-        "Gravador de voz na Black Friday 2026: Zoom e Tascam lideram indicações do ChatGPT",
-        "Travesseiro na Black Friday 2026: Duoflex, Fibrasca e Emma disputam indicações do ChatGPT",
-        "What to know before using AI agents for Black Friday shopping"
+        "AVENGERS: DOOMSDAY \"Magneto Removes Doctor Doom's Mask\" TV Spot Trailer (2026)",
+        "Avengers Doomsday | Magneto vs Doom | Get Your Tickets at TGV Now",
+        "AVENGERS: DOOMSDAY | MAGNETO vs DOOM NEW TEASER TRAILER!",
+        "AVENGERS Doomsday MAGNETO VS DOOM Fight Breakdown + A Massive Theory About the Movie",
+        "Avengers: Doomsday - Magneto Vs. Doctor Doom - TV Spot - Reaction!"
       ]
     },
     {
-      "topic": "black friday",
-      "count": 6,
-      "score": 75.0,
+      "topic": "doctor",
+      "count": 3,
+      "score": 15.62,
       "sample_titles": [
-        "Batedeira na Black Friday 2026: Oster, Philco e Mondial empatam nas indicações do ChatGPT",
-        "Gravador de voz na Black Friday 2026: Zoom e Tascam lideram indicações do ChatGPT",
-        "Travesseiro na Black Friday 2026: Duoflex, Fibrasca e Emma disputam indicações do ChatGPT",
-        "What to know before using AI agents for Black Friday shopping"
+        "AVENGERS: DOOMSDAY \"Magneto Removes Doctor Doom's Mask\" TV Spot Trailer (2026)",
+        "Avengers: Doomsday - Magneto Vs. Doctor Doom - TV Spot - Reaction!",
+        "Doctor's union boss savaged by MPs for medics earning thousands for lucrative private work while striking over NHS 'burn out'"
+      ]
+    },
+    {
+      "topic": "magneto doom",
+      "count": 3,
+      "score": 7.51,
+      "sample_titles": [
+        "Avengers Doomsday | Magneto vs Doom | Get Your Tickets at TGV Now",
+        "AVENGERS: DOOMSDAY | MAGNETO vs DOOM NEW TEASER TRAILER!",
+        "AVENGERS Doomsday MAGNETO VS DOOM Fight Breakdown + A Massive Theory About the Movie"
       ]
     },
     {
       "topic": "friday",
-      "count": 6,
-      "score": 75.0,
+      "count": 2,
+      "score": 60.0,
       "sample_titles": [
-        "Batedeira na Black Friday 2026: Oster, Philco e Mondial empatam nas indicações do ChatGPT",
-        "Gravador de voz na Black Friday 2026: Zoom e Tascam lideram indicações do ChatGPT",
-        "Travesseiro na Black Friday 2026: Duoflex, Fibrasca e Emma disputam indicações do ChatGPT",
+        "Black Friday: celulares lideram descontos no PIX entre produtos monitorados pelo g1; veja lista",
         "What to know before using AI agents for Black Friday shopping"
       ]
     }
   ],
   "cross_platform": [
-    {
-      "topic": "entre",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 64.85,
-      "sample_titles": [
-        "ESSE JOGO CAUSA BRIGA ENTRE AMIGOS *Brigamos ? ",
-        "OE. Ventura: \"Entre Montenegro e as pessoas, escolhemos a...",
-        "Luiz Trabuco: quem é o executivo do Bradesco que está entre os cotados para assumir Ministério da Fazenda",
-        "Zanin marca para dezembro julgamento sobre segundo turno entre Paes e Ruas no Rio",
-        "Petróleo fecha em alta com tensão entre Houthis e Arábia Saudita e ataques da Ucrânia"
-      ]
-    },
-    {
-      "topic": "miller",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 51.63,
-      "sample_titles": [
-        "Jamie Miller - Babydoll (Official Music Video)",
-        "Miller touts Iowa blast as 'tremendous display of unity' under Trump"
-      ]
-    },
-    {
-      "topic": "agora",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 50.12,
-      "sample_titles": [
-        "🚨SAIU AGORA! NOVO TEASER ESPECIAL DE VINGADORES: DOOMSDAY COM CENAS INÉDITAS!",
-        "Pé-Grande deixou um rastro de documentos que agora todos podem ver nos EUA"
-      ]
-    },
-    {
-      "topic": "todos",
-      "platforms": [
-        "youtube",
-        "news"
-      ],
-      "count": 2,
-      "score": 50.08,
-      "sample_titles": [
-        "TODOS OS DETALHES DO TRAILER DE VINGADORES DOOMSDAY (+ REFERÊNCIAS + EASTER EGGS) EXPLICADO!",
-        "Pé-Grande deixou um rastro de documentos que agora todos podem ver nos EUA"
-      ]
-    },
     {
       "topic": "dólar",
       "platforms": [
@@ -718,15 +619,15 @@
       "count": 2,
       "score": 46.0,
       "sample_titles": [
-        "Dólar recua após tocar R$ 6, mas gestores mantêm R$ 6,50 no radar e indicam proteção",
-        "Dólar sobe no mundo, mas real cai 6 vezes mais que a média de 78 moedas",
-        "BC tem US$ 363 bilhões em reservas: por que isso não basta para segurar o dólar?",
-        "Dólar fecha com queda de 1,5%, a R$ 5,82, com especulações sobre ministro da Fazenda",
+        "Dólar recua e vai a R$ 5,81 com expectativa sobre política econômica brasileira",
+        "Controle de capitais no forno? Medida não segura dólar e encarece ajuste, diz UBS",
+        "Dólar forte favorece Vale e CSN Mineração, mas pressiona Usiminas, diz Morgan Stanley",
+        "Dólar futuro cai mais de 3% após notícia de encontro entre Trabuco e Lula em Brasília",
         "dólar hoje"
       ]
     },
     {
-      "topic": "aprender",
+      "topic": "trabalho",
       "platforms": [
         "news",
         "google_trends"
@@ -734,21 +635,114 @@
       "count": 2,
       "score": 45.0,
       "sample_titles": [
-        "‘Foi como aprender uma nova língua’: executiva mostra por que o compliance precisa de finanças",
-        "como aprender inglês"
+        "Guia de prompts: como pedir à IA resultados melhores no trabalho, segundo Google e Anthropic",
+        "trabalho home office"
       ]
     },
     {
-      "topic": "found",
+      "topic": "quanto",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Expectativa de vida no Brasil: quanto vive o brasileiro em cada estado?",
+        "quanto custa viajar para os EUA"
+      ]
+    },
+    {
+      "topic": "business",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "FIFA: 'Limited set of personal and business information' stolen in cyber attack",
+        "start a business USA"
+      ]
+    },
+    {
+      "topic": "office",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Nate Silver: Trump could ‘absolutely’ be removed from office after midterm turmoil",
+        "trabalho home office"
+      ]
+    },
+    {
+      "topic": "maior",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 41.48,
+      "score": 40.73,
       "sample_titles": [
-        "AVENGERS DOOMSDAY TRAILER We Found Tobey Maguire Spider-Man & More Hidden Details!",
-        "Forest Service releases 1982 report on 'Bigfoot' tracks found in Oregon"
+        "A MAIOR RESENHA DO MUNDO AO VIVO - RESENHA 011 | DG e Batidão Stronda e Convidados",
+        "Imagens de satélite mostram nuvem gigante de fumaça após ataque à maior refinaria da Arábia Saudita"
+      ]
+    },
+    {
+      "topic": "melhores",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.07,
+      "sample_titles": [
+        "💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶",
+        "Guia de prompts: como pedir à IA resultados melhores no trabalho, segundo Google e Anthropic"
+      ]
+    },
+    {
+      "topic": "ficou",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 40.06,
+      "sample_titles": [
+        "ELE NÃO FOI EMBORA 🙌 | Caí, Ele Ficou | 3 Minutos Pra Brilhar | Show de Talentos Emocionante 2026",
+        "O currículo ficou mais bonito com a IA. E os recrutadores passaram a confiar menos nele"
+      ]
+    },
+    {
+      "topic": "imposto",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 36.67,
+      "sample_titles": [
+        "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
+        "Reforma tributária: sem benefícios a produtos e setores, imposto do governo cairia de 11,3% para 7% em 2027, estima órgão do Senado",
+        "imposto nos EUA"
+      ]
+    },
+    {
+      "topic": "abrir",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 36.67,
+      "sample_titles": [
+        "Fernanda Cortes: 5 passos para empresários que querem abrir um negócio nos EUA",
+        "Passageiro tenta abrir porta de avião e voo é desviado nos EUA; veja VÍDEO",
+        "abrir empresa nos EUA"
       ]
     },
     {
@@ -761,255 +755,236 @@
       "score": 36.67,
       "sample_titles": [
         "De Timbaúba a Massachusetts: o brasileiro que chegou aos 14 anos aos EUA e hoje faz leis para proteger imigrantes",
-        "Tarifaço: açúcar brasileiro pode ter nova taxa para entrar nos EUA; veja o que pode mudar",
+        "Expectativa de vida no Brasil: quanto vive o brasileiro em cada estado?",
         "brasileiro nos EUA"
       ]
     },
     {
-      "topic": "champions",
+      "topic": "december",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 35.98,
+      "score": 34.64,
       "sample_titles": [
-        "🔴 SABAH X BARCELONA | AO VIVO | CHAMPIONS LEAGUE | JOGO AO VIVO COM IMAGENS DO OLÍMPICO DE BAKÚ",
-        "For workplace culture champions, Jensen Huang's return is 'unfathomable'"
+        "Alias Rukmini Trailer | Nani Presents Nithiin | Aafiya Sayed | Unanimous Productions | December 4",
+        "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates"
       ]
     },
     {
-      "topic": "moving",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 35.0,
-      "sample_titles": [
-        "Moving to Florida may become a choice of some Republicans after midterms",
-        "moving to USA"
-      ]
-    },
-    {
-      "topic": "online",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 33.33,
-      "sample_titles": [
-        "Estante, planta ou sala de casa? O fundo da entrevista online pesa na primeira impressão",
-        "como ganhar dinheiro online",
-        "how to learn online"
-      ]
-    },
-    {
-      "topic": "office",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 25.0,
-      "sample_titles": [
-        "Data: Sanctuary Cities Have Freed Over 34,000 Illegal Aliens Since Trump Took Office",
-        "trabalho home office"
-      ]
-    },
-    {
-      "topic": "immigration",
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "count": 2,
-      "score": 25.0,
-      "sample_titles": [
-        "A 9-Year-Old Boy Tells Ms. Rachel What He Wants for Christmas Most is an Immigration Lawyer",
-        "immigration USA"
-      ]
-    },
-    {
-      "topic": "great",
+      "topic": "negra",
       "platforms": [
         "youtube",
         "news"
       ],
       "count": 2,
-      "score": 20.43,
+      "score": 30.07,
       "sample_titles": [
-        "They made a GREAT Doomsday trailer!",
-        "America's grocery crisis is taking a bigger toll than the Great Recession as even six-figure earners flock to discount stores"
+        "💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶",
+        "Navio com 7 mil toneladas de óleo afunda em Ibiza e deixa 1 morto; Espanha tenta evitar 'maré negra'"
       ]
     },
     {
-      "topic": "imposto",
+      "topic": "inflation",
       "platforms": [
         "news",
         "google_trends"
       ],
       "count": 2,
-      "score": 15.0,
+      "score": 30.0,
       "sample_titles": [
-        "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
-        "imposto nos EUA"
+        "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
+        "Fed survey shows continued growth and sticky inflation in recent weeks",
+        "inflation"
+      ]
+    },
+    {
+      "topic": "deportation",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 30.0,
+      "sample_titles": [
+        "Trump DHS Chief Markwayne Mullin's Abrego Garcia Victory Lap Draws Rebuke From Former GOP Senate Counsel — as He Point to Failed Liberia Deportation Bid: 'Shameful and Dishonest'",
+        "Quiet Deportation to Spain Ends Abrego Garcia Saga",
+        "deportation"
       ]
     }
   ],
   "niche_ideas": [
     {
-      "main_topic": "Dólar",
-      "subtopic": "Impacto das tarifas de Trump no câmbio",
-      "why_trending": "As tarifas propostas por Trump estão criando incertezas no mercado, levando a oscilações significativas na cotação do dólar, que afeta diretamente a economia brasileira e o poder de compra dos imigrantes.",
-      "niche_angle": "Explorar como as novas tarifas podem impactar brasileiros que fazem remessas para o Brasil e como se preparar financeiramente para essas mudanças.",
+      "main_topic": "dólar",
+      "subtopic": "Como a alta do dólar afeta a vida dos brasileiros nos EUA?",
+      "why_trending": "O dólar recuou para R$ 5,81, mas as oscilações contínuas geram incerteza para quem vive fora do Brasil.",
+      "niche_angle": "Explorar como a variação do dólar impacta remessas, compras e economia de brasileiros imigrantes nos EUA.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 8,
+      "source": "news",
+      "region": "BR|US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/26/dolar-futuro-cai-mais-de-2-apos-noticia-encontro-entre-trabuco-e-lula.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-26T21:03:24.939853"
+    },
+    {
+      "main_topic": "imposto",
+      "subtopic": "O que muda com a reforma tributária nos EUA e como isso afeta imigrantes?",
+      "why_trending": "O debate sobre impostos está em alta, com notícias sobre mudanças tributárias que podem impactar a vida dos imigrantes.",
+      "niche_angle": "Analisar as implicações da reforma tributária nos EUA para brasileiros que trabalham e vivem aqui, incluindo dicas práticas.",
       "video_format": "long",
       "urgency": "high",
       "ease": 7,
-      "source": "G1 Economia",
-      "region": "BR",
+      "source": "news",
+      "region": "US",
       "links": [
-        "https://g1.globo.com/economia/noticia/2026/11/25/trump-amplia-ofensiva-comercial.ghtml"
+        "https://g1.globo.com/economia/noticia/2026/11/26/reforma-tributaria-sem-beneficios-a-produtos-e-setores-imposto-do-governo-cairia-de-113percent-para-7percent-em-2027-estima-orgao-do-senado.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-25T21:14:18.464414"
+      "collected_at": "2026-11-26T21:03:24.939862"
     },
     {
-      "main_topic": "Tarifas Comerciais",
-      "subtopic": "Como as novas tarifas afetam o mercado americano e brasileiro",
-      "why_trending": "As tarifas propostas contra produtos brasileiros aumentam o custo de importação, afetando tanto os preços para consumidores quanto a competitividade das empresas brasileiras.",
-      "niche_angle": "Discutir como essas mudanças tarifárias podem afetar brasileiros que compram produtos importados e empreendedores que dependem de importações para seus negócios nos EUA.",
+      "main_topic": "trabalho",
+      "subtopic": "Home office: Como brasileiros nos EUA estão se adaptando?",
+      "why_trending": "A discussão sobre trabalho remoto continua forte, com muitas pessoas buscando alternativas flexíveis.",
+      "niche_angle": "Compartilhar experiências de brasileiros que trabalham remotamente nos EUA, incluindo dicas sobre produtividade e equilíbrio entre vida profissional e pessoal.",
       "video_format": "both",
-      "urgency": "high",
+      "urgency": "medium",
       "ease": 6,
-      "source": "G1 Economia",
-      "region": "BR",
+      "source": "news",
+      "region": "US",
       "links": [
-        "https://g1.globo.com/economia/noticia/2026/11/25/trump-amplia-ofensiva-comercial.ghtml"
+        "https://g1.globo.com/economia/noticia/2026/11/26/trabalho-home-office.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-25T21:14:18.464424"
+      "collected_at": "2026-11-26T21:03:24.939866"
     },
     {
-      "main_topic": "Educação",
-      "subtopic": "Aprender inglês como chave para sucesso profissional",
-      "why_trending": "As oportunidades de emprego nos EUA estão cada vez mais ligadas ao domínio do inglês, especialmente em setores em crescimento.",
-      "niche_angle": "Criar um guia prático sobre como brasileiros podem melhorar suas habilidades em inglês utilizando recursos disponíveis nos EUA, incluindo cursos online e grupos de conversação.",
+      "main_topic": "business",
+      "subtopic": "Como abrir um negócio nos EUA: passos práticos para imigrantes.",
+      "why_trending": "Com o aumento do empreendedorismo, mais brasileiros buscam informações sobre como iniciar negócios nos EUA.",
+      "niche_angle": "Oferecer um guia passo a passo sobre como abrir uma empresa nos EUA, destacando desafios e oportunidades para imigrantes.",
       "video_format": "long",
       "urgency": "medium",
       "ease": 5,
-      "source": "G1 Economia",
+      "source": "news",
       "region": "US",
       "links": [
-        "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/25/inscricoes-concurso-do-ibge-prorrogadas.ghtml"
+        "https://g1.globo.com/economia/noticia/2026/11/26/fernanda-cortes-5-passos-para-empresarios-que-querem-abrir-um-negocio-nos-eua.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-25T21:14:18.464428"
+      "collected_at": "2026-11-26T21:03:24.939870"
     },
     {
-      "main_topic": "Economia",
-      "subtopic": "Comparação de custos de vida entre Brasil e EUA",
-      "why_trending": "Com as recentes mudanças econômicas, muitos brasileiros estão reconsiderando sua vida nos EUA em comparação ao Brasil, buscando entender onde é mais vantajoso viver.",
-      "niche_angle": "Analisar os custos de vida em diferentes estados dos EUA versus regiões do Brasil, focando em aspectos como moradia, alimentação e transporte, para ajudar imigrantes a tomar decisões informadas.",
+      "main_topic": "quanto",
+      "subtopic": "Quanto custa viver nos EUA para brasileiros?",
+      "why_trending": "As comparações de custo de vida e salários estão em alta, especialmente para quem planeja se mudar.",
+      "niche_angle": "Fazer uma análise detalhada dos custos de vida nos EUA e como isso se compara ao Brasil, com foco nas necessidades dos imigrantes.",
       "video_format": "long",
       "urgency": "medium",
-      "ease": 8,
-      "source": "InfoMoney",
+      "ease": 7,
+      "source": "news",
       "region": "US",
       "links": [
-        "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-25112026/"
+        "https://g1.globo.com/economia/noticia/2026/11/26/quanto-custa-viver-nos-eua.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-25T21:14:18.464430"
+      "collected_at": "2026-11-26T21:03:24.939874"
     },
     {
-      "main_topic": "Negócios & Dinheiro",
-      "subtopic": "Oportunidades de renda extra nos EUA",
-      "why_trending": "Com a inflação crescente, muitos brasileiros estão buscando alternativas para aumentar sua renda, especialmente em tempos de incerteza econômica.",
-      "niche_angle": "Explorar diferentes maneiras de gerar renda extra nos EUA, como freelancing, venda de produtos online e serviços locais, adaptados para a comunidade brasileira.",
+      "main_topic": "direito",
+      "subtopic": "Como funcionam os vistos para brasileiros nos EUA?",
+      "why_trending": "Com as mudanças nas legislações, há um crescente interesse em entender os tipos de vistos e como obtê-los.",
+      "niche_angle": "Explicar os diferentes tipos de vistos disponíveis para brasileiros e as melhores práticas para aplicação.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/economia/noticia/2026/11/26/justica-dos-eua-derruba-limite-de-permanencia-de-estudantes-imposto-por-trump.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-26T21:03:24.939880"
+    },
+    {
+      "main_topic": "black friday",
+      "subtopic": "Black Friday nos EUA: vale a pena para os brasileiros?",
+      "why_trending": "Com a Black Friday se aproximando, muitos brasileiros estão curiosos sobre as melhores ofertas e como economizar.",
+      "niche_angle": "Analisar as melhores estratégias para brasileiros aproveitarem a Black Friday nos EUA, incluindo comparações de preços e dicas de compras.",
       "video_format": "both",
       "urgency": "medium",
-      "ease": 6,
-      "source": "Exame",
+      "ease": 5,
+      "source": "news",
       "region": "US",
       "links": [
-        "https://exame.com/carreira/foi-como-aprender-uma-nova-lingua-executiva-mostra-por-que-o-compliance-precisa-de-financas/"
+        "https://g1.globo.com/guia/guia-de-compras/black-friday-celulares-lideram-descontos-no-pix-entre-produtos-monitorados-pelo-g1-veja-lista.ghtml"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-25T21:14:18.464435"
+      "collected_at": "2026-11-26T21:03:24.939885"
     },
     {
-      "main_topic": "Tecnologia",
-      "subtopic": "Uso de IA para otimização de negócios",
-      "why_trending": "A adoção de tecnologia de IA está crescendo rapidamente, impactando como as empresas operam e se conectam com os clientes.",
-      "niche_angle": "Discutir como brasileiros podem utilizar ferramentas de IA para otimizar processos de negócios, aumentar vendas e melhorar o atendimento ao cliente.",
-      "video_format": "long",
-      "urgency": "medium",
-      "ease": 7,
-      "source": "The Hill",
-      "region": "US",
-      "links": [
-        "https://thehill.com/policy/technology/6243528-fcc-approves-spacex-orbital-ai-data-centers/"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-11-25T21:14:18.464438"
-    },
-    {
-      "main_topic": "Estilo de Vida",
-      "subtopic": "Mudança de estados nos EUA: onde morar?",
-      "why_trending": "A migração interna dentro dos EUA está em alta, com muitos brasileiros buscando novos lugares para viver em busca de melhores oportunidades.",
-      "niche_angle": "Analisar os prós e contras de se mudar para estados populares entre brasileiros, como Flórida e Califórnia, incluindo custo de vida, oportunidades de emprego e qualidade de vida.",
-      "video_format": "long",
-      "urgency": "medium",
-      "ease": 7,
-      "source": "G1 Mundo",
-      "region": "US",
-      "links": [
-        "https://g1.globo.com/mundo/noticia/2026/11/25/cerca-de-2000-migrantes-chegam-a-uma-ilha-das-canarias-em-um-unico-dia.ghtml"
-      ],
-      "platforms": [
-        "news",
-        "google_trends"
-      ],
-      "collected_at": "2026-11-25T21:14:18.464440"
-    },
-    {
-      "main_topic": "Comunidade",
-      "subtopic": "Impacto das mudanças políticas na vida dos imigrantes",
-      "why_trending": "As recentes mudanças nas políticas de imigração e tarifas estão gerando discussões sobre o futuro dos imigrantes nos EUA.",
-      "niche_angle": "Debater como essas políticas afetam os brasileiros que vivem nos EUA e quais ações podem ser tomadas para se adaptar a esse novo cenário.",
+      "main_topic": "tecnologia",
+      "subtopic": "Como usar IA para melhorar sua carreira?",
+      "why_trending": "A utilização de ferramentas de IA no ambiente de trabalho está crescendo rapidamente, especialmente na busca por eficiência.",
+      "niche_angle": "Oferecer dicas práticas sobre como os brasileiros podem usar IA para otimizar seu trabalho e aumentar a produtividade.",
       "video_format": "long",
       "urgency": "medium",
       "ease": 6,
-      "source": "G1 Mundo",
+      "source": "news",
       "region": "US",
       "links": [
-        "https://g1.globo.com/mundo/noticia/2026/11/25/trump-amplia-ofensiva-comercial.ghtml"
+        "https://exame.com/inteligencia-artificial/guia-de-prompts-como-pedir-a-ia-resultados-melhores-no-trabalho-segundo-google-e-anthropic/"
       ],
       "platforms": [
         "news",
         "google_trends"
       ],
-      "collected_at": "2026-11-25T21:14:18.464449"
+      "collected_at": "2026-11-26T21:03:24.939894"
+    },
+    {
+      "main_topic": "comunidade",
+      "subtopic": "Brasileiros nos EUA: desafios e conquistas.",
+      "why_trending": "Narrativas sobre a experiência de brasileiros em outro país estão se tornando cada vez mais relevantes e inspiradoras.",
+      "niche_angle": "Criar um espaço para brasileiros compartilharem suas histórias e discutirem os desafios enfrentados na vida nos EUA.",
+      "video_format": "long",
+      "urgency": "low",
+      "ease": 4,
+      "source": "news",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/26/de-timbauba-a-massachusetts-o-brasileiro-que-chegou-aos-14-anos-aos-eua-e-hoje-faz-leis-para-proteger-imigrantes.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-26T21:03:24.939901"
     }
   ]
 }
