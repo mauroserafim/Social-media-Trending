@@ -1,0 +1,1005 @@
+{
+  "generated_at": "2026-11-27T20:48:15.006395",
+  "run_id": "46065985534",
+  "summary": {
+    "total_br": 30,
+    "total_us": 26,
+    "br_us_connections": 10,
+    "cross_platform_topics": 15,
+    "niche_ideas": 9
+  },
+  "sections_br": [
+    {
+      "platform": "youtube",
+      "region": "BR",
+      "label": "YouTube (BR)",
+      "trends": [
+        {
+          "title": "Avengers: Doomsday | TV SPOT “REDEMPTION” CONCEPT | Marvel Studios",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=FYHvlRJXG2A",
+          "score": 19.26,
+          "region": "BR",
+          "views": 1138903
+        },
+        {
+          "title": "Avengers Doomsday | Magneto vs Doom | Get Your Tickets at TGV Now",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=DzgorMtx38c",
+          "score": 10.23,
+          "region": "BR",
+          "views": 2963763
+        },
+        {
+          "title": "Hungria - Rompendo na Fé (Videoclipe Oficial) #Constelação",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=x9A-mCnFJUE",
+          "score": 7.27,
+          "region": "BR",
+          "views": 462444
+        },
+        {
+          "title": "NÃO VIRE ESSA CABRA !!! Ela é bizarra (Goat Simulator 3)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=B34jCr7mZ8Y",
+          "score": 7.09,
+          "region": "BR",
+          "views": 1316170
+        },
+        {
+          "title": "AVENGERS: DOOMSDAY \"Magneto Removes Doctor Doom's Mask\" TV Spot Trailer (2026)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=dnGJmIrdbls",
+          "score": 5.94,
+          "region": "BR",
+          "views": 1518475
+        },
+        {
+          "title": "Avengers: Doomsday | Extinction",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=UDArNnG_t3M",
+          "score": 4.29,
+          "region": "BR",
+          "views": 590577
+        },
+        {
+          "title": "DENNIS, MC GW, Melody, Cacau Chuu - MANGUEIRA (Me Molha) - Dance Video ",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=hG1Hm7K8vHY",
+          "score": 3.72,
+          "region": "BR",
+          "views": 236478
+        },
+        {
+          "title": "João Gustavo e Murilo, ‪‪@israelerodolffo - Marca de Batom | Ao Vivo Em Goiânia",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=WKjSP552h98",
+          "score": 3.71,
+          "region": "BR",
+          "views": 236029
+        },
+        {
+          "title": "STEVE E THOR vs DOUTOR DESTINO NO CASTELO DO DOOM - NOVO TEASER INSANO DE VINGADORES: DOOMSDAY!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=B74jXzlCsD0",
+          "score": 3.41,
+          "region": "BR",
+          "views": 653041
+        },
+        {
+          "title": "SET DO BUZEIRA 3 - Lipi, Paulin, Lele, Boladin, Ryan, CB, Gabb, Lemos, Kadu, Joãozinho (GM, Oldilla)",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=M5xpYPeaxI8",
+          "score": 3.0,
+          "region": "BR",
+          "views": 536137
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "BR",
+      "label": "Notícias (BR)",
+      "trends": [
+        {
+          "title": "OpenAI processa Apple e acusa empresa de roubar segredos comerciais e bloquear fornecedores",
+          "source": "news:G1 Economia",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/11/27/open-ai-apple-ia-segredo-processo.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Mulheres afegãs perdem o direito de ter nomes e passam a ser identificadas como 'vovó', 'cabra' ou 'vaca', diz jornal",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/27/mulheres-afegas-perdem-o-direito-de-ter-nomes-e-passam-a-ser-identificadas-como-vovo-cabra-ou-vaca-diz-jornal.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Líder da seita do jejum é considerado culpado pela morte de 123 pessoas no Quênia",
+          "source": "news:G1 Mundo",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/27/lider-da-seita-do-jejum-e-considerado-culpado-pela-morte-de-123-pessoas-no-quenia.ghtml",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Taxas dos DIs fecham com fortes baixas após governo Lula confirmar Trabuco na Fazenda",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/taxas-dos-dis-fecham-com-fortes-baixas-apos-governo-lula-confirmar-trabuco-na-fazenda/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Bolsonaro tem melhora e intestino volta a funcionar espontaneamente, diz boletim",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/bolsonaro-tem-melhora-e-intestino-volta-a-funcionar-espontaneamente-diz-boletim/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Dino suspende emendas individuais de Flávio Bolsonaro",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/dino-suspende-r-793-milhoes-em-emendas-de-flavio-bolsonaro/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Dólar hoje cai 4%, a R$ 5,51, com anúncio de Trabuco na Fazenda; na semana, recua 7%",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-27112026/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "Por que investir no exterior deixou de ser apenas proteção contra riscos do Brasil",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/onde-investir/por-que-investir-no-exterior-deixou-de-ser-apenas-protecao-contra-riscos-do-brasil/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "“Somos terríveis em inovação”: CEO do iFood defende cultura de experimentação",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/onde-investir/somos-terriveis-em-inovacao-ceo-do-ifood-defende-cultura-de-experimentacao/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "ONU alerta para agravamento da fome em 16 países nos próximos seis meses",
+          "source": "news:InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/onu-alerta-para-agravamento-da-fome-em-16-paises-nos-proximos-seis-meses/",
+          "score": 100.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "BR",
+      "label": "Google Trends (BR)",
+      "trends": [
+        {
+          "title": "dólar hoje",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=dólar hoje&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "visto americano",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visto americano&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imigração EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imigração EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "brasileiro nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=brasileiro nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "green card",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=green card&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "abrir empresa nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=abrir empresa nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "quanto custa viajar para os EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=quanto custa viajar para os EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "inteligência artificial 2025",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=inteligência artificial 2025&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "imposto nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=imposto nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        },
+        {
+          "title": "saúde nos EUA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=saúde nos EUA&geo=BR",
+          "score": 10.0,
+          "region": "BR",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "sections_us": [
+    {
+      "platform": "youtube",
+      "region": "US",
+      "label": "YouTube (US)",
+      "trends": [
+        {
+          "title": "Alias Rukmini Trailer | Nani Presents Nithiin | Aafiya Sayed | Unanimous Productions | December 4",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=cRLn0QiWoxY",
+          "score": 20.33,
+          "region": "US",
+          "views": 4951785
+        },
+        {
+          "title": "I Watched Avengers: Doomsday FINAL TRAILER in 0.25x Speed and Here's What I Found",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=X-vvVENSuhk",
+          "score": 4.76,
+          "region": "US",
+          "views": 274770
+        },
+        {
+          "title": "4 Secret Rooms Grandma Will Never Find!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=wCF1HuctBPU",
+          "score": 3.34,
+          "region": "US",
+          "views": 152945
+        },
+        {
+          "title": "AVENGERS DOOMSDAY Doctor Doom vs Magneto Trailer & New Powers Breakdown!",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=QA2EwT8jlNE",
+          "score": 2.76,
+          "region": "US",
+          "views": 537348
+        },
+        {
+          "title": "Avengers: Doomsday All Trailers | IN ORDER THEY APPEAR",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=qe5Fr9lw3FE",
+          "score": 1.86,
+          "region": "US",
+          "views": 649645
+        },
+        {
+          "title": "AVENGERS Doomsday MAGNETO VS DOOM Fight Breakdown + A Massive Theory About the Movie",
+          "source": "youtube",
+          "url": "https://youtube.com/watch?v=RZDPDteBKKw",
+          "score": 1.4,
+          "region": "US",
+          "views": 350805
+        }
+      ]
+    },
+    {
+      "platform": "news",
+      "region": "US",
+      "label": "Notícias (US)",
+      "trends": [
+        {
+          "title": "New York State Senate Majority Leader Andrea Stewart-Cousins dies at 76",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/state-watch/6245597-new-york-state-senate-majority-leader-andrea-stewart-cousins-dies-at-76/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Sen. Deb Fischer's office says her husband died by suicide",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/senate/6245545-deb-fischer-nebraska/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Thousands still without power after Thanksgiving storms",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/state-watch/6245503-black-friday-thanksgiving-storms-flight-delayed-macys-parade/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Keep the filibuster, but make senators earn it",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/congress-blog/6243890-senate-filibuster-reform-proposals/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Trump to visit groundbreaking for semiconductor manufacturer that supplies Nvidia: Reports",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/administration/6245480-trump-phoenix-tsmc-nvidia/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Cenk Uygur backs Ro Khanna in 2028 race",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/campaign/6245451-cenk-uygur-ro-khanna-2028-election/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "14 years of DACA isn’t a milestone — it’s a failure of Congress",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/opinion/immigration/6240998-daca-delays-congressional-inaction/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Military says it disabled vessel that 'attempted to run the U.S. naval blockade' against Iran",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/policy/defense/6245428-us-naval-blockade-iran-ship-disabled/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "Portnoy says Vance 'done' as 2028 presidential contender",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/media/6245312-portnoy-says-vance-done-as-2028-presidential-contender/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "5 big questions for Democrats this Thanksgiving",
+          "source": "news:The Hill",
+          "url": "https://thehill.com/homenews/analysis/6243525-questions-democrats-thanksgiving-midterms-majority/",
+          "score": 80.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    },
+    {
+      "platform": "google_trends",
+      "region": "US",
+      "label": "Google Trends (US)",
+      "trends": [
+        {
+          "title": "minimum wage",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=minimum wage&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "cost of living",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=cost of living&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "visa application",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=visa application&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "AI automation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=AI automation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "viral trends",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=viral trends&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "moving to USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=moving to USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "start a business USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=start a business USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "passive income ideas",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=passive income ideas&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "immigration USA",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=immigration USA&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        },
+        {
+          "title": "deportation",
+          "source": "google_trends",
+          "url": "https://trends.google.com/trends/explore?q=deportation&geo=US",
+          "score": 10.0,
+          "region": "US",
+          "views": null
+        }
+      ]
+    }
+  ],
+  "br_us_connections": [
+    {
+      "topic": "doomsday",
+      "count": 14,
+      "score": 5.38,
+      "sample_titles": [
+        "STEVE E THOR vs DOUTOR DESTINO NO CASTELO DO DOOM - NOVO TEASER INSANO DE VINGADORES: DOOMSDAY!",
+        "Avengers: Doomsday | TV SPOT “REDEMPTION” CONCEPT | Marvel Studios",
+        "[COMPILADO] Cenas Pós Créditos, Trailer e Teasers de Vingadores Doomsday",
+        "AVENGERS DOOMSDAY Doctor Doom vs Magneto Trailer & New Powers Breakdown!",
+        "I Watched Avengers: Doomsday FINAL TRAILER in 0.25x Speed and Here's What I Found"
+      ]
+    },
+    {
+      "topic": "trump",
+      "count": 12,
+      "score": 36.67,
+      "sample_titles": [
+        "Justiça dos EUA derruba limite de permanência de estudantes imposto por Trump",
+        "Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel",
+        "Tarifaço dá receita bilionária e protege Trump da ingerência do Congresso",
+        "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
+        "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it"
+      ]
+    },
+    {
+      "topic": "trailer",
+      "count": 10,
+      "score": 4.87,
+      "sample_titles": [
+        "[COMPILADO] Cenas Pós Créditos, Trailer e Teasers de Vingadores Doomsday",
+        "Vingadores: Doutor Destino Trailer Final (Finalmente empolgando?)",
+        "Avengers Doomsday New Trailer - \"Doom's Mask\"",
+        "AVENGERS DOOMSDAY Doctor Doom vs Magneto Trailer & New Powers Breakdown!",
+        "I Watched Avengers: Doomsday FINAL TRAILER in 0.25x Speed and Here's What I Found"
+      ]
+    },
+    {
+      "topic": "avengers",
+      "count": 9,
+      "score": 5.86,
+      "sample_titles": [
+        "Avengers: Doomsday | TV SPOT “REDEMPTION” CONCEPT | Marvel Studios",
+        "Avengers Doomsday New Trailer - \"Doom's Mask\"",
+        "AVENGERS: DOOMSDAY \"Magneto Removes Doctor Doom's Mask\" TV Spot Trailer (2026)",
+        "AVENGERS DOOMSDAY Doctor Doom vs Magneto Trailer & New Powers Breakdown!",
+        "I Watched Avengers: Doomsday FINAL TRAILER in 0.25x Speed and Here's What I Found"
+      ]
+    },
+    {
+      "topic": "avengers doomsday",
+      "count": 9,
+      "score": 5.86,
+      "sample_titles": [
+        "Avengers: Doomsday | TV SPOT “REDEMPTION” CONCEPT | Marvel Studios",
+        "Avengers Doomsday New Trailer - \"Doom's Mask\"",
+        "AVENGERS: DOOMSDAY \"Magneto Removes Doctor Doom's Mask\" TV Spot Trailer (2026)",
+        "AVENGERS DOOMSDAY Doctor Doom vs Magneto Trailer & New Powers Breakdown!",
+        "I Watched Avengers: Doomsday FINAL TRAILER in 0.25x Speed and Here's What I Found"
+      ]
+    },
+    {
+      "topic": "friday",
+      "count": 8,
+      "score": 55.0,
+      "sample_titles": [
+        "Cabo de guerra entre Black Friday e El Niño segura IPCA-15 em novembro, mas não muda perspectiva, dizem economistas",
+        "No dia da Black Friday, 20% dos produtos ficam mais caros em apenas 12 horas; 60% dos itens seguem com desconto",
+        "De sex shop e loja octagenária, Black Friday lota comércios no centro de SP",
+        "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+        "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes"
+      ]
+    },
+    {
+      "topic": "black friday",
+      "count": 8,
+      "score": 55.0,
+      "sample_titles": [
+        "Cabo de guerra entre Black Friday e El Niño segura IPCA-15 em novembro, mas não muda perspectiva, dizem economistas",
+        "No dia da Black Friday, 20% dos produtos ficam mais caros em apenas 12 horas; 60% dos itens seguem com desconto",
+        "De sex shop e loja octagenária, Black Friday lota comércios no centro de SP",
+        "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+        "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes"
+      ]
+    },
+    {
+      "topic": "black",
+      "count": 8,
+      "score": 55.0,
+      "sample_titles": [
+        "Cabo de guerra entre Black Friday e El Niño segura IPCA-15 em novembro, mas não muda perspectiva, dizem economistas",
+        "No dia da Black Friday, 20% dos produtos ficam mais caros em apenas 12 horas; 60% dos itens seguem com desconto",
+        "De sex shop e loja octagenária, Black Friday lota comércios no centro de SP",
+        "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+        "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes"
+      ]
+    },
+    {
+      "topic": "magneto",
+      "count": 4,
+      "score": 5.08,
+      "sample_titles": [
+        "AVENGERS: DOOMSDAY \"Magneto Removes Doctor Doom's Mask\" TV Spot Trailer (2026)",
+        "Avengers Doomsday | Magneto vs Doom | Get Your Tickets at TGV Now",
+        "AVENGERS DOOMSDAY Doctor Doom vs Magneto Trailer & New Powers Breakdown!",
+        "AVENGERS Doomsday MAGNETO VS DOOM Fight Breakdown + A Massive Theory About the Movie"
+      ]
+    },
+    {
+      "topic": "lagarde",
+      "count": 3,
+      "score": 40.0,
+      "sample_titles": [
+        "Espanhol assume comando do Banco Central Europeu após saída de Lagarde",
+        "BCE. De Cos tem o que faltava a Lagarde: currículo em bancos",
+        "Pablo Hernández de Cos Wins Eurozone Backing to Succeed Lagarde, FT Reports"
+      ]
+    }
+  ],
+  "cross_platform": [
+    {
+      "topic": "trabalho",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 56.67,
+      "sample_titles": [
+        "Como usar o Claude? Veja 10 aplicações da inteligência artificial no trabalho",
+        "ChatGPT no trabalho: 10 maneiras de utilizar a ferramenta no dia a dia",
+        "trabalho home office"
+      ]
+    },
+    {
+      "topic": "dólar hoje",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 55.0,
+      "sample_titles": [
+        "Dólar hoje cai 4%, a R$ 5,51, com anúncio de Trabuco na Fazenda; na semana, recua 7%",
+        "dólar hoje"
+      ]
+    },
+    {
+      "topic": "cabra",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 53.55,
+      "sample_titles": [
+        "NÃO VIRE ESSA CABRA !!! Ela é bizarra (Goat Simulator 3)",
+        "Mulheres afegãs perdem o direito de ter nomes e passam a ser identificadas como 'vovó', 'cabra' ou 'vaca', diz jornal"
+      ]
+    },
+    {
+      "topic": "aliados",
+      "platforms": [
+        "youtube",
+        "news"
+      ],
+      "count": 2,
+      "score": 50.26,
+      "sample_titles": [
+        "VINGADORES DOOMSDAY | Quem vai TRAIR os HERÓIS? Os aliados do Doutor Destino",
+        "Nem os aliados escapam: Xi mira possível sucessor em novo expurgo na China"
+      ]
+    },
+    {
+      "topic": "dólar",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 46.0,
+      "sample_titles": [
+        "Cotação da stablecoin USDT pode se afastar do dólar à vista",
+        "Real frente ao dólar: por que Goldman projeta retorno de 20% em 12 meses?",
+        "Dólar tem forte queda e toca os R$ 5,75 com melhora de expectativas sobre o governo",
+        "Dólar hoje cai 4%, a R$ 5,51, com anúncio de Trabuco na Fazenda; na semana, recua 7%",
+        "dólar hoje"
+      ]
+    },
+    {
+      "topic": "custa",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Aparelho auditivo: preço, como conseguir pelo SUS e quanto custa manter",
+        "quanto custa viajar para os EUA"
+      ]
+    },
+    {
+      "topic": "quanto",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Aparelho auditivo: preço, como conseguir pelo SUS e quanto custa manter",
+        "quanto custa viajar para os EUA"
+      ]
+    },
+    {
+      "topic": "quanto custa",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Aparelho auditivo: preço, como conseguir pelo SUS e quanto custa manter",
+        "quanto custa viajar para os EUA"
+      ]
+    },
+    {
+      "topic": "office",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 45.0,
+      "sample_titles": [
+        "Sen. Deb Fischer's office says her husband died by suicide",
+        "trabalho home office"
+      ]
+    },
+    {
+      "topic": "empresa",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 43.33,
+      "sample_titles": [
+        "Fernanda Cortes: 5 passos para empresários que querem abrir um negócio nos EUA",
+        "OpenAI processa Apple e acusa empresa de roubar segredos comerciais e bloquear fornecedores",
+        "abrir empresa nos EUA"
+      ]
+    },
+    {
+      "topic": "inteligência",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Mutirão.AI: Projeto para ensinar inteligência artificial tem festa de formatura no Museu das Favelas",
+        "Como usar o Claude? Veja 10 aplicações da inteligência artificial no trabalho",
+        "inteligência artificial 2025",
+        "como usar inteligência artificial"
+      ]
+    },
+    {
+      "topic": "inteligência artificial",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Mutirão.AI: Projeto para ensinar inteligência artificial tem festa de formatura no Museu das Favelas",
+        "Como usar o Claude? Veja 10 aplicações da inteligência artificial no trabalho",
+        "inteligência artificial 2025",
+        "como usar inteligência artificial"
+      ]
+    },
+    {
+      "topic": "artificial",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Mutirão.AI: Projeto para ensinar inteligência artificial tem festa de formatura no Museu das Favelas",
+        "Como usar o Claude? Veja 10 aplicações da inteligência artificial no trabalho",
+        "inteligência artificial 2025",
+        "como usar inteligência artificial"
+      ]
+    },
+    {
+      "topic": "start",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "12 strategies to cut your risk of dementia. Take this quiz to start",
+        "start a business USA"
+      ]
+    },
+    {
+      "topic": "learn",
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "count": 2,
+      "score": 35.0,
+      "sample_titles": [
+        "Vance and Rubio learn the price of loyalty to Trump",
+        "how to learn online"
+      ]
+    }
+  ],
+  "niche_ideas": [
+    {
+      "main_topic": "Dólar hoje",
+      "subtopic": "Impacto da cotação do dólar na vida dos brasileiros nos EUA",
+      "why_trending": "O dólar caiu 4% recentemente, com uma tendência de queda que se mantém, afetando diretamente as finanças de quem vive fora do Brasil.",
+      "niche_angle": "Explorar como as flutuações da moeda impactam a vida financeira dos imigrantes brasileiros e as melhores estratégias para lidar com essas mudanças.",
+      "video_format": "long",
+      "urgency": "high",
+      "ease": 7,
+      "source": "news:InfoMoney",
+      "region": "BR",
+      "links": [
+        "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-27112026/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-27T20:48:15.000987"
+    },
+    {
+      "main_topic": "Inteligência Artificial",
+      "subtopic": "Como usar IA no trabalho nos EUA",
+      "why_trending": "A IA está se tornando uma ferramenta essencial no ambiente de trabalho, com aplicações práticas que aumentam a produtividade.",
+      "niche_angle": "Mostrar como imigrantes podem utilizar ferramentas de IA, como ChatGPT e Claude, para otimizar suas carreiras e aumentar a competitividade no mercado de trabalho americano.",
+      "video_format": "both",
+      "urgency": "high",
+      "ease": 6,
+      "source": "news:Exame",
+      "region": "BR",
+      "links": [
+        "https://exame.com/inteligencia-artificial/chatgpt-no-trabalho-10-maneiras-de-utilizar-a-ferramenta-no-dia-a-dia/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-27T20:48:15.000996"
+    },
+    {
+      "main_topic": "Como abrir empresa",
+      "subtopic": "Passos para empreender nos EUA",
+      "why_trending": "Com a economia se recuperando, muitos brasileiros estão buscando abrir negócios nos EUA em busca de novas oportunidades.",
+      "niche_angle": "Explicar o processo de abertura de uma empresa nos EUA, abordando os desafios e as vantagens para brasileiros que desejam empreender no exterior.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/onde-investir/por-que-investir-no-exterior-deixou-de-ser-apenas-protecao-contra-riscos-do-brasil/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-27T20:48:15.001000"
+    },
+    {
+      "main_topic": "Custo de vida",
+      "subtopic": "Comparação do custo de vida nos EUA e Brasil",
+      "why_trending": "Com as mudanças econômicas, muitos brasileiros estão curiosos sobre como o custo de vida nos EUA se compara ao Brasil.",
+      "niche_angle": "Fazer uma análise detalhada sobre custos de moradia, alimentação e transporte nos EUA em comparação com o Brasil, ajudando imigrantes a planejarem melhor suas finanças.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 7,
+      "source": "news:InfoMoney",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/27/justica-paraguai-ordena-prisao-ex-ministro-economia.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-27T20:48:15.001004"
+    },
+    {
+      "main_topic": "Viagem",
+      "subtopic": "Quanto custa viajar para os EUA",
+      "why_trending": "Muitos brasileiros estão planejando viagens para os EUA, e entendem que o custo é um fator crucial na hora de decidir.",
+      "niche_angle": "Explorar os custos de viagem para os EUA, incluindo passagens, hospedagem e alimentação, e como brasileiros podem se preparar financeiramente para isso.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news:Exame",
+      "region": "BR",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/27/quanto-custa-viajar-para-os-eua.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-27T20:48:15.001008"
+    },
+    {
+      "main_topic": "Office",
+      "subtopic": "Trabalho remoto nos EUA",
+      "why_trending": "A popularização do trabalho remoto continua a ser um tema quente, com muitas empresas adaptando suas políticas.",
+      "niche_angle": "Discutir os prós e contras do trabalho remoto nos EUA, incluindo dicas para brasileiros que trabalham assim e como equilibrar a vida pessoal e profissional.",
+      "video_format": "both",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://exame.com/inteligencia-artificial/assistente-virtual-com-ia-7-formas-de-aplicar-a-tecnologia-no-dia-a-dia-profissional/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-27T20:48:15.001012"
+    },
+    {
+      "main_topic": "Empreendedorismo",
+      "subtopic": "Dicas para brasileiros abrindo negócios nos EUA",
+      "why_trending": "Com a crescente busca por independência financeira, o empreendedorismo se destaca como uma opção viável para muitos brasileiros.",
+      "niche_angle": "Compartilhar dicas práticas e histórias de sucesso de brasileiros que abriram negócios nos EUA, abordando os desafios e as conquistas que enfrentaram.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 4,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://www.infomoney.com.br/onde-investir/por-que-investir-no-exterior-deixou-de-ser-apenas-protecao-contra-riscos-do-brasil/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-27T20:48:15.001016"
+    },
+    {
+      "main_topic": "Direito & Legal",
+      "subtopic": "Mudanças nas leis de imigração",
+      "why_trending": "As leis de imigração nos EUA estão em constante mudança, afetando diretamente os imigrantes brasileiros.",
+      "niche_angle": "Informar sobre as mudanças recentes nas leis de imigração e como isso pode impactar os brasileiros que vivem nos EUA, oferecendo orientações úteis.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 5,
+      "source": "news:Exame",
+      "region": "US",
+      "links": [
+        "https://exame.com/inteligencia-artificial/assistente-virtual-com-ia-7-formas-de-aplicar-a-tecnologia-no-dia-a-dia-profissional/"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-27T20:48:15.001024"
+    },
+    {
+      "main_topic": "Custo de vida",
+      "subtopic": "Impacto do aumento da inflação nos EUA",
+      "why_trending": "A inflação nos EUA tem sido uma preocupação crescente, afetando o poder de compra dos consumidores.",
+      "niche_angle": "Analisar como a inflação está afetando o custo de vida dos brasileiros imigrantes e quais estratégias podem ser adotadas para lidar com essa situação.",
+      "video_format": "long",
+      "urgency": "medium",
+      "ease": 6,
+      "source": "news:InfoMoney",
+      "region": "US",
+      "links": [
+        "https://g1.globo.com/mundo/noticia/2026/11/27/justica-paraguai-ordena-prisao-ex-ministro-economia.ghtml"
+      ],
+      "platforms": [
+        "news",
+        "google_trends"
+      ],
+      "collected_at": "2026-11-27T20:48:15.001028"
+    }
+  ]
+}

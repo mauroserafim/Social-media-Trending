@@ -1,6 +1,6 @@
-# 📊 Tendências em Alta — 26/11/2026 21:03 UTC
+# 📊 Tendências em Alta — 27/11/2026 20:48 UTC
 
-**Run:** `45895294502` | **BR:** 30 trends | **US:** 25 trends | **Nicho:** 9 ideias
+**Run:** `46065985534` | **BR:** 30 trends | **US:** 26 trends | **Nicho:** 9 ideias
 
 
 ---
@@ -11,29 +11,29 @@
 
 #### 📺 YouTube (BR) — Top 10
 
- 1. Avengers Doomsday | Magneto vs Doom | Get Your Tickets at TGV Now · [https://youtube.com/watch?v=DzgorMtx38c](https://youtube.com/watch?v=DzgorMtx38c)
- 2. Avengers: Doomsday | “DESTINY” TRAILER CONCEPT | Marvel Studios · [https://youtube.com/watch?v=-htnBIywgfM](https://youtube.com/watch?v=-htnBIywgfM)
- 3. Vingadores: Doutor Destino | Trailer Dublado · [https://youtube.com/watch?v=OCvR-nay2K0](https://youtube.com/watch?v=OCvR-nay2K0)
- 4. SINDAROV Vs GUKESH - TEREMOS UM LÍDER HOJE???  MUNDIAL DE XADREZ AO VIVO!!! · [https://youtube.com/watch?v=UdKYFJcUCYk](https://youtube.com/watch?v=UdKYFJcUCYk)
- 5. NAYEON “BOY” M/V · [https://youtube.com/watch?v=QrxDetnioXA](https://youtube.com/watch?v=QrxDetnioXA)
- 6. AVENGERS: DOOMSDAY "Magneto Removes Doctor Doom's Mask" TV Spot Trailer (2026) · [https://youtube.com/watch?v=dnGJmIrdbls](https://youtube.com/watch?v=dnGJmIrdbls)
- 7. Jamie Miller - Babydoll (Official Music Video) · [https://youtube.com/watch?v=HQoB61gvVOw](https://youtube.com/watch?v=HQoB61gvVOw)
- 8. ANÁLISE DO TRAILER FINAL DE VINGADORES DOOMSDAY! · [https://youtube.com/watch?v=8RWlTeSrZSA](https://youtube.com/watch?v=8RWlTeSrZSA)
- 9. AVENGERS: DOOMSDAY | MAGNETO vs DOOM NEW TEASER TRAILER! · [https://youtube.com/watch?v=_qb0yKFj2nc](https://youtube.com/watch?v=_qb0yKFj2nc)
-10. A MAIOR RESENHA DO MUNDO AO VIVO - RESENHA 011 | DG e Batidão Stronda e Convidados · [https://youtube.com/watch?v=im45iuYwIZg](https://youtube.com/watch?v=im45iuYwIZg)
+ 1. Avengers: Doomsday | TV SPOT “REDEMPTION” CONCEPT | Marvel Studios · [https://youtube.com/watch?v=FYHvlRJXG2A](https://youtube.com/watch?v=FYHvlRJXG2A)
+ 2. Avengers Doomsday | Magneto vs Doom | Get Your Tickets at TGV Now · [https://youtube.com/watch?v=DzgorMtx38c](https://youtube.com/watch?v=DzgorMtx38c)
+ 3. Hungria - Rompendo na Fé (Videoclipe Oficial) #Constelação · [https://youtube.com/watch?v=x9A-mCnFJUE](https://youtube.com/watch?v=x9A-mCnFJUE)
+ 4. NÃO VIRE ESSA CABRA !!! Ela é bizarra (Goat Simulator 3) · [https://youtube.com/watch?v=B34jCr7mZ8Y](https://youtube.com/watch?v=B34jCr7mZ8Y)
+ 5. AVENGERS: DOOMSDAY "Magneto Removes Doctor Doom's Mask" TV Spot Trailer (2026) · [https://youtube.com/watch?v=dnGJmIrdbls](https://youtube.com/watch?v=dnGJmIrdbls)
+ 6. Avengers: Doomsday | Extinction · [https://youtube.com/watch?v=UDArNnG_t3M](https://youtube.com/watch?v=UDArNnG_t3M)
+ 7. DENNIS, MC GW, Melody, Cacau Chuu - MANGUEIRA (Me Molha) - Dance Video  · [https://youtube.com/watch?v=hG1Hm7K8vHY](https://youtube.com/watch?v=hG1Hm7K8vHY)
+ 8. João Gustavo e Murilo, ‪‪@israelerodolffo - Marca de Batom | Ao Vivo Em Goiânia · [https://youtube.com/watch?v=WKjSP552h98](https://youtube.com/watch?v=WKjSP552h98)
+ 9. STEVE E THOR vs DOUTOR DESTINO NO CASTELO DO DOOM - NOVO TEASER INSANO DE VINGADORES: DOOMSDAY! · [https://youtube.com/watch?v=B74jXzlCsD0](https://youtube.com/watch?v=B74jXzlCsD0)
+10. SET DO BUZEIRA 3 - Lipi, Paulin, Lele, Boladin, Ryan, CB, Gabb, Lemos, Kadu, Joãozinho (GM, Oldilla) · [https://youtube.com/watch?v=M5xpYPeaxI8](https://youtube.com/watch?v=M5xpYPeaxI8)
 
 #### 📰 Notícias (BR) — Top 10
 
- 1. Luiz Trabuco chega a Brasília para se reunir com Lula; executivo do Bradesco é cotado para assumir Ministério da Fazenda · [https://g1.globo.com/politica/noticia/2026/11/26/luiz-trabuco-chega-a-brasilia-para-se-reunir-com-lula-executivo-do-bradesco-e-cotado-para-assumir-ministerio-da-fazenda.ghtml](https://g1.globo.com/politica/noticia/2026/11/26/luiz-trabuco-chega-a-brasilia-para-se-reunir-com-lula-executivo-do-bradesco-e-cotado-para-assumir-ministerio-da-fazenda.ghtml)
- 2. EUA divulgam arquivos oficiais sobre Pé-Grande e reacendem mistério · [https://g1.globo.com/mundo/noticia/2026/11/26/eua-divulgam-arquivos-oficiais-sobre-pe-grande-e-reacendem-misterio.ghtml](https://g1.globo.com/mundo/noticia/2026/11/26/eua-divulgam-arquivos-oficiais-sobre-pe-grande-e-reacendem-misterio.ghtml)
- 3. São Paulo x Remo: Onde assistir ao Brasileirão? · [https://www.infomoney.com.br/esportes/sao-paulo-remo-onde-assistir-brasileirao/](https://www.infomoney.com.br/esportes/sao-paulo-remo-onde-assistir-brasileirao/)
- 4. Ibovespa salta 6% com notícia de ida de Trabuco a Brasília para encontrar Lula · [https://www.infomoney.com.br/mercados/ibovespa-salta-3-e-supera-os-172-mil-pontos-com-possibilidade-de-trabuco-na-fazenda/](https://www.infomoney.com.br/mercados/ibovespa-salta-3-e-supera-os-172-mil-pontos-com-possibilidade-de-trabuco-na-fazenda/)
- 5. Cotado para assumir a Fazenda, Trabuco deve ter reunião com Lula nesta 5ª, diz fonte · [https://www.infomoney.com.br/politica/cotado-para-assumir-a-fazenda-trabuco-deve-ter-reuniao-com-lula-nesta-5a-diz-fonte/](https://www.infomoney.com.br/politica/cotado-para-assumir-a-fazenda-trabuco-deve-ter-reuniao-com-lula-nesta-5a-diz-fonte/)
- 6. Dólar futuro cai mais de 3% após notícia de encontro entre Trabuco e Lula em Brasília · [https://www.infomoney.com.br/mercados/dolar-futuro-cai-mais-de-2-apos-noticia-encontro-entre-trabuco-e-lula-em-brasilia/](https://www.infomoney.com.br/mercados/dolar-futuro-cai-mais-de-2-apos-noticia-encontro-entre-trabuco-e-lula-em-brasilia/)
- 7. Michelle comenta dieta de Bolsonaro: ‘podia ajudar mastigando bem os alimentos’ · [https://www.infomoney.com.br/politica/michelle-comenta-dieta-de-bolsonaro-podia-ajudar-mastigando-bem-os-alimentos/](https://www.infomoney.com.br/politica/michelle-comenta-dieta-de-bolsonaro-podia-ajudar-mastigando-bem-os-alimentos/)
- 8. Câmara aprova projeto que prevê alerta sonoro em tornozeleira de agressores de mulher · [https://www.infomoney.com.br/politica/camara-aprova-projeto-que-preve-alerta-sonoro-em-tornozeleira-de-agressores-de-mulher/](https://www.infomoney.com.br/politica/camara-aprova-projeto-que-preve-alerta-sonoro-em-tornozeleira-de-agressores-de-mulher/)
- 9. PF realiza operação contra fraude de R$ 494 mil em benefícios assistenciais · [https://www.infomoney.com.br/brasil/pf-realiza-operacao-contra-fraude-de-r-494-mil-em-beneficios-assistenciais/](https://www.infomoney.com.br/brasil/pf-realiza-operacao-contra-fraude-de-r-494-mil-em-beneficios-assistenciais/)
-10. Taxas caem com expectativa de Trabuco na Fazenda e IPCA-15 abaixo do esperado · [https://www.infomoney.com.br/mercados/taxas-caem-com-expectativa-de-trabuco-na-fazenda-e-ipca-15-abaixo-do-esperado/](https://www.infomoney.com.br/mercados/taxas-caem-com-expectativa-de-trabuco-na-fazenda-e-ipca-15-abaixo-do-esperado/)
+ 1. OpenAI processa Apple e acusa empresa de roubar segredos comerciais e bloquear fornecedores · [https://g1.globo.com/tecnologia/noticia/2026/11/27/open-ai-apple-ia-segredo-processo.ghtml](https://g1.globo.com/tecnologia/noticia/2026/11/27/open-ai-apple-ia-segredo-processo.ghtml)
+ 2. Mulheres afegãs perdem o direito de ter nomes e passam a ser identificadas como 'vovó', 'cabra' ou 'vaca', diz jornal · [https://g1.globo.com/mundo/noticia/2026/11/27/mulheres-afegas-perdem-o-direito-de-ter-nomes-e-passam-a-ser-identificadas-como-vovo-cabra-ou-vaca-diz-jornal.ghtml](https://g1.globo.com/mundo/noticia/2026/11/27/mulheres-afegas-perdem-o-direito-de-ter-nomes-e-passam-a-ser-identificadas-como-vovo-cabra-ou-vaca-diz-jornal.ghtml)
+ 3. Líder da seita do jejum é considerado culpado pela morte de 123 pessoas no Quênia · [https://g1.globo.com/mundo/noticia/2026/11/27/lider-da-seita-do-jejum-e-considerado-culpado-pela-morte-de-123-pessoas-no-quenia.ghtml](https://g1.globo.com/mundo/noticia/2026/11/27/lider-da-seita-do-jejum-e-considerado-culpado-pela-morte-de-123-pessoas-no-quenia.ghtml)
+ 4. Taxas dos DIs fecham com fortes baixas após governo Lula confirmar Trabuco na Fazenda · [https://www.infomoney.com.br/mercados/taxas-dos-dis-fecham-com-fortes-baixas-apos-governo-lula-confirmar-trabuco-na-fazenda/](https://www.infomoney.com.br/mercados/taxas-dos-dis-fecham-com-fortes-baixas-apos-governo-lula-confirmar-trabuco-na-fazenda/)
+ 5. Bolsonaro tem melhora e intestino volta a funcionar espontaneamente, diz boletim · [https://www.infomoney.com.br/politica/bolsonaro-tem-melhora-e-intestino-volta-a-funcionar-espontaneamente-diz-boletim/](https://www.infomoney.com.br/politica/bolsonaro-tem-melhora-e-intestino-volta-a-funcionar-espontaneamente-diz-boletim/)
+ 6. Dino suspende emendas individuais de Flávio Bolsonaro · [https://www.infomoney.com.br/politica/dino-suspende-r-793-milhoes-em-emendas-de-flavio-bolsonaro/](https://www.infomoney.com.br/politica/dino-suspende-r-793-milhoes-em-emendas-de-flavio-bolsonaro/)
+ 7. Dólar hoje cai 4%, a R$ 5,51, com anúncio de Trabuco na Fazenda; na semana, recua 7% · [https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-27112026/](https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-27112026/)
+ 8. Por que investir no exterior deixou de ser apenas proteção contra riscos do Brasil · [https://www.infomoney.com.br/onde-investir/por-que-investir-no-exterior-deixou-de-ser-apenas-protecao-contra-riscos-do-brasil/](https://www.infomoney.com.br/onde-investir/por-que-investir-no-exterior-deixou-de-ser-apenas-protecao-contra-riscos-do-brasil/)
+ 9. “Somos terríveis em inovação”: CEO do iFood defende cultura de experimentação · [https://www.infomoney.com.br/onde-investir/somos-terriveis-em-inovacao-ceo-do-ifood-defende-cultura-de-experimentacao/](https://www.infomoney.com.br/onde-investir/somos-terriveis-em-inovacao-ceo-do-ifood-defende-cultura-de-experimentacao/)
+10. ONU alerta para agravamento da fome em 16 países nos próximos seis meses · [https://www.infomoney.com.br/mundo/onu-alerta-para-agravamento-da-fome-em-16-paises-nos-proximos-seis-meses/](https://www.infomoney.com.br/mundo/onu-alerta-para-agravamento-da-fome-em-16-paises-nos-proximos-seis-meses/)
 
 #### 📊 Google Trends (BR) — Top 10
 
@@ -54,26 +54,27 @@
 ### 🇺🇸 EUA — Tendências Gerais
 
 
-#### 📺 YouTube (US) — Top 5
+#### 📺 YouTube (US) — Top 6
 
  1. Alias Rukmini Trailer | Nani Presents Nithiin | Aafiya Sayed | Unanimous Productions | December 4 · [https://youtube.com/watch?v=cRLn0QiWoxY](https://youtube.com/watch?v=cRLn0QiWoxY)
- 2. Don't Do That · [https://youtube.com/watch?v=9B1ljU7lv-E](https://youtube.com/watch?v=9B1ljU7lv-E)
- 3. AVENGERS Doomsday MAGNETO VS DOOM Fight Breakdown + A Massive Theory About the Movie · [https://youtube.com/watch?v=RZDPDteBKKw](https://youtube.com/watch?v=RZDPDteBKKw)
- 4. AVENGERS DOOMSDAY TRAILER Doom Throne Room Battle Breakdown! · [https://youtube.com/watch?v=LD3LjdnDvS0](https://youtube.com/watch?v=LD3LjdnDvS0)
- 5. Avengers: Doomsday - Magneto Vs. Doctor Doom - TV Spot - Reaction! · [https://youtube.com/watch?v=W7KbbF3HJ3Q](https://youtube.com/watch?v=W7KbbF3HJ3Q)
+ 2. I Watched Avengers: Doomsday FINAL TRAILER in 0.25x Speed and Here's What I Found · [https://youtube.com/watch?v=X-vvVENSuhk](https://youtube.com/watch?v=X-vvVENSuhk)
+ 3. 4 Secret Rooms Grandma Will Never Find! · [https://youtube.com/watch?v=wCF1HuctBPU](https://youtube.com/watch?v=wCF1HuctBPU)
+ 4. AVENGERS DOOMSDAY Doctor Doom vs Magneto Trailer & New Powers Breakdown! · [https://youtube.com/watch?v=QA2EwT8jlNE](https://youtube.com/watch?v=QA2EwT8jlNE)
+ 5. Avengers: Doomsday All Trailers | IN ORDER THEY APPEAR · [https://youtube.com/watch?v=qe5Fr9lw3FE](https://youtube.com/watch?v=qe5Fr9lw3FE)
+ 6. AVENGERS Doomsday MAGNETO VS DOOM Fight Breakdown + A Massive Theory About the Movie · [https://youtube.com/watch?v=RZDPDteBKKw](https://youtube.com/watch?v=RZDPDteBKKw)
 
 #### 📰 Notícias (US) — Top 10
 
- 1. Emmer: GOP should have said it wasn't 'realistic' to fix economy in 2 years · [https://thehill.com/homenews/house/6244906-tom-emmer-republicans-economy-messaging/](https://thehill.com/homenews/house/6244906-tom-emmer-republicans-economy-messaging/)
- 2. Trump demands investigation into GDP data revisions · [https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics](https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics)
- 3. Musk makes $18 billion SpaceX stock pledge for every kid in America · [https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts](https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts)
- 4. Musk pledges 2 SpaceX shares per American child · [https://thehill.com/policy/technology/6244857-elon-musk-pledges-spacex-shares-to-american-children/](https://thehill.com/policy/technology/6244857-elon-musk-pledges-spacex-shares-to-american-children/)
- 5. Trump unloads on critics in wide-ranging Thanksgiving Day rant · [https://thehill.com/homenews/administration/6244831-trump-thanksgiving-message-critics-gdp-somali-community/](https://thehill.com/homenews/administration/6244831-trump-thanksgiving-message-critics-gdp-somali-community/)
- 6. Thanksgiving has a bumpy history · [https://thehill.com/opinion/congress-blog/6239022-thanksgiving-partisan-politics-evolution/](https://thehill.com/opinion/congress-blog/6239022-thanksgiving-partisan-politics-evolution/)
- 7. Zeldin: No airborne lead detected in Iowa a day after Army blast · [https://thehill.com/policy/energy-environment/6244772-lead-azide-airborne-epa-lee-zeldin/](https://thehill.com/policy/energy-environment/6244772-lead-azide-airborne-epa-lee-zeldin/)
- 8. FIFA: 'Limited set of personal and business information' stolen in cyber attack · [https://thehill.com/policy/technology/6244786-fifa-cyberattack-personal-data/](https://thehill.com/policy/technology/6244786-fifa-cyberattack-personal-data/)
- 9. Stop chasing billionaires — fix the broken corporate tax system instead · [https://thehill.com/opinion/campaign/6240367-california-billionaire-tax-failure/](https://thehill.com/opinion/campaign/6240367-california-billionaire-tax-failure/)
-10. New IRS audits of top earners drop sharply: Here's what to know · [https://thehill.com/business/6244500-irs-audits-high-earners/](https://thehill.com/business/6244500-irs-audits-high-earners/)
+ 1. New York State Senate Majority Leader Andrea Stewart-Cousins dies at 76 · [https://thehill.com/homenews/state-watch/6245597-new-york-state-senate-majority-leader-andrea-stewart-cousins-dies-at-76/](https://thehill.com/homenews/state-watch/6245597-new-york-state-senate-majority-leader-andrea-stewart-cousins-dies-at-76/)
+ 2. Sen. Deb Fischer's office says her husband died by suicide · [https://thehill.com/homenews/senate/6245545-deb-fischer-nebraska/](https://thehill.com/homenews/senate/6245545-deb-fischer-nebraska/)
+ 3. Thousands still without power after Thanksgiving storms · [https://thehill.com/homenews/state-watch/6245503-black-friday-thanksgiving-storms-flight-delayed-macys-parade/](https://thehill.com/homenews/state-watch/6245503-black-friday-thanksgiving-storms-flight-delayed-macys-parade/)
+ 4. Keep the filibuster, but make senators earn it · [https://thehill.com/opinion/congress-blog/6243890-senate-filibuster-reform-proposals/](https://thehill.com/opinion/congress-blog/6243890-senate-filibuster-reform-proposals/)
+ 5. Trump to visit groundbreaking for semiconductor manufacturer that supplies Nvidia: Reports · [https://thehill.com/homenews/administration/6245480-trump-phoenix-tsmc-nvidia/](https://thehill.com/homenews/administration/6245480-trump-phoenix-tsmc-nvidia/)
+ 6. Cenk Uygur backs Ro Khanna in 2028 race · [https://thehill.com/homenews/campaign/6245451-cenk-uygur-ro-khanna-2028-election/](https://thehill.com/homenews/campaign/6245451-cenk-uygur-ro-khanna-2028-election/)
+ 7. 14 years of DACA isn’t a milestone — it’s a failure of Congress · [https://thehill.com/opinion/immigration/6240998-daca-delays-congressional-inaction/](https://thehill.com/opinion/immigration/6240998-daca-delays-congressional-inaction/)
+ 8. Military says it disabled vessel that 'attempted to run the U.S. naval blockade' against Iran · [https://thehill.com/policy/defense/6245428-us-naval-blockade-iran-ship-disabled/](https://thehill.com/policy/defense/6245428-us-naval-blockade-iran-ship-disabled/)
+ 9. Portnoy says Vance 'done' as 2028 presidential contender · [https://thehill.com/homenews/media/6245312-portnoy-says-vance-done-as-2028-presidential-contender/](https://thehill.com/homenews/media/6245312-portnoy-says-vance-done-as-2028-presidential-contender/)
+10. 5 big questions for Democrats this Thanksgiving · [https://thehill.com/homenews/analysis/6243525-questions-democrats-thanksgiving-midterms-majority/](https://thehill.com/homenews/analysis/6243525-questions-democrats-thanksgiving-midterms-majority/)
 
 #### 📊 Google Trends (US) — Top 10
 
@@ -95,12 +96,12 @@
 
 | # | Título | Subtema | Por que está em alta |
 |---|--------|---------|----------------------|
-| 1 🟠 🎬 | **dólar** | Como a alta do dólar afeta a vida dos brasileiros nos EUA? | O dólar recuou para R$ 5,81, mas as oscilações contínuas geram incerteza para quem vive fora do Brasil. |
-| 2 🟠 🎬 | **imposto** | O que muda com a reforma tributária nos EUA e como isso afeta imigrantes? | O debate sobre impostos está em alta, com notícias sobre mudanças tributárias que podem impactar a vida dos imigrantes. |
-| 3 🟡 🎯 | **trabalho** | Home office: Como brasileiros nos EUA estão se adaptando? | A discussão sobre trabalho remoto continua forte, com muitas pessoas buscando alternativas flexíveis. |
-| 4 🟡 🎬 | **business** | Como abrir um negócio nos EUA: passos práticos para imigrantes. | Com o aumento do empreendedorismo, mais brasileiros buscam informações sobre como iniciar negócios nos EUA. |
-| 5 🟡 🎬 | **quanto** | Quanto custa viver nos EUA para brasileiros? | As comparações de custo de vida e salários estão em alta, especialmente para quem planeja se mudar. |
-| 6 🟡 🎬 | **direito** | Como funcionam os vistos para brasileiros nos EUA? | Com as mudanças nas legislações, há um crescente interesse em entender os tipos de vistos e como obtê-los. |
-| 7 🟡 🎯 | **black friday** | Black Friday nos EUA: vale a pena para os brasileiros? | Com a Black Friday se aproximando, muitos brasileiros estão curiosos sobre as melhores ofertas e como economizar. |
-| 8 🟡 🎬 | **tecnologia** | Como usar IA para melhorar sua carreira? | A utilização de ferramentas de IA no ambiente de trabalho está crescendo rapidamente, especialmente na busca por eficiên |
-| 9 🟢 🎬 | **comunidade** | Brasileiros nos EUA: desafios e conquistas. | Narrativas sobre a experiência de brasileiros em outro país estão se tornando cada vez mais relevantes e inspiradoras. |
+| 1 🟠 🎬 | **Dólar hoje** | Impacto da cotação do dólar na vida dos brasileiros nos EUA | O dólar caiu 4% recentemente, com uma tendência de queda que se mantém, afetando diretamente as finanças de quem vive fo |
+| 2 🟠 🎯 | **Inteligência Artificial** | Como usar IA no trabalho nos EUA | A IA está se tornando uma ferramenta essencial no ambiente de trabalho, com aplicações práticas que aumentam a produtivi |
+| 3 🟡 🎬 | **Como abrir empresa** | Passos para empreender nos EUA | Com a economia se recuperando, muitos brasileiros estão buscando abrir negócios nos EUA em busca de novas oportunidades. |
+| 4 🟡 🎬 | **Custo de vida** | Comparação do custo de vida nos EUA e Brasil | Com as mudanças econômicas, muitos brasileiros estão curiosos sobre como o custo de vida nos EUA se compara ao Brasil. |
+| 5 🟡 🎬 | **Viagem** | Quanto custa viajar para os EUA | Muitos brasileiros estão planejando viagens para os EUA, e entendem que o custo é um fator crucial na hora de decidir. |
+| 6 🟡 🎯 | **Office** | Trabalho remoto nos EUA | A popularização do trabalho remoto continua a ser um tema quente, com muitas empresas adaptando suas políticas. |
+| 7 🟡 🎬 | **Empreendedorismo** | Dicas para brasileiros abrindo negócios nos EUA | Com a crescente busca por independência financeira, o empreendedorismo se destaca como uma opção viável para muitos bras |
+| 8 🟡 🎬 | **Direito & Legal** | Mudanças nas leis de imigração | As leis de imigração nos EUA estão em constante mudança, afetando diretamente os imigrantes brasileiros. |
+| 9 🟡 🎬 | **Custo de vida** | Impacto do aumento da inflação nos EUA | A inflação nos EUA tem sido uma preocupação crescente, afetando o poder de compra dos consumidores. |
